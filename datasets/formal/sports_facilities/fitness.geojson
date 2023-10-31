@@ -1,0 +1,737 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2023-10-31T13:59:30Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/557303733",
+        "access": "yes",
+        "leisure": "fitness_station",
+        "sport": "fitness"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.1185004,
+              46.0950449
+            ],
+            [
+              11.1185312,
+              46.0949736
+            ],
+            [
+              11.1186471,
+              46.0949978
+            ],
+            [
+              11.1186162,
+              46.095069
+            ],
+            [
+              11.1185004,
+              46.0950449
+            ]
+          ]
+        ]
+      },
+      "id": "way/557303733"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/888943578",
+        "blind": "limited",
+        "fitness_station": "structure",
+        "leisure": "fitness_station",
+        "lit": "interval",
+        "sport": "fitness",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.2381925,
+              46.039066
+            ],
+            [
+              11.238045,
+              46.039035
+            ],
+            [
+              11.2380898,
+              46.0389326
+            ],
+            [
+              11.2382373,
+              46.0389636
+            ],
+            [
+              11.2381925,
+              46.039066
+            ]
+          ]
+        ]
+      },
+      "id": "way/888943578"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1175920372",
+        "leisure": "fitness_station",
+        "sport": "fitness"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.0418253,
+              45.9053429
+            ],
+            [
+              11.0418392,
+              45.9052753
+            ],
+            [
+              11.0420841,
+              45.9052882
+            ],
+            [
+              11.0420703,
+              45.9053557
+            ],
+            [
+              11.0418253,
+              45.9053429
+            ]
+          ]
+        ]
+      },
+      "id": "way/1175920372"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1201044459",
+        "fitness_station": "horizontal_bar",
+        "leisure": "fitness_station",
+        "sport": "fitness",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.0467405,
+              46.0961838
+            ],
+            [
+              11.046707,
+              46.0961181
+            ],
+            [
+              11.0467886,
+              46.0960981
+            ],
+            [
+              11.0468221,
+              46.0961638
+            ],
+            [
+              11.0467405,
+              46.0961838
+            ]
+          ]
+        ]
+      },
+      "id": "way/1201044459"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1206114085",
+        "leisure": "fitness_station",
+        "sport": "fitness"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.8704855,
+              45.8724051
+            ],
+            [
+              10.8703459,
+              45.8723567
+            ],
+            [
+              10.8703851,
+              45.8723021
+            ],
+            [
+              10.8703974,
+              45.8722849
+            ],
+            [
+              10.8704078,
+              45.8722703
+            ],
+            [
+              10.8704768,
+              45.8722954
+            ],
+            [
+              10.870544,
+              45.8723198
+            ],
+            [
+              10.8704855,
+              45.8724051
+            ]
+          ]
+        ]
+      },
+      "id": "way/1206114085"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/858394232",
+        "contact:phone": "+39 0461 230797",
+        "contact:website": "http://www.benesserejuta.it/",
+        "leisure": "fitness_centre",
+        "name": "Juta Wellness Center",
+        "sport": "fitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1256533,
+          46.0677131
+        ]
+      },
+      "id": "node/858394232"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1616878359",
+        "addr:city": "Trento",
+        "addr:country": "IT",
+        "addr:housenumber": "104",
+        "addr:postcode": "38121",
+        "addr:street": "Via Giambattista Unterveger",
+        "layer": "1",
+        "leisure": "fitness_centre",
+        "name": "Star Club",
+        "opening_hours": "Tu-Fr 09:30-22:00;Sa 09:00-12:00",
+        "sport": "fitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1099442,
+          46.0944237
+        ]
+      },
+      "id": "node/1616878359"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2562276626",
+        "addr:city": "Trento",
+        "addr:country": "IT",
+        "addr:housenumber": "2",
+        "addr:postcode": "38122",
+        "addr:street": "Via Adalberto Libera",
+        "contact:email": "info@defantsclub.it",
+        "contact:fax": "+39 0461 039068",
+        "contact:phone": "+39 0461 039068",
+        "contact:website": "http://www.defantsclub.it/",
+        "leisure": "fitness_centre",
+        "name": "Palestra Defant's Club",
+        "sport": "fitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1157196,
+          46.0597894
+        ]
+      },
+      "id": "node/2562276626"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4175487176",
+        "leisure": "fitness_station",
+        "name": "Situp",
+        "sport": "fitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8902673,
+          45.9275594
+        ]
+      },
+      "id": "node/4175487176"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5117211223",
+        "leisure": "fitness_station",
+        "name": "Situp",
+        "sport": "fitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8909519,
+          45.927613
+        ]
+      },
+      "id": "node/5117211223"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5998800152",
+        "addr:city": "Trento",
+        "addr:country": "IT",
+        "addr:housenumber": "6/1",
+        "addr:postcode": "38122",
+        "addr:street": "Corso Michelangelo Buonarroti",
+        "brand": "Mrs. Sporty",
+        "brand:wikidata": "Q100718953",
+        "contact:phone": "+39 0461 1910330",
+        "contact:website": "https://www.mrssporty.it/club/trento-buonarroti/",
+        "leisure": "fitness_centre",
+        "name": "Mrs. Sporty",
+        "opening_hours": "Mo-Fr 07:00-21:00; Sa 07:00-18:00",
+        "sport": "fitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1193094,
+          46.076364
+        ]
+      },
+      "id": "node/5998800152"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6837121065",
+        "fitness_station": "rings",
+        "leisure": "fitness_station",
+        "sport": "fitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4472157,
+          46.3051973
+        ]
+      },
+      "id": "node/6837121065"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6837121072",
+        "fitness_station": "balance_beam",
+        "leisure": "fitness_station",
+        "sport": "fitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4480805,
+          46.3064525
+        ]
+      },
+      "id": "node/6837121072"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6837121075",
+        "fitness_station": "horizontal_bar",
+        "leisure": "fitness_station",
+        "sport": "fitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4464317,
+          46.3062944
+        ]
+      },
+      "id": "node/6837121075"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6886317058",
+        "leisure": "fitness_station",
+        "lit": "yes",
+        "sport": "fitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1171456,
+          46.0967834
+        ]
+      },
+      "id": "node/6886317058"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6946050300",
+        "leisure": "fitness_station",
+        "sport": "fitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1498019,
+          46.0674196
+        ]
+      },
+      "id": "node/6946050300"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7920675179",
+        "leisure": "fitness_station",
+        "sport": "fitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1285725,
+          46.0390037
+        ]
+      },
+      "id": "node/7920675179"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7950243546",
+        "fitness_station": "wall_bars",
+        "leisure": "fitness_station",
+        "sport": "fitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1290564,
+          46.0387063
+        ]
+      },
+      "id": "node/7950243546"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7950243547",
+        "fitness_station": "horizontal_bar",
+        "leisure": "fitness_station",
+        "sport": "fitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1289909,
+          46.0383035
+        ]
+      },
+      "id": "node/7950243547"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8946783728",
+        "fitness_station": "yes",
+        "leisure": "fitness_station",
+        "sport": "fitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.130934,
+          46.0072677
+        ]
+      },
+      "id": "node/8946783728"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9438362507",
+        "leisure": "fitness_station",
+        "sport": "fitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1116557,
+          46.0530227
+        ]
+      },
+      "id": "node/9438362507"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9672240719",
+        "fitness_station": "horizontal_ladder",
+        "leisure": "fitness_station",
+        "sport": "fitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1373606,
+          46.0564092
+        ]
+      },
+      "id": "node/9672240719"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9690559971",
+        "leisure": "fitness_station",
+        "sport": "fitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1261707,
+          46.0554073
+        ]
+      },
+      "id": "node/9690559971"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9691333510",
+        "fitness_station": "multi",
+        "leisure": "fitness_station",
+        "sport": "fitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1060136,
+          46.1402406
+        ]
+      },
+      "id": "node/9691333510"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9776888160",
+        "leisure": "fitness_station",
+        "sport": "fitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1025301,
+          46.1001207
+        ]
+      },
+      "id": "node/9776888160"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9860825364",
+        "addr:city": "Arco",
+        "addr:housenumber": "17",
+        "addr:postcode": "38062",
+        "addr:street": "Via Aldo Moro",
+        "club": "sport",
+        "email": "fedefineba@msn.com",
+        "name": "A.S.D. Gymnica",
+        "sport": "fitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8771531,
+          45.9055588
+        ]
+      },
+      "id": "node/9860825364"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9945343684",
+        "amenity": "training",
+        "fitness_station": "yes",
+        "leisure": "fitness_station",
+        "name": "Calisthenics Park",
+        "opening_hours": "24/7",
+        "sport": "fitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8482527,
+          45.8819306
+        ]
+      },
+      "id": "node/9945343684"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10043028882",
+        "contact:website": "https://www.cembrafitnessclub.com",
+        "leisure": "fitness_centre",
+        "name": "Grumes Fitness Club",
+        "opening_hours": "PH,Mo-Su 07:00-21:00",
+        "sport": "fitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2938555,
+          46.2203135
+        ]
+      },
+      "id": "node/10043028882"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10760990682",
+        "fitness_station": "yes",
+        "leisure": "fitness_station",
+        "sport": "fitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1288086,
+          46.0384991
+        ]
+      },
+      "id": "node/10760990682"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10760990683",
+        "fitness_station": "hurdling",
+        "leisure": "fitness_station",
+        "sport": "fitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1286423,
+          46.0386926
+        ]
+      },
+      "id": "node/10760990683"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10760990684",
+        "fitness_station": "yes",
+        "leisure": "fitness_station",
+        "sport": "fitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1291339,
+          46.0390336
+        ]
+      },
+      "id": "node/10760990684"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10846408603",
+        "fitness_station": "horizontal_bar",
+        "leisure": "fitness_station",
+        "sport": "fitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1108058,
+          46.0428838
+        ]
+      },
+      "id": "node/10846408603"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11175507915",
+        "fitness_station": "horizontal_ladder",
+        "leisure": "fitness_station",
+        "sport": "fitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1106545,
+          46.043185
+        ]
+      },
+      "id": "node/11175507915"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11243160013",
+        "addr:housenumber": "44",
+        "addr:postcode": "38121",
+        "addr:street": "Via di Melta",
+        "contact:website": "https://www.soledartea.it/",
+        "leisure": "fitness_centre",
+        "name": "Sole d'Artea",
+        "sport": "fitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1186522,
+          46.0983344
+        ]
+      },
+      "id": "node/11243160013"
+    }
+  ]
+}
