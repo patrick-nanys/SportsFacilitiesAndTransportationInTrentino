@@ -15,7 +15,7 @@ if __name__ == '__main__':
 
     # Load the query from the provided file
     with open(query_file_path, 'r') as query_file:
-        query = query_file.read()
+        query = query_file.read() 
 
     # Send the POST request
     response = requests.post(endpoint, data={'data': query})
