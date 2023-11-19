@@ -1,0 +1,125 @@
+leisure	name	sport	lat	lon	type	id	building	access	climbing:rock	climbing	climbing:sport	climbing:boulder	climbing:toprope
+sports_centre	Palestra Romarzollo	volleyball	10.867913519999998	45.920001119999995	Feature	relation/5685356							
+sports_centre		volleyball	10.575759429411768	45.85106224705881	Feature	way/164753085							
+sports_centre		soccer	11.089699261538462	46.00542776923077	Feature	relation/2441743							
+sports_centre		soccer	10.905907699999998	45.91918784	Feature	way/27663007							
+sports_centre	Centro Sportivo Trilacum	soccer	11.045085382352944	46.08800476470589	Feature	way/37762866							
+sports_centre	Centro Sportivo Guaita	soccer	10.94206556	46.02455954	Feature	way/62756632							
+sports_centre		soccer	10.906532680000002	45.91949113999999	Feature	way/76564582							
+sports_centre		soccer	10.903778460000002	45.91402362	Feature	way/76592148							
+sports_centre	Stadio comunale	soccer	10.759026655555553	46.153050699999994	Feature	way/432329037							
+sports_centre	"Campo da calcio ""O. Mantovan"""	soccer	11.129202069230768	46.00784200769231	Feature	way/1022619304							
+sports_centre	Centro polivalente di Darzo Carlo Maffei	climbing	10.5512128	45.8344218125	Feature	way/44030557	yes						
+sports_centre		climbing	11.523058714285714	46.05281157142857	Feature	way/219201990	yes						
+sports_centre	Forest Park	climbing	10.963743749999999	46.152607687499994	Feature	way/291844865							
+sports_centre	Climbing Stadium Arco Rock	climbing	10.890742039999997	45.92337547333333	Feature	way/638978639	roof			wall	yes		no
+sports_centre		climbing	11.94266518	46.19260592	Feature	way/1054881641	yes						
+sports_centre	Pizzocol	climbing	10.71728302	45.92632734	Feature	way/1174005531	no						
+sports_centre	Al Coel	climbing	10.72001404	45.925027	Feature	way/1174005532	no						
+sports_centre	Finale Ampola	climbing	10.644919171428572	45.86247845714286	Feature	way/1174006704							
+sports_centre	Futur Ampola	climbing	10.63662664	45.858587920000005	Feature	way/1174007261							
+sports_centre	Corna dal Vescof	climbing	10.56931952	45.8382586	Feature	way/1174008006	yes						
+sports_centre	Massi di Gaggiolo	climbing	10.92565192	45.99168162000001	Feature	way/1174008806							
+sports_centre	Pian dela Paia	climbing	10.926031080000001	46.00941556	Feature	way/1174009685	no						
+sports_centre	Transatlantico	climbing	10.92979706	46.01495731999999	Feature	way/1174010888	no						
+sports_centre	Camerette	climbing	10.93452988	46.018887959999994	Feature	way/1174013432	no						
+sports_centre	Murro di Chitarra	climbing	10.93468656	46.02049498	Feature	way/1174013433	no						
+sports_centre	Baule	climbing	10.934945279999999	46.02151764	Feature	way/1174013434	no						
+sports_centre	Torre di Pietramurata	climbing	10.93637385	46.0223489875	Feature	way/1174013435	no						
+sports_centre	Giardino di Nato	climbing	10.936953460000002	46.02282164	Feature	way/1174013436	no						
+sports_centre	Parete Dos Casina - Catullo Detassis	climbing	10.890470816666665	45.861573916666664	Feature	way/1177594092	no						
+sports_centre	Falesia S.Siro	climbing	10.9712019	46.0272322	Feature	node/268795930							
+sports_centre	Palestra di Roccia Sasias	climbing	10.9599299	46.3807386	Feature	node/287973907							
+sports_centre	La Gola	climbing	10.9612606	46.0595994	Feature	node/293114875							
+sports_centre	Falesia La Gola - Pezzent Area	climbing	10.9670808	46.0593264	Feature	node/293114876							
+sports_centre	Corna dal Vescov	climbing	10.5691253	45.8379889	Feature	node/711865889							
+sports_centre	"Klettergarten ""Limarock"""	climbing	10.9257211	46.0607624	Feature	node/765601126							
+sports_centre	Limarò	climbing	10.9461358	46.0474486	Feature	node/765601128							
+sports_centre	Falesia Belvedere Sector A	climbing	10.8869872	45.8805674	Feature	node/865160885			limestone		yes		
+sports_centre	Falesia Belvedere Sector B	climbing	10.8879426	45.8807838	Feature	node/865161982			limestone		yes		
+sports_centre	Falesia di Traole	climbing	10.8972702	45.8679902	Feature	node/944296572							
+sports_centre	Falesia di Serrada	climbing	11.1574151	45.8865459	Feature	node/1438773974							
+sports_centre	Palestra di roccia	climbing	11.6841828	46.3725992	Feature	node/1891803026							
+sports_centre	Segrom - Settore Basso	climbing	10.8947226	45.8695909	Feature	node/1992721143							
+sports_centre	Campfour Boulder	climbing	10.9460088	46.0279392	Feature	node/2194569436						yes	
+sports_centre	Falesia S.Siro	climbing	10.9699262	46.0279922	Feature	node/2200290913							
+sports_centre	Falesia Massone Policromuro	climbing	10.9025846	45.9291847	Feature	node/2338603983							
+sports_centre	Falesia della Vela - Settore B	climbing	11.0917611	46.0917036	Feature	node/2437406131							
+sports_centre	Palestra di roccia San Bartolameo	climbing	11.1332036	46.0465305	Feature	node/2641465725							
+sports_centre	Falesia La Gola - Arcadioland	climbing	10.9666468	46.0597275	Feature	node/3464870829							
+sports_centre	Piccolo Dain - Parete della Centrale	climbing	10.9459936	46.047487	Feature	node/3470008090							
+sports_centre	Palestra Naranc	climbing	10.911836	45.8857125	Feature	node/3570249399							
+sports_centre	ex centrale	climbing	10.7187694	45.9259193	Feature	node/3810570576							
+sports_centre	Massi Di Prabi	climbing	10.8902742	45.9274366	Feature	node/4171979697		yes	limestone	yes	yes	yes	yes
+sports_centre	Block A	climbing	10.8904343	45.9282128	Feature	node/4171994112		yes	limestone	yes	yes	yes	yes
+sports_centre	Block D; Block 2	climbing	10.8902526	45.927693	Feature	node/4171994113		yes	limestone	yes	yes	yes	yes
+sports_centre	Block 1	climbing	10.8908963	45.9276434	Feature	node/4175487127		yes	limestone	yes	yes	yes	yes
+sports_centre	Block 11 - Passi falsi	climbing	10.8890455	45.9260277	Feature	node/4175487128		yes	limestone	yes	yes	yes	yes
+sports_centre	Settore B	climbing	10.8891958	45.9282702	Feature	node/4175487129		yes	limestone	yes	yes	yes	yes
+sports_centre	Segrom - Settore Centrale	climbing	10.8956205	45.8689985	Feature	node/4176959165							
+sports_centre	Babilonia	climbing	10.8267378	45.8634544	Feature	node/4187008997							
+sports_centre	Fiori di Primavera	climbing	10.8275009	45.8634693	Feature	node/4187008998							
+sports_centre	Sesto Senso	climbing	10.8269672	45.8633956	Feature	node/4187009046							
+sports_centre	Via Alessandro Avancini	climbing	10.9300113	46.0130516	Feature	node/4189004864							
+sports_centre	Falesia Celva	climbing	11.1859247	46.0725459	Feature	node/4215597751							
+sports_centre	Falesia della Vela - Settore A	climbing	11.0939668	46.0878746	Feature	node/4498737379							
+sports_centre	Palestra di roccia Prombis	climbing	11.2500283	45.9395709	Feature	node/4830519597							
+sports_centre	Falesia Abissi	climbing	10.9038213	45.9300762	Feature	node/4895732825							
+sports_centre	Muro dell'Asino	climbing	10.887371	45.9300438	Feature	node/5140946526					yes		
+sports_centre	Dinosauri	climbing	10.9148779	45.9771843	Feature	node/5148331682				route_bottom			
+sports_centre	Falesia Coltura	climbing	10.8086575	46.0593346	Feature	node/5374871948							
+sports_centre	Massi delle Traole - Settore A-G	climbing	10.8944809	45.8691666	Feature	node/5761846753							
+sports_centre	Il Mercurio serpeggiante	climbing	10.9151155	45.9743717	Feature	node/6052997606				route_bottom			
+sports_centre	Te lo do io il colorado	climbing	10.9150189	45.9750875	Feature	node/6052997627				route_bottom			
+sports_centre	Lo Spigolo Nascosto	climbing	10.9784684	46.0680644	Feature	node/6071665622				route_bottom			
+sports_centre	Lo Spigolo Nascosto	climbing	10.9791829	46.0678273	Feature	node/6071665623				route_bottom			
+sports_centre	Infinity Boulder	climbing	11.124874	45.9984762	Feature	node/6252338463							
+sports_centre	Falesia Cola Grant	climbing	11.115278	45.9381165	Feature	node/6380885157							
+sports_centre	Palestra Arrampicata di Comano	climbing	10.9025332	46.0377099	Feature	node/6432886287							
+sports_centre	Gaia	climbing	10.888745	45.9269117	Feature	node/6467549651							
+sports_centre	Aspettando Martino	climbing	10.888643	45.9266038	Feature	node/6467555251							
+sports_centre	Via Trento	climbing	10.9170014	45.9952874	Feature	node/6468144845				route_bottom			
+sports_centre		climbing	10.8549014	46.0579693	Feature	node/7035170140							
+sports_centre		climbing	11.1502072	46.0676275	Feature	node/7600542174							
+sports_centre	Solaris, 6c	climbing	10.9184359	45.9970968	Feature	node/7964465406				route_bottom			
+sports_centre	Nozze d'Argento, Zebratta central sector	climbing	10.9209243	46.001132	Feature	node/7964474653				route_bottom			
+sports_centre	Bolted walls	climbing	10.9257319	46.0641791	Feature	node/8075681137							
+sports_centre	Massi delle Traole Settore H - Star Wars	climbing	10.8945739	45.8669025	Feature	node/8151386648							
+sports_centre	Il Bersaglio, Ranzo	climbing	10.9315847	46.0624838	Feature	node/8174679488							
+sports_centre	Climbing Ronzo	climbing	10.9549772	45.8957191	Feature	node/8836963503				climbing	yes		
+sports_centre	Pizzocol	climbing	10.7174461	45.9261199	Feature	node/8897185202							
+sports_centre	Falesia Family San Martino	climbing	10.8999233	45.9274647	Feature	node/9019705943							
+sports_centre	Bella e cattiva	climbing	10.8293656	45.8631272	Feature	node/9140322101							
+sports_centre	Via 46 Parallelo	climbing	10.9171006	45.9954401	Feature	node/9266885368				route_bottom			
+sports_centre	Giusy	climbing	10.916763	45.9951634	Feature	node/9266891849				route_bottom			
+sports_centre	Via Anche le donne vogliono arrampicare	climbing	10.8926493	45.9539276	Feature	node/9627302145							
+sports_centre	Via Il luogo degli esseri brutti	climbing	10.8926846	45.953967	Feature	node/9627333772							
+sports_centre	Via Diedro Baldessarini	climbing	10.8926212	45.9538734	Feature	node/9627363458							
+sports_centre	La Luna Argentea	climbing	10.91495	45.9740559	Feature	node/9628919828							
+sports_centre	Falesia Bassilandia	climbing	10.9599155	46.0556853	Feature	node/9628948946							
+sports_centre	Falesia Regina del Lago	climbing	10.820485	45.86538	Feature	node/9798618472							
+sports_centre	Palestra Regina del Lago	climbing	10.8273829	45.8640793	Feature	node/9798707997							
+sports_centre	Regina del Lago- settore A	climbing	10.8271435	45.865177	Feature	node/9798717408							
+sports_centre	Regina del Lago- settore B	climbing	10.8268814	45.8643147	Feature	node/9798755346							
+sports_centre	Regina del Lago - settore C	climbing	10.8272341	45.8641895	Feature	node/9798755347							
+sports_centre	Regina del Lago- settore D Piccolo Budda	climbing	10.8290249	45.8637718	Feature	node/9798755348							
+sports_centre	Placche di Baone	climbing	10.8694042	45.9250813	Feature	node/9811232419							
+sports_centre	Falesia di Nago	climbing	10.8932368	45.8705094	Feature	node/9952851159							
+sports_centre	G.M.D.	climbing	10.9785278	46.0683488	Feature	node/9966205787				route_bottom			
+sports_centre	Giubileo	climbing	10.9782071	46.0688081	Feature	node/9966205788				route_bottom			
+sports_centre	Speranza	climbing	10.9035185	45.9913153	Feature	node/9989993765							
+sports_centre	Le Trincee	climbing	10.8998105	45.8680651	Feature	node/10015606290							
+sports_centre	Falesia Doss di Santa Brigida	climbing	10.8765289	46.2908448	Feature	node/10053692864							
+sports_centre	Falesia Dimenticata	climbing	10.9116389	46.0651955	Feature	node/10685323029							
+sports_centre	Little John	climbing	10.9153574	45.9762895	Feature	node/10831579951							
+sports_centre	Sceriffo di Nottingham	climbing	10.9152711	45.9760444	Feature	node/10831579952							
+sports_centre	Parete di Sherwood	climbing	10.915335	45.9760755	Feature	node/10831579953							
+sports_centre	Falesia La Panoramica	climbing	10.9452471	46.041216	Feature	node/10845342781							
+sports_centre	Falesia Il Posto Delle Fragole	climbing	10.9444229	46.0413239	Feature	node/10845342782							
+sports_centre	Falesia Zambana Vecchia	climbing	11.0738428	46.1378391	Feature	node/10873823042							
+sports_centre	Settore i	climbing	10.8892711	45.9279152	Feature	node/11202410574		yes	limestone	yes	yes	yes	yes
+sports_centre	Settore M	climbing	10.8899723	45.9274829	Feature	node/11202410575		yes	limestone	yes	yes	yes	yes
+sports_centre	Settore N	climbing	10.8894657	45.9274777	Feature	node/11202410576		yes	limestone	yes	yes	yes	yes
+sports_centre	arco climbing	climbing	10.8786049	45.9180304	Feature	node/11276088258		members_only			yes	yes	
+sports_centre	"Campo atletica CONI ""Covi-Postal"""	athletics	11.119701928571429	46.07956167142858	Feature	way/24875513							
+sports_centre	Campo atletica Masen	athletics	11.16675762173913	46.17301990869565	Feature	way/1040180623							
