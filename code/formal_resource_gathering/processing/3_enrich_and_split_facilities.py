@@ -17,8 +17,8 @@ if __name__ == '__main__':
     # Extract properties and add 'type' and 'id' from the main dictionary
     df_data = []
     for feature in json_data:
-        properties = feature["properties"]
-        properties["id"] = feature["id"]
+        properties = feature['properties']
+        properties['id'] = feature['id']
         df_data.append(properties)
 
     # Creating the DataFrame
@@ -45,7 +45,10 @@ if __name__ == '__main__':
     # Step 5: Naming cases where 'leisure' is NaN but 'sport' is 'climbing' as "Outdoor Climbing Area"
     data_filtered.loc[data_filtered['leisure'].isna() & (data_filtered['sport'] == 'climbing'), 'leisure'] = 'outdoor_climbing_area'
 
-    # Step 6: Apply the concrete threshold filtering for each leisure category
+    # Step 6: Additional column filtering
+    data_filtered = data_filtered.drop(columns=['building'])
+
+    # Step 7: Apply the concrete threshold filtering for each leisure category
     filtered_dataframes_final = {}
     minimum_entries_threshold = 10
 
