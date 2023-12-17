@@ -18,7 +18,6 @@ if __name__ == '__main__':
     df_data = []
     for feature in json_data:
         properties = feature["properties"]
-        properties["type"] = feature["type"]
         properties["id"] = feature["id"]
         df_data.append(properties)
 

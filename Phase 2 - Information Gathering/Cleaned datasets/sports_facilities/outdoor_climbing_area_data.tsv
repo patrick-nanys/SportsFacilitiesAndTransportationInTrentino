@@ -1,227 +1,227 @@
-leisure	name	sport	lat	lon	type	id	height	climbing:rock	natural	climbing	climbing:bolted	climbing:orientation	climbing:quality	climbing:sport	climbing:grade:french:max	climbing:grade:french:min	climbing:length	climbing:crag	climbing:grade:french:mean
-outdoor_climbing_area	Scoglio di Boazzo	climbing	10.526849533606558	45.998628254098385	Feature	relation/3133709		granite	bare_rock										
-outdoor_climbing_area	Grande Placconata	climbing	10.913730758333335	45.99647047500002	Feature	relation/8550552			scree	area									
-outdoor_climbing_area	Placche Zebrate	climbing	10.918982487878786	46.00022370909091	Feature	relation/15866267			bare_rock	area									
-outdoor_climbing_area	Pala delle Lastiele	climbing	10.920735140000001	46.00455909333333	Feature	relation/15866268			bare_rock	area									
-outdoor_climbing_area	Parete Est	climbing	10.91631332222222	46.00211417222223	Feature	relation/15866269			bare_rock	area									
-outdoor_climbing_area	Parco Rockmaster	climbing	10.891097445238097	45.92339808095238	Feature	way/172383624													
-outdoor_climbing_area	Parete Corno di Bo	climbing	10.863627967441861	45.84918900930233	Feature	way/301205738			bare_rock		yes	W	solid	yes					
-outdoor_climbing_area	Masso Lorenzo	climbing	10.92617464666667	45.99165282333334	Feature	way/381246766			stone										
-outdoor_climbing_area	Masso Elena	climbing	10.92569495	45.99135377272727	Feature	way/381246945			stone										
-outdoor_climbing_area	Ferrata Mt.Roen	climbing	11.1969149	46.3640869	Feature	way/27701977													
-outdoor_climbing_area	Celva	climbing	11.1847501	46.0727142	Feature	way/29180255			cliff										
-outdoor_climbing_area		climbing	10.8764335	46.1541078	Feature	way/43086761													
-outdoor_climbing_area	Parete del Limarò	climbing	10.9447043	46.0486385	Feature	way/242743640			cliff										
-outdoor_climbing_area	Falesia del Calvario	climbing	10.8845681	45.9254648	Feature	way/340445470			cliff		yes								
-outdoor_climbing_area	La Foresta	climbing	10.5298196	45.9845743	Feature	way/362568555													
-outdoor_climbing_area	Trepin Paradise	climbing	10.5943305	46.247929	Feature	way/367972302		granite	cliff		yes				7b	5b			
-outdoor_climbing_area	Area 51 - Nikolas Tesla	climbing	10.9472122	45.9795733	Feature	way/374714285			cliff										
-outdoor_climbing_area	Area 51	climbing	10.9468834	45.9783038	Feature	way/374758444			cliff										
-outdoor_climbing_area	Palestra di roccia Rita e Giorgio Graffer	climbing	11.0557525	46.0407964	Feature	way/386318324			cliff	crag	yes		solid		7b	3a			
-outdoor_climbing_area	Gino Gianna	climbing	10.9167551	45.995096	Feature	way/419955514				route									
-outdoor_climbing_area	Man Ilia	climbing	10.9172406	45.9954854	Feature	way/419955515				route									
-outdoor_climbing_area	Celva	climbing	11.1867527	46.0723955	Feature	way/421826834			cliff										
-outdoor_climbing_area	Celva	climbing	11.1844279	46.072718	Feature	way/421826836			cliff										
-outdoor_climbing_area	Celva	climbing	11.1865562	46.0724571	Feature	way/421826838			cliff										
-outdoor_climbing_area	Celva	climbing	11.1868458	46.0723288	Feature	way/421826839			cliff										
-outdoor_climbing_area	Celva	climbing	11.1810496	46.07228	Feature	way/421826841			cliff										
-outdoor_climbing_area	Celva	climbing	11.1839156	46.0727837	Feature	way/421826843			cliff										
-outdoor_climbing_area	Celva	climbing	11.183485	46.0728368	Feature	way/421826845			cliff										
-outdoor_climbing_area	Celva	climbing	11.1820532	46.0725636	Feature	way/421826847			cliff										
-outdoor_climbing_area	Vecchia Falesia di Lert	climbing	10.5320334	45.9896683	Feature	way/427250445		granite	cliff		yes		solid	yes	7a	4a	25		
-outdoor_climbing_area	Falesia di Palù	climbing	11.6590589	46.0086053	Feature	way/447856430			cliff					21	8a	5c			
-outdoor_climbing_area	Falesia Drago Nascosto	climbing	11.1372378	46.0964264	Feature	way/453046574		limestone	cliff	crag	yes	s					20 m	Drago nascosto	
-outdoor_climbing_area	Falesia Calisio storica	climbing	11.1353441	46.0975061	Feature	way/453046576	20	limestone	cliff	crag	2 m	s	solid	10	7b	5c+	20 m	Calisio storica	6b
-outdoor_climbing_area	Falesia Makkiodromo	climbing	11.1503659	46.0946875	Feature	way/453105405	25	limestone	cliff	crag	2 m	s	solid	10	6b	5a	20 m	Makkiodromo	5b
-outdoor_climbing_area	Val Scodella	climbing	11.0360083	45.871128	Feature	way/463125573			cliff								30 m		
-outdoor_climbing_area		climbing	11.5480425	46.0502103	Feature	way/463680029			cliff										
-outdoor_climbing_area	Falesia Mescalisio	climbing	11.1469529	46.0950654	Feature	way/487021490	25	limestone	cliff	crag	2 m	s	solid	10	6b	5b	18 m	Mescalisio	5c
-outdoor_climbing_area	Falesia Le Piazzole	climbing	10.8597593	45.931208	Feature	way/496490065			cliff										
-outdoor_climbing_area	Falesia Family San Martino	climbing	10.8999851	45.9275579	Feature	way/498085555		limestone	cliff		yes			yes					
-outdoor_climbing_area	Falesia Finale Ampola	climbing	10.6444985	45.8624995	Feature	way/498294821			cliff										
-outdoor_climbing_area	Falesia FuturAmpola	climbing	10.6365231	45.8582056	Feature	way/498495771			cliff										
-outdoor_climbing_area	Val Scodella	climbing	11.040501	45.8721916	Feature	way/521438971			cliff										
-outdoor_climbing_area		climbing	11.0387412	45.8720567	Feature	way/521438973			cliff										
-outdoor_climbing_area	Falesia Sasso dei Matti	climbing	11.1522484	46.093243	Feature	way/538805393	12	limestone	cliff	crag	2 m		solid	5	6a+	5a	12	Sasso dei Matti	5c
-outdoor_climbing_area	Falesia Tradpel	climbing	11.160441	46.0914183	Feature	way/572688028	15	limestone	cliff	crag			solid	yes				Tradpel	
-outdoor_climbing_area		climbing	10.9052551	46.0712422	Feature	way/593708640			cliff										
-outdoor_climbing_area	Mattatoio	climbing	11.1687518	46.0797108	Feature	way/607279003			cliff										
-outdoor_climbing_area	Falesia Di Cisterna	climbing	11.1002657	45.8795356	Feature	way/637580468			cliff										
-outdoor_climbing_area	Falesia Family San Martino	climbing	10.9001716	45.9278536	Feature	way/641511741		limestone	cliff		yes			yes					
-outdoor_climbing_area	Falesia Lo scudo	climbing	11.1359825	46.0968179	Feature	way/643433149	20	limestone	cliff	crag	yes	s	solid				20 m	Lo scudo	
-outdoor_climbing_area	Falesia Cartoon Network	climbing	11.153698	46.0932915	Feature	way/643433151	12	limestone	cliff	crag	1m		solid	20	6a	4c	12	Cartoon Network	5a
-outdoor_climbing_area		climbing	10.9581933	46.0547282	Feature	way/650658557			cliff										
-outdoor_climbing_area		climbing	11.1638769	46.0797038	Feature	way/698340426			cliff										
-outdoor_climbing_area	Falesia Dimenticata	climbing	10.9112176	46.0651418	Feature	way/704192508		conglomerate	cliff			SSE		yes					
-outdoor_climbing_area	Parete di Pezol	climbing	10.9121436	45.9246213	Feature	way/753932666			cliff										
-outdoor_climbing_area	Parete dell'Ir Inferiore	climbing	10.9140694	45.9184453	Feature	way/753933995			cliff										
-outdoor_climbing_area	Parete dell'Ir Superiore	climbing	10.9178835	45.9186766	Feature	way/753933996			cliff										
-outdoor_climbing_area	Falesia La Placca che spacca	climbing	11.1690912	46.0896744	Feature	way/767609515	25	limestone	cliff	crag	2 m	s	solid	13	5c	4c	22 m	La Placca che spacca	5b
-outdoor_climbing_area	Falesia C'era una volta	climbing	11.1428345	46.095527	Feature	way/767617716	15	limestone	cliff	crag	2 m	s	solid	6	5c	4c	12 m	La Placca che spacca	5a
-outdoor_climbing_area	Excalibur	climbing	10.9347548	45.9601298	Feature	way/825755490			cliff										
-outdoor_climbing_area		climbing	11.5486149	46.0501675	Feature	way/827433945		granite	cliff			S		28					
-outdoor_climbing_area		climbing	10.8765493	46.1536309	Feature	way/846698961													
-outdoor_climbing_area	Spina	climbing	11.1820637	46.0741211	Feature	way/888708254			cliff										
-outdoor_climbing_area	Spina	climbing	11.1820336	46.0739839	Feature	way/888708255			cliff										
-outdoor_climbing_area	falesia Avisio, settore B	climbing	11.2518996	46.2013937	Feature	way/962751159		porphyry	cliff			E		31					
-outdoor_climbing_area	falesia Avisio, settore A	climbing	11.2535883	46.2002565	Feature	way/962751160		porphyry	cliff			w		29					
-outdoor_climbing_area	Palestra Franco Marta (Fiamme gialle)	climbing	11.7890881	46.2947763	Feature	way/963452734			cliff										
-outdoor_climbing_area	Falesia di Brevine	climbing	10.7213152	46.0312585	Feature	way/975586846		limestone	cliff					yes	7a	5a			
-outdoor_climbing_area	Cresta della Libertà	climbing	11.175448	45.736238	Feature	way/991528573													
-outdoor_climbing_area	Muro dei 70 scalini	climbing	11.1752821	46.0801053	Feature	way/991664946			cliff										
-outdoor_climbing_area		climbing	11.1700836	46.0801596	Feature	way/991664947			cliff										
-outdoor_climbing_area		climbing	11.1683344	46.0799068	Feature	way/991664948			cliff										
-outdoor_climbing_area		climbing	11.1662942	46.0799902	Feature	way/991664949			cliff										
-outdoor_climbing_area	Dimensione terzo	climbing	10.9189028	45.9545569	Feature	way/1062812645													
-outdoor_climbing_area	Falesia La Scogliera	climbing	10.5221423	46.0008436	Feature	way/1105343575			cliff										
-outdoor_climbing_area	Bus de Vela	climbing	11.0725307	46.0836919	Feature	way/1162410976			cliff										
-outdoor_climbing_area	Falesia Monte Terlago	climbing	11.0363076	46.1162202	Feature	way/1169298260			cliff										
-outdoor_climbing_area	Falesia Mescalisio	climbing	11.1471362	46.0950396	Feature	way/1171105612	25	limestone	cliff	crag	1m		solid	20	7a	5c	20	Mescalisio	5c
-outdoor_climbing_area		climbing	10.7198762	45.9250579	Feature	way/961830149													
-outdoor_climbing_area		climbing	10.7187758	45.925861	Feature	way/961830146													
-outdoor_climbing_area		climbing	10.7174216	45.9262534	Feature	way/961830142													
-outdoor_climbing_area		climbing	10.7175562	45.9261163	Feature	way/961830137													
-outdoor_climbing_area		climbing	10.7173429	45.9262416	Feature	way/961830141													
-outdoor_climbing_area	Falesia di Baone	climbing	10.8719029	45.9244875	Feature	node/250068699													
-outdoor_climbing_area	Area arrampicata attrezzata	climbing	10.9751067	46.0102793	Feature	node/268797932													
-outdoor_climbing_area	San Paolo	climbing	10.8942308	45.9374186	Feature	node/272274746													
-outdoor_climbing_area	Falesia Croz de la niere	climbing	10.7504552	46.0461756	Feature	node/944269702													
-outdoor_climbing_area	Noriglio	climbing	11.0589033	45.889534	Feature	node/944288551													
-outdoor_climbing_area		climbing	10.8631198	45.8465357	Feature	node/959231770													
-outdoor_climbing_area		climbing	10.8636834	45.8451073	Feature	node/959468944													
-outdoor_climbing_area		climbing	10.862936	45.8450436	Feature	node/959468950													
-outdoor_climbing_area	Parete Artificiale Malga Bissina	climbing	10.5170827	46.0535267	Feature	node/961334519						S	solid	yes					
-outdoor_climbing_area		climbing	11.1312765	46.4819732	Feature	node/1219944762													
-outdoor_climbing_area	Palestra di roccia	climbing	10.7388166	46.2805794	Feature	node/1329922437													
-outdoor_climbing_area		climbing	10.7476038	46.1714453	Feature	node/1395199018													
-outdoor_climbing_area	Parco dell'Arrampicata Val Lomasone - Settore Roccia dei Folletti	climbing	10.865473	45.9724586	Feature	node/1493354852													
-outdoor_climbing_area	Via Calliope	climbing	10.8942248	45.9377259	Feature	node/1524662825													
-outdoor_climbing_area		climbing	10.8548235	46.0578921	Feature	node/1576759993													
-outdoor_climbing_area	Bosco Caproni	climbing	10.9028897	45.9288982	Feature	node/1725739819													
-outdoor_climbing_area	Val Lomasone	climbing	10.8652789	45.9729669	Feature	node/1760865591		limestone			1m	W	solid	yes					
-outdoor_climbing_area		climbing	11.0394778	45.932932	Feature	node/1831866724													
-outdoor_climbing_area		climbing	11.0469539	45.8764431	Feature	node/1887588770													
-outdoor_climbing_area		climbing	10.9984228	45.9209879	Feature	node/1950602797													
-outdoor_climbing_area		climbing	10.9096362	45.8737433	Feature	node/2081539344													
-outdoor_climbing_area		climbing	11.090716	46.3692506	Feature	node/2262105333													
-outdoor_climbing_area	Palestra di roccia Bindesi	climbing	11.1540893	46.0366736	Feature	node/2410390011					yes			yes					
-outdoor_climbing_area		climbing	11.0482382	46.1041321	Feature	node/2421337217													
-outdoor_climbing_area	Palestra di roccia	climbing	11.0395252	46.0936226	Feature	node/2747184346													
-outdoor_climbing_area	Palestra di roccia	climbing	11.0341495	46.088156	Feature	node/2748158445													
-outdoor_climbing_area	Settore D, Piccolo Budda	climbing	10.8290251	45.863738	Feature	node/2823294379													
-outdoor_climbing_area	Settore C	climbing	10.8272262	45.8641749	Feature	node/2823299116													
-outdoor_climbing_area	Settore A	climbing	10.8276422	45.8649316	Feature	node/2823299117													
-outdoor_climbing_area	Settore B	climbing	10.8268721	45.8643023	Feature	node/2823309736													
-outdoor_climbing_area	La Ponta	climbing	10.8383197	45.8771238	Feature	node/2823428717													
-outdoor_climbing_area	La Zolina	climbing	11.0128371	45.921955	Feature	node/2876402386								2					
-outdoor_climbing_area		climbing	10.5789403	45.8610248	Feature	node/2945855811													
-outdoor_climbing_area		climbing	10.8627904	45.8487277	Feature	node/3055394399													
-outdoor_climbing_area		climbing	10.9066521	45.8840786	Feature	node/3265428590													
-outdoor_climbing_area	Palestra di Roccia	climbing	10.9270299	45.8734995	Feature	node/3299243508													
-outdoor_climbing_area	Palestra di roccia	climbing	10.9518386	45.8677096	Feature	node/3369037366													
-outdoor_climbing_area		climbing	10.8264217	45.8635073	Feature	node/3469987860													
-outdoor_climbing_area	L'Orto	climbing	10.8788096	45.9314385	Feature	node/3476733425													
-outdoor_climbing_area	Lastoni di Dro	climbing	10.9205502	45.9542617	Feature	node/3583918547													
-outdoor_climbing_area		climbing	10.9557093	45.9026546	Feature	node/3599269560													
-outdoor_climbing_area	Simoncelli 7c	climbing	10.5294798	45.9843016	Feature	node/3668446132			stone										
-outdoor_climbing_area		climbing	11.7464793	46.4756942	Feature	node/3680468224													
-outdoor_climbing_area	Fehrmannverschneidung	climbing	10.8922197	46.161181	Feature	node/3701539885													
-outdoor_climbing_area	Nikolas Tesla	climbing	10.9472034	45.9795231	Feature	node/3780773642													
-outdoor_climbing_area		climbing	10.6442281	45.8622226	Feature	node/3810570582													
-outdoor_climbing_area		climbing	10.9128276	45.8751919	Feature	node/3976203459													
-outdoor_climbing_area	Sas dei 4 pini	climbing	10.980794	45.857271	Feature	node/4018391160			stone										
-outdoor_climbing_area	Zauberfee	climbing	10.8999947	45.944746	Feature	node/4171979698								yes					8a+
-outdoor_climbing_area	Demetra	climbing	10.9002277	45.9452617	Feature	node/4175487130								yes					8a+
-outdoor_climbing_area	Nereidi	climbing	10.9002677	45.9453701	Feature	node/4175487131								yes					VI+
-outdoor_climbing_area	Parete di Sherwood	climbing	10.9153476	45.9760742	Feature	node/4187041689				crag									
-outdoor_climbing_area		climbing	10.9145242	45.9732977	Feature	node/4187041861													
-outdoor_climbing_area	Via Caldo Inverno	climbing	10.8935071	45.9372116	Feature	node/4189049310													
-outdoor_climbing_area	Gino Gianna	climbing	10.9167551	45.995096	Feature	node/4199421181				route_bottom									
-outdoor_climbing_area	Man Ilia	climbing	10.9172406	45.9954854	Feature	node/4199421188				route_bottom									
-outdoor_climbing_area	Settore Curva	climbing	10.5261344	45.9956779	Feature	node/4264858492		granite											
-outdoor_climbing_area	La Larga di Saone	climbing	10.7607701	46.0277741	Feature	node/4294210350													
-outdoor_climbing_area	Società Alpinisti Tridentini - Sezione di Riva del Garda	climbing	10.8398569	45.8864943	Feature	node/4409839047													
-outdoor_climbing_area	Falesia La Curva	climbing	11.6515574	46.0131837	Feature	node/4449216209								38	8a	5a			
-outdoor_climbing_area	Falesia San Silvestro	climbing	11.7705666	46.13886	Feature	node/4460286024													
-outdoor_climbing_area	Falesia Castel Pietra	climbing	11.8595927	46.1896555	Feature	node/4460287991													
-outdoor_climbing_area		climbing	10.5380379	45.8030167	Feature	node/4473168940													
-outdoor_climbing_area	Falesia Calisio storica	climbing	11.1358752	46.0973349	Feature	node/4498519643	20	limestone		crag	2 m	s	solid	10	7b	5c+	20 m	Calisio storica	6b
-outdoor_climbing_area	Falesia Drago Nascosto	climbing	11.1381926	46.096285	Feature	node/4498519667		limestone		crag	yes	s					20 m	Drago nascosto	
-outdoor_climbing_area	Falesia Lo scudo	climbing	11.1363687	46.0966003	Feature	node/4498520689	20	limestone		crag	yes	s	solid				20 m	Lo scudo	
-outdoor_climbing_area	Falesia Makkiodromo	climbing	11.1512152	46.0947709	Feature	node/4499029736	25	limestone		crag	2 m	s	solid	10	6b	5a	20 m	Makkiodromo	5b
-outdoor_climbing_area	Falesia Sass Taià	climbing	11.7694191	46.1275823	Feature	node/4589722214													
-outdoor_climbing_area	"Falesia ""Servis"""	climbing	11.0657594	45.9432901	Feature	node/4597900600													
-outdoor_climbing_area	Falesia Mescalisio	climbing	11.1471862	46.0949739	Feature	node/4795453547	25	limestone		crag	2 m	s	solid	10	6b	5b	18 m	Mescalisio	5c
-outdoor_climbing_area	Porci con le Ali	climbing	10.8996901	45.9439639	Feature	node/4849878057								yes					6b
-outdoor_climbing_area	Falesia Finestron	climbing	11.1754292	46.088669	Feature	node/4880538082													
-outdoor_climbing_area	Falesia di Zambana	climbing	11.0737738	46.137926	Feature	node/4880622851													
-outdoor_climbing_area	Falesia Salina	climbing	11.7083822	46.1703418	Feature	node/4911193409													
-outdoor_climbing_area		climbing	10.510582	46.0356958	Feature	node/4960356098			stone										
-outdoor_climbing_area	Falesia Sasso dei Matti	climbing	11.1525488	46.0932132	Feature	node/5214714011		limestone		crag	2 m		solid	5	6a+	5a	10	Sasso dei Matti	5c
-outdoor_climbing_area	Falesia Castel Madruzzo	climbing	10.9918905	46.037935	Feature	node/5264270906													
-outdoor_climbing_area	Falesia dei Forti	climbing	11.1684501	46.0813355	Feature	node/5501538122								yes					
-outdoor_climbing_area	Falesia Tradpel	climbing	11.1607575	46.0913923	Feature	node/5501703593													
-outdoor_climbing_area		climbing	10.5669863	45.837863	Feature	node/5590944670													
-outdoor_climbing_area	Falesia Promeghin	climbing	10.9047434	46.0709772	Feature	node/5663265081													
-outdoor_climbing_area		climbing	11.0995015	46.0663462	Feature	node/5714743734													
-outdoor_climbing_area	Pala Patéch	climbing	11.645481	46.449837	Feature	node/5796953499													
-outdoor_climbing_area	Torre Estrema, Südkante	climbing	11.6284273	46.4629058	Feature	node/5796953535			yes										
-outdoor_climbing_area	Falesia Crozi di Sella	climbing	11.4406623	46.0168511	Feature	node/5840055901			rock										
-outdoor_climbing_area	Falesia Cartoon Network	climbing	11.1542022	46.0932208	Feature	node/6055108997	12	limestone		crag	1m		solid	20	6a	4c	12	Cartoon Network	5a
-outdoor_climbing_area	Falesia Schizzolandia	climbing	11.0963369	46.0835049	Feature	node/6058200834													
-outdoor_climbing_area	Falesia Bassilandia	climbing	10.959913	46.0556875	Feature	node/6103356415													
-outdoor_climbing_area	Piste dei dinosauri	climbing	11.0288102	45.8419066	Feature	node/6340090581		limestone						yes					
-outdoor_climbing_area	Falesia dry-tooling	climbing	11.185505	46.1559206	Feature	node/6372974565													
-outdoor_climbing_area	Falesia Martino Giovannini - Rizzolaga	climbing	11.2681156	46.1504777	Feature	node/6380813927													
-outdoor_climbing_area	Falesia arrampicata	climbing	11.3180178	46.2007728	Feature	node/6402783970													
-outdoor_climbing_area		climbing	10.5243927	45.9984001	Feature	node/6538138017													
-outdoor_climbing_area		climbing	10.5221075	45.9987336	Feature	node/6538138047													
-outdoor_climbing_area		climbing	10.6640319	46.1641429	Feature	node/6710983949													
-outdoor_climbing_area	Passo Fedaia Sector B	climbing	11.8608881	46.4565245	Feature	node/6743607131													
-outdoor_climbing_area	Passo Fedaia Sector C	climbing	11.8602398	46.4567257	Feature	node/6743620904													
-outdoor_climbing_area	Sant' Antonio	climbing	10.9526965	46.1432741	Feature	node/6747033527													
-outdoor_climbing_area		climbing	11.0982081	46.2297649	Feature	node/6806480796													
-outdoor_climbing_area	Falesia La Placca che spacca	climbing	11.1695592	46.0895947	Feature	node/7167002886		limestone		crag	2.5	south	solid	12	5c	4c	25		5a
-outdoor_climbing_area	Falesia C'era una volta	climbing	11.1433305	46.0953575	Feature	node/7167017913	10	limestone		crag	2 m	s	solid	6	5c	4c	12 m	La Placca che spacca	5a
-outdoor_climbing_area	Falesia La Rocchetta	climbing	11.4553569	46.0408926	Feature	node/7517775586			rock										
-outdoor_climbing_area		climbing	10.6032	45.8865197	Feature	node/7613218757		limestone											
-outdoor_climbing_area	Falesia Il Posto Delle Fragole	climbing	10.9445335	46.0413318	Feature	node/7657235082													
-outdoor_climbing_area		climbing	10.9184449	45.8714713	Feature	node/7737896074													
-outdoor_climbing_area		climbing	11.06822	46.2364676	Feature	node/8567017248													
-outdoor_climbing_area		climbing	11.0163491	45.9225076	Feature	node/8618026600		limestone			yes			yes					
-outdoor_climbing_area		climbing	11.0473672	45.8766226	Feature	node/8669034087		limestone	cliff					yes					
-outdoor_climbing_area	Campana	climbing	11.0474154	45.8768654	Feature	node/8669034088		limestone	cliff					yes					
-outdoor_climbing_area	Val Scodella	climbing	11.0403056	45.872055	Feature	node/8669042964		limestone	cliff					yes					
-outdoor_climbing_area	Val Scodella	climbing	11.0370945	45.8712055	Feature	node/8669042965		limestone	cliff					yes					
-outdoor_climbing_area	Falesia	climbing	11.2548205	46.0556206	Feature	node/8796096115													
-outdoor_climbing_area	Val d Algone	climbing	10.8113849	46.0795545	Feature	node/8944618661													
-outdoor_climbing_area	Dos Pelà	climbing	10.9487644	45.9681459	Feature	node/9019705359													
-outdoor_climbing_area	Sass de la Vecia	climbing	11.0827457	45.8306305	Feature	node/9038021541		limestone		crag		NW	solid	yes					
-outdoor_climbing_area		climbing	10.917098	45.8889644	Feature	node/9108928514							fragile	yes					
-outdoor_climbing_area		climbing	11.2386541	45.9512814	Feature	node/9117634024				rock=limestone									
-outdoor_climbing_area	Via dei Ciclamini	climbing	10.9199243	45.9553987	Feature	node/9229728306													
-outdoor_climbing_area	Freiheit die ich meine	climbing	10.8958267	45.9392061	Feature	node/9231737403													
-outdoor_climbing_area	7 Muri	climbing	10.8952387	45.9386465	Feature	node/9231773768													
-outdoor_climbing_area	Selene	climbing	10.8959368	45.9393696	Feature	node/9231790101													
-outdoor_climbing_area	I Moschetteri	climbing	10.8962171	45.9396379	Feature	node/9231827020													
-outdoor_climbing_area	Weg durch das Gesicht	climbing	10.8964683	45.9397813	Feature	node/9231839145													
-outdoor_climbing_area	Orfeo	climbing	10.8947746	45.9382935	Feature	node/9231840020													
-outdoor_climbing_area	Via Roberto	climbing	10.8954943	45.9388911	Feature	node/9231848896													
-outdoor_climbing_area	Cascata di Mezzodì	climbing	11.1261999	45.699226	Feature	node/9253925708			cliff										
-outdoor_climbing_area	Cascata Pilastro	climbing	11.1267471	45.6988063	Feature	node/9253931227			cliff										
-outdoor_climbing_area		climbing	11.1274338	45.7050985	Feature	node/9253954388			cliff										
-outdoor_climbing_area		climbing	11.1289465	45.7051229	Feature	node/9253954408			cliff										
-outdoor_climbing_area		climbing	11.1288071	45.7046508	Feature	node/9253954416			cliff										
-outdoor_climbing_area		climbing	11.1292577	45.7042312	Feature	node/9253963626			cliff										
-outdoor_climbing_area	Vi Piace il Posto?	climbing	11.1189365	45.7381775	Feature	node/9706643290	60												
-outdoor_climbing_area	Dimensione terzo	climbing	10.9189146	45.9545522	Feature	node/9763491262													
-outdoor_climbing_area	Brooklyn	climbing	11.6450509	46.3082834	Feature	node/9786587975													
-outdoor_climbing_area		climbing	11.6491135	46.3071287	Feature	node/9787578420													
-outdoor_climbing_area	Mondino	climbing	11.1350077	46.4522569	Feature	node/9986950045													
-outdoor_climbing_area	Marino Stenico	climbing	11.1656789	46.4484623	Feature	node/9988803202													
-outdoor_climbing_area	Falesia Falegnameria	climbing	10.9926752	45.7980766	Feature	node/10002052545		limestone	cliff					yes					
-outdoor_climbing_area	Falesia Piam del Levro - Val del Orco	climbing	11.0913361	45.8520826	Feature	node/10002089523		limestone	cliff					yes					
-outdoor_climbing_area		climbing	10.9617427	45.8571355	Feature	node/10073769165				route	yes								
-outdoor_climbing_area	La Cengia Rossa	climbing	10.8933874	45.9367791	Feature	node/10115995774													
-outdoor_climbing_area	Marmite dei Giganti	climbing	10.8843189	45.8788847	Feature	node/10310735812													
-outdoor_climbing_area	Campanile Teresa : La Gioventù dei Vecchi Eroici	climbing	10.9035586	46.1519415	Feature	node/10558995836	2500		cliff										
+leisure	name	sport	lat	lon	id	height	climbing:rock	natural	climbing	climbing:bolted	climbing:orientation	climbing:quality	climbing:sport	climbing:grade:french:max	climbing:grade:french:min	climbing:length	climbing:crag	climbing:grade:french:mean
+outdoor_climbing_area	Scoglio di Boazzo	climbing	10.526849533606558	45.998628254098385	relation/3133709		granite	bare_rock										
+outdoor_climbing_area	Grande Placconata	climbing	10.913730758333335	45.99647047500002	relation/8550552			scree	area									
+outdoor_climbing_area	Placche Zebrate	climbing	10.918982487878786	46.00022370909091	relation/15866267			bare_rock	area									
+outdoor_climbing_area	Pala delle Lastiele	climbing	10.920735140000001	46.00455909333333	relation/15866268			bare_rock	area									
+outdoor_climbing_area	Parete Est	climbing	10.91631332222222	46.00211417222223	relation/15866269			bare_rock	area									
+outdoor_climbing_area	Parco Rockmaster	climbing	10.891097445238097	45.92339808095238	way/172383624													
+outdoor_climbing_area	Parete Corno di Bo	climbing	10.863627967441861	45.84918900930233	way/301205738			bare_rock		yes	W	solid	yes					
+outdoor_climbing_area	Masso Lorenzo	climbing	10.92617464666667	45.99165282333334	way/381246766			stone										
+outdoor_climbing_area	Masso Elena	climbing	10.92569495	45.99135377272727	way/381246945			stone										
+outdoor_climbing_area	Ferrata Mt.Roen	climbing	11.1969149	46.3640869	way/27701977													
+outdoor_climbing_area	Celva	climbing	11.1847501	46.0727142	way/29180255			cliff										
+outdoor_climbing_area		climbing	10.8764335	46.1541078	way/43086761													
+outdoor_climbing_area	Parete del Limarò	climbing	10.9447043	46.0486385	way/242743640			cliff										
+outdoor_climbing_area	Falesia del Calvario	climbing	10.8845681	45.9254648	way/340445470			cliff		yes								
+outdoor_climbing_area	La Foresta	climbing	10.5298196	45.9845743	way/362568555													
+outdoor_climbing_area	Trepin Paradise	climbing	10.5943305	46.247929	way/367972302		granite	cliff		yes				7b	5b			
+outdoor_climbing_area	Area 51 - Nikolas Tesla	climbing	10.9472122	45.9795733	way/374714285			cliff										
+outdoor_climbing_area	Area 51	climbing	10.9468834	45.9783038	way/374758444			cliff										
+outdoor_climbing_area	Palestra di roccia Rita e Giorgio Graffer	climbing	11.0557525	46.0407964	way/386318324			cliff	crag	yes		solid		7b	3a			
+outdoor_climbing_area	Gino Gianna	climbing	10.9167551	45.995096	way/419955514				route									
+outdoor_climbing_area	Man Ilia	climbing	10.9172406	45.9954854	way/419955515				route									
+outdoor_climbing_area	Celva	climbing	11.1867527	46.0723955	way/421826834			cliff										
+outdoor_climbing_area	Celva	climbing	11.1844279	46.072718	way/421826836			cliff										
+outdoor_climbing_area	Celva	climbing	11.1865562	46.0724571	way/421826838			cliff										
+outdoor_climbing_area	Celva	climbing	11.1868458	46.0723288	way/421826839			cliff										
+outdoor_climbing_area	Celva	climbing	11.1810496	46.07228	way/421826841			cliff										
+outdoor_climbing_area	Celva	climbing	11.1839156	46.0727837	way/421826843			cliff										
+outdoor_climbing_area	Celva	climbing	11.183485	46.0728368	way/421826845			cliff										
+outdoor_climbing_area	Celva	climbing	11.1820532	46.0725636	way/421826847			cliff										
+outdoor_climbing_area	Vecchia Falesia di Lert	climbing	10.5320334	45.9896683	way/427250445		granite	cliff		yes		solid	yes	7a	4a	25		
+outdoor_climbing_area	Falesia di Palù	climbing	11.6590589	46.0086053	way/447856430			cliff					21	8a	5c			
+outdoor_climbing_area	Falesia Drago Nascosto	climbing	11.1372378	46.0964264	way/453046574		limestone	cliff	crag	yes	s					20 m	Drago nascosto	
+outdoor_climbing_area	Falesia Calisio storica	climbing	11.1353441	46.0975061	way/453046576	20	limestone	cliff	crag	2 m	s	solid	10	7b	5c+	20 m	Calisio storica	6b
+outdoor_climbing_area	Falesia Makkiodromo	climbing	11.1503659	46.0946875	way/453105405	25	limestone	cliff	crag	2 m	s	solid	10	6b	5a	20 m	Makkiodromo	5b
+outdoor_climbing_area	Val Scodella	climbing	11.0360083	45.871128	way/463125573			cliff								30 m		
+outdoor_climbing_area		climbing	11.5480425	46.0502103	way/463680029			cliff										
+outdoor_climbing_area	Falesia Mescalisio	climbing	11.1469529	46.0950654	way/487021490	25	limestone	cliff	crag	2 m	s	solid	10	6b	5b	18 m	Mescalisio	5c
+outdoor_climbing_area	Falesia Le Piazzole	climbing	10.8597593	45.931208	way/496490065			cliff										
+outdoor_climbing_area	Falesia Family San Martino	climbing	10.8999851	45.9275579	way/498085555		limestone	cliff		yes			yes					
+outdoor_climbing_area	Falesia Finale Ampola	climbing	10.6444985	45.8624995	way/498294821			cliff										
+outdoor_climbing_area	Falesia FuturAmpola	climbing	10.6365231	45.8582056	way/498495771			cliff										
+outdoor_climbing_area	Val Scodella	climbing	11.040501	45.8721916	way/521438971			cliff										
+outdoor_climbing_area		climbing	11.0387412	45.8720567	way/521438973			cliff										
+outdoor_climbing_area	Falesia Sasso dei Matti	climbing	11.1522484	46.093243	way/538805393	12	limestone	cliff	crag	2 m		solid	5	6a+	5a	12	Sasso dei Matti	5c
+outdoor_climbing_area	Falesia Tradpel	climbing	11.160441	46.0914183	way/572688028	15	limestone	cliff	crag			solid	yes				Tradpel	
+outdoor_climbing_area		climbing	10.9052551	46.0712422	way/593708640			cliff										
+outdoor_climbing_area	Mattatoio	climbing	11.1687518	46.0797108	way/607279003			cliff										
+outdoor_climbing_area	Falesia Di Cisterna	climbing	11.1002657	45.8795356	way/637580468			cliff										
+outdoor_climbing_area	Falesia Family San Martino	climbing	10.9001716	45.9278536	way/641511741		limestone	cliff		yes			yes					
+outdoor_climbing_area	Falesia Lo scudo	climbing	11.1359825	46.0968179	way/643433149	20	limestone	cliff	crag	yes	s	solid				20 m	Lo scudo	
+outdoor_climbing_area	Falesia Cartoon Network	climbing	11.153698	46.0932915	way/643433151	12	limestone	cliff	crag	1m		solid	20	6a	4c	12	Cartoon Network	5a
+outdoor_climbing_area		climbing	10.9581933	46.0547282	way/650658557			cliff										
+outdoor_climbing_area		climbing	11.1638769	46.0797038	way/698340426			cliff										
+outdoor_climbing_area	Falesia Dimenticata	climbing	10.9112176	46.0651418	way/704192508		conglomerate	cliff			SSE		yes					
+outdoor_climbing_area	Parete di Pezol	climbing	10.9121436	45.9246213	way/753932666			cliff										
+outdoor_climbing_area	Parete dell'Ir Inferiore	climbing	10.9140694	45.9184453	way/753933995			cliff										
+outdoor_climbing_area	Parete dell'Ir Superiore	climbing	10.9178835	45.9186766	way/753933996			cliff										
+outdoor_climbing_area	Falesia La Placca che spacca	climbing	11.1690912	46.0896744	way/767609515	25	limestone	cliff	crag	2 m	s	solid	13	5c	4c	22 m	La Placca che spacca	5b
+outdoor_climbing_area	Falesia C'era una volta	climbing	11.1428345	46.095527	way/767617716	15	limestone	cliff	crag	2 m	s	solid	6	5c	4c	12 m	La Placca che spacca	5a
+outdoor_climbing_area	Excalibur	climbing	10.9347548	45.9601298	way/825755490			cliff										
+outdoor_climbing_area		climbing	11.5486149	46.0501675	way/827433945		granite	cliff			S		28					
+outdoor_climbing_area		climbing	10.8765493	46.1536309	way/846698961													
+outdoor_climbing_area	Spina	climbing	11.1820637	46.0741211	way/888708254			cliff										
+outdoor_climbing_area	Spina	climbing	11.1820336	46.0739839	way/888708255			cliff										
+outdoor_climbing_area	falesia Avisio, settore B	climbing	11.2518996	46.2013937	way/962751159		porphyry	cliff			E		31					
+outdoor_climbing_area	falesia Avisio, settore A	climbing	11.2535883	46.2002565	way/962751160		porphyry	cliff			w		29					
+outdoor_climbing_area	Palestra Franco Marta (Fiamme gialle)	climbing	11.7890881	46.2947763	way/963452734			cliff										
+outdoor_climbing_area	Falesia di Brevine	climbing	10.7213152	46.0312585	way/975586846		limestone	cliff					yes	7a	5a			
+outdoor_climbing_area	Cresta della Libertà	climbing	11.175448	45.736238	way/991528573													
+outdoor_climbing_area	Muro dei 70 scalini	climbing	11.1752821	46.0801053	way/991664946			cliff										
+outdoor_climbing_area		climbing	11.1700836	46.0801596	way/991664947			cliff										
+outdoor_climbing_area		climbing	11.1683344	46.0799068	way/991664948			cliff										
+outdoor_climbing_area		climbing	11.1662942	46.0799902	way/991664949			cliff										
+outdoor_climbing_area	Dimensione terzo	climbing	10.9189028	45.9545569	way/1062812645													
+outdoor_climbing_area	Falesia La Scogliera	climbing	10.5221423	46.0008436	way/1105343575			cliff										
+outdoor_climbing_area	Bus de Vela	climbing	11.0725307	46.0836919	way/1162410976			cliff										
+outdoor_climbing_area	Falesia Monte Terlago	climbing	11.0363076	46.1162202	way/1169298260			cliff										
+outdoor_climbing_area	Falesia Mescalisio	climbing	11.1471362	46.0950396	way/1171105612	25	limestone	cliff	crag	1m		solid	20	7a	5c	20	Mescalisio	5c
+outdoor_climbing_area		climbing	10.7198762	45.9250579	way/961830149													
+outdoor_climbing_area		climbing	10.7187758	45.925861	way/961830146													
+outdoor_climbing_area		climbing	10.7174216	45.9262534	way/961830142													
+outdoor_climbing_area		climbing	10.7175562	45.9261163	way/961830137													
+outdoor_climbing_area		climbing	10.7173429	45.9262416	way/961830141													
+outdoor_climbing_area	Falesia di Baone	climbing	10.8719029	45.9244875	node/250068699													
+outdoor_climbing_area	Area arrampicata attrezzata	climbing	10.9751067	46.0102793	node/268797932													
+outdoor_climbing_area	San Paolo	climbing	10.8942308	45.9374186	node/272274746													
+outdoor_climbing_area	Falesia Croz de la niere	climbing	10.7504552	46.0461756	node/944269702													
+outdoor_climbing_area	Noriglio	climbing	11.0589033	45.889534	node/944288551													
+outdoor_climbing_area		climbing	10.8631198	45.8465357	node/959231770													
+outdoor_climbing_area		climbing	10.8636834	45.8451073	node/959468944													
+outdoor_climbing_area		climbing	10.862936	45.8450436	node/959468950													
+outdoor_climbing_area	Parete Artificiale Malga Bissina	climbing	10.5170827	46.0535267	node/961334519						S	solid	yes					
+outdoor_climbing_area		climbing	11.1312765	46.4819732	node/1219944762													
+outdoor_climbing_area	Palestra di roccia	climbing	10.7388166	46.2805794	node/1329922437													
+outdoor_climbing_area		climbing	10.7476038	46.1714453	node/1395199018													
+outdoor_climbing_area	Parco dell'Arrampicata Val Lomasone - Settore Roccia dei Folletti	climbing	10.865473	45.9724586	node/1493354852													
+outdoor_climbing_area	Via Calliope	climbing	10.8942248	45.9377259	node/1524662825													
+outdoor_climbing_area		climbing	10.8548235	46.0578921	node/1576759993													
+outdoor_climbing_area	Bosco Caproni	climbing	10.9028897	45.9288982	node/1725739819													
+outdoor_climbing_area	Val Lomasone	climbing	10.8652789	45.9729669	node/1760865591		limestone			1m	W	solid	yes					
+outdoor_climbing_area		climbing	11.0394778	45.932932	node/1831866724													
+outdoor_climbing_area		climbing	11.0469539	45.8764431	node/1887588770													
+outdoor_climbing_area		climbing	10.9984228	45.9209879	node/1950602797													
+outdoor_climbing_area		climbing	10.9096362	45.8737433	node/2081539344													
+outdoor_climbing_area		climbing	11.090716	46.3692506	node/2262105333													
+outdoor_climbing_area	Palestra di roccia Bindesi	climbing	11.1540893	46.0366736	node/2410390011					yes			yes					
+outdoor_climbing_area		climbing	11.0482382	46.1041321	node/2421337217													
+outdoor_climbing_area	Palestra di roccia	climbing	11.0395252	46.0936226	node/2747184346													
+outdoor_climbing_area	Palestra di roccia	climbing	11.0341495	46.088156	node/2748158445													
+outdoor_climbing_area	Settore D, Piccolo Budda	climbing	10.8290251	45.863738	node/2823294379													
+outdoor_climbing_area	Settore C	climbing	10.8272262	45.8641749	node/2823299116													
+outdoor_climbing_area	Settore A	climbing	10.8276422	45.8649316	node/2823299117													
+outdoor_climbing_area	Settore B	climbing	10.8268721	45.8643023	node/2823309736													
+outdoor_climbing_area	La Ponta	climbing	10.8383197	45.8771238	node/2823428717													
+outdoor_climbing_area	La Zolina	climbing	11.0128371	45.921955	node/2876402386								2					
+outdoor_climbing_area		climbing	10.5789403	45.8610248	node/2945855811													
+outdoor_climbing_area		climbing	10.8627904	45.8487277	node/3055394399													
+outdoor_climbing_area		climbing	10.9066521	45.8840786	node/3265428590													
+outdoor_climbing_area	Palestra di Roccia	climbing	10.9270299	45.8734995	node/3299243508													
+outdoor_climbing_area	Palestra di roccia	climbing	10.9518386	45.8677096	node/3369037366													
+outdoor_climbing_area		climbing	10.8264217	45.8635073	node/3469987860													
+outdoor_climbing_area	L'Orto	climbing	10.8788096	45.9314385	node/3476733425													
+outdoor_climbing_area	Lastoni di Dro	climbing	10.9205502	45.9542617	node/3583918547													
+outdoor_climbing_area		climbing	10.9557093	45.9026546	node/3599269560													
+outdoor_climbing_area	Simoncelli 7c	climbing	10.5294798	45.9843016	node/3668446132			stone										
+outdoor_climbing_area		climbing	11.7464793	46.4756942	node/3680468224													
+outdoor_climbing_area	Fehrmannverschneidung	climbing	10.8922197	46.161181	node/3701539885													
+outdoor_climbing_area	Nikolas Tesla	climbing	10.9472034	45.9795231	node/3780773642													
+outdoor_climbing_area		climbing	10.6442281	45.8622226	node/3810570582													
+outdoor_climbing_area		climbing	10.9128276	45.8751919	node/3976203459													
+outdoor_climbing_area	Sas dei 4 pini	climbing	10.980794	45.857271	node/4018391160			stone										
+outdoor_climbing_area	Zauberfee	climbing	10.8999947	45.944746	node/4171979698								yes					8a+
+outdoor_climbing_area	Demetra	climbing	10.9002277	45.9452617	node/4175487130								yes					8a+
+outdoor_climbing_area	Nereidi	climbing	10.9002677	45.9453701	node/4175487131								yes					VI+
+outdoor_climbing_area	Parete di Sherwood	climbing	10.9153476	45.9760742	node/4187041689				crag									
+outdoor_climbing_area		climbing	10.9145242	45.9732977	node/4187041861													
+outdoor_climbing_area	Via Caldo Inverno	climbing	10.8935071	45.9372116	node/4189049310													
+outdoor_climbing_area	Gino Gianna	climbing	10.9167551	45.995096	node/4199421181				route_bottom									
+outdoor_climbing_area	Man Ilia	climbing	10.9172406	45.9954854	node/4199421188				route_bottom									
+outdoor_climbing_area	Settore Curva	climbing	10.5261344	45.9956779	node/4264858492		granite											
+outdoor_climbing_area	La Larga di Saone	climbing	10.7607701	46.0277741	node/4294210350													
+outdoor_climbing_area	Società Alpinisti Tridentini - Sezione di Riva del Garda	climbing	10.8398569	45.8864943	node/4409839047													
+outdoor_climbing_area	Falesia La Curva	climbing	11.6515574	46.0131837	node/4449216209								38	8a	5a			
+outdoor_climbing_area	Falesia San Silvestro	climbing	11.7705666	46.13886	node/4460286024													
+outdoor_climbing_area	Falesia Castel Pietra	climbing	11.8595927	46.1896555	node/4460287991													
+outdoor_climbing_area		climbing	10.5380379	45.8030167	node/4473168940													
+outdoor_climbing_area	Falesia Calisio storica	climbing	11.1358752	46.0973349	node/4498519643	20	limestone		crag	2 m	s	solid	10	7b	5c+	20 m	Calisio storica	6b
+outdoor_climbing_area	Falesia Drago Nascosto	climbing	11.1381926	46.096285	node/4498519667		limestone		crag	yes	s					20 m	Drago nascosto	
+outdoor_climbing_area	Falesia Lo scudo	climbing	11.1363687	46.0966003	node/4498520689	20	limestone		crag	yes	s	solid				20 m	Lo scudo	
+outdoor_climbing_area	Falesia Makkiodromo	climbing	11.1512152	46.0947709	node/4499029736	25	limestone		crag	2 m	s	solid	10	6b	5a	20 m	Makkiodromo	5b
+outdoor_climbing_area	Falesia Sass Taià	climbing	11.7694191	46.1275823	node/4589722214													
+outdoor_climbing_area	"Falesia ""Servis"""	climbing	11.0657594	45.9432901	node/4597900600													
+outdoor_climbing_area	Falesia Mescalisio	climbing	11.1471862	46.0949739	node/4795453547	25	limestone		crag	2 m	s	solid	10	6b	5b	18 m	Mescalisio	5c
+outdoor_climbing_area	Porci con le Ali	climbing	10.8996901	45.9439639	node/4849878057								yes					6b
+outdoor_climbing_area	Falesia Finestron	climbing	11.1754292	46.088669	node/4880538082													
+outdoor_climbing_area	Falesia di Zambana	climbing	11.0737738	46.137926	node/4880622851													
+outdoor_climbing_area	Falesia Salina	climbing	11.7083822	46.1703418	node/4911193409													
+outdoor_climbing_area		climbing	10.510582	46.0356958	node/4960356098			stone										
+outdoor_climbing_area	Falesia Sasso dei Matti	climbing	11.1525488	46.0932132	node/5214714011		limestone		crag	2 m		solid	5	6a+	5a	10	Sasso dei Matti	5c
+outdoor_climbing_area	Falesia Castel Madruzzo	climbing	10.9918905	46.037935	node/5264270906													
+outdoor_climbing_area	Falesia dei Forti	climbing	11.1684501	46.0813355	node/5501538122								yes					
+outdoor_climbing_area	Falesia Tradpel	climbing	11.1607575	46.0913923	node/5501703593													
+outdoor_climbing_area		climbing	10.5669863	45.837863	node/5590944670													
+outdoor_climbing_area	Falesia Promeghin	climbing	10.9047434	46.0709772	node/5663265081													
+outdoor_climbing_area		climbing	11.0995015	46.0663462	node/5714743734													
+outdoor_climbing_area	Pala Patéch	climbing	11.645481	46.449837	node/5796953499													
+outdoor_climbing_area	Torre Estrema, Südkante	climbing	11.6284273	46.4629058	node/5796953535			yes										
+outdoor_climbing_area	Falesia Crozi di Sella	climbing	11.4406623	46.0168511	node/5840055901			rock										
+outdoor_climbing_area	Falesia Cartoon Network	climbing	11.1542022	46.0932208	node/6055108997	12	limestone		crag	1m		solid	20	6a	4c	12	Cartoon Network	5a
+outdoor_climbing_area	Falesia Schizzolandia	climbing	11.0963369	46.0835049	node/6058200834													
+outdoor_climbing_area	Falesia Bassilandia	climbing	10.959913	46.0556875	node/6103356415													
+outdoor_climbing_area	Piste dei dinosauri	climbing	11.0288102	45.8419066	node/6340090581		limestone						yes					
+outdoor_climbing_area	Falesia dry-tooling	climbing	11.185505	46.1559206	node/6372974565													
+outdoor_climbing_area	Falesia Martino Giovannini - Rizzolaga	climbing	11.2681156	46.1504777	node/6380813927													
+outdoor_climbing_area	Falesia arrampicata	climbing	11.3180178	46.2007728	node/6402783970													
+outdoor_climbing_area		climbing	10.5243927	45.9984001	node/6538138017													
+outdoor_climbing_area		climbing	10.5221075	45.9987336	node/6538138047													
+outdoor_climbing_area		climbing	10.6640319	46.1641429	node/6710983949													
+outdoor_climbing_area	Passo Fedaia Sector B	climbing	11.8608881	46.4565245	node/6743607131													
+outdoor_climbing_area	Passo Fedaia Sector C	climbing	11.8602398	46.4567257	node/6743620904													
+outdoor_climbing_area	Sant' Antonio	climbing	10.9526965	46.1432741	node/6747033527													
+outdoor_climbing_area		climbing	11.0982081	46.2297649	node/6806480796													
+outdoor_climbing_area	Falesia La Placca che spacca	climbing	11.1695592	46.0895947	node/7167002886		limestone		crag	2.5	south	solid	12	5c	4c	25		5a
+outdoor_climbing_area	Falesia C'era una volta	climbing	11.1433305	46.0953575	node/7167017913	10	limestone		crag	2 m	s	solid	6	5c	4c	12 m	La Placca che spacca	5a
+outdoor_climbing_area	Falesia La Rocchetta	climbing	11.4553569	46.0408926	node/7517775586			rock										
+outdoor_climbing_area		climbing	10.6032	45.8865197	node/7613218757		limestone											
+outdoor_climbing_area	Falesia Il Posto Delle Fragole	climbing	10.9445335	46.0413318	node/7657235082													
+outdoor_climbing_area		climbing	10.9184449	45.8714713	node/7737896074													
+outdoor_climbing_area		climbing	11.06822	46.2364676	node/8567017248													
+outdoor_climbing_area		climbing	11.0163491	45.9225076	node/8618026600		limestone			yes			yes					
+outdoor_climbing_area		climbing	11.0473672	45.8766226	node/8669034087		limestone	cliff					yes					
+outdoor_climbing_area	Campana	climbing	11.0474154	45.8768654	node/8669034088		limestone	cliff					yes					
+outdoor_climbing_area	Val Scodella	climbing	11.0403056	45.872055	node/8669042964		limestone	cliff					yes					
+outdoor_climbing_area	Val Scodella	climbing	11.0370945	45.8712055	node/8669042965		limestone	cliff					yes					
+outdoor_climbing_area	Falesia	climbing	11.2548205	46.0556206	node/8796096115													
+outdoor_climbing_area	Val d Algone	climbing	10.8113849	46.0795545	node/8944618661													
+outdoor_climbing_area	Dos Pelà	climbing	10.9487644	45.9681459	node/9019705359													
+outdoor_climbing_area	Sass de la Vecia	climbing	11.0827457	45.8306305	node/9038021541		limestone		crag		NW	solid	yes					
+outdoor_climbing_area		climbing	10.917098	45.8889644	node/9108928514							fragile	yes					
+outdoor_climbing_area		climbing	11.2386541	45.9512814	node/9117634024				rock=limestone									
+outdoor_climbing_area	Via dei Ciclamini	climbing	10.9199243	45.9553987	node/9229728306													
+outdoor_climbing_area	Freiheit die ich meine	climbing	10.8958267	45.9392061	node/9231737403													
+outdoor_climbing_area	7 Muri	climbing	10.8952387	45.9386465	node/9231773768													
+outdoor_climbing_area	Selene	climbing	10.8959368	45.9393696	node/9231790101													
+outdoor_climbing_area	I Moschetteri	climbing	10.8962171	45.9396379	node/9231827020													
+outdoor_climbing_area	Weg durch das Gesicht	climbing	10.8964683	45.9397813	node/9231839145													
+outdoor_climbing_area	Orfeo	climbing	10.8947746	45.9382935	node/9231840020													
+outdoor_climbing_area	Via Roberto	climbing	10.8954943	45.9388911	node/9231848896													
+outdoor_climbing_area	Cascata di Mezzodì	climbing	11.1261999	45.699226	node/9253925708			cliff										
+outdoor_climbing_area	Cascata Pilastro	climbing	11.1267471	45.6988063	node/9253931227			cliff										
+outdoor_climbing_area		climbing	11.1274338	45.7050985	node/9253954388			cliff										
+outdoor_climbing_area		climbing	11.1289465	45.7051229	node/9253954408			cliff										
+outdoor_climbing_area		climbing	11.1288071	45.7046508	node/9253954416			cliff										
+outdoor_climbing_area		climbing	11.1292577	45.7042312	node/9253963626			cliff										
+outdoor_climbing_area	Vi Piace il Posto?	climbing	11.1189365	45.7381775	node/9706643290	60												
+outdoor_climbing_area	Dimensione terzo	climbing	10.9189146	45.9545522	node/9763491262													
+outdoor_climbing_area	Brooklyn	climbing	11.6450509	46.3082834	node/9786587975													
+outdoor_climbing_area		climbing	11.6491135	46.3071287	node/9787578420													
+outdoor_climbing_area	Mondino	climbing	11.1350077	46.4522569	node/9986950045													
+outdoor_climbing_area	Marino Stenico	climbing	11.1656789	46.4484623	node/9988803202													
+outdoor_climbing_area	Falesia Falegnameria	climbing	10.9926752	45.7980766	node/10002052545		limestone	cliff					yes					
+outdoor_climbing_area	Falesia Piam del Levro - Val del Orco	climbing	11.0913361	45.8520826	node/10002089523		limestone	cliff					yes					
+outdoor_climbing_area		climbing	10.9617427	45.8571355	node/10073769165				route	yes								
+outdoor_climbing_area	La Cengia Rossa	climbing	10.8933874	45.9367791	node/10115995774													
+outdoor_climbing_area	Marmite dei Giganti	climbing	10.8843189	45.8788847	node/10310735812													
+outdoor_climbing_area	Campanile Teresa : La Gioventù dei Vecchi Eroici	climbing	10.9035586	46.1519415	node/10558995836	2500		cliff										
