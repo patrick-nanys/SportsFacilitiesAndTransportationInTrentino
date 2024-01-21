@@ -46,7 +46,7 @@ if __name__ == '__main__':
     data_filtered.loc[data_filtered['leisure'].isna() & (data_filtered['sport'] == 'climbing'), 'leisure'] = 'outdoor_climbing_area'
 
     # Step 6: Additional column filtering
-    data_filtered = data_filtered.drop(columns=['building'])
+    data_filtered = data_filtered.drop(columns=['building', 'barrier', 'access', 'fence_type', 'climbing:rock', 'climbing', 'climbing:sport', 'climbing:boulder', 'climbing:toprope'])
 
     # Step 7: Apply the concrete threshold filtering for each leisure category
     filtered_dataframes_final = {}
