@@ -44,23 +44,23 @@ _:node1hkluns3hx1 a km-dev:R2RMLMapping ;
             {
                 \"name\": \"metaPropertyUri\",
                 \"type\": \"other\",
-                \"value\": \"http://knowdive.disi.unitn.it/etype#bus trip_GID-13008\"
+                \"value\": \"https://schema.org/bus trip_GID-13008\"
             },
             {
                 \"name\": \"metaPropertyId\",
                 \"type\": \"other\",
-                \"value\": \"http://knowdive.disi.unitn.it/etype#bus trip_GID-130081\"
+                \"value\": \"https://schema.org/bus trip_GID-130081\"
             },
             {
                 \"name\": \"SemanticTypesArray\",
                 \"type\": \"other\",
                 \"value\": [{
-                    \"DomainUri\": \"http://knowdive.disi.unitn.it/etype#bus trip_GID-13008\",
-                    \"DomainId\": \"http://knowdive.disi.unitn.it/etype#bus trip_GID-130081\",
+                    \"DomainUri\": \"https://schema.org/bus trip_GID-13008\",
+                    \"DomainId\": \"https://schema.org/bus trip_GID-130081\",
                     \"isPrimary\": true,
                     \"isProvenance\": false,
                     \"FullType\": \"http://isi.edu/integration/karma/dev#classLink\",
-                    \"DomainLabel\": \"http://knowdive.disi.unitn.it/etype#bus trip_GID-13008/bus trip_GID-130081 (add)\"
+                    \"DomainLabel\": \"https://schema.org/bus trip_GID-13008/bus trip_GID-130081 (add)\"
                 }]
             },
             {
@@ -118,12 +118,12 @@ _:node1hkluns3hx1 a km-dev:R2RMLMapping ;
                 \"name\": \"SemanticTypesArray\",
                 \"type\": \"other\",
                 \"value\": [{
-                    \"DomainUri\": \"http://knowdive.disi.unitn.it/etype#bus stop_GID-45937\",
-                    \"DomainId\": \"http://knowdive.disi.unitn.it/etype#bus stop_GID-459371\",
+                    \"DomainUri\": \"https://schema.org/bus stop_GID-45937\",
+                    \"DomainId\": \"https://schema.org/bus stop_GID-459371\",
                     \"isPrimary\": true,
                     \"isProvenance\": false,
                     \"FullType\": \"http://knowdive.disi.unitn.it/etype#latitude_GID-46263\",
-                    \"DomainLabel\": \"http://knowdive.disi.unitn.it/etype#bus stop_GID-45937/bus stop_GID-459371 (add)\"
+                    \"DomainLabel\": \"https://schema.org/bus stop_GID-45937/bus stop_GID-459371 (add)\"
                 }]
             },
             {
@@ -181,12 +181,12 @@ _:node1hkluns3hx1 a km-dev:R2RMLMapping ;
                 \"name\": \"SemanticTypesArray\",
                 \"type\": \"other\",
                 \"value\": [{
-                    \"DomainUri\": \"http://knowdive.disi.unitn.it/etype#bus stop_GID-45937\",
-                    \"DomainId\": \"http://knowdive.disi.unitn.it/etype#bus stop_GID-459371\",
+                    \"DomainUri\": \"https://schema.org/bus stop_GID-45937\",
+                    \"DomainId\": \"https://schema.org/bus stop_GID-459371\",
                     \"isPrimary\": true,
                     \"isProvenance\": false,
                     \"FullType\": \"http://knowdive.disi.unitn.it/etype#longitude_GID-46270\",
-                    \"DomainLabel\": \"http://knowdive.disi.unitn.it/etype#bus stop_GID-45937/bus stop_GID-459371\"
+                    \"DomainLabel\": \"https://schema.org/bus stop_GID-45937/bus stop_GID-459371\"
                 }]
             },
             {
@@ -244,12 +244,12 @@ _:node1hkluns3hx1 a km-dev:R2RMLMapping ;
                 \"name\": \"SemanticTypesArray\",
                 \"type\": \"other\",
                 \"value\": [{
-                    \"DomainUri\": \"http://knowdive.disi.unitn.it/etype#bus stop_GID-45937\",
-                    \"DomainId\": \"http://knowdive.disi.unitn.it/etype#bus stop_GID-459371\",
+                    \"DomainUri\": \"https://schema.org/bus stop_GID-45937\",
+                    \"DomainId\": \"https://schema.org/bus stop_GID-459371\",
                     \"isPrimary\": true,
                     \"isProvenance\": false,
                     \"FullType\": \"http://knowdive.disi.unitn.it/etype#stop reference_GID-13024\",
-                    \"DomainLabel\": \"http://knowdive.disi.unitn.it/etype#bus stop_GID-45937/bus stop_GID-459371\"
+                    \"DomainLabel\": \"https://schema.org/bus stop_GID-45937/bus stop_GID-459371\"
                 }]
             },
             {
@@ -307,12 +307,12 @@ _:node1hkluns3hx1 a km-dev:R2RMLMapping ;
                 \"name\": \"SemanticTypesArray\",
                 \"type\": \"other\",
                 \"value\": [{
-                    \"DomainUri\": \"http://knowdive.disi.unitn.it/etype#bus stop_GID-45937\",
-                    \"DomainId\": \"http://knowdive.disi.unitn.it/etype#bus stop_GID-459371\",
+                    \"DomainUri\": \"https://schema.org/bus stop_GID-45937\",
+                    \"DomainId\": \"https://schema.org/bus stop_GID-459371\",
                     \"isPrimary\": true,
                     \"isProvenance\": false,
                     \"FullType\": \"http://knowdive.disi.unitn.it/etype#stop role_GID-13025\",
-                    \"DomainLabel\": \"http://knowdive.disi.unitn.it/etype#bus stop_GID-45937/bus stop_GID-459371\"
+                    \"DomainLabel\": \"https://schema.org/bus stop_GID-45937/bus stop_GID-459371\"
                 }]
             },
             {
@@ -370,12 +370,12 @@ _:node1hkluns3hx1 a km-dev:R2RMLMapping ;
                 \"name\": \"SemanticTypesArray\",
                 \"type\": \"other\",
                 \"value\": [{
-                    \"DomainUri\": \"http://knowdive.disi.unitn.it/etype#bus trip_GID-13008\",
-                    \"DomainId\": \"http://knowdive.disi.unitn.it/etype#bus trip_GID-130081\",
+                    \"DomainUri\": \"https://schema.org/bus trip_GID-13008\",
+                    \"DomainId\": \"https://schema.org/bus trip_GID-130081\",
                     \"isPrimary\": true,
                     \"isProvenance\": false,
                     \"FullType\": \"http://knowdive.disi.unitn.it/etype#max longitude_GID-13019\",
-                    \"DomainLabel\": \"http://knowdive.disi.unitn.it/etype#bus trip_GID-13008/bus trip_GID-130081\"
+                    \"DomainLabel\": \"https://schema.org/bus trip_GID-13008/bus trip_GID-130081\"
                 }]
             },
             {
@@ -433,12 +433,12 @@ _:node1hkluns3hx1 a km-dev:R2RMLMapping ;
                 \"name\": \"SemanticTypesArray\",
                 \"type\": \"other\",
                 \"value\": [{
-                    \"DomainUri\": \"http://knowdive.disi.unitn.it/etype#bus trip_GID-13008\",
-                    \"DomainId\": \"http://knowdive.disi.unitn.it/etype#bus trip_GID-130081\",
+                    \"DomainUri\": \"https://schema.org/bus trip_GID-13008\",
+                    \"DomainId\": \"https://schema.org/bus trip_GID-130081\",
                     \"isPrimary\": true,
                     \"isProvenance\": false,
                     \"FullType\": \"http://knowdive.disi.unitn.it/etype#max latitude_GID-13018\",
-                    \"DomainLabel\": \"http://knowdive.disi.unitn.it/etype#bus trip_GID-13008/bus trip_GID-130081\"
+                    \"DomainLabel\": \"https://schema.org/bus trip_GID-13008/bus trip_GID-130081\"
                 }]
             },
             {
@@ -496,12 +496,12 @@ _:node1hkluns3hx1 a km-dev:R2RMLMapping ;
                 \"name\": \"SemanticTypesArray\",
                 \"type\": \"other\",
                 \"value\": [{
-                    \"DomainUri\": \"http://knowdive.disi.unitn.it/etype#bus trip_GID-13008\",
-                    \"DomainId\": \"http://knowdive.disi.unitn.it/etype#bus trip_GID-130081\",
+                    \"DomainUri\": \"https://schema.org/bus trip_GID-13008\",
+                    \"DomainId\": \"https://schema.org/bus trip_GID-130081\",
                     \"isPrimary\": true,
                     \"isProvenance\": false,
                     \"FullType\": \"http://knowdive.disi.unitn.it/etype#min longitude_GID-13021\",
-                    \"DomainLabel\": \"http://knowdive.disi.unitn.it/etype#bus trip_GID-13008/bus trip_GID-130081\"
+                    \"DomainLabel\": \"https://schema.org/bus trip_GID-13008/bus trip_GID-130081\"
                 }]
             },
             {
@@ -559,12 +559,12 @@ _:node1hkluns3hx1 a km-dev:R2RMLMapping ;
                 \"name\": \"SemanticTypesArray\",
                 \"type\": \"other\",
                 \"value\": [{
-                    \"DomainUri\": \"http://knowdive.disi.unitn.it/etype#bus trip_GID-13008\",
-                    \"DomainId\": \"http://knowdive.disi.unitn.it/etype#bus trip_GID-130081\",
+                    \"DomainUri\": \"https://schema.org/bus trip_GID-13008\",
+                    \"DomainId\": \"https://schema.org/bus trip_GID-130081\",
                     \"isPrimary\": true,
                     \"isProvenance\": false,
                     \"FullType\": \"http://knowdive.disi.unitn.it/etype#min latitude_GID-13020\",
-                    \"DomainLabel\": \"http://knowdive.disi.unitn.it/etype#bus trip_GID-13008/bus trip_GID-130081\"
+                    \"DomainLabel\": \"https://schema.org/bus trip_GID-13008/bus trip_GID-130081\"
                 }]
             },
             {
@@ -622,12 +622,12 @@ _:node1hkluns3hx1 a km-dev:R2RMLMapping ;
                 \"name\": \"SemanticTypesArray\",
                 \"type\": \"other\",
                 \"value\": [{
-                    \"DomainUri\": \"http://knowdive.disi.unitn.it/etype#bus trip_GID-13008\",
-                    \"DomainId\": \"http://knowdive.disi.unitn.it/etype#bus trip_GID-130081\",
+                    \"DomainUri\": \"https://schema.org/bus trip_GID-13008\",
+                    \"DomainId\": \"https://schema.org/bus trip_GID-130081\",
                     \"isPrimary\": true,
                     \"isProvenance\": false,
                     \"FullType\": \"http://knowdive.disi.unitn.it/etype#name_GID-2\",
-                    \"DomainLabel\": \"http://knowdive.disi.unitn.it/etype#bus trip_GID-13008/bus trip_GID-130081\"
+                    \"DomainLabel\": \"https://schema.org/bus trip_GID-13008/bus trip_GID-130081\"
                 }]
             },
             {
@@ -685,12 +685,12 @@ _:node1hkluns3hx1 a km-dev:R2RMLMapping ;
                 \"name\": \"SemanticTypesArray\",
                 \"type\": \"other\",
                 \"value\": [{
-                    \"DomainUri\": \"http://knowdive.disi.unitn.it/etype#bus trip_GID-13008\",
-                    \"DomainId\": \"http://knowdive.disi.unitn.it/etype#bus trip_GID-130081\",
+                    \"DomainUri\": \"https://schema.org/bus trip_GID-13008\",
+                    \"DomainId\": \"https://schema.org/bus trip_GID-130081\",
                     \"isPrimary\": true,
                     \"isProvenance\": false,
                     \"FullType\": \"http://knowdive.disi.unitn.it/etype#network_GID-45586\",
-                    \"DomainLabel\": \"http://knowdive.disi.unitn.it/etype#bus trip_GID-13008/bus trip_GID-130081\"
+                    \"DomainLabel\": \"https://schema.org/bus trip_GID-13008/bus trip_GID-130081\"
                 }]
             },
             {
@@ -748,12 +748,12 @@ _:node1hkluns3hx1 a km-dev:R2RMLMapping ;
                 \"name\": \"SemanticTypesArray\",
                 \"type\": \"other\",
                 \"value\": [{
-                    \"DomainUri\": \"http://knowdive.disi.unitn.it/etype#bus trip_GID-13008\",
-                    \"DomainId\": \"http://knowdive.disi.unitn.it/etype#bus trip_GID-130081\",
+                    \"DomainUri\": \"https://schema.org/bus trip_GID-13008\",
+                    \"DomainId\": \"https://schema.org/bus trip_GID-130081\",
                     \"isPrimary\": true,
                     \"isProvenance\": false,
                     \"FullType\": \"http://knowdive.disi.unitn.it/etype#operator_GID-55783\",
-                    \"DomainLabel\": \"http://knowdive.disi.unitn.it/etype#bus trip_GID-13008/bus trip_GID-130081\"
+                    \"DomainLabel\": \"https://schema.org/bus trip_GID-13008/bus trip_GID-130081\"
                 }]
             },
             {
@@ -811,12 +811,12 @@ _:node1hkluns3hx1 a km-dev:R2RMLMapping ;
                 \"name\": \"SemanticTypesArray\",
                 \"type\": \"other\",
                 \"value\": [{
-                    \"DomainUri\": \"http://knowdive.disi.unitn.it/etype#bus trip_GID-13008\",
-                    \"DomainId\": \"http://knowdive.disi.unitn.it/etype#bus trip_GID-130081\",
+                    \"DomainUri\": \"https://schema.org/bus trip_GID-13008\",
+                    \"DomainId\": \"https://schema.org/bus trip_GID-130081\",
                     \"isPrimary\": true,
                     \"isProvenance\": false,
                     \"FullType\": \"http://knowdive.disi.unitn.it/etype#from_GID-13015\",
-                    \"DomainLabel\": \"http://knowdive.disi.unitn.it/etype#bus trip_GID-13008/bus trip_GID-130081\"
+                    \"DomainLabel\": \"https://schema.org/bus trip_GID-13008/bus trip_GID-130081\"
                 }]
             },
             {
@@ -874,12 +874,12 @@ _:node1hkluns3hx1 a km-dev:R2RMLMapping ;
                 \"name\": \"SemanticTypesArray\",
                 \"type\": \"other\",
                 \"value\": [{
-                    \"DomainUri\": \"http://knowdive.disi.unitn.it/etype#bus trip_GID-13008\",
-                    \"DomainId\": \"http://knowdive.disi.unitn.it/etype#bus trip_GID-130081\",
+                    \"DomainUri\": \"https://schema.org/bus trip_GID-13008\",
+                    \"DomainId\": \"https://schema.org/bus trip_GID-130081\",
                     \"isPrimary\": true,
                     \"isProvenance\": false,
                     \"FullType\": \"http://knowdive.disi.unitn.it/etype#importance_GID-76752\",
-                    \"DomainLabel\": \"http://knowdive.disi.unitn.it/etype#bus trip_GID-13008/bus trip_GID-130081\"
+                    \"DomainLabel\": \"https://schema.org/bus trip_GID-13008/bus trip_GID-130081\"
                 }]
             },
             {
@@ -937,12 +937,12 @@ _:node1hkluns3hx1 a km-dev:R2RMLMapping ;
                 \"name\": \"SemanticTypesArray\",
                 \"type\": \"other\",
                 \"value\": [{
-                    \"DomainUri\": \"http://knowdive.disi.unitn.it/etype#bus trip_GID-13008\",
-                    \"DomainId\": \"http://knowdive.disi.unitn.it/etype#bus trip_GID-130081\",
+                    \"DomainUri\": \"https://schema.org/bus trip_GID-13008\",
+                    \"DomainId\": \"https://schema.org/bus trip_GID-130081\",
                     \"isPrimary\": true,
                     \"isProvenance\": false,
                     \"FullType\": \"http://knowdive.disi.unitn.it/etype#to_GID-13026\",
-                    \"DomainLabel\": \"http://knowdive.disi.unitn.it/etype#bus trip_GID-13008/bus trip_GID-130081\"
+                    \"DomainLabel\": \"https://schema.org/bus trip_GID-13008/bus trip_GID-130081\"
                 }]
             },
             {
@@ -1000,12 +1000,12 @@ _:node1hkluns3hx1 a km-dev:R2RMLMapping ;
                 \"name\": \"SemanticTypesArray\",
                 \"type\": \"other\",
                 \"value\": [{
-                    \"DomainUri\": \"http://knowdive.disi.unitn.it/etype#bus trip_GID-13008\",
-                    \"DomainId\": \"http://knowdive.disi.unitn.it/etype#bus trip_GID-130081\",
+                    \"DomainUri\": \"https://schema.org/bus trip_GID-13008\",
+                    \"DomainId\": \"https://schema.org/bus trip_GID-130081\",
                     \"isPrimary\": true,
                     \"isProvenance\": false,
                     \"FullType\": \"http://knowdive.disi.unitn.it/etype#via_GID-13031\",
-                    \"DomainLabel\": \"http://knowdive.disi.unitn.it/etype#bus trip_GID-13008/bus trip_GID-130081\"
+                    \"DomainLabel\": \"https://schema.org/bus trip_GID-13008/bus trip_GID-130081\"
                 }]
             },
             {
@@ -1063,12 +1063,12 @@ _:node1hkluns3hx1 a km-dev:R2RMLMapping ;
                 \"name\": \"SemanticTypesArray\",
                 \"type\": \"other\",
                 \"value\": [{
-                    \"DomainUri\": \"http://knowdive.disi.unitn.it/etype#bus trip_GID-13008\",
-                    \"DomainId\": \"http://knowdive.disi.unitn.it/etype#bus trip_GID-130081\",
+                    \"DomainUri\": \"https://schema.org/bus trip_GID-13008\",
+                    \"DomainId\": \"https://schema.org/bus trip_GID-130081\",
                     \"isPrimary\": true,
                     \"isProvenance\": false,
                     \"FullType\": \"http://knowdive.disi.unitn.it/etype#interval_GID-81343\",
-                    \"DomainLabel\": \"http://knowdive.disi.unitn.it/etype#bus trip_GID-13008/bus trip_GID-130081\"
+                    \"DomainLabel\": \"https://schema.org/bus trip_GID-13008/bus trip_GID-130081\"
                 }]
             },
             {
@@ -1126,12 +1126,12 @@ _:node1hkluns3hx1 a km-dev:R2RMLMapping ;
                 \"name\": \"SemanticTypesArray\",
                 \"type\": \"other\",
                 \"value\": [{
-                    \"DomainUri\": \"http://knowdive.disi.unitn.it/etype#bus trip_GID-13008\",
-                    \"DomainId\": \"http://knowdive.disi.unitn.it/etype#bus trip_GID-130081\",
+                    \"DomainUri\": \"https://schema.org/bus trip_GID-13008\",
+                    \"DomainId\": \"https://schema.org/bus trip_GID-130081\",
                     \"isPrimary\": true,
                     \"isProvenance\": false,
                     \"FullType\": \"http://knowdive.disi.unitn.it/etype#trip reference_GID-13027\",
-                    \"DomainLabel\": \"http://knowdive.disi.unitn.it/etype#bus trip_GID-13008/bus trip_GID-130081\"
+                    \"DomainLabel\": \"https://schema.org/bus trip_GID-13008/bus trip_GID-130081\"
                 }]
             },
             {
@@ -1189,12 +1189,12 @@ _:node1hkluns3hx1 a km-dev:R2RMLMapping ;
                 \"name\": \"SemanticTypesArray\",
                 \"type\": \"other\",
                 \"value\": [{
-                    \"DomainUri\": \"http://knowdive.disi.unitn.it/etype#bus trip_GID-13008\",
-                    \"DomainId\": \"http://knowdive.disi.unitn.it/etype#bus trip_GID-130081\",
+                    \"DomainUri\": \"https://schema.org/bus trip_GID-13008\",
+                    \"DomainId\": \"https://schema.org/bus trip_GID-130081\",
                     \"isPrimary\": true,
                     \"isProvenance\": false,
                     \"FullType\": \"http://knowdive.disi.unitn.it/etype#type of transport_GID-13030\",
-                    \"DomainLabel\": \"http://knowdive.disi.unitn.it/etype#bus trip_GID-13008/bus trip_GID-130081\"
+                    \"DomainLabel\": \"https://schema.org/bus trip_GID-13008/bus trip_GID-130081\"
                 }]
             },
             {
@@ -1252,12 +1252,12 @@ _:node1hkluns3hx1 a km-dev:R2RMLMapping ;
                 \"name\": \"SemanticTypesArray\",
                 \"type\": \"other\",
                 \"value\": [{
-                    \"DomainUri\": \"http://knowdive.disi.unitn.it/etype#bus trip_GID-13008\",
-                    \"DomainId\": \"http://knowdive.disi.unitn.it/etype#bus trip_GID-130081\",
+                    \"DomainUri\": \"https://schema.org/bus trip_GID-13008\",
+                    \"DomainId\": \"https://schema.org/bus trip_GID-130081\",
                     \"isPrimary\": true,
                     \"isProvenance\": false,
                     \"FullType\": \"http://knowdive.disi.unitn.it/etype#wheelchair_GID-13033\",
-                    \"DomainLabel\": \"http://knowdive.disi.unitn.it/etype#bus trip_GID-13008/bus trip_GID-130081\"
+                    \"DomainLabel\": \"https://schema.org/bus trip_GID-13008/bus trip_GID-130081\"
                 }]
             },
             {
@@ -1301,11 +1301,11 @@ _:node1hkluns3hx1 a km-dev:R2RMLMapping ;
                 \"name\": \"edge\",
                 \"type\": \"other\",
                 \"value\": {
-                    \"edgeTargetId\": \"http://knowdive.disi.unitn.it/etype#bus stop_GID-459371\",
+                    \"edgeTargetId\": \"https://schema.org/bus stop_GID-459371\",
                     \"edgeId\": \"http://knowdive.disi.unitn.it/etype#has stops_GID-13035\",
-                    \"edgeTargetUri\": \"http://knowdive.disi.unitn.it/etype#bus stop_GID-45937\",
-                    \"edgeSourceId\": \"http://knowdive.disi.unitn.it/etype#bus trip_GID-130081\",
-                    \"edgeSourceUri\": \"http://knowdive.disi.unitn.it/etype#bus trip_GID-13008\"
+                    \"edgeTargetUri\": \"https://schema.org/bus stop_GID-45937\",
+                    \"edgeSourceId\": \"https://schema.org/bus trip_GID-130081\",
+                    \"edgeSourceUri\": \"https://schema.org/bus trip_GID-13008\"
                 }
             },
             {
@@ -1342,8 +1342,8 @@ _:node1hkluns3hx1 km-dev:hasSubjectMap _:node1hkluns3hx3 .
 
 _:node1hkluns3hx3 km-dev:isPartOfMapping _:node1hkluns3hx1 ;
 	a rr:SubjectMap ;
-	km-dev:alignmentNodeId "http://knowdive.disi.unitn.it/etype#bus trip_GID-130081" ;
-	rr:class <http://knowdive.disi.unitn.it/etype#bus trip_GID-13008> ;
+	km-dev:alignmentNodeId "https://schema.org/bus trip_GID-130081" ;
+	rr:class <https://schema.org/bus trip_GID-13008> ;
 	rr:template "{[\"elements\",\"id\"]}" ;
 	a km-dev:steinerTreeRootNode .
 
@@ -1638,8 +1638,8 @@ _:node1hkluns3hx1 km-dev:hasSubjectMap _:node1hkluns3hx20 .
 
 _:node1hkluns3hx20 km-dev:isPartOfMapping _:node1hkluns3hx1 ;
 	a rr:SubjectMap ;
-	km-dev:alignmentNodeId "http://knowdive.disi.unitn.it/etype#bus stop_GID-459371" ;
-	rr:class <http://knowdive.disi.unitn.it/etype#bus stop_GID-45937> ;
+	km-dev:alignmentNodeId "https://schema.org/bus stop_GID-459371" ;
+	rr:class <https://schema.org/bus stop_GID-45937> ;
 	rr:termType rr:BlankNode ;
 	km-dev:namePrefix "BusStop1" .
 

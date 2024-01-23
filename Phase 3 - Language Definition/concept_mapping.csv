@@ -1,4 +1,9 @@
 New,Old
+https://schema.org/Place,http://knowdive.disi.unitn.it/etype#Place
+https://schema.org/BusStop,http://knowdive.disi.unitn.it/etype#BusStop
+https://schema.org/TrainStation,http://knowdive.disi.unitn.it/etype#TrainStation
+https://schema.org/BusTrip,http://knowdive.disi.unitn.it/etype#BusTrip
+https://schema.org/TrainTrip,http://knowdive.disi.unitn.it/etype#TrainTrip
 #place_GID-46408,#Place
 /place_GID-46408,/Place
 #facilities_GID-13002,#Facilities
