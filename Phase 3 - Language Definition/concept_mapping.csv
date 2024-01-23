@@ -1,0 +1,73 @@
+New,Old
+#place_GID-46408,#Place
+/place_GID-46408,/Place
+#facilities_GID-13002,#Facilities
+/facilities_GID-13002,/Facilities
+#fitness centre_GID-13003,#FitnessCentre
+/fitness centre_GID-13003,/FitnessCentre
+#fitness station_GID-13004,#FitnessStation
+/fitness station_GID-13004,/FitnessStation
+#outdoor place_GID-13005,#OutdoorPlace
+/outdoor place_GID-13005,/OutdoorPlace
+#pitch_GID-13006,#Pitch
+/pitch_GID-13006,/Pitch
+#track_GID-22259,#Track
+/track_GID-22259,/Track
+#sports centre_GID-13007,#SportsCentre
+/sports centre_GID-13007,/SportsCentre
+#stadium_GID-23800,#Stadium
+/stadium_GID-23800,/Stadium
+#stop_GID-46571,#Stop
+/stop_GID-46571,/Stop
+#bus stop_GID-45937,#BusStop
+/bus stop_GID-45937,/BusStop
+#train station_GID-22321,#TrainStation
+/train station_GID-22321,/TrainStation
+#sport_GID-2681,#Sport
+/sport_GID-2681,/Sport
+#trip_GID-1570,#Trip
+/trip_GID-1570,/Trip
+#bus trip_GID-13008,#BusTrip
+/bus trip_GID-13008,/BusTrip
+#train trip_GID-13009,#TrainTrip
+/train trip_GID-13009,/TrainTrip
+#region_GID-46452,#Region
+/region_GID-46452,/Region
+#address country_GID-13010,#has_address_country
+#address city_GID-13011,#has_address_city
+#address house number_GID-13012,#has_address_house_number
+#address postcode_GID-13013,#has_address_postcode
+#address street_GID-13014,#has_address_street
+#from_GID-13015,#has_from
+#id_GID-13016,#has_id
+#importance_GID-76752,#has_importance
+#interval_GID-81343,#has_interval
+#latitude_GID-46263,#has_latitude
+#leisure_GID-13017,#has_leisure
+#lit_GID-83217,#has_lit
+#longitude_GID-46270,#has_longitude
+#max latitude_GID-13018,#has_max_latitude
+#max longitude_GID-13019,#has_max_longitude
+#min latitude_GID-13020,#has_min_latitude
+#min longitude_GID-13021,#has_min_longitude
+#name_GID-2,#has_name
+#network_GID-45586,#has_network
+#notes_GID-13022,#has_notes
+#opening hours_GID-13023,#has_opening_hours
+#operator_GID-55783,#has_operator
+#phone_GID-24424,#has_phone
+#service_GID-2968,#has_service
+#stop reference_GID-13024,#has_stop_reference
+#stop role_GID-13025,#has_stop_role
+#surface_GID-24186,#has_surface
+#to_GID-13026,#has_to
+#trip reference_GID-13027,#has_trip_reference
+#type of sport_GID-13028,#has_type_of_sport
+#type of stop_GID-13029,#has_type_of_stop
+#type of transport_GID-13030,#has_type_of_transport
+#via_GID-13031,#has_via
+#website_GID-13032,#has_website
+#wheelchair_GID-13033,#has_wheelchair
+#part of_GID-13034,#part_of
+#has stops_GID-13035,#has_stops
+#has sport_GID-13036,#has_sport

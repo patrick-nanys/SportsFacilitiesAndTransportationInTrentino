@@ -15,6 +15,7 @@ sport_GID-2681;an active diversion requiring physical exertion and competition
 trip_GID-1570;a journey for some purpose (usually including the return)
 bus trip_GID-13008;a journey taken on a bus, typically over a long distance or between different cities or towns
 train trip_GID-13009;a journey made by traveling on a train, often covering long distances or connecting different cities or regions
+region_GID-46452;the extended spatial location of something
 address country_GID-13010;specific nation identified in a postal or geographic address
 address city_GID-13011;specific urban area or municipality named in a postal or geographic address
 address house number_GID-13012;numerical identifier assigned to a building or residence within a street or area for postal and location purposes
@@ -50,5 +51,6 @@ type of transport_GID-13030;specific category or mode of transportation
 via_GID-13031;a preposition indicating a route or means by which a journey is made or an objective is achieved
 website_GID-13032;a collection of web pages and related content identified by a common domain name and published on at least one web server
 wheelchair_GID-13033;indicating whether a transportation option is designed to accommodate wheelchairs, allowing easy access for people with mobility impairments
-region_GID-46452;the extended spatial location of something
 part of_GID-13034;denotes that something is a segment, member or component within a larger group, structure, or entity
+has stops_GID-13035;refers to the characteristic of a transportation route indicating the presence of designated locations where vehicles pause to pick up or drop off passengers
+has sport_GID-13036;indicates the presence or availability of sports activities or facilities at a given location or within an organization

@@ -31,9 +31,9 @@
     
 
 
-    <!-- http://www.semanticweb.org/patrick/ontologies/2023/10/kge-sports/has_sport -->
+    <!-- http://knowdive.disi.unitn.it/etype#has_sport -->
 
-    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/patrick/ontologies/2023/10/kge-sports/has_sport">
+    <owl:ObjectProperty rdf:about="http://knowdive.disi.unitn.it/etype#has_sport">
         <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
         <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#Facilities"/>
         <rdfs:range rdf:resource="http://knowdive.disi.unitn.it/etype#Sport"/>
@@ -41,13 +41,13 @@
     
 
 
-    <!-- http://www.semanticweb.org/patrick/ontologies/2023/10/kge-sports/part_of -->
+    <!-- http://knowdive.disi.unitn.it/etype#part_of -->
 
-    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/patrick/ontologies/2023/10/kge-sports/part_of">
+    <owl:ObjectProperty rdf:about="http://knowdive.disi.unitn.it/etype#part_of">
         <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
         <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#Place"/>
         <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#Trip"/>
-        <rdfs:range rdf:resource="http://www.semanticweb.org/patrick/ontologies/2023/10/kge-sports/Region"/>
+        <rdfs:range rdf:resource="http://knowdive.disi.unitn.it/etype#Region"/>
     </owl:ObjectProperty>
     
 
@@ -518,9 +518,9 @@
     
 
 
-    <!-- http://www.semanticweb.org/patrick/ontologies/2023/10/kge-sports/Region -->
+    <!-- http://knowdive.disi.unitn.it/etype#Region -->
 
-    <owl:Class rdf:about="http://www.semanticweb.org/patrick/ontologies/2023/10/kge-sports/Region"/>
+    <owl:Class rdf:about="http://knowdive.disi.unitn.it/etype#Region"/>
     
 
 
