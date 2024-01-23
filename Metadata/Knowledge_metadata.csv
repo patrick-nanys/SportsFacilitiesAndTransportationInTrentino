@@ -1,0 +1,6 @@
+DatLicense,DatURL,DatKeyword,DatPublisher,DatCreator,DatOwner,DatLanguage,DatName,DatPublicationTimestamp,DatDescription,DatVersion,DatDomain
+Creative Commons Attribution-ShareAlike License (version 3.0).,https://schema.org/Place,Place,"id,latitude,longitude ",schema.org,schema.org,english,place,01/23/2024,Information related to place.,3,facility
+Creative Commons Attribution-ShareAlike License (version 3.0).,https://schema.org/BusStop,BusStop,"id,name,latitude,longitude",schema.org,schema.org,english,bus stop,01/23/2024,Information related to bus stop.,3,transport
+Creative Commons Attribution-ShareAlike License (version 3.0).,https://schema.org/TrainStation,TrainStation,"id,name,latitude,longitude",schema.org,schema.org,english,train station,01/23/2024,Information related to train station.,3,transport
+Creative Commons Attribution-ShareAlike License (version 3.0).,https://schema.org/BusTrip,BusTrip,"id,provider,busNumber",schema.org,schema.org,english,bus trip,01/23/2024,Information related to bus trip.,3,transport
+Creative Commons Attribution-ShareAlike License (version 3.0).,https://schema.org/TrainTrip,TrainTrip,"id,trainNumber",schema.org,schema.org,english,train trip,01/23/2024,Information related to train trip.,3,transport
