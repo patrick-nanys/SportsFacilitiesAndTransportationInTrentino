@@ -1,0 +1,12 @@
+# Where can an athlete find sports facilities in Trentino that are open during specific hours?
+
+PREFIX etype: <http://knowdive.disi.unitn.it/etype#>
+PREFIX schema: <https://schema.org/>
+
+SELECT ?facility ?sportName ?opening_hours WHERE {
+    ?facility a etype:sports_centre_GID-13007 .
+    ?facility etype:opening hours_GID-13023 ?opening_hours .
+    ?facility etype:has_sport_GID-13036 ?sport .
+    ?sport etype:type_of_sport_GID-13028 ?sportName .
+    FILTER(?sportName = "SPECIFIC_SPORT_NAME") # Replace with the sport of interest
+}

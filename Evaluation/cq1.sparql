@@ -1,0 +1,11 @@
+# Which sports facilities are available in Trentino for a specific sport?
+
+PREFIX etype: <http://knowdive.disi.unitn.it/etype#>
+PREFIX schema: <https://schema.org/>
+
+SELECT ?facility ?sportName WHERE {
+    ?facility a etype:facilities_GID-13002 .
+    ?facility etype:has_sport_GID-13036 ?sport .
+    ?sport etype:type_of_sport_GID-13028 ?sportName .
+    FILTER(?sportName = "SPECIFIC_SPORT_NAME") # Replace with the sport of interest
+}

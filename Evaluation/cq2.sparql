@@ -1,0 +1,36 @@
+# Where can a resident find a gym near their residence that matches their routine?
+
+PREFIX etype: <http://knowdive.disi.unitn.it/etype#>
+PREFIX schema: <https://schema.org/>
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+
+SELECT ?gym ?address WHERE {
+    ?gym a etype:fitness_centre_GID-13003 .
+    ?gym etype:address_street_GID-13014 ?address .
+    ?gym etype:latitude_GID-46263 ?latitude .
+    ?gym etype:longitude_GID-46270 ?longitude .
+    ?gym etype:has_sport_GID-13036 ?sport .
+    ?sport etype:type_of_sport_GID-13028 ?sportName .
+    FILTER(?sportName = "SPECIFIC_SPORT_NAME") # Replace with the sport of interest
+
+    # Constants for the Haversine formula
+    BIND(6371 AS ?earthRadius) # Earth's radius in kilometers
+    BIND(PI() AS ?pi)
+    BIND(?pi / 180 AS ?deg2rad)
+    BIND(<resident_latitude> AS ?resLat)
+    BIND(<resident_longitude> AS ?resLong)
+    BIND(<near_threshold> AS ?threshold)
+
+    # Convert degrees to radians
+    BIND(?latitude * ?deg2rad AS ?latRad)
+    BIND(?longitude * ?deg2rad AS ?longRad)
+    BIND(?resLat * ?deg2rad AS ?resLatRad)
+    BIND(?resLong * ?deg2rad AS ?resLongRad)
+
+    # Haversine formula
+    BIND(SIN((?latRad - ?resLatRad) / 2) * SIN((?latRad - ?resLatRad) / 2) + COS(?resLatRad) * COS(?latRad) * SIN((?longRad - ?resLongRad) / 2) * SIN((?longRad - ?resLongRad) / 2) AS ?a)
+    BIND(2 * ATAN2(SQRT(?a), SQRT(1 - ?a)) AS ?c)
+    BIND(?earthRadius * ?c AS ?distance)
+
+    FILTER(?distance < ?threshold)
+}
