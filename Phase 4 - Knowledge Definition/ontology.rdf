@@ -59,52 +59,6 @@
     //
     ///////////////////////////////////////////////////////////////////////////////////////
      -->
-
-    
-
-
-    <!-- http://knowdive.disi.unitn.it/etype#had_address_country -->
-
-    <owl:DatatypeProperty rdf:about="http://knowdive.disi.unitn.it/etype#had_address_country">
-        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
-        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#FitnessCentre"/>
-    </owl:DatatypeProperty>
-    
-
-
-    <!-- http://knowdive.disi.unitn.it/etype#has_address_city -->
-
-    <owl:DatatypeProperty rdf:about="http://knowdive.disi.unitn.it/etype#has_address_city">
-        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
-        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#FitnessCentre"/>
-    </owl:DatatypeProperty>
-    
-
-
-    <!-- http://knowdive.disi.unitn.it/etype#has_address_house_number -->
-
-    <owl:DatatypeProperty rdf:about="http://knowdive.disi.unitn.it/etype#has_address_house_number">
-        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
-        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#FitnessCentre"/>
-    </owl:DatatypeProperty>
-    
-
-
-    <!-- http://knowdive.disi.unitn.it/etype#has_address_postcode -->
-
-    <owl:DatatypeProperty rdf:about="http://knowdive.disi.unitn.it/etype#has_address_postcode">
-        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
-        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#FitnessCentre"/>
-    </owl:DatatypeProperty>
-    
-
-
-    <!-- http://knowdive.disi.unitn.it/etype#has_address_street -->
-
-    <owl:DatatypeProperty rdf:about="http://knowdive.disi.unitn.it/etype#has_address_street">
-        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
-        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#FitnessCentre"/>
-    </owl:DatatypeProperty>
     
 
 
@@ -135,15 +89,6 @@
     
 
 
-    <!-- http://knowdive.disi.unitn.it/etype#has_interval -->
-
-    <owl:DatatypeProperty rdf:about="http://knowdive.disi.unitn.it/etype#has_interval">
-        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
-        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#BusTrip"/>
-    </owl:DatatypeProperty>
-    
-
-
     <!-- http://knowdive.disi.unitn.it/etype#has_latitude -->
 
     <owl:DatatypeProperty rdf:about="http://knowdive.disi.unitn.it/etype#has_latitude">
@@ -158,15 +103,6 @@
     <owl:DatatypeProperty rdf:about="http://knowdive.disi.unitn.it/etype#has_leisure">
         <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
         <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#Facilities"/>
-    </owl:DatatypeProperty>
-    
-
-
-    <!-- http://knowdive.disi.unitn.it/etype#has_lit -->
-
-    <owl:DatatypeProperty rdf:about="http://knowdive.disi.unitn.it/etype#has_lit">
-        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
-        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#Pitch"/>
     </owl:DatatypeProperty>
     
 
@@ -235,47 +171,11 @@
     
 
 
-    <!-- http://knowdive.disi.unitn.it/etype#has_notes -->
-
-    <owl:DatatypeProperty rdf:about="http://knowdive.disi.unitn.it/etype#has_notes">
-        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
-        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#FitnessStation"/>
-    </owl:DatatypeProperty>
-    
-
-
-    <!-- http://knowdive.disi.unitn.it/etype#has_opening_hours -->
-
-    <owl:DatatypeProperty rdf:about="http://knowdive.disi.unitn.it/etype#has_opening_hours">
-        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
-        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#FitnessCentre"/>
-    </owl:DatatypeProperty>
-    
-
-
     <!-- http://knowdive.disi.unitn.it/etype#has_operator -->
 
     <owl:DatatypeProperty rdf:about="http://knowdive.disi.unitn.it/etype#has_operator">
         <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
         <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#Trip"/>
-    </owl:DatatypeProperty>
-    
-
-
-    <!-- http://knowdive.disi.unitn.it/etype#has_phone -->
-
-    <owl:DatatypeProperty rdf:about="http://knowdive.disi.unitn.it/etype#has_phone">
-        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
-        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#FitnessCentre"/>
-    </owl:DatatypeProperty>
-    
-
-
-    <!-- http://knowdive.disi.unitn.it/etype#has_service -->
-
-    <owl:DatatypeProperty rdf:about="http://knowdive.disi.unitn.it/etype#has_service">
-        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
-        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#TrainTrip"/>
     </owl:DatatypeProperty>
     
 
@@ -294,15 +194,6 @@
     <owl:DatatypeProperty rdf:about="http://knowdive.disi.unitn.it/etype#has_stop_role">
         <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
         <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#Stop"/>
-    </owl:DatatypeProperty>
-    
-
-
-    <!-- http://knowdive.disi.unitn.it/etype#has_surface -->
-
-    <owl:DatatypeProperty rdf:about="http://knowdive.disi.unitn.it/etype#has_surface">
-        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
-        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#OutdoorPlace"/>
     </owl:DatatypeProperty>
     
 
@@ -361,15 +252,6 @@
     
 
 
-    <!-- http://knowdive.disi.unitn.it/etype#has_website -->
-
-    <owl:DatatypeProperty rdf:about="http://knowdive.disi.unitn.it/etype#has_website">
-        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
-        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#FitnessCentre"/>
-    </owl:DatatypeProperty>
-    
-
-
     <!-- http://knowdive.disi.unitn.it/etype#has_wheelchair -->
 
     <owl:DatatypeProperty rdf:about="http://knowdive.disi.unitn.it/etype#has_wheelchair">
@@ -386,25 +268,6 @@
     //
     ///////////////////////////////////////////////////////////////////////////////////////
      -->
-
-    
-
-
-    <!-- http://knowdive.disi.unitn.it/etype#BusStop -->
-
-    <owl:Class rdf:about="http://knowdive.disi.unitn.it/etype#BusStop">
-        <rdfs:subClassOf rdf:resource="http://knowdive.disi.unitn.it/etype#Stop"/>
-        <owl:disjointWith rdf:resource="http://knowdive.disi.unitn.it/etype#TrainStation"/>
-    </owl:Class>
-    
-
-
-    <!-- http://knowdive.disi.unitn.it/etype#BusTrip -->
-
-    <owl:Class rdf:about="http://knowdive.disi.unitn.it/etype#BusTrip">
-        <rdfs:subClassOf rdf:resource="http://knowdive.disi.unitn.it/etype#Trip"/>
-        <owl:disjointWith rdf:resource="http://knowdive.disi.unitn.it/etype#TrainTrip"/>
-    </owl:Class>
     
 
 
@@ -413,39 +276,6 @@
     <owl:Class rdf:about="http://knowdive.disi.unitn.it/etype#Facilities">
         <rdfs:subClassOf rdf:resource="http://knowdive.disi.unitn.it/etype#Place"/>
         <owl:disjointWith rdf:resource="http://knowdive.disi.unitn.it/etype#Stop"/>
-    </owl:Class>
-    
-
-
-    <!-- http://knowdive.disi.unitn.it/etype#FitnessCentre -->
-
-    <owl:Class rdf:about="http://knowdive.disi.unitn.it/etype#FitnessCentre">
-        <rdfs:subClassOf rdf:resource="http://knowdive.disi.unitn.it/etype#Facilities"/>
-    </owl:Class>
-    
-
-
-    <!-- http://knowdive.disi.unitn.it/etype#FitnessStation -->
-
-    <owl:Class rdf:about="http://knowdive.disi.unitn.it/etype#FitnessStation">
-        <rdfs:subClassOf rdf:resource="http://knowdive.disi.unitn.it/etype#Facilities"/>
-    </owl:Class>
-    
-
-
-    <!-- http://knowdive.disi.unitn.it/etype#OutdoorPlace -->
-
-    <owl:Class rdf:about="http://knowdive.disi.unitn.it/etype#OutdoorPlace">
-        <rdfs:subClassOf rdf:resource="http://knowdive.disi.unitn.it/etype#Facilities"/>
-    </owl:Class>
-    
-
-
-    <!-- http://knowdive.disi.unitn.it/etype#Pitch -->
-
-    <owl:Class rdf:about="http://knowdive.disi.unitn.it/etype#Pitch">
-        <rdfs:subClassOf rdf:resource="http://knowdive.disi.unitn.it/etype#OutdoorPlace"/>
-        <owl:disjointWith rdf:resource="http://knowdive.disi.unitn.it/etype#Track"/>
     </owl:Class>
     
 
@@ -464,50 +294,10 @@
     
 
 
-    <!-- http://knowdive.disi.unitn.it/etype#SportsCentre -->
-
-    <owl:Class rdf:about="http://knowdive.disi.unitn.it/etype#SportsCentre">
-        <rdfs:subClassOf rdf:resource="http://knowdive.disi.unitn.it/etype#Facilities"/>
-    </owl:Class>
-    
-
-
-    <!-- http://knowdive.disi.unitn.it/etype#Stadium -->
-
-    <owl:Class rdf:about="http://knowdive.disi.unitn.it/etype#Stadium">
-        <rdfs:subClassOf rdf:resource="http://knowdive.disi.unitn.it/etype#Facilities"/>
-    </owl:Class>
-    
-
-
     <!-- http://knowdive.disi.unitn.it/etype#Stop -->
 
     <owl:Class rdf:about="http://knowdive.disi.unitn.it/etype#Stop">
         <rdfs:subClassOf rdf:resource="http://knowdive.disi.unitn.it/etype#Place"/>
-    </owl:Class>
-    
-
-
-    <!-- http://knowdive.disi.unitn.it/etype#Track -->
-
-    <owl:Class rdf:about="http://knowdive.disi.unitn.it/etype#Track">
-        <rdfs:subClassOf rdf:resource="http://knowdive.disi.unitn.it/etype#OutdoorPlace"/>
-    </owl:Class>
-    
-
-
-    <!-- http://knowdive.disi.unitn.it/etype#TrainStation -->
-
-    <owl:Class rdf:about="http://knowdive.disi.unitn.it/etype#TrainStation">
-        <rdfs:subClassOf rdf:resource="http://knowdive.disi.unitn.it/etype#Stop"/>
-    </owl:Class>
-    
-
-
-    <!-- http://knowdive.disi.unitn.it/etype#TrainTrip -->
-
-    <owl:Class rdf:about="http://knowdive.disi.unitn.it/etype#TrainTrip">
-        <rdfs:subClassOf rdf:resource="http://knowdive.disi.unitn.it/etype#Trip"/>
     </owl:Class>
     
 
@@ -521,27 +311,6 @@
     <!-- http://www.semanticweb.org/patrick/ontologies/2023/10/kge-sports/Region -->
 
     <owl:Class rdf:about="http://www.semanticweb.org/patrick/ontologies/2023/10/kge-sports/Region"/>
-    
-
-
-    <!-- 
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // General axioms
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-     -->
-
-    <rdf:Description>
-        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#AllDisjointClasses"/>
-        <owl:members rdf:parseType="Collection">
-            <rdf:Description rdf:about="http://knowdive.disi.unitn.it/etype#FitnessCentre"/>
-            <rdf:Description rdf:about="http://knowdive.disi.unitn.it/etype#FitnessStation"/>
-            <rdf:Description rdf:about="http://knowdive.disi.unitn.it/etype#OutdoorPlace"/>
-            <rdf:Description rdf:about="http://knowdive.disi.unitn.it/etype#SportsCentre"/>
-            <rdf:Description rdf:about="http://knowdive.disi.unitn.it/etype#Stadium"/>
-        </owl:members>
-    </rdf:Description>
 </rdf:RDF>
 
 
