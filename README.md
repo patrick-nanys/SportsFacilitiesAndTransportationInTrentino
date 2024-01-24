@@ -41,6 +41,6 @@ Schemas from schema.org have been used for the project.
 
 ## Knowledge graph
 
-![KG](https://github.com/patrick-nanys/SportsFacilitiesAndTransportationInTrentino/tree/main/Phase%205%20-%20Data%20Definition)
+[KG](https://github.com/patrick-nanys/SportsFacilitiesAndTransportationInTrentino/tree/main/Phase%205%20-%20Data%20Definition)
 
 
