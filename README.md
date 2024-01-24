@@ -14,7 +14,7 @@ Report: https://github.com/patrick-nanys/SportsFacilitiesAndTransportationInTren
 Presentation: https://github.com/patrick-nanys/SportsFacilitiesAndTransportationInTrentino/blob/main/Documentation/KGE_presentation.pptx
 
 
-## Purpose
+## Purpose
 
 Our project purpose is to integrate sports facilities and transportation ways in Trentino to provide a comprehensive understanding of how sports facilities are distributed across the region and how they are connected through various transportation means. 
 
@@ -41,6 +41,6 @@ Schemas from schema.org have been used for the project.
 
 ## Knowledge graph
 
-![KG](Phase\ 5\ -\ Data\ Definition)
+![KG](https://github.com/patrick-nanys/SportsFacilitiesAndTransportationInTrentino/tree/main/Phase%205%20-%20Data%20Definition)
 
 
