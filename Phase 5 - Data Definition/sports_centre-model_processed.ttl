@@ -41,23 +41,23 @@ _:node1hhsdtkaux1 a km-dev:R2RMLMapping ;
             {
                 \"name\": \"metaPropertyUri\",
                 \"type\": \"other\",
-                \"value\": \"http://knowdive.disi.unitn.it/etype#sports centre_GID-13007\"
+                \"value\": \"http://knowdive.disi.unitn.it/etype#sports_centre_GID-13007\"
             },
             {
                 \"name\": \"metaPropertyId\",
                 \"type\": \"other\",
-                \"value\": \"http://knowdive.disi.unitn.it/etype#sports centre_GID-130071\"
+                \"value\": \"http://knowdive.disi.unitn.it/etype#sports_centre_GID-130071\"
             },
             {
                 \"name\": \"SemanticTypesArray\",
                 \"type\": \"other\",
                 \"value\": [{
-                    \"DomainUri\": \"http://knowdive.disi.unitn.it/etype#sports centre_GID-13007\",
-                    \"DomainId\": \"http://knowdive.disi.unitn.it/etype#sports centre_GID-130071\",
+                    \"DomainUri\": \"http://knowdive.disi.unitn.it/etype#sports_centre_GID-13007\",
+                    \"DomainId\": \"http://knowdive.disi.unitn.it/etype#sports_centre_GID-130071\",
                     \"isPrimary\": true,
                     \"isProvenance\": false,
                     \"FullType\": \"http://isi.edu/integration/karma/dev#classLink\",
-                    \"DomainLabel\": \"http://knowdive.disi.unitn.it/etype#sports centre_GID-13007/sports centre_GID-130071 (add)\"
+                    \"DomainLabel\": \"http://knowdive.disi.unitn.it/etype#sports_centre_GID-13007/sports_centre_GID-130071 (add)\"
                 }]
             },
             {
@@ -112,20 +112,20 @@ _:node1hhsdtkaux1 a km-dev:R2RMLMapping ;
                 \"type\": \"other\",
                 \"value\": [
                     {
-                        \"DomainUri\": \"http://knowdive.disi.unitn.it/etype#sports centre_GID-13007\",
-                        \"DomainId\": \"http://knowdive.disi.unitn.it/etype#sports centre_GID-130071\",
+                        \"DomainUri\": \"http://knowdive.disi.unitn.it/etype#sports_centre_GID-13007\",
+                        \"DomainId\": \"http://knowdive.disi.unitn.it/etype#sports_centre_GID-130071\",
                         \"isPrimary\": false,
                         \"isProvenance\": false,
                         \"FullType\": \"http://knowdive.disi.unitn.it/etype#id_GID-13016\",
-                        \"DomainLabel\": \"http://knowdive.disi.unitn.it/etype#sports centre_GID-13007/sports centre_GID-130071\"
+                        \"DomainLabel\": \"http://knowdive.disi.unitn.it/etype#sports_centre_GID-13007/sports_centre_GID-130071\"
                     },
                     {
-                        \"DomainUri\": \"http://knowdive.disi.unitn.it/etype#sports centre_GID-13007\",
-                        \"DomainId\": \"http://knowdive.disi.unitn.it/etype#sports centre_GID-130071\",
+                        \"DomainUri\": \"http://knowdive.disi.unitn.it/etype#sports_centre_GID-13007\",
+                        \"DomainId\": \"http://knowdive.disi.unitn.it/etype#sports_centre_GID-130071\",
                         \"isPrimary\": true,
                         \"isProvenance\": false,
                         \"FullType\": \"http://isi.edu/integration/karma/dev#classLink\",
-                        \"DomainLabel\": \"http://knowdive.disi.unitn.it/etype#sports centre_GID-130071\"
+                        \"DomainLabel\": \"http://knowdive.disi.unitn.it/etype#sports_centre_GID-130071\"
                     }
                 ]
             },
@@ -180,12 +180,12 @@ _:node1hhsdtkaux1 a km-dev:R2RMLMapping ;
                 \"name\": \"SemanticTypesArray\",
                 \"type\": \"other\",
                 \"value\": [{
-                    \"DomainUri\": \"http://knowdive.disi.unitn.it/etype#sports centre_GID-13007\",
-                    \"DomainId\": \"http://knowdive.disi.unitn.it/etype#sports centre_GID-130071\",
+                    \"DomainUri\": \"http://knowdive.disi.unitn.it/etype#sports_centre_GID-13007\",
+                    \"DomainId\": \"http://knowdive.disi.unitn.it/etype#sports_centre_GID-130071\",
                     \"isPrimary\": true,
                     \"isProvenance\": false,
                     \"FullType\": \"http://knowdive.disi.unitn.it/etype#longitude_GID-46270\",
-                    \"DomainLabel\": \"http://knowdive.disi.unitn.it/etype#sports centre_GID-13007/sports centre_GID-130071\"
+                    \"DomainLabel\": \"http://knowdive.disi.unitn.it/etype#sports_centre_GID-13007/sports_centre_GID-130071\"
                 }]
             },
             {
@@ -239,12 +239,12 @@ _:node1hhsdtkaux1 a km-dev:R2RMLMapping ;
                 \"name\": \"SemanticTypesArray\",
                 \"type\": \"other\",
                 \"value\": [{
-                    \"DomainUri\": \"http://knowdive.disi.unitn.it/etype#sports centre_GID-13007\",
-                    \"DomainId\": \"http://knowdive.disi.unitn.it/etype#sports centre_GID-130071\",
+                    \"DomainUri\": \"http://knowdive.disi.unitn.it/etype#sports_centre_GID-13007\",
+                    \"DomainId\": \"http://knowdive.disi.unitn.it/etype#sports_centre_GID-130071\",
                     \"isPrimary\": true,
                     \"isProvenance\": false,
                     \"FullType\": \"http://knowdive.disi.unitn.it/etype#latitude_GID-46263\",
-                    \"DomainLabel\": \"http://knowdive.disi.unitn.it/etype#sports centre_GID-13007/sports centre_GID-130071\"
+                    \"DomainLabel\": \"http://knowdive.disi.unitn.it/etype#sports_centre_GID-13007/sports_centre_GID-130071\"
                 }]
             },
             {
@@ -298,12 +298,12 @@ _:node1hhsdtkaux1 a km-dev:R2RMLMapping ;
                 \"name\": \"SemanticTypesArray\",
                 \"type\": \"other\",
                 \"value\": [{
-                    \"DomainUri\": \"http://knowdive.disi.unitn.it/etype#sports centre_GID-13007\",
-                    \"DomainId\": \"http://knowdive.disi.unitn.it/etype#sports centre_GID-130071\",
+                    \"DomainUri\": \"http://knowdive.disi.unitn.it/etype#sports_centre_GID-13007\",
+                    \"DomainId\": \"http://knowdive.disi.unitn.it/etype#sports_centre_GID-130071\",
                     \"isPrimary\": true,
                     \"isProvenance\": false,
-                    \"FullType\": \"http://knowdive.disi.unitn.it/etype#has sport_GID-13036\",
-                    \"DomainLabel\": \"http://knowdive.disi.unitn.it/etype#sports centre_GID-13007/sports centre_GID-130071\"
+                    \"FullType\": \"http://knowdive.disi.unitn.it/etype#has_sport_GID-13036\",
+                    \"DomainLabel\": \"http://knowdive.disi.unitn.it/etype#sports_centre_GID-13007/sports_centre_GID-130071\"
                 }]
             },
             {
@@ -357,12 +357,12 @@ _:node1hhsdtkaux1 a km-dev:R2RMLMapping ;
                 \"name\": \"SemanticTypesArray\",
                 \"type\": \"other\",
                 \"value\": [{
-                    \"DomainUri\": \"http://knowdive.disi.unitn.it/etype#sports centre_GID-13007\",
-                    \"DomainId\": \"http://knowdive.disi.unitn.it/etype#sports centre_GID-130071\",
+                    \"DomainUri\": \"http://knowdive.disi.unitn.it/etype#sports_centre_GID-13007\",
+                    \"DomainId\": \"http://knowdive.disi.unitn.it/etype#sports_centre_GID-130071\",
                     \"isPrimary\": true,
                     \"isProvenance\": false,
                     \"FullType\": \"http://knowdive.disi.unitn.it/etypem#name_GID-2\",
-                    \"DomainLabel\": \"http://knowdive.disi.unitn.it/etype#sports centre_GID-13007/sports centre_GID-130071\"
+                    \"DomainLabel\": \"http://knowdive.disi.unitn.it/etype#sports_centre_GID-13007/sports_centre_GID-130071\"
                 }]
             },
             {
@@ -416,12 +416,12 @@ _:node1hhsdtkaux1 a km-dev:R2RMLMapping ;
                 \"name\": \"SemanticTypesArray\",
                 \"type\": \"other\",
                 \"value\": [{
-                    \"DomainUri\": \"http://knowdive.disi.unitn.it/etype#sports centre_GID-13007\",
-                    \"DomainId\": \"http://knowdive.disi.unitn.it/etype#sports centre_GID-130071\",
+                    \"DomainUri\": \"http://knowdive.disi.unitn.it/etype#sports_centre_GID-13007\",
+                    \"DomainId\": \"http://knowdive.disi.unitn.it/etype#sports_centre_GID-130071\",
                     \"isPrimary\": true,
                     \"isProvenance\": false,
                     \"FullType\": \"http://knowdive.disi.unitn.it/etype#leisure_GID-13017\",
-                    \"DomainLabel\": \"http://knowdive.disi.unitn.it/etype#sports centre_GID-13007/sports centre_GID-130071\"
+                    \"DomainLabel\": \"http://knowdive.disi.unitn.it/etype#sports_centre_GID-13007/sports_centre_GID-130071\"
                 }]
             },
             {
@@ -473,8 +473,8 @@ _:node1hhsdtkaux1 km-dev:hasSubjectMap _:node1hhsdtkaux3 .
 
 _:node1hhsdtkaux3 km-dev:isPartOfMapping _:node1hhsdtkaux1 ;
 	a rr:SubjectMap ;
-	km-dev:alignmentNodeId "http://knowdive.disi.unitn.it/etype#sports centre_GID-130071" ;
-	rr:class <http://knowdive.disi.unitn.it/etype#sports centre_GID-13007> ;
+	km-dev:alignmentNodeId "http://knowdive.disi.unitn.it/etype#sports_centre_GID-130071" ;
+	rr:class <http://knowdive.disi.unitn.it/etype#sports_centre_GID-13007> ;
 	rr:termType rr:BlankNode ;
 	km-dev:namePrefix "SportsCentre1" ;
 	a km-dev:steinerTreeRootNode .
@@ -564,7 +564,7 @@ km-dev:PredicateObjectMap_697e8221-aa28-4d4a-b49a-352fd8be9431 a rr:PredicateObj
 
 _:node1hhsdtkaux1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_697e8221-aa28-4d4a-b49a-352fd8be9431 .
 
-km-dev:PredicateObjectMap_93f744c5-5f8e-446d-9a6a-55bcdecb4868 rr:predicate <http://knowdive.disi.unitn.it/etype#has sport_GID-13036> .
+km-dev:PredicateObjectMap_93f744c5-5f8e-446d-9a6a-55bcdecb4868 rr:predicate <http://knowdive.disi.unitn.it/etype#has_sport_GID-13036> .
 
 _:node1hhsdtkaux9 rr:column "sport" ;
 	a rr:ObjectMap ;

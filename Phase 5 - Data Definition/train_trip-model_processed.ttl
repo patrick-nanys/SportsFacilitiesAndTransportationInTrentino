@@ -43,23 +43,23 @@ _:node1hklvd4ijx1 a km-dev:R2RMLMapping ;
             {
                 \"name\": \"metaPropertyUri\",
                 \"type\": \"other\",
-                \"value\": \"https://schema.org/train trip_GID-13009\"
+                \"value\": \"https://schema.org/train_trip_GID-13009\"
             },
             {
                 \"name\": \"metaPropertyId\",
                 \"type\": \"other\",
-                \"value\": \"https://schema.org/train trip_GID-130091\"
+                \"value\": \"https://schema.org/train_trip_GID-130091\"
             },
             {
                 \"name\": \"SemanticTypesArray\",
                 \"type\": \"other\",
                 \"value\": [{
-                    \"DomainUri\": \"https://schema.org/train trip_GID-13009\",
-                    \"DomainId\": \"https://schema.org/train trip_GID-130091\",
+                    \"DomainUri\": \"https://schema.org/train_trip_GID-13009\",
+                    \"DomainId\": \"https://schema.org/train_trip_GID-130091\",
                     \"isPrimary\": true,
                     \"isProvenance\": false,
                     \"FullType\": \"http://isi.edu/integration/karma/dev#classLink\",
-                    \"DomainLabel\": \"https://schema.org/train trip_GID-13009/train trip_GID-130091 (add)\"
+                    \"DomainLabel\": \"https://schema.org/train_trip_GID-13009/train_trip_GID-130091 (add)\"
                 }]
             },
             {
@@ -117,12 +117,12 @@ _:node1hklvd4ijx1 a km-dev:R2RMLMapping ;
                 \"name\": \"SemanticTypesArray\",
                 \"type\": \"other\",
                 \"value\": [{
-                    \"DomainUri\": \"https://schema.org/train trip_GID-13009\",
-                    \"DomainId\": \"https://schema.org/train trip_GID-130091\",
+                    \"DomainUri\": \"https://schema.org/train_trip_GID-13009\",
+                    \"DomainId\": \"https://schema.org/train_trip_GID-130091\",
                     \"isPrimary\": true,
                     \"isProvenance\": false,
-                    \"FullType\": \"http://knowdive.disi.unitn.it/etype#min latitude_GID-13020\",
-                    \"DomainLabel\": \"https://schema.org/train trip_GID-13009/train trip_GID-130091\"
+                    \"FullType\": \"http://knowdive.disi.unitn.it/etype#min_latitude_GID-13020\",
+                    \"DomainLabel\": \"https://schema.org/train_trip_GID-13009/train_trip_GID-130091\"
                 }]
             },
             {
@@ -180,12 +180,12 @@ _:node1hklvd4ijx1 a km-dev:R2RMLMapping ;
                 \"name\": \"SemanticTypesArray\",
                 \"type\": \"other\",
                 \"value\": [{
-                    \"DomainUri\": \"https://schema.org/train trip_GID-13009\",
-                    \"DomainId\": \"https://schema.org/train trip_GID-130091\",
+                    \"DomainUri\": \"https://schema.org/train_trip_GID-13009\",
+                    \"DomainId\": \"https://schema.org/train_trip_GID-130091\",
                     \"isPrimary\": true,
                     \"isProvenance\": false,
-                    \"FullType\": \"http://knowdive.disi.unitn.it/etype#min longitude_GID-13021\",
-                    \"DomainLabel\": \"https://schema.org/train trip_GID-13009/train trip_GID-130091\"
+                    \"FullType\": \"http://knowdive.disi.unitn.it/etype#min_longitude_GID-13021\",
+                    \"DomainLabel\": \"https://schema.org/train_trip_GID-13009/train_trip_GID-130091\"
                 }]
             },
             {
@@ -243,12 +243,12 @@ _:node1hklvd4ijx1 a km-dev:R2RMLMapping ;
                 \"name\": \"SemanticTypesArray\",
                 \"type\": \"other\",
                 \"value\": [{
-                    \"DomainUri\": \"https://schema.org/train trip_GID-13009\",
-                    \"DomainId\": \"https://schema.org/train trip_GID-130091\",
+                    \"DomainUri\": \"https://schema.org/train_trip_GID-13009\",
+                    \"DomainId\": \"https://schema.org/train_trip_GID-130091\",
                     \"isPrimary\": true,
                     \"isProvenance\": false,
-                    \"FullType\": \"http://knowdive.disi.unitn.it/etype#max latitude_GID-13018\",
-                    \"DomainLabel\": \"https://schema.org/train trip_GID-13009/train trip_GID-130091\"
+                    \"FullType\": \"http://knowdive.disi.unitn.it/etype#max_latitude_GID-13018\",
+                    \"DomainLabel\": \"https://schema.org/train_trip_GID-13009/train_trip_GID-130091\"
                 }]
             },
             {
@@ -306,12 +306,12 @@ _:node1hklvd4ijx1 a km-dev:R2RMLMapping ;
                 \"name\": \"SemanticTypesArray\",
                 \"type\": \"other\",
                 \"value\": [{
-                    \"DomainUri\": \"https://schema.org/train trip_GID-13009\",
-                    \"DomainId\": \"https://schema.org/train trip_GID-130091\",
+                    \"DomainUri\": \"https://schema.org/train_trip_GID-13009\",
+                    \"DomainId\": \"https://schema.org/train_trip_GID-130091\",
                     \"isPrimary\": true,
                     \"isProvenance\": false,
-                    \"FullType\": \"http://knowdive.disi.unitn.it/etype#max longitude_GID-13019\",
-                    \"DomainLabel\": \"https://schema.org/train trip_GID-13009/train trip_GID-130091\"
+                    \"FullType\": \"http://knowdive.disi.unitn.it/etype#max_longitude_GID-13019\",
+                    \"DomainLabel\": \"https://schema.org/train_trip_GID-13009/train_trip_GID-130091\"
                 }]
             },
             {
@@ -369,12 +369,12 @@ _:node1hklvd4ijx1 a km-dev:R2RMLMapping ;
                 \"name\": \"SemanticTypesArray\",
                 \"type\": \"other\",
                 \"value\": [{
-                    \"DomainUri\": \"https://schema.org/train station_GID-22321\",
-                    \"DomainId\": \"https://schema.org/train station_GID-223211\",
+                    \"DomainUri\": \"https://schema.org/train_station_GID-22321\",
+                    \"DomainId\": \"https://schema.org/train_station_GID-223211\",
                     \"isPrimary\": true,
                     \"isProvenance\": false,
                     \"FullType\": \"http://knowdive.disi.unitn.it/etype#latitude_GID-46263\",
-                    \"DomainLabel\": \"https://schema.org/train station_GID-22321/train station_GID-223211 (add)\"
+                    \"DomainLabel\": \"https://schema.org/train_station_GID-22321/train_station_GID-223211 (add)\"
                 }]
             },
             {
@@ -432,12 +432,12 @@ _:node1hklvd4ijx1 a km-dev:R2RMLMapping ;
                 \"name\": \"SemanticTypesArray\",
                 \"type\": \"other\",
                 \"value\": [{
-                    \"DomainUri\": \"https://schema.org/train station_GID-22321\",
-                    \"DomainId\": \"https://schema.org/train station_GID-223211\",
+                    \"DomainUri\": \"https://schema.org/train_station_GID-22321\",
+                    \"DomainId\": \"https://schema.org/train_station_GID-223211\",
                     \"isPrimary\": true,
                     \"isProvenance\": false,
                     \"FullType\": \"http://knowdive.disi.unitn.it/etype#longitude_GID-46270\",
-                    \"DomainLabel\": \"https://schema.org/train station_GID-22321/train station_GID-223211\"
+                    \"DomainLabel\": \"https://schema.org/train_station_GID-22321/train_station_GID-223211\"
                 }]
             },
             {
@@ -495,12 +495,12 @@ _:node1hklvd4ijx1 a km-dev:R2RMLMapping ;
                 \"name\": \"SemanticTypesArray\",
                 \"type\": \"other\",
                 \"value\": [{
-                    \"DomainUri\": \"https://schema.org/train station_GID-22321\",
-                    \"DomainId\": \"https://schema.org/train station_GID-223211\",
+                    \"DomainUri\": \"https://schema.org/train_station_GID-22321\",
+                    \"DomainId\": \"https://schema.org/train_station_GID-223211\",
                     \"isPrimary\": true,
                     \"isProvenance\": false,
-                    \"FullType\": \"http://knowdive.disi.unitn.it/etype#stop reference_GID-13024\",
-                    \"DomainLabel\": \"https://schema.org/train station_GID-22321/train station_GID-223211\"
+                    \"FullType\": \"http://knowdive.disi.unitn.it/etype#stop_reference_GID-13024\",
+                    \"DomainLabel\": \"https://schema.org/train_station_GID-22321/train_station_GID-223211\"
                 }]
             },
             {
@@ -558,12 +558,12 @@ _:node1hklvd4ijx1 a km-dev:R2RMLMapping ;
                 \"name\": \"SemanticTypesArray\",
                 \"type\": \"other\",
                 \"value\": [{
-                    \"DomainUri\": \"https://schema.org/train station_GID-22321\",
-                    \"DomainId\": \"https://schema.org/train station_GID-223211\",
+                    \"DomainUri\": \"https://schema.org/train_station_GID-22321\",
+                    \"DomainId\": \"https://schema.org/train_station_GID-223211\",
                     \"isPrimary\": true,
                     \"isProvenance\": false,
-                    \"FullType\": \"http://knowdive.disi.unitn.it/etype#type of stop_GID-13029\",
-                    \"DomainLabel\": \"https://schema.org/train station_GID-22321/train station_GID-223211\"
+                    \"FullType\": \"http://knowdive.disi.unitn.it/etype#type_of_stop_GID-13029\",
+                    \"DomainLabel\": \"https://schema.org/train_station_GID-22321/train_station_GID-223211\"
                 }]
             },
             {
@@ -621,12 +621,12 @@ _:node1hklvd4ijx1 a km-dev:R2RMLMapping ;
                 \"name\": \"SemanticTypesArray\",
                 \"type\": \"other\",
                 \"value\": [{
-                    \"DomainUri\": \"https://schema.org/train station_GID-22321\",
-                    \"DomainId\": \"https://schema.org/train station_GID-223211\",
+                    \"DomainUri\": \"https://schema.org/train_station_GID-22321\",
+                    \"DomainId\": \"https://schema.org/train_station_GID-223211\",
                     \"isPrimary\": true,
                     \"isProvenance\": false,
-                    \"FullType\": \"http://knowdive.disi.unitn.it/etype#stop role_GID-13025\",
-                    \"DomainLabel\": \"https://schema.org/train station_GID-22321/train station_GID-223211\"
+                    \"FullType\": \"http://knowdive.disi.unitn.it/etype#stop_role_GID-13025\",
+                    \"DomainLabel\": \"https://schema.org/train_station_GID-22321/train_station_GID-223211\"
                 }]
             },
             {
@@ -684,12 +684,12 @@ _:node1hklvd4ijx1 a km-dev:R2RMLMapping ;
                 \"name\": \"SemanticTypesArray\",
                 \"type\": \"other\",
                 \"value\": [{
-                    \"DomainUri\": \"https://schema.org/train station_GID-22321\",
-                    \"DomainId\": \"https://schema.org/train station_GID-223211\",
+                    \"DomainUri\": \"https://schema.org/train_station_GID-22321\",
+                    \"DomainId\": \"https://schema.org/train_station_GID-223211\",
                     \"isPrimary\": true,
                     \"isProvenance\": false,
                     \"FullType\": \"http://knowdive.disi.unitn.it/etype#from_GID-13015\",
-                    \"DomainLabel\": \"https://schema.org/train station_GID-22321/train station_GID-223211\"
+                    \"DomainLabel\": \"https://schema.org/train_station_GID-22321/train_station_GID-223211\"
                 }]
             },
             {
@@ -747,12 +747,12 @@ _:node1hklvd4ijx1 a km-dev:R2RMLMapping ;
                 \"name\": \"SemanticTypesArray\",
                 \"type\": \"other\",
                 \"value\": [{
-                    \"DomainUri\": \"https://schema.org/train station_GID-22321\",
-                    \"DomainId\": \"https://schema.org/train station_GID-223211\",
+                    \"DomainUri\": \"https://schema.org/train_station_GID-22321\",
+                    \"DomainId\": \"https://schema.org/train_station_GID-223211\",
                     \"isPrimary\": true,
                     \"isProvenance\": false,
                     \"FullType\": \"http://knowdive.disi.unitn.it/etype#name_GID-2\",
-                    \"DomainLabel\": \"https://schema.org/train station_GID-22321/train station_GID-223211\"
+                    \"DomainLabel\": \"https://schema.org/train_station_GID-22321/train_station_GID-223211\"
                 }]
             },
             {
@@ -810,12 +810,12 @@ _:node1hklvd4ijx1 a km-dev:R2RMLMapping ;
                 \"name\": \"SemanticTypesArray\",
                 \"type\": \"other\",
                 \"value\": [{
-                    \"DomainUri\": \"https://schema.org/train station_GID-22321\",
-                    \"DomainId\": \"https://schema.org/train station_GID-223211\",
+                    \"DomainUri\": \"https://schema.org/train_station_GID-22321\",
+                    \"DomainId\": \"https://schema.org/train_station_GID-223211\",
                     \"isPrimary\": true,
                     \"isProvenance\": false,
                     \"FullType\": \"http://knowdive.disi.unitn.it/etype#operator_GID-55783\",
-                    \"DomainLabel\": \"https://schema.org/train station_GID-22321/train station_GID-223211\"
+                    \"DomainLabel\": \"https://schema.org/train_station_GID-22321/train_station_GID-223211\"
                 }]
             },
             {
@@ -873,12 +873,12 @@ _:node1hklvd4ijx1 a km-dev:R2RMLMapping ;
                 \"name\": \"SemanticTypesArray\",
                 \"type\": \"other\",
                 \"value\": [{
-                    \"DomainUri\": \"https://schema.org/train station_GID-22321\",
-                    \"DomainId\": \"https://schema.org/train station_GID-223211\",
+                    \"DomainUri\": \"https://schema.org/train_station_GID-22321\",
+                    \"DomainId\": \"https://schema.org/train_station_GID-223211\",
                     \"isPrimary\": true,
                     \"isProvenance\": false,
                     \"FullType\": \"http://knowdive.disi.unitn.it/etype#to_GID-13026\",
-                    \"DomainLabel\": \"https://schema.org/train station_GID-22321/train station_GID-223211\"
+                    \"DomainLabel\": \"https://schema.org/train_station_GID-22321/train_station_GID-223211\"
                 }]
             },
             {
@@ -936,12 +936,12 @@ _:node1hklvd4ijx1 a km-dev:R2RMLMapping ;
                 \"name\": \"SemanticTypesArray\",
                 \"type\": \"other\",
                 \"value\": [{
-                    \"DomainUri\": \"https://schema.org/train trip_GID-13009\",
-                    \"DomainId\": \"https://schema.org/train trip_GID-130091\",
+                    \"DomainUri\": \"https://schema.org/train_trip_GID-13009\",
+                    \"DomainId\": \"https://schema.org/train_trip_GID-130091\",
                     \"isPrimary\": true,
                     \"isProvenance\": false,
-                    \"FullType\": \"http://knowdive.disi.unitn.it/etype#type of transport_GID-13030\",
-                    \"DomainLabel\": \"https://schema.org/train trip_GID-13009/train trip_GID-130091\"
+                    \"FullType\": \"http://knowdive.disi.unitn.it/etype#type_of_transport_GID-13030\",
+                    \"DomainLabel\": \"https://schema.org/train_trip_GID-13009/train_trip_GID-130091\"
                 }]
             },
             {
@@ -999,12 +999,12 @@ _:node1hklvd4ijx1 a km-dev:R2RMLMapping ;
                 \"name\": \"SemanticTypesArray\",
                 \"type\": \"other\",
                 \"value\": [{
-                    \"DomainUri\": \"https://schema.org/train trip_GID-13009\",
-                    \"DomainId\": \"https://schema.org/train trip_GID-130091\",
+                    \"DomainUri\": \"https://schema.org/train_trip_GID-13009\",
+                    \"DomainId\": \"https://schema.org/train_trip_GID-130091\",
                     \"isPrimary\": true,
                     \"isProvenance\": false,
                     \"FullType\": \"http://knowdive.disi.unitn.it/etype#wheelchair_GID-13033\",
-                    \"DomainLabel\": \"https://schema.org/train trip_GID-13009/train trip_GID-130091\"
+                    \"DomainLabel\": \"https://schema.org/train_trip_GID-13009/train_trip_GID-130091\"
                 }]
             },
             {
@@ -1062,12 +1062,12 @@ _:node1hklvd4ijx1 a km-dev:R2RMLMapping ;
                 \"name\": \"SemanticTypesArray\",
                 \"type\": \"other\",
                 \"value\": [{
-                    \"DomainUri\": \"https://schema.org/train trip_GID-13009\",
-                    \"DomainId\": \"https://schema.org/train trip_GID-130091\",
+                    \"DomainUri\": \"https://schema.org/train_trip_GID-13009\",
+                    \"DomainId\": \"https://schema.org/train_trip_GID-130091\",
                     \"isPrimary\": true,
                     \"isProvenance\": false,
                     \"FullType\": \"http://knowdive.disi.unitn.it/etype#network_GID-45586\",
-                    \"DomainLabel\": \"https://schema.org/train trip_GID-13009/train trip_GID-130091\"
+                    \"DomainLabel\": \"https://schema.org/train_trip_GID-13009/train_trip_GID-130091\"
                 }]
             },
             {
@@ -1125,12 +1125,12 @@ _:node1hklvd4ijx1 a km-dev:R2RMLMapping ;
                 \"name\": \"SemanticTypesArray\",
                 \"type\": \"other\",
                 \"value\": [{
-                    \"DomainUri\": \"https://schema.org/train trip_GID-13009\",
-                    \"DomainId\": \"https://schema.org/train trip_GID-130091\",
+                    \"DomainUri\": \"https://schema.org/train_trip_GID-13009\",
+                    \"DomainId\": \"https://schema.org/train_trip_GID-130091\",
                     \"isPrimary\": true,
                     \"isProvenance\": false,
                     \"FullType\": \"http://knowdive.disi.unitn.it/etype#service_GID-2968\",
-                    \"DomainLabel\": \"https://schema.org/train trip_GID-13009/train trip_GID-130091\"
+                    \"DomainLabel\": \"https://schema.org/train_trip_GID-13009/train_trip_GID-130091\"
                 }]
             },
             {
@@ -1188,12 +1188,12 @@ _:node1hklvd4ijx1 a km-dev:R2RMLMapping ;
                 \"name\": \"SemanticTypesArray\",
                 \"type\": \"other\",
                 \"value\": [{
-                    \"DomainUri\": \"https://schema.org/train trip_GID-13009\",
-                    \"DomainId\": \"https://schema.org/train trip_GID-130091\",
+                    \"DomainUri\": \"https://schema.org/train_trip_GID-13009\",
+                    \"DomainId\": \"https://schema.org/train_trip_GID-130091\",
                     \"isPrimary\": true,
                     \"isProvenance\": false,
                     \"FullType\": \"http://knowdive.disi.unitn.it/etype#via_GID-13031\",
-                    \"DomainLabel\": \"https://schema.org/train trip_GID-13009/train trip_GID-130091\"
+                    \"DomainLabel\": \"https://schema.org/train_trip_GID-13009/train_trip_GID-130091\"
                 }]
             },
             {
@@ -1251,12 +1251,12 @@ _:node1hklvd4ijx1 a km-dev:R2RMLMapping ;
                 \"name\": \"SemanticTypesArray\",
                 \"type\": \"other\",
                 \"value\": [{
-                    \"DomainUri\": \"https://schema.org/train trip_GID-13009\",
-                    \"DomainId\": \"https://schema.org/train trip_GID-130091\",
+                    \"DomainUri\": \"https://schema.org/train_trip_GID-13009\",
+                    \"DomainId\": \"https://schema.org/train_trip_GID-130091\",
                     \"isPrimary\": true,
                     \"isProvenance\": false,
-                    \"FullType\": \"http://knowdive.disi.unitn.it/etype#trip reference_GID-13027\",
-                    \"DomainLabel\": \"https://schema.org/train trip_GID-13009/train trip_GID-130091\"
+                    \"FullType\": \"http://knowdive.disi.unitn.it/etype#trip_reference_GID-13027\",
+                    \"DomainLabel\": \"https://schema.org/train_trip_GID-13009/train_trip_GID-130091\"
                 }]
             },
             {
@@ -1300,11 +1300,11 @@ _:node1hklvd4ijx1 a km-dev:R2RMLMapping ;
                 \"name\": \"edge\",
                 \"type\": \"other\",
                 \"value\": {
-                    \"edgeTargetId\": \"https://schema.org/train station_GID-223211\",
-                    \"edgeId\": \"http://knowdive.disi.unitn.it/etype#has stops_GID-13035\",
-                    \"edgeTargetUri\": \"https://schema.org/train station_GID-22321\",
-                    \"edgeSourceId\": \"https://schema.org/train trip_GID-130091\",
-                    \"edgeSourceUri\": \"https://schema.org/train trip_GID-13009\"
+                    \"edgeTargetId\": \"https://schema.org/train_station_GID-223211\",
+                    \"edgeId\": \"http://knowdive.disi.unitn.it/etype#has_stops_GID-13035\",
+                    \"edgeTargetUri\": \"https://schema.org/train_station_GID-22321\",
+                    \"edgeSourceId\": \"https://schema.org/train_trip_GID-130091\",
+                    \"edgeSourceUri\": \"https://schema.org/train_trip_GID-13009\"
                 }
             },
             {
@@ -1341,12 +1341,12 @@ _:node1hklvd4ijx1 km-dev:hasSubjectMap _:node1hklvd4ijx3 .
 
 _:node1hklvd4ijx3 km-dev:isPartOfMapping _:node1hklvd4ijx1 ;
 	a rr:SubjectMap ;
-	km-dev:alignmentNodeId "https://schema.org/train trip_GID-130091" ;
-	rr:class <https://schema.org/train trip_GID-13009> ;
+	km-dev:alignmentNodeId "https://schema.org/train_trip_GID-130091" ;
+	rr:class <https://schema.org/train_trip_GID-13009> ;
 	rr:template "{[\"elements\",\"id\"]}" ;
 	a km-dev:steinerTreeRootNode .
 
-km-dev:PredicateObjectMap_5c601941-72ff-49b8-b47e-d8945c799331 rr:predicate <http://knowdive.disi.unitn.it/etype#has stops_GID-13035> .
+km-dev:PredicateObjectMap_5c601941-72ff-49b8-b47e-d8945c799331 rr:predicate <http://knowdive.disi.unitn.it/etype#has_stops_GID-13035> .
 
 km-dev:RefObjectMap_47b08ca4-ec62-4000-9f3e-0cc9f6d76b16 a rr:RefObjectMap , rr:ObjectMap ;
 	rr:parentTriplesMap km-dev:TriplesMap_1a586f0b-82b3-41e0-8341-13ed8575ed1c ;
@@ -1363,7 +1363,7 @@ km-dev:PredicateObjectMap_5c601941-72ff-49b8-b47e-d8945c799331 a rr:PredicateObj
 
 _:node1hklvd4ijx1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_5c601941-72ff-49b8-b47e-d8945c799331 .
 
-km-dev:PredicateObjectMap_f8b2fc64-ca85-459c-9953-e923340aec8e rr:predicate <http://knowdive.disi.unitn.it/etype#max longitude_GID-13019> .
+km-dev:PredicateObjectMap_f8b2fc64-ca85-459c-9953-e923340aec8e rr:predicate <http://knowdive.disi.unitn.it/etype#max_longitude_GID-13019> .
 
 _:node1hklvd4ijx4 rr:column "[\"elements\",\"bounds\",\"maxlon\"]" ;
 	a rr:ObjectMap ;
@@ -1397,7 +1397,7 @@ km-dev:PredicateObjectMap_a849c073-9eaa-4bce-b08f-72038ac3de2b a rr:PredicateObj
 
 _:node1hklvd4ijx1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_a849c073-9eaa-4bce-b08f-72038ac3de2b .
 
-km-dev:PredicateObjectMap_3ed1abf1-334e-465d-b465-ce546611b813 rr:predicate <http://knowdive.disi.unitn.it/etype#max latitude_GID-13018> .
+km-dev:PredicateObjectMap_3ed1abf1-334e-465d-b465-ce546611b813 rr:predicate <http://knowdive.disi.unitn.it/etype#max_latitude_GID-13018> .
 
 _:node1hklvd4ijx6 rr:column "[\"elements\",\"bounds\",\"maxlat\"]" ;
 	a rr:ObjectMap ;
@@ -1414,7 +1414,7 @@ km-dev:PredicateObjectMap_3ed1abf1-334e-465d-b465-ce546611b813 a rr:PredicateObj
 
 _:node1hklvd4ijx1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_3ed1abf1-334e-465d-b465-ce546611b813 .
 
-km-dev:PredicateObjectMap_787e3584-3c6d-47d0-80dd-09c4ad8ff1bb rr:predicate <http://knowdive.disi.unitn.it/etype#min longitude_GID-13021> .
+km-dev:PredicateObjectMap_787e3584-3c6d-47d0-80dd-09c4ad8ff1bb rr:predicate <http://knowdive.disi.unitn.it/etype#min_longitude_GID-13021> .
 
 _:node1hklvd4ijx7 rr:column "[\"elements\",\"bounds\",\"minlon\"]" ;
 	a rr:ObjectMap ;
@@ -1431,7 +1431,7 @@ km-dev:PredicateObjectMap_787e3584-3c6d-47d0-80dd-09c4ad8ff1bb a rr:PredicateObj
 
 _:node1hklvd4ijx1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_787e3584-3c6d-47d0-80dd-09c4ad8ff1bb .
 
-km-dev:PredicateObjectMap_272815e6-fa3e-434f-9bd1-0a54bd11d5cc rr:predicate <http://knowdive.disi.unitn.it/etype#min latitude_GID-13020> .
+km-dev:PredicateObjectMap_272815e6-fa3e-434f-9bd1-0a54bd11d5cc rr:predicate <http://knowdive.disi.unitn.it/etype#min_latitude_GID-13020> .
 
 _:node1hklvd4ijx8 rr:column "[\"elements\",\"bounds\",\"minlat\"]" ;
 	a rr:ObjectMap ;
@@ -1499,7 +1499,7 @@ km-dev:PredicateObjectMap_8846e07e-a43a-46a2-af55-a862c07c9c13 a rr:PredicateObj
 
 _:node1hklvd4ijx1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_8846e07e-a43a-46a2-af55-a862c07c9c13 .
 
-km-dev:PredicateObjectMap_dc062dc7-2012-48cb-9785-370ab6638925 rr:predicate <http://knowdive.disi.unitn.it/etype#type of transport_GID-13030> .
+km-dev:PredicateObjectMap_dc062dc7-2012-48cb-9785-370ab6638925 rr:predicate <http://knowdive.disi.unitn.it/etype#type_of_transport_GID-13030> .
 
 _:node1hklvd4ijx12 rr:column "[\"elements\",\"tags\",\"route\"]" ;
 	a rr:ObjectMap ;
@@ -1516,7 +1516,7 @@ km-dev:PredicateObjectMap_dc062dc7-2012-48cb-9785-370ab6638925 a rr:PredicateObj
 
 _:node1hklvd4ijx1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_dc062dc7-2012-48cb-9785-370ab6638925 .
 
-km-dev:PredicateObjectMap_a6af1fbb-c173-4104-b3d6-1df562bd3bca rr:predicate <http://knowdive.disi.unitn.it/etype#trip reference_GID-13027> .
+km-dev:PredicateObjectMap_a6af1fbb-c173-4104-b3d6-1df562bd3bca rr:predicate <http://knowdive.disi.unitn.it/etype#trip_reference_GID-13027> .
 
 _:node1hklvd4ijx13 rr:column "[\"elements\",\"tags\",\"ref\"]" ;
 	a rr:ObjectMap ;
@@ -1552,12 +1552,12 @@ _:node1hklvd4ijx1 km-dev:hasSubjectMap _:node1hklvd4ijx15 .
 
 _:node1hklvd4ijx15 km-dev:isPartOfMapping _:node1hklvd4ijx1 ;
 	a rr:SubjectMap ;
-	km-dev:alignmentNodeId "https://schema.org/train station_GID-223211" ;
-	rr:class <https://schema.org/train station_GID-22321> ;
+	km-dev:alignmentNodeId "https://schema.org/train_station_GID-223211" ;
+	rr:class <https://schema.org/train_station_GID-22321> ;
 	rr:termType rr:BlankNode ;
 	km-dev:namePrefix "TrainStation1" .
 
-km-dev:PredicateObjectMap_6b11dfbb-f4cf-441e-b8f8-92991ff96c6f rr:predicate <http://knowdive.disi.unitn.it/etype#stop role_GID-13025> .
+km-dev:PredicateObjectMap_6b11dfbb-f4cf-441e-b8f8-92991ff96c6f rr:predicate <http://knowdive.disi.unitn.it/etype#stop_role_GID-13025> .
 
 _:node1hklvd4ijx16 rr:column "[\"elements\",\"members\",\"role\"]" ;
 	a rr:ObjectMap ;
@@ -1574,7 +1574,7 @@ km-dev:PredicateObjectMap_6b11dfbb-f4cf-441e-b8f8-92991ff96c6f a rr:PredicateObj
 
 _:node1hklvd4ijx1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_6b11dfbb-f4cf-441e-b8f8-92991ff96c6f .
 
-km-dev:PredicateObjectMap_29cbc8cf-7fde-4763-ae4a-c76f5db28e3d rr:predicate <http://knowdive.disi.unitn.it/etype#stop reference_GID-13024> .
+km-dev:PredicateObjectMap_29cbc8cf-7fde-4763-ae4a-c76f5db28e3d rr:predicate <http://knowdive.disi.unitn.it/etype#stop_reference_GID-13024> .
 
 _:node1hklvd4ijx17 rr:column "[\"elements\",\"members\",\"ref\"]" ;
 	a rr:ObjectMap ;
@@ -1608,7 +1608,7 @@ km-dev:PredicateObjectMap_f219faf5-9de1-41d5-b185-04f6887f660f a rr:PredicateObj
 
 _:node1hklvd4ijx1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_f219faf5-9de1-41d5-b185-04f6887f660f .
 
-km-dev:PredicateObjectMap_52122d97-99d7-4224-9e6f-1072557eb322 rr:predicate <http://knowdive.disi.unitn.it/etype#type of stop_GID-13029> .
+km-dev:PredicateObjectMap_52122d97-99d7-4224-9e6f-1072557eb322 rr:predicate <http://knowdive.disi.unitn.it/etype#type_of_stop_GID-13029> .
 
 _:node1hklvd4ijx19 rr:column "[\"elements\",\"members\",\"type\"]" ;
 	a rr:ObjectMap ;

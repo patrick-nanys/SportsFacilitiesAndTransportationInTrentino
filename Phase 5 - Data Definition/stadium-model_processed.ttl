@@ -263,7 +263,7 @@ _:node1hklsp478x1 a km-dev:R2RMLMapping ;
                     \"DomainId\": \"http://knowdive.disi.unitn.it/etype#sport_GID-26811\",
                     \"isPrimary\": true,
                     \"isProvenance\": false,
-                    \"FullType\": \"http://knowdive.disi.unitn.it/etype#type of sport_GID-13028\",
+                    \"FullType\": \"http://knowdive.disi.unitn.it/etype#type_of_sport_GID-13028\",
                     \"DomainLabel\": \"http://knowdive.disi.unitn.it/etype#sport_GID-2681/sport_GID-26811 (add)\"
                 }]
             },
@@ -668,7 +668,7 @@ _:node1hklsp478x10 km-dev:isPartOfMapping _:node1hklsp478x1 ;
 	rr:termType rr:BlankNode ;
 	km-dev:namePrefix "Sport1" .
 
-km-dev:PredicateObjectMap_24a19d8e-379f-4557-b2bb-4a5ef77df53b rr:predicate <http://knowdive.disi.unitn.it/etype#type of sport_GID-13028> .
+km-dev:PredicateObjectMap_24a19d8e-379f-4557-b2bb-4a5ef77df53b rr:predicate <http://knowdive.disi.unitn.it/etype#type_of_sport_GID-13028> .
 
 _:node1hklsp478x11 rr:column "sport" ;
 	a rr:ObjectMap ;

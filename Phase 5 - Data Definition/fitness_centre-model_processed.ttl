@@ -70,23 +70,23 @@ _:node1hhsbec2mx1 a km-dev:R2RMLMapping ;
             {
                 \"name\": \"metaPropertyUri\",
                 \"type\": \"other\",
-                \"value\": \"http://knowdive.disi.unitn.it/etype#fitness centre_GID-13003\"
+                \"value\": \"http://knowdive.disi.unitn.it/etype#fitness_centre_GID-13003\"
             },
             {
                 \"name\": \"metaPropertyId\",
                 \"type\": \"other\",
-                \"value\": \"http://knowdive.disi.unitn.it/etype#fitness centre_GID-130031\"
+                \"value\": \"http://knowdive.disi.unitn.it/etype#fitness_centre_GID-130031\"
             },
             {
                 \"name\": \"SemanticTypesArray\",
                 \"type\": \"other\",
                 \"value\": [{
-                    \"DomainUri\": \"http://knowdive.disi.unitn.it/etype#fitness centre_GID-13003\",
-                    \"DomainId\": \"http://knowdive.disi.unitn.it/etype#fitness centre_GID-130031\",
+                    \"DomainUri\": \"http://knowdive.disi.unitn.it/etype#fitness_centre_GID-13003\",
+                    \"DomainId\": \"http://knowdive.disi.unitn.it/etype#fitness_centre_GID-130031\",
                     \"isPrimary\": true,
                     \"isProvenance\": false,
                     \"FullType\": \"http://isi.edu/integration/karma/dev#classLink\",
-                    \"DomainLabel\": \"http://knowdive.disi.unitn.it/etype#fitness centre_GID-13003/fitness centre_GID-130031 (add)\"
+                    \"DomainLabel\": \"http://knowdive.disi.unitn.it/etype#fitness_centre_GID-13003/fitness_centre_GID-130031 (add)\"
                 }]
             },
             {
@@ -140,12 +140,12 @@ _:node1hhsbec2mx1 a km-dev:R2RMLMapping ;
                 \"name\": \"SemanticTypesArray\",
                 \"type\": \"other\",
                 \"value\": [{
-                    \"DomainUri\": \"http://knowdive.disi.unitn.it/etype#fitness centre_GID-13003\",
-                    \"DomainId\": \"http://knowdive.disi.unitn.it/etype#fitness centre_GID-130031\",
+                    \"DomainUri\": \"http://knowdive.disi.unitn.it/etype#fitness_centre_GID-13003\",
+                    \"DomainId\": \"http://knowdive.disi.unitn.it/etype#fitness_centre_GID-130031\",
                     \"isPrimary\": true,
                     \"isProvenance\": false,
                     \"FullType\": \"http://knowdive.disi.unitn.it/etype#latitude_GID-46263\",
-                    \"DomainLabel\": \"http://knowdive.disi.unitn.it/etype#fitness centre_GID-13003/fitness centre_GID-130031\"
+                    \"DomainLabel\": \"http://knowdive.disi.unitn.it/etype#fitness_centre_GID-13003/fitness_centre_GID-130031\"
                 }]
             },
             {
@@ -199,12 +199,12 @@ _:node1hhsbec2mx1 a km-dev:R2RMLMapping ;
                 \"name\": \"SemanticTypesArray\",
                 \"type\": \"other\",
                 \"value\": [{
-                    \"DomainUri\": \"http://knowdive.disi.unitn.it/etype#fitness centre_GID-13003\",
-                    \"DomainId\": \"http://knowdive.disi.unitn.it/etype#fitness centre_GID-130031\",
+                    \"DomainUri\": \"http://knowdive.disi.unitn.it/etype#fitness_centre_GID-13003\",
+                    \"DomainId\": \"http://knowdive.disi.unitn.it/etype#fitness_centre_GID-130031\",
                     \"isPrimary\": true,
                     \"isProvenance\": false,
                     \"FullType\": \"http://knowdive.disi.unitn.it/etype#longitude_GID-46270\",
-                    \"DomainLabel\": \"http://knowdive.disi.unitn.it/etype#fitness centre_GID-13003/fitness centre_GID-130031\"
+                    \"DomainLabel\": \"http://knowdive.disi.unitn.it/etype#fitness_centre_GID-13003/fitness_centre_GID-130031\"
                 }]
             },
             {
@@ -262,12 +262,12 @@ _:node1hhsbec2mx1 a km-dev:R2RMLMapping ;
             {
                 \"name\": \"metaPropertyUri\",
                 \"type\": \"other\",
-                \"value\": \"http://knowdive.disi.unitn.it/etype#fitness centre_GID-13003\"
+                \"value\": \"http://knowdive.disi.unitn.it/etype#fitness_centre_GID-13003\"
             },
             {
                 \"name\": \"metaPropertyId\",
                 \"type\": \"other\",
-                \"value\": \"http://knowdive.disi.unitn.it/etype#fitness centre_GID-130031\"
+                \"value\": \"http://knowdive.disi.unitn.it/etype#fitness_centre_GID-130031\"
             },
             {
                 \"name\": \"trainAndShowUpdates\",
@@ -321,20 +321,20 @@ _:node1hhsbec2mx1 a km-dev:R2RMLMapping ;
                 \"type\": \"other\",
                 \"value\": [
                     {
-                        \"DomainUri\": \"http://knowdive.disi.unitn.it/etype#fitness centre_GID-13003\",
-                        \"DomainId\": \"http://knowdive.disi.unitn.it/etype#fitness centre_GID-130031\",
+                        \"DomainUri\": \"http://knowdive.disi.unitn.it/etype#fitness_centre_GID-13003\",
+                        \"DomainId\": \"http://knowdive.disi.unitn.it/etype#fitness_centre_GID-130031\",
                         \"isPrimary\": true,
                         \"isProvenance\": false,
                         \"FullType\": \"http://isi.edu/integration/karma/dev#classLink\",
-                        \"DomainLabel\": \"http://knowdive.disi.unitn.it/etype#fitness centre_GID-130031\"
+                        \"DomainLabel\": \"http://knowdive.disi.unitn.it/etype#fitness_centre_GID-130031\"
                     },
                     {
-                        \"DomainUri\": \"http://knowdive.disi.unitn.it/etype#fitness centre_GID-13003\",
-                        \"DomainId\": \"http://knowdive.disi.unitn.it/etype#fitness centre_GID-130031\",
+                        \"DomainUri\": \"http://knowdive.disi.unitn.it/etype#fitness_centre_GID-13003\",
+                        \"DomainId\": \"http://knowdive.disi.unitn.it/etype#fitness_centre_GID-130031\",
                         \"isPrimary\": false,
                         \"isProvenance\": true,
                         \"FullType\": \"http://knowdive.disi.unitn.it/etype#id_GID-13016\",
-                        \"DomainLabel\": \"http://knowdive.disi.unitn.it/etype#fitness centre_GID-13003/fitness centre_GID-130031\"
+                        \"DomainLabel\": \"http://knowdive.disi.unitn.it/etype#fitness_centre_GID-13003/fitness_centre_GID-130031\"
                     }
                 ]
             },
@@ -389,12 +389,12 @@ _:node1hhsbec2mx1 a km-dev:R2RMLMapping ;
                 \"name\": \"SemanticTypesArray\",
                 \"type\": \"other\",
                 \"value\": [{
-                    \"DomainUri\": \"http://knowdive.disi.unitn.it/etype#fitness centre_GID-13003\",
-                    \"DomainId\": \"http://knowdive.disi.unitn.it/etype#fitness centre_GID-130031\",
+                    \"DomainUri\": \"http://knowdive.disi.unitn.it/etype#fitness_centre_GID-13003\",
+                    \"DomainId\": \"http://knowdive.disi.unitn.it/etype#fitness_centre_GID-130031\",
                     \"isPrimary\": true,
                     \"isProvenance\": false,
                     \"FullType\": \"http://knowdive.disi.unitn.it/etype#leisure_GID-13017\",
-                    \"DomainLabel\": \"http://knowdive.disi.unitn.it/etype#fitness centre_GID-13003/fitness centre_GID-130031\"
+                    \"DomainLabel\": \"http://knowdive.disi.unitn.it/etype#fitness_centre_GID-13003/fitness_centre_GID-130031\"
                 }]
             },
             {
@@ -448,12 +448,12 @@ _:node1hhsbec2mx1 a km-dev:R2RMLMapping ;
                 \"name\": \"SemanticTypesArray\",
                 \"type\": \"other\",
                 \"value\": [{
-                    \"DomainUri\": \"http://knowdive.disi.unitn.it/etype#fitness centre_GID-13003\",
-                    \"DomainId\": \"http://knowdive.disi.unitn.it/etype#fitness centre_GID-130031\",
+                    \"DomainUri\": \"http://knowdive.disi.unitn.it/etype#fitness_centre_GID-13003\",
+                    \"DomainId\": \"http://knowdive.disi.unitn.it/etype#fitness_centre_GID-130031\",
                     \"isPrimary\": true,
                     \"isProvenance\": false,
                     \"FullType\": \"http://knowdive.disi.unitn.it/etypem#name_GID-2\",
-                    \"DomainLabel\": \"http://knowdive.disi.unitn.it/etype#fitness centre_GID-13003/fitness centre_GID-130031\"
+                    \"DomainLabel\": \"http://knowdive.disi.unitn.it/etype#fitness_centre_GID-13003/fitness_centre_GID-130031\"
                 }]
             },
             {
@@ -507,12 +507,12 @@ _:node1hhsbec2mx1 a km-dev:R2RMLMapping ;
                 \"name\": \"SemanticTypesArray\",
                 \"type\": \"other\",
                 \"value\": [{
-                    \"DomainUri\": \"http://knowdive.disi.unitn.it/etype#fitness centre_GID-13003\",
-                    \"DomainId\": \"http://knowdive.disi.unitn.it/etype#fitness centre_GID-130031\",
+                    \"DomainUri\": \"http://knowdive.disi.unitn.it/etype#fitness_centre_GID-13003\",
+                    \"DomainId\": \"http://knowdive.disi.unitn.it/etype#fitness_centre_GID-130031\",
                     \"isPrimary\": true,
                     \"isProvenance\": false,
-                    \"FullType\": \"http://knowdive.disi.unitn.it/etype#has sport_GID-13036\",
-                    \"DomainLabel\": \"http://knowdive.disi.unitn.it/etype#fitness centre_GID-13003/fitness centre_GID-130031\"
+                    \"FullType\": \"http://knowdive.disi.unitn.it/etype#has_sport_GID-13036\",
+                    \"DomainLabel\": \"http://knowdive.disi.unitn.it/etype#fitness_centre_GID-13003/fitness_centre_GID-130031\"
                 }]
             },
             {
@@ -566,12 +566,12 @@ _:node1hhsbec2mx1 a km-dev:R2RMLMapping ;
                 \"name\": \"SemanticTypesArray\",
                 \"type\": \"other\",
                 \"value\": [{
-                    \"DomainUri\": \"http://knowdive.disi.unitn.it/etype#fitness centre_GID-13003\",
-                    \"DomainId\": \"http://knowdive.disi.unitn.it/etype#fitness centre_GID-130031\",
+                    \"DomainUri\": \"http://knowdive.disi.unitn.it/etype#fitness_centre_GID-13003\",
+                    \"DomainId\": \"http://knowdive.disi.unitn.it/etype#fitness_centre_GID-130031\",
                     \"isPrimary\": true,
                     \"isProvenance\": false,
-                    \"FullType\": \"http://knowdive.disi.unitn.it/etype#address street_GID-13014\",
-                    \"DomainLabel\": \"http://knowdive.disi.unitn.it/etype#fitness centre_GID-13003/fitness centre_GID-130031\"
+                    \"FullType\": \"http://knowdive.disi.unitn.it/etype#address_street_GID-13014\",
+                    \"DomainLabel\": \"http://knowdive.disi.unitn.it/etype#fitness_centre_GID-13003/fitness_centre_GID-130031\"
                 }]
             },
             {
@@ -625,12 +625,12 @@ _:node1hhsbec2mx1 a km-dev:R2RMLMapping ;
                 \"name\": \"SemanticTypesArray\",
                 \"type\": \"other\",
                 \"value\": [{
-                    \"DomainUri\": \"http://knowdive.disi.unitn.it/etype#fitness centre_GID-13003\",
-                    \"DomainId\": \"http://knowdive.disi.unitn.it/etype#fitness centre_GID-130031\",
+                    \"DomainUri\": \"http://knowdive.disi.unitn.it/etype#fitness_centre_GID-13003\",
+                    \"DomainId\": \"http://knowdive.disi.unitn.it/etype#fitness_centre_GID-130031\",
                     \"isPrimary\": true,
                     \"isProvenance\": false,
-                    \"FullType\": \"http://knowdive.disi.unitn.it/etype#address city_GID-13011\",
-                    \"DomainLabel\": \"http://knowdive.disi.unitn.it/etype#fitness centre_GID-13003/fitness centre_GID-130031\"
+                    \"FullType\": \"http://knowdive.disi.unitn.it/etype#address_city_GID-13011\",
+                    \"DomainLabel\": \"http://knowdive.disi.unitn.it/etype#fitness_centre_GID-13003/fitness_centre_GID-130031\"
                 }]
             },
             {
@@ -684,12 +684,12 @@ _:node1hhsbec2mx1 a km-dev:R2RMLMapping ;
                 \"name\": \"SemanticTypesArray\",
                 \"type\": \"other\",
                 \"value\": [{
-                    \"DomainUri\": \"http://knowdive.disi.unitn.it/etype#fitness centre_GID-13003\",
-                    \"DomainId\": \"http://knowdive.disi.unitn.it/etype#fitness centre_GID-130031\",
+                    \"DomainUri\": \"http://knowdive.disi.unitn.it/etype#fitness_centre_GID-13003\",
+                    \"DomainId\": \"http://knowdive.disi.unitn.it/etype#fitness_centre_GID-130031\",
                     \"isPrimary\": true,
                     \"isProvenance\": false,
-                    \"FullType\": \"http://knowdive.disi.unitn.it/etype#address house number_GID-13012\",
-                    \"DomainLabel\": \"http://knowdive.disi.unitn.it/etype#fitness centre_GID-13003/fitness centre_GID-130031\"
+                    \"FullType\": \"http://knowdive.disi.unitn.it/etype#address_house_number_GID-13012\",
+                    \"DomainLabel\": \"http://knowdive.disi.unitn.it/etype#fitness_centre_GID-13003/fitness_centre_GID-130031\"
                 }]
             },
             {
@@ -743,12 +743,12 @@ _:node1hhsbec2mx1 a km-dev:R2RMLMapping ;
                 \"name\": \"SemanticTypesArray\",
                 \"type\": \"other\",
                 \"value\": [{
-                    \"DomainUri\": \"http://knowdive.disi.unitn.it/etype#fitness centre_GID-13003\",
-                    \"DomainId\": \"http://knowdive.disi.unitn.it/etype#fitness centre_GID-130031\",
+                    \"DomainUri\": \"http://knowdive.disi.unitn.it/etype#fitness_centre_GID-13003\",
+                    \"DomainId\": \"http://knowdive.disi.unitn.it/etype#fitness_centre_GID-130031\",
                     \"isPrimary\": true,
                     \"isProvenance\": false,
-                    \"FullType\": \"http://knowdive.disi.unitn.it/etype#address postcode_GID-13013\",
-                    \"DomainLabel\": \"http://knowdive.disi.unitn.it/etype#fitness centre_GID-13003/fitness centre_GID-130031\"
+                    \"FullType\": \"http://knowdive.disi.unitn.it/etype#address_postcode_GID-13013\",
+                    \"DomainLabel\": \"http://knowdive.disi.unitn.it/etype#fitness_centre_GID-13003/fitness_centre_GID-130031\"
                 }]
             },
             {
@@ -802,12 +802,12 @@ _:node1hhsbec2mx1 a km-dev:R2RMLMapping ;
                 \"name\": \"SemanticTypesArray\",
                 \"type\": \"other\",
                 \"value\": [{
-                    \"DomainUri\": \"http://knowdive.disi.unitn.it/etype#fitness centre_GID-13003\",
-                    \"DomainId\": \"http://knowdive.disi.unitn.it/etype#fitness centre_GID-130031\",
+                    \"DomainUri\": \"http://knowdive.disi.unitn.it/etype#fitness_centre_GID-13003\",
+                    \"DomainId\": \"http://knowdive.disi.unitn.it/etype#fitness_centre_GID-130031\",
                     \"isPrimary\": true,
                     \"isProvenance\": false,
                     \"FullType\": \"http://knowdive.disi.unitn.it/etype#phone_GID-24424\",
-                    \"DomainLabel\": \"http://knowdive.disi.unitn.it/etype#fitness centre_GID-13003/fitness centre_GID-130031\"
+                    \"DomainLabel\": \"http://knowdive.disi.unitn.it/etype#fitness_centre_GID-13003/fitness_centre_GID-130031\"
                 }]
             },
             {
@@ -861,12 +861,12 @@ _:node1hhsbec2mx1 a km-dev:R2RMLMapping ;
                 \"name\": \"SemanticTypesArray\",
                 \"type\": \"other\",
                 \"value\": [{
-                    \"DomainUri\": \"http://knowdive.disi.unitn.it/etype#fitness centre_GID-13003\",
-                    \"DomainId\": \"http://knowdive.disi.unitn.it/etype#fitness centre_GID-130031\",
+                    \"DomainUri\": \"http://knowdive.disi.unitn.it/etype#fitness_centre_GID-13003\",
+                    \"DomainId\": \"http://knowdive.disi.unitn.it/etype#fitness_centre_GID-130031\",
                     \"isPrimary\": true,
                     \"isProvenance\": false,
                     \"FullType\": \"http://knowdive.disi.unitn.it/etype#website_GID-13032\",
-                    \"DomainLabel\": \"http://knowdive.disi.unitn.it/etype#fitness centre_GID-13003/fitness centre_GID-130031\"
+                    \"DomainLabel\": \"http://knowdive.disi.unitn.it/etype#fitness_centre_GID-13003/fitness_centre_GID-130031\"
                 }]
             },
             {
@@ -920,12 +920,12 @@ _:node1hhsbec2mx1 a km-dev:R2RMLMapping ;
                 \"name\": \"SemanticTypesArray\",
                 \"type\": \"other\",
                 \"value\": [{
-                    \"DomainUri\": \"http://knowdive.disi.unitn.it/etype#fitness centre_GID-13003\",
-                    \"DomainId\": \"http://knowdive.disi.unitn.it/etype#fitness centre_GID-130031\",
+                    \"DomainUri\": \"http://knowdive.disi.unitn.it/etype#fitness_centre_GID-13003\",
+                    \"DomainId\": \"http://knowdive.disi.unitn.it/etype#fitness_centre_GID-130031\",
                     \"isPrimary\": true,
                     \"isProvenance\": false,
                     \"FullType\": \"http://knowdive.disi.unitn.it/etype#had_address_country\",
-                    \"DomainLabel\": \"http://knowdive.disi.unitn.it/etype#fitness centre_GID-13003/fitness centre_GID-130031\"
+                    \"DomainLabel\": \"http://knowdive.disi.unitn.it/etype#fitness_centre_GID-13003/fitness_centre_GID-130031\"
                 }]
             },
             {
@@ -980,15 +980,15 @@ _:node1hhsbec2mx1 a km-dev:R2RMLMapping ;
                 \"type\": \"other\",
                 \"value\": [
                     {
-                        \"DomainUri\": \"http://knowdive.disi.unitn.it/etype#fitness centre_GID-13003\",
-                        \"DomainId\": \"http://knowdive.disi.unitn.it/etype#fitness centre_GID-130031\",
+                        \"DomainUri\": \"http://knowdive.disi.unitn.it/etype#fitness_centre_GID-13003\",
+                        \"DomainId\": \"http://knowdive.disi.unitn.it/etype#fitness_centre_GID-130031\",
                         \"isPrimary\": false,
-                        \"FullType\": \"http://knowdive.disi.unitn.it/etype#opening hours_GID-13023\",
+                        \"FullType\": \"http://knowdive.disi.unitn.it/etype#opening_hours_GID-13023\",
                         \"DomainLabel\": \"FitnessCentre1\"
                     },
                     {
-                        \"DomainUri\": \"http://knowdive.disi.unitn.it/etype#fitness centre_GID-13003\",
-                        \"DomainId\": \"http://knowdive.disi.unitn.it/etype#fitness centre_GID-130031\",
+                        \"DomainUri\": \"http://knowdive.disi.unitn.it/etype#fitness_centre_GID-13003\",
+                        \"DomainId\": \"http://knowdive.disi.unitn.it/etype#fitness_centre_GID-130031\",
                         \"isPrimary\": true,
                         \"isProvenance\": false,
                         \"FullType\": \"http://www.w3.org/2000/01/rdf-schema#label\"
@@ -1044,13 +1044,13 @@ _:node1hhsbec2mx1 km-dev:hasSubjectMap _:node1hhsbec2mx3 .
 
 _:node1hhsbec2mx3 km-dev:isPartOfMapping _:node1hhsbec2mx1 ;
 	a rr:SubjectMap ;
-	km-dev:alignmentNodeId "http://knowdive.disi.unitn.it/etype#fitness centre_GID-130031" ;
-	rr:class <http://knowdive.disi.unitn.it/etype#fitness centre_GID-13003> ;
+	km-dev:alignmentNodeId "http://knowdive.disi.unitn.it/etype#fitness_centre_GID-130031" ;
+	rr:class <http://knowdive.disi.unitn.it/etype#fitness_centre_GID-13003> ;
 	rr:termType rr:BlankNode ;
 	km-dev:namePrefix "FitnessCentre1" ;
 	a km-dev:steinerTreeRootNode .
 
-km-dev:PredicateObjectMap_3da342ba-cdcb-4d57-bbf1-8d6e2bbf08c2 rr:predicate <http://knowdive.disi.unitn.it/etype#opening hours_GID-13023> .
+km-dev:PredicateObjectMap_3da342ba-cdcb-4d57-bbf1-8d6e2bbf08c2 rr:predicate <http://knowdive.disi.unitn.it/etype#opening_hours_GID-13023> .
 
 _:node1hhsbec2mx4 rr:column "opening_hours" ;
 	a rr:ObjectMap ;
@@ -1067,7 +1067,7 @@ km-dev:PredicateObjectMap_3da342ba-cdcb-4d57-bbf1-8d6e2bbf08c2 a rr:PredicateObj
 
 _:node1hhsbec2mx1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_3da342ba-cdcb-4d57-bbf1-8d6e2bbf08c2 .
 
-km-dev:PredicateObjectMap_fadfbfc0-56d6-4e18-9161-3f4d3409751d rr:predicate <http://knowdive.disi.unitn.it/etype#address city_GID-13011> .
+km-dev:PredicateObjectMap_fadfbfc0-56d6-4e18-9161-3f4d3409751d rr:predicate <http://knowdive.disi.unitn.it/etype#address_city_GID-13011> .
 
 _:node1hhsbec2mx5 rr:column "addr:city" ;
 	a rr:ObjectMap ;
@@ -1084,7 +1084,7 @@ km-dev:PredicateObjectMap_fadfbfc0-56d6-4e18-9161-3f4d3409751d a rr:PredicateObj
 
 _:node1hhsbec2mx1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_fadfbfc0-56d6-4e18-9161-3f4d3409751d .
 
-km-dev:PredicateObjectMap_772ffbc3-f1dc-46d6-bdf2-0a25ba00bb05 rr:predicate <http://knowdive.disi.unitn.it/etype#address street_GID-13014> .
+km-dev:PredicateObjectMap_772ffbc3-f1dc-46d6-bdf2-0a25ba00bb05 rr:predicate <http://knowdive.disi.unitn.it/etype#address_street_GID-13014> .
 
 _:node1hhsbec2mx6 rr:column "addr:street" ;
 	a rr:ObjectMap ;
@@ -1118,7 +1118,7 @@ km-dev:PredicateObjectMap_7aaf09e3-78be-4de1-972f-79e578483554 a rr:PredicateObj
 
 _:node1hhsbec2mx1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_7aaf09e3-78be-4de1-972f-79e578483554 .
 
-km-dev:PredicateObjectMap_14734aba-0822-4051-81da-71543c6104a6 rr:predicate <http://knowdive.disi.unitn.it/etype#has sport_GID-13036> .
+km-dev:PredicateObjectMap_14734aba-0822-4051-81da-71543c6104a6 rr:predicate <http://knowdive.disi.unitn.it/etype#has_sport_GID-13036> .
 
 _:node1hhsbec2mx8 rr:column "sport" ;
 	a rr:ObjectMap ;
@@ -1203,7 +1203,7 @@ km-dev:PredicateObjectMap_484e728e-304b-4211-84bf-afd42df81735 a rr:PredicateObj
 
 _:node1hhsbec2mx1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_484e728e-304b-4211-84bf-afd42df81735 .
 
-km-dev:PredicateObjectMap_eea83b41-d318-4c6e-a633-a17cff0c571c rr:predicate <http://knowdive.disi.unitn.it/etype#address postcode_GID-13013> .
+km-dev:PredicateObjectMap_eea83b41-d318-4c6e-a633-a17cff0c571c rr:predicate <http://knowdive.disi.unitn.it/etype#address_postcode_GID-13013> .
 
 _:node1hhsbec2mx13 rr:column "addr:postcode" ;
 	a rr:ObjectMap ;
@@ -1220,7 +1220,7 @@ km-dev:PredicateObjectMap_eea83b41-d318-4c6e-a633-a17cff0c571c a rr:PredicateObj
 
 _:node1hhsbec2mx1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_eea83b41-d318-4c6e-a633-a17cff0c571c .
 
-km-dev:PredicateObjectMap_9aa19c84-a71e-4645-bc4e-6763097244b2 rr:predicate <http://knowdive.disi.unitn.it/etype#address house number_GID-13012> .
+km-dev:PredicateObjectMap_9aa19c84-a71e-4645-bc4e-6763097244b2 rr:predicate <http://knowdive.disi.unitn.it/etype#address_house_number_GID-13012> .
 
 _:node1hhsbec2mx14 rr:column "addr:housenumber" ;
 	a rr:ObjectMap ;
