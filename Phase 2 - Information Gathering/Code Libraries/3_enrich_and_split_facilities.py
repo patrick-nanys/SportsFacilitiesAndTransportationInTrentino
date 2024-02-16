@@ -56,6 +56,9 @@ if __name__ == '__main__':
 
     # Apply the concrete number threshold for each leisure category
     for leisure_category, counts in non_nan_counts_by_leisure_final.items():
+        if leisure_category == 'outdoor_climbing_area':
+            continue
+
         # Filter the dataset for the current leisure category 
         category_data = data_filtered[data_filtered['leisure'] == leisure_category]
 
