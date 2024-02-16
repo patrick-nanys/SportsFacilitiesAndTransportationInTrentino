@@ -466,7 +466,7 @@ _:node1hklsv1vnx1 a km-dev:R2RMLMapping ;
                 \"type\": \"other\",
                 \"value\": {
                     \"edgeTargetId\": \"http://knowdive.disi.unitn.it/etype#sport_GID-26811\",
-                    \"edgeId\": \"http://www.semanticweb.org/patrick/ontologies/2023/10/kge-sports/has_sport\",
+                    \"edgeId\": \"http://knowdive.disi.unitn.it/etype#has_sport_GID-13036\",
                     \"edgeTargetUri\": \"http://knowdive.disi.unitn.it/etype#sport_GID-2681\",
                     \"edgeSourceId\": \"http://knowdive.disi.unitn.it/etype#track_GID-222591\",
                     \"edgeSourceUri\": \"http://knowdive.disi.unitn.it/etype#track_GID-22259\"
@@ -512,7 +512,7 @@ _:node1hklsv1vnx3 km-dev:isPartOfMapping _:node1hklsv1vnx1 ;
 	km-dev:namePrefix "Track1" ;
 	a km-dev:steinerTreeRootNode .
 
-km-dev:PredicateObjectMap_b7fccf18-e092-4822-88b7-f0e9128510ca rr:predicate <http://www.semanticweb.org/patrick/ontologies/2023/10/kge-sports/has_sport> .
+km-dev:PredicateObjectMap_b7fccf18-e092-4822-88b7-f0e9128510ca rr:predicate <http://knowdive.disi.unitn.it/etype#has_sport_GID-13036> .
 
 km-dev:RefObjectMap_a2337bc9-a773-4b12-8125-58007f039921 a rr:RefObjectMap , rr:ObjectMap ;
 	rr:parentTriplesMap km-dev:TriplesMap_bbba6bab-1c94-460e-b07a-1560a691a034 ;

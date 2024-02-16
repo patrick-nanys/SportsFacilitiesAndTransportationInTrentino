@@ -1,29 +1,29 @@
-leisure	sport	lat	lon	id	fitness_station
-fitness_station	fitness	11.118559059999999	46.09502604	way/557303733	
-fitness_station	fitness	11.23815142	46.039012639999996	way/888943578	structure
-fitness_station	fitness	11.041928839999999	45.905321	way/1175920372	
-fitness_station	fitness	11.046759739999999	46.09614952	way/1201044459	horizontal_bar
-fitness_station	fitness	10.870441	45.872329925	way/1206114085	
-fitness_station	fitness	10.8902673	45.9275594	node/4175487176	
-fitness_station	fitness	10.8909519	45.927613	node/5117211223	
-fitness_station	fitness	11.4472157	46.3051973	node/6837121065	rings
-fitness_station	fitness	11.4480805	46.3064525	node/6837121072	balance_beam
-fitness_station	fitness	11.4464317	46.3062944	node/6837121075	horizontal_bar
-fitness_station	fitness	11.1171456	46.0967834	node/6886317058	
-fitness_station	fitness	11.1498019	46.0674196	node/6946050300	
-fitness_station	fitness	11.1285725	46.0390037	node/7920675179	
-fitness_station	fitness	11.1290564	46.0387063	node/7950243546	wall_bars
-fitness_station	fitness	11.1289909	46.0383035	node/7950243547	horizontal_bar
-fitness_station	fitness	11.130934	46.0072677	node/8946783728	yes
-fitness_station	fitness	11.1116557	46.0530227	node/9438362507	
-fitness_station	fitness	11.1373606	46.0564092	node/9672240719	horizontal_ladder
-fitness_station	fitness	11.1261707	46.0554073	node/9690559971	
-fitness_station	fitness	11.1060136	46.1402406	node/9691333510	multi
-fitness_station	fitness	11.1025301	46.1001207	node/9776888160	
-fitness_station	fitness	10.8482527	45.8819306	node/9945343684	yes
-fitness_station	fitness	11.1288086	46.0384991	node/10760990682	yes
-fitness_station	fitness	11.1286423	46.0386926	node/10760990683	hurdling
-fitness_station	fitness	11.1291339	46.0390336	node/10760990684	yes
-fitness_station	fitness	11.1108058	46.0428838	node/10846408603	horizontal_bar
-fitness_station	fitness	11.1106545	46.043185	node/11175507915	horizontal_ladder
-fitness_station	climbing	10.9265737	46.3472183	node/4830529778	
+leisure	name	lat	lon	id
+fitness_station		11.118559059999999	46.09502604	way/557303733
+fitness_station		11.23815142	46.039012639999996	way/888943578
+fitness_station		11.041928839999999	45.905321	way/1175920372
+fitness_station		11.046759739999999	46.09614952	way/1201044459
+fitness_station		10.870441	45.872329925	way/1206114085
+fitness_station	Situp	10.8902673	45.9275594	node/4175487176
+fitness_station	Situp	10.8909519	45.927613	node/5117211223
+fitness_station		11.4472157	46.3051973	node/6837121065
+fitness_station		11.4480805	46.3064525	node/6837121072
+fitness_station		11.4464317	46.3062944	node/6837121075
+fitness_station		11.1171456	46.0967834	node/6886317058
+fitness_station		11.1498019	46.0674196	node/6946050300
+fitness_station		11.1285725	46.0390037	node/7920675179
+fitness_station		11.1290564	46.0387063	node/7950243546
+fitness_station		11.1289909	46.0383035	node/7950243547
+fitness_station		11.130934	46.0072677	node/8946783728
+fitness_station		11.1116557	46.0530227	node/9438362507
+fitness_station		11.1373606	46.0564092	node/9672240719
+fitness_station		11.1261707	46.0554073	node/9690559971
+fitness_station		11.1060136	46.1402406	node/9691333510
+fitness_station		11.1025301	46.1001207	node/9776888160
+fitness_station	Calisthenics Park	10.8482527	45.8819306	node/9945343684
+fitness_station		11.1288086	46.0384991	node/10760990682
+fitness_station		11.1286423	46.0386926	node/10760990683
+fitness_station		11.1291339	46.0390336	node/10760990684
+fitness_station		11.1108058	46.0428838	node/10846408603
+fitness_station		11.1106545	46.043185	node/11175507915
+fitness_station		10.9265737	46.3472183	node/4830529778

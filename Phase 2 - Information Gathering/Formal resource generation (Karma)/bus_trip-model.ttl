@@ -5,14 +5,13 @@
 @prefix rr: <http://www.w3.org/ns/r2rml#> .
 @prefix km-dev: <http://isi.edu/integration/karma/dev#> .
 
-_:node1hkluns3hx1 a km-dev:R2RMLMapping ;
+_:node1hku9tdtix1 a km-dev:R2RMLMapping ;
 	km-dev:sourceName "bus_routes_filtered.geojson" ;
-	km-dev:modelPublicationTime "1705838899313"^^xsd:long ;
+	km-dev:modelPublicationTime "1706119051186"^^xsd:long ;
 	km-dev:modelVersion "1.7" ;
-	km-dev:hasInputColumns "[[{\"columnName\":\"elements\"},{\"columnName\":\"tags\"},{\"columnName\":\"network\"}],[{\"columnName\":\"elements\"},{\"columnName\":\"tags\"},{\"columnName\":\"wheelchair\"}],[{\"columnName\":\"elements\"},{\"columnName\":\"id\"}],[{\"columnName\":\"elements\"},{\"columnName\":\"members\"},{\"columnName\":\"ref\"}],[{\"columnName\":\"elements\"},{\"columnName\":\"bounds\"},{\"columnName\":\"maxlat\"}],[{\"columnName\":\"elements\"},{\"columnName\":\"tags\"},{\"columnName\":\"type\"}],[{\"columnName\":\"elements\"},{\"columnName\":\"tags\"},{\"columnName\":\"name\"}],[{\"columnName\":\"elements\"},{\"columnName\":\"bounds\"},{\"columnName\":\"minlon\"}],[{\"columnName\":\"elements\"},{\"columnName\":\"tags\"},{\"columnName\":\"to\"}],[{\"columnName\":\"elements\"},{\"columnName\":\"tags\"},{\"columnName\":\"operator\"}],[{\"columnName\":\"elements\"},{\"columnName\":\"members\"},{\"columnName\":\"role\"}],[{\"columnName\":\"elements\"},{\"columnName\":\"bounds\"},{\"columnName\":\"maxlon\"}],[{\"columnName\":\"elements\"},{\"columnName\":\"tags\"},{\"columnName\":\"interval\"}],[{\"columnName\":\"elements\"},{\"columnName\":\"tags\"},{\"columnName\":\"via\"}],[{\"columnName\":\"elements\"},{\"columnName\":\"members\"},{\"columnName\":\"lon\"}],[{\"columnName\":\"elements\"},{\"columnName\":\"tags\"},{\"columnName\":\"importance\"}],[{\"columnName\":\"elements\"},{\"columnName\":\"bounds\"},{\"columnName\":\"minlat\"}],[{\"columnName\":\"elements\"},{\"columnName\":\"members\"},{\"columnName\":\"lat\"}],[{\"columnName\":\"elements\"},{\"columnName\":\"tags\"},{\"columnName\":\"from\"}],[{\"columnName\":\"elements\"},{\"columnName\":\"tags\"},{\"columnName\":\"ref\"}]]" ;
-	km-dev:hasOutputColumns "[[{\"columnName\":\"elements\"},{\"columnName\":\"tags\"},{\"columnName\":\"network\"}],[{\"columnName\":\"elements\"},{\"columnName\":\"tags\"},{\"columnName\":\"wheelchair\"}],[{\"columnName\":\"elements\"},{\"columnName\":\"id\"}],[{\"columnName\":\"elements\"},{\"columnName\":\"members\"},{\"columnName\":\"ref\"}],[{\"columnName\":\"elements\"},{\"columnName\":\"bounds\"},{\"columnName\":\"maxlat\"}],[{\"columnName\":\"elements\"},{\"columnName\":\"tags\"},{\"columnName\":\"type\"}],[{\"columnName\":\"elements\"},{\"columnName\":\"tags\"},{\"columnName\":\"name\"}],[{\"columnName\":\"elements\"},{\"columnName\":\"bounds\"},{\"columnName\":\"minlon\"}],[{\"columnName\":\"elements\"},{\"columnName\":\"tags\"},{\"columnName\":\"to\"}],[{\"columnName\":\"elements\"},{\"columnName\":\"tags\"},{\"columnName\":\"operator\"}],[{\"columnName\":\"elements\"},{\"columnName\":\"members\"},{\"columnName\":\"role\"}],[{\"columnName\":\"elements\"},{\"columnName\":\"bounds\"},{\"columnName\":\"maxlon\"}],[{\"columnName\":\"elements\"},{\"columnName\":\"tags\"},{\"columnName\":\"interval\"}],[{\"columnName\":\"elements\"},{\"columnName\":\"tags\"},{\"columnName\":\"via\"}],[{\"columnName\":\"elements\"},{\"columnName\":\"members\"},{\"columnName\":\"lon\"}],[{\"columnName\":\"elements\"},{\"columnName\":\"tags\"},{\"columnName\":\"importance\"}],[{\"columnName\":\"elements\"},{\"columnName\":\"bounds\"},{\"columnName\":\"minlat\"}],[{\"columnName\":\"elements\"},{\"columnName\":\"members\"},{\"columnName\":\"lat\"}],[{\"columnName\":\"elements\"},{\"columnName\":\"tags\"},{\"columnName\":\"from\"}],[{\"columnName\":\"elements\"},{\"columnName\":\"tags\"},{\"columnName\":\"ref\"}]]" ;
+	km-dev:hasInputColumns "[[{\"columnName\":\"elements\"},{\"columnName\":\"tags\"},{\"columnName\":\"name\"}],[{\"columnName\":\"elements\"},{\"columnName\":\"tags\"},{\"columnName\":\"route\"}],[{\"columnName\":\"elements\"},{\"columnName\":\"tags\"},{\"columnName\":\"importance\"}],[{\"columnName\":\"elements\"},{\"columnName\":\"tags\"},{\"columnName\":\"ref\"}],[{\"columnName\":\"elements\"},{\"columnName\":\"tags\"},{\"columnName\":\"from\"}],[{\"columnName\":\"elements\"},{\"columnName\":\"tags\"},{\"columnName\":\"via\"}],[{\"columnName\":\"elements\"},{\"columnName\":\"tags\"},{\"columnName\":\"interval\"}],[{\"columnName\":\"elements\"},{\"columnName\":\"tags\"},{\"columnName\":\"operator\"}],[{\"columnName\":\"elements\"},{\"columnName\":\"id\"}],[{\"columnName\":\"elements\"},{\"columnName\":\"members\"},{\"columnName\":\"ref\"}],[{\"columnName\":\"elements\"},{\"columnName\":\"bounds\"},{\"columnName\":\"maxlat\"}],[{\"columnName\":\"elements\"},{\"columnName\":\"tags\"},{\"columnName\":\"network\"}],[{\"columnName\":\"elements\"},{\"columnName\":\"tags\"},{\"columnName\":\"wheelchair\"}],[{\"columnName\":\"elements\"},{\"columnName\":\"bounds\"},{\"columnName\":\"minlon\"}],[{\"columnName\":\"elements\"},{\"columnName\":\"tags\"},{\"columnName\":\"to\"}],[{\"columnName\":\"elements\"},{\"columnName\":\"bounds\"},{\"columnName\":\"minlat\"}],[{\"columnName\":\"elements\"},{\"columnName\":\"members\"},{\"columnName\":\"lon\"}],[{\"columnName\":\"elements\"},{\"columnName\":\"members\"},{\"columnName\":\"lat\"}],[{\"columnName\":\"elements\"},{\"columnName\":\"members\"},{\"columnName\":\"role\"}],[{\"columnName\":\"elements\"},{\"columnName\":\"bounds\"},{\"columnName\":\"maxlon\"}]]" ;
+	km-dev:hasOutputColumns "[[{\"columnName\":\"elements\"},{\"columnName\":\"tags\"},{\"columnName\":\"name\"}],[{\"columnName\":\"elements\"},{\"columnName\":\"tags\"},{\"columnName\":\"route\"}],[{\"columnName\":\"elements\"},{\"columnName\":\"tags\"},{\"columnName\":\"importance\"}],[{\"columnName\":\"elements\"},{\"columnName\":\"tags\"},{\"columnName\":\"ref\"}],[{\"columnName\":\"elements\"},{\"columnName\":\"tags\"},{\"columnName\":\"from\"}],[{\"columnName\":\"elements\"},{\"columnName\":\"tags\"},{\"columnName\":\"via\"}],[{\"columnName\":\"elements\"},{\"columnName\":\"tags\"},{\"columnName\":\"interval\"}],[{\"columnName\":\"elements\"},{\"columnName\":\"tags\"},{\"columnName\":\"operator\"}],[{\"columnName\":\"elements\"},{\"columnName\":\"id\"}],[{\"columnName\":\"elements\"},{\"columnName\":\"members\"},{\"columnName\":\"ref\"}],[{\"columnName\":\"elements\"},{\"columnName\":\"bounds\"},{\"columnName\":\"maxlat\"}],[{\"columnName\":\"elements\"},{\"columnName\":\"tags\"},{\"columnName\":\"network\"}],[{\"columnName\":\"elements\"},{\"columnName\":\"tags\"},{\"columnName\":\"wheelchair\"}],[{\"columnName\":\"elements\"},{\"columnName\":\"bounds\"},{\"columnName\":\"minlon\"}],[{\"columnName\":\"elements\"},{\"columnName\":\"tags\"},{\"columnName\":\"to\"}],[{\"columnName\":\"elements\"},{\"columnName\":\"bounds\"},{\"columnName\":\"minlat\"}],[{\"columnName\":\"elements\"},{\"columnName\":\"members\"},{\"columnName\":\"lon\"}],[{\"columnName\":\"elements\"},{\"columnName\":\"members\"},{\"columnName\":\"lat\"}],[{\"columnName\":\"elements\"},{\"columnName\":\"members\"},{\"columnName\":\"role\"}],[{\"columnName\":\"elements\"},{\"columnName\":\"bounds\"},{\"columnName\":\"maxlon\"}]]" ;
 	km-dev:hasModelLabel "bus_routes_filtered.geojson" ;
-	km-dev:hasBaseURI "http://localhost:8080/source/" ;
 	km-dev:hasWorksheetHistory """[
     {
         \"commandName\": \"SetMetaPropertyCommand\",
@@ -1172,69 +1171,6 @@ _:node1hkluns3hx1 a km-dev:R2RMLMapping ;
                 \"value\": [
                     {\"columnName\": \"elements\"},
                     {\"columnName\": \"tags\"},
-                    {\"columnName\": \"type\"}
-                ]
-            },
-            {
-                \"name\": \"worksheetId\",
-                \"type\": \"worksheetId\",
-                \"value\": \"W\"
-            },
-            {
-                \"name\": \"selectionName\",
-                \"type\": \"other\",
-                \"value\": \"DEFAULT_TEST\"
-            },
-            {
-                \"name\": \"SemanticTypesArray\",
-                \"type\": \"other\",
-                \"value\": [{
-                    \"DomainUri\": \"http://knowdive.disi.unitn.it/etype#BusTrip\",
-                    \"DomainId\": \"http://knowdive.disi.unitn.it/etype#BusTrip1\",
-                    \"isPrimary\": true,
-                    \"isProvenance\": false,
-                    \"FullType\": \"http://knowdive.disi.unitn.it/etype#has_type_of_transport\",
-                    \"DomainLabel\": \"http://knowdive.disi.unitn.it/etype#BusTrip/BusTrip1\"
-                }]
-            },
-            {
-                \"name\": \"trainAndShowUpdates\",
-                \"type\": \"other\",
-                \"value\": true
-            },
-            {
-                \"name\": \"rdfLiteralType\",
-                \"type\": \"other\",
-                \"value\": \"\"
-            },
-            {
-                \"name\": \"language\",
-                \"type\": \"other\",
-                \"value\": \"\"
-            },
-            {
-                \"name\": \"inputColumns\",
-                \"type\": \"hNodeIdList\",
-                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"elements\\\"},{\\\"columnName\\\":\\\"tags\\\"},{\\\"columnName\\\":\\\"type\\\"}]}]\"
-            },
-            {
-                \"name\": \"outputColumns\",
-                \"type\": \"hNodeIdList\",
-                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"elements\\\"},{\\\"columnName\\\":\\\"tags\\\"},{\\\"columnName\\\":\\\"type\\\"}]}]\"
-            }
-        ],
-        \"tags\": [\"SemanticType\"]
-    },
-    {
-        \"commandName\": \"SetSemanticTypeCommand\",
-        \"model\": \"new\",
-        \"inputParameters\": [
-            {
-                \"name\": \"hNodeId\",
-                \"type\": \"hNodeId\",
-                \"value\": [
-                    {\"columnName\": \"elements\"},
-                    {\"columnName\": \"tags\"},
                     {\"columnName\": \"wheelchair\"}
                 ]
             },
@@ -1289,6 +1225,69 @@ _:node1hkluns3hx1 a km-dev:R2RMLMapping ;
         \"tags\": [\"SemanticType\"]
     },
     {
+        \"commandName\": \"SetSemanticTypeCommand\",
+        \"model\": \"new\",
+        \"inputParameters\": [
+            {
+                \"name\": \"hNodeId\",
+                \"type\": \"hNodeId\",
+                \"value\": [
+                    {\"columnName\": \"elements\"},
+                    {\"columnName\": \"tags\"},
+                    {\"columnName\": \"route\"}
+                ]
+            },
+            {
+                \"name\": \"worksheetId\",
+                \"type\": \"worksheetId\",
+                \"value\": \"W\"
+            },
+            {
+                \"name\": \"selectionName\",
+                \"type\": \"other\",
+                \"value\": \"DEFAULT_TEST\"
+            },
+            {
+                \"name\": \"SemanticTypesArray\",
+                \"type\": \"other\",
+                \"value\": [{
+                    \"DomainUri\": \"http://knowdive.disi.unitn.it/etype#BusTrip\",
+                    \"DomainId\": \"http://knowdive.disi.unitn.it/etype#BusTrip1\",
+                    \"isPrimary\": true,
+                    \"isProvenance\": false,
+                    \"FullType\": \"http://knowdive.disi.unitn.it/etype#has_type_of_transport\",
+                    \"DomainLabel\": \"http://knowdive.disi.unitn.it/etype#BusTrip/BusTrip1\"
+                }]
+            },
+            {
+                \"name\": \"trainAndShowUpdates\",
+                \"type\": \"other\",
+                \"value\": true
+            },
+            {
+                \"name\": \"rdfLiteralType\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"language\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"inputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"elements\\\"},{\\\"columnName\\\":\\\"tags\\\"},{\\\"columnName\\\":\\\"route\\\"}]}]\"
+            },
+            {
+                \"name\": \"outputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"elements\\\"},{\\\"columnName\\\":\\\"tags\\\"},{\\\"columnName\\\":\\\"route\\\"}]}]\"
+            }
+        ],
+        \"tags\": [\"SemanticType\"]
+    },
+    {
         \"commandName\": \"AddLinkCommand\",
         \"model\": \"new\",
         \"inputParameters\": [
@@ -1323,390 +1322,390 @@ _:node1hkluns3hx1 a km-dev:R2RMLMapping ;
     }
 ]""" .
 
-km-dev:TriplesMap_28eb8bd2-8466-45a4-acf3-95e311b8b8a5 a rr:TriplesMap .
+km-dev:TriplesMap_9b65e39f-3a70-46fe-91e1-a452033aedaa a rr:TriplesMap .
 
-_:node1hkluns3hx1 km-dev:hasTriplesMap km-dev:TriplesMap_28eb8bd2-8466-45a4-acf3-95e311b8b8a5 .
+_:node1hku9tdtix1 km-dev:hasTriplesMap km-dev:TriplesMap_9b65e39f-3a70-46fe-91e1-a452033aedaa .
 
-km-dev:TriplesMap_28eb8bd2-8466-45a4-acf3-95e311b8b8a5 km-dev:isPartOfMapping _:node1hkluns3hx1 .
+km-dev:TriplesMap_9b65e39f-3a70-46fe-91e1-a452033aedaa km-dev:isPartOfMapping _:node1hku9tdtix1 .
 
-_:node1hkluns3hx2 rr:tableName "bus_routes_filtered.geojson" ;
+_:node1hku9tdtix2 rr:tableName "bus_routes_filtered.geojson" ;
 	a rr:LogicalTable ;
-	km-dev:isPartOfMapping _:node1hkluns3hx1 .
+	km-dev:isPartOfMapping _:node1hku9tdtix1 .
 
-_:node1hkluns3hx1 km-dev:hasLogicalTable _:node1hkluns3hx2 .
+_:node1hku9tdtix1 km-dev:hasLogicalTable _:node1hku9tdtix2 .
 
-km-dev:TriplesMap_28eb8bd2-8466-45a4-acf3-95e311b8b8a5 rr:logicalTable _:node1hkluns3hx2 ;
-	rr:subjectMap _:node1hkluns3hx3 .
+km-dev:TriplesMap_9b65e39f-3a70-46fe-91e1-a452033aedaa rr:logicalTable _:node1hku9tdtix2 ;
+	rr:subjectMap _:node1hku9tdtix3 .
 
-_:node1hkluns3hx1 km-dev:hasSubjectMap _:node1hkluns3hx3 .
+_:node1hku9tdtix1 km-dev:hasSubjectMap _:node1hku9tdtix3 .
 
-_:node1hkluns3hx3 km-dev:isPartOfMapping _:node1hkluns3hx1 ;
+_:node1hku9tdtix3 km-dev:isPartOfMapping _:node1hku9tdtix1 ;
 	a rr:SubjectMap ;
 	km-dev:alignmentNodeId "http://knowdive.disi.unitn.it/etype#BusTrip1" ;
 	rr:class <http://knowdive.disi.unitn.it/etype#BusTrip> ;
 	rr:template "{[\"elements\",\"id\"]}" ;
 	a km-dev:steinerTreeRootNode .
 
-km-dev:PredicateObjectMap_0ca643ea-775d-4225-85ef-31d26f028d96 rr:predicate <http://knowdive.disi.unitn.it/etype#has_stops> .
+km-dev:PredicateObjectMap_cef5760e-45b0-417b-a9a2-8883c0a3a967 rr:predicate <http://knowdive.disi.unitn.it/etype#has_stops> .
 
-km-dev:RefObjectMap_52039517-1920-4dc2-85fb-d7491df03bb2 a rr:RefObjectMap , rr:ObjectMap ;
-	rr:parentTriplesMap km-dev:TriplesMap_545e8f54-8b2c-45b3-8124-2deac7a4b144 ;
-	km-dev:isPartOfMapping _:node1hkluns3hx1 .
+km-dev:RefObjectMap_1098d6d9-c80d-446c-8b83-01910aacfd6a a rr:RefObjectMap , rr:ObjectMap ;
+	rr:parentTriplesMap km-dev:TriplesMap_5299790b-3be9-4cce-a16c-af71b0c269ac ;
+	km-dev:isPartOfMapping _:node1hku9tdtix1 .
 
-_:node1hkluns3hx1 km-dev:hasObjectMap km-dev:RefObjectMap_52039517-1920-4dc2-85fb-d7491df03bb2 .
+_:node1hku9tdtix1 km-dev:hasObjectMap km-dev:RefObjectMap_1098d6d9-c80d-446c-8b83-01910aacfd6a .
 
-km-dev:PredicateObjectMap_0ca643ea-775d-4225-85ef-31d26f028d96 rr:objectMap km-dev:RefObjectMap_52039517-1920-4dc2-85fb-d7491df03bb2 .
+km-dev:PredicateObjectMap_cef5760e-45b0-417b-a9a2-8883c0a3a967 rr:objectMap km-dev:RefObjectMap_1098d6d9-c80d-446c-8b83-01910aacfd6a .
 
-km-dev:TriplesMap_28eb8bd2-8466-45a4-acf3-95e311b8b8a5 rr:predicateObjectMap km-dev:PredicateObjectMap_0ca643ea-775d-4225-85ef-31d26f028d96 .
+km-dev:TriplesMap_9b65e39f-3a70-46fe-91e1-a452033aedaa rr:predicateObjectMap km-dev:PredicateObjectMap_cef5760e-45b0-417b-a9a2-8883c0a3a967 .
 
-km-dev:PredicateObjectMap_0ca643ea-775d-4225-85ef-31d26f028d96 a rr:PredicateObjectMap ;
-	km-dev:isPartOfMapping _:node1hkluns3hx1 .
+km-dev:PredicateObjectMap_cef5760e-45b0-417b-a9a2-8883c0a3a967 a rr:PredicateObjectMap ;
+	km-dev:isPartOfMapping _:node1hku9tdtix1 .
 
-_:node1hkluns3hx1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_0ca643ea-775d-4225-85ef-31d26f028d96 .
+_:node1hku9tdtix1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_cef5760e-45b0-417b-a9a2-8883c0a3a967 .
 
-km-dev:PredicateObjectMap_83f950f8-fa8b-4b7f-bef0-e2b9c16a5d0e rr:predicate <http://knowdive.disi.unitn.it/etype#has_network> .
+km-dev:PredicateObjectMap_cc1bcd49-bad6-436e-8bdc-9842d4df9c50 rr:predicate <http://knowdive.disi.unitn.it/etype#has_name> .
 
-_:node1hkluns3hx4 rr:column "[\"elements\",\"tags\",\"network\"]" ;
+_:node1hku9tdtix4 rr:column "[\"elements\",\"tags\",\"name\"]" ;
 	a rr:ObjectMap ;
-	km-dev:isPartOfMapping _:node1hkluns3hx1 .
+	km-dev:isPartOfMapping _:node1hku9tdtix1 .
 
-_:node1hkluns3hx1 km-dev:hasObjectMap _:node1hkluns3hx4 .
+_:node1hku9tdtix1 km-dev:hasObjectMap _:node1hku9tdtix4 .
 
-km-dev:PredicateObjectMap_83f950f8-fa8b-4b7f-bef0-e2b9c16a5d0e rr:objectMap _:node1hkluns3hx4 .
+km-dev:PredicateObjectMap_cc1bcd49-bad6-436e-8bdc-9842d4df9c50 rr:objectMap _:node1hku9tdtix4 .
 
-km-dev:TriplesMap_28eb8bd2-8466-45a4-acf3-95e311b8b8a5 rr:predicateObjectMap km-dev:PredicateObjectMap_83f950f8-fa8b-4b7f-bef0-e2b9c16a5d0e .
+km-dev:TriplesMap_9b65e39f-3a70-46fe-91e1-a452033aedaa rr:predicateObjectMap km-dev:PredicateObjectMap_cc1bcd49-bad6-436e-8bdc-9842d4df9c50 .
 
-km-dev:PredicateObjectMap_83f950f8-fa8b-4b7f-bef0-e2b9c16a5d0e a rr:PredicateObjectMap ;
-	km-dev:isPartOfMapping _:node1hkluns3hx1 .
+km-dev:PredicateObjectMap_cc1bcd49-bad6-436e-8bdc-9842d4df9c50 a rr:PredicateObjectMap ;
+	km-dev:isPartOfMapping _:node1hku9tdtix1 .
 
-_:node1hkluns3hx1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_83f950f8-fa8b-4b7f-bef0-e2b9c16a5d0e .
+_:node1hku9tdtix1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_cc1bcd49-bad6-436e-8bdc-9842d4df9c50 .
 
-km-dev:PredicateObjectMap_e5a41a61-f09b-4b6f-ae0f-9757521c4e20 rr:predicate <http://knowdive.disi.unitn.it/etype#has_wheelchair> .
+km-dev:PredicateObjectMap_66f36b11-d299-464f-b377-f20dac6f5e90 rr:predicate <http://knowdive.disi.unitn.it/etype#has_type_of_transport> .
 
-_:node1hkluns3hx5 rr:column "[\"elements\",\"tags\",\"wheelchair\"]" ;
+_:node1hku9tdtix5 rr:column "[\"elements\",\"tags\",\"route\"]" ;
 	a rr:ObjectMap ;
-	km-dev:isPartOfMapping _:node1hkluns3hx1 .
+	km-dev:isPartOfMapping _:node1hku9tdtix1 .
 
-_:node1hkluns3hx1 km-dev:hasObjectMap _:node1hkluns3hx5 .
+_:node1hku9tdtix1 km-dev:hasObjectMap _:node1hku9tdtix5 .
 
-km-dev:PredicateObjectMap_e5a41a61-f09b-4b6f-ae0f-9757521c4e20 rr:objectMap _:node1hkluns3hx5 .
+km-dev:PredicateObjectMap_66f36b11-d299-464f-b377-f20dac6f5e90 rr:objectMap _:node1hku9tdtix5 .
 
-km-dev:TriplesMap_28eb8bd2-8466-45a4-acf3-95e311b8b8a5 rr:predicateObjectMap km-dev:PredicateObjectMap_e5a41a61-f09b-4b6f-ae0f-9757521c4e20 .
+km-dev:TriplesMap_9b65e39f-3a70-46fe-91e1-a452033aedaa rr:predicateObjectMap km-dev:PredicateObjectMap_66f36b11-d299-464f-b377-f20dac6f5e90 .
 
-km-dev:PredicateObjectMap_e5a41a61-f09b-4b6f-ae0f-9757521c4e20 a rr:PredicateObjectMap ;
-	km-dev:isPartOfMapping _:node1hkluns3hx1 .
+km-dev:PredicateObjectMap_66f36b11-d299-464f-b377-f20dac6f5e90 a rr:PredicateObjectMap ;
+	km-dev:isPartOfMapping _:node1hku9tdtix1 .
 
-_:node1hkluns3hx1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_e5a41a61-f09b-4b6f-ae0f-9757521c4e20 .
+_:node1hku9tdtix1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_66f36b11-d299-464f-b377-f20dac6f5e90 .
 
-km-dev:PredicateObjectMap_d1e73657-9c24-4758-bd1d-b22cdaad61da rr:predicate <http://knowdive.disi.unitn.it/etype#has_max_latitude> .
+km-dev:PredicateObjectMap_057e8504-b83d-4022-a5d3-e688108f927e rr:predicate <http://knowdive.disi.unitn.it/etype#has_importance> .
 
-_:node1hkluns3hx6 rr:column "[\"elements\",\"bounds\",\"maxlat\"]" ;
+_:node1hku9tdtix6 rr:column "[\"elements\",\"tags\",\"importance\"]" ;
 	a rr:ObjectMap ;
-	km-dev:isPartOfMapping _:node1hkluns3hx1 .
+	km-dev:isPartOfMapping _:node1hku9tdtix1 .
 
-_:node1hkluns3hx1 km-dev:hasObjectMap _:node1hkluns3hx6 .
+_:node1hku9tdtix1 km-dev:hasObjectMap _:node1hku9tdtix6 .
 
-km-dev:PredicateObjectMap_d1e73657-9c24-4758-bd1d-b22cdaad61da rr:objectMap _:node1hkluns3hx6 .
+km-dev:PredicateObjectMap_057e8504-b83d-4022-a5d3-e688108f927e rr:objectMap _:node1hku9tdtix6 .
 
-km-dev:TriplesMap_28eb8bd2-8466-45a4-acf3-95e311b8b8a5 rr:predicateObjectMap km-dev:PredicateObjectMap_d1e73657-9c24-4758-bd1d-b22cdaad61da .
+km-dev:TriplesMap_9b65e39f-3a70-46fe-91e1-a452033aedaa rr:predicateObjectMap km-dev:PredicateObjectMap_057e8504-b83d-4022-a5d3-e688108f927e .
 
-km-dev:PredicateObjectMap_d1e73657-9c24-4758-bd1d-b22cdaad61da a rr:PredicateObjectMap ;
-	km-dev:isPartOfMapping _:node1hkluns3hx1 .
+km-dev:PredicateObjectMap_057e8504-b83d-4022-a5d3-e688108f927e a rr:PredicateObjectMap ;
+	km-dev:isPartOfMapping _:node1hku9tdtix1 .
 
-_:node1hkluns3hx1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_d1e73657-9c24-4758-bd1d-b22cdaad61da .
+_:node1hku9tdtix1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_057e8504-b83d-4022-a5d3-e688108f927e .
 
-km-dev:PredicateObjectMap_a28d9c9c-ebb4-43eb-b7df-568ac91148d4 rr:predicate <http://knowdive.disi.unitn.it/etype#has_type_of_transport> .
+km-dev:PredicateObjectMap_5b0c91af-d735-4a04-973d-6b82850b8c19 rr:predicate <http://knowdive.disi.unitn.it/etype#has_trip_reference> .
 
-_:node1hkluns3hx7 rr:column "[\"elements\",\"tags\",\"type\"]" ;
+_:node1hku9tdtix7 rr:column "[\"elements\",\"tags\",\"ref\"]" ;
 	a rr:ObjectMap ;
-	km-dev:isPartOfMapping _:node1hkluns3hx1 .
+	km-dev:isPartOfMapping _:node1hku9tdtix1 .
 
-_:node1hkluns3hx1 km-dev:hasObjectMap _:node1hkluns3hx7 .
+_:node1hku9tdtix1 km-dev:hasObjectMap _:node1hku9tdtix7 .
 
-km-dev:PredicateObjectMap_a28d9c9c-ebb4-43eb-b7df-568ac91148d4 rr:objectMap _:node1hkluns3hx7 .
+km-dev:PredicateObjectMap_5b0c91af-d735-4a04-973d-6b82850b8c19 rr:objectMap _:node1hku9tdtix7 .
 
-km-dev:TriplesMap_28eb8bd2-8466-45a4-acf3-95e311b8b8a5 rr:predicateObjectMap km-dev:PredicateObjectMap_a28d9c9c-ebb4-43eb-b7df-568ac91148d4 .
+km-dev:TriplesMap_9b65e39f-3a70-46fe-91e1-a452033aedaa rr:predicateObjectMap km-dev:PredicateObjectMap_5b0c91af-d735-4a04-973d-6b82850b8c19 .
 
-km-dev:PredicateObjectMap_a28d9c9c-ebb4-43eb-b7df-568ac91148d4 a rr:PredicateObjectMap ;
-	km-dev:isPartOfMapping _:node1hkluns3hx1 .
+km-dev:PredicateObjectMap_5b0c91af-d735-4a04-973d-6b82850b8c19 a rr:PredicateObjectMap ;
+	km-dev:isPartOfMapping _:node1hku9tdtix1 .
 
-_:node1hkluns3hx1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_a28d9c9c-ebb4-43eb-b7df-568ac91148d4 .
+_:node1hku9tdtix1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_5b0c91af-d735-4a04-973d-6b82850b8c19 .
 
-km-dev:PredicateObjectMap_43d58f17-aeba-47d8-b104-d7ae255d9821 rr:predicate <http://knowdive.disi.unitn.it/etype#has_name> .
+km-dev:PredicateObjectMap_2e660ba2-113a-478a-ac2a-956a19b38683 rr:predicate <http://knowdive.disi.unitn.it/etype#has_from> .
 
-_:node1hkluns3hx8 rr:column "[\"elements\",\"tags\",\"name\"]" ;
+_:node1hku9tdtix8 rr:column "[\"elements\",\"tags\",\"from\"]" ;
 	a rr:ObjectMap ;
-	km-dev:isPartOfMapping _:node1hkluns3hx1 .
+	km-dev:isPartOfMapping _:node1hku9tdtix1 .
 
-_:node1hkluns3hx1 km-dev:hasObjectMap _:node1hkluns3hx8 .
+_:node1hku9tdtix1 km-dev:hasObjectMap _:node1hku9tdtix8 .
 
-km-dev:PredicateObjectMap_43d58f17-aeba-47d8-b104-d7ae255d9821 rr:objectMap _:node1hkluns3hx8 .
+km-dev:PredicateObjectMap_2e660ba2-113a-478a-ac2a-956a19b38683 rr:objectMap _:node1hku9tdtix8 .
 
-km-dev:TriplesMap_28eb8bd2-8466-45a4-acf3-95e311b8b8a5 rr:predicateObjectMap km-dev:PredicateObjectMap_43d58f17-aeba-47d8-b104-d7ae255d9821 .
+km-dev:TriplesMap_9b65e39f-3a70-46fe-91e1-a452033aedaa rr:predicateObjectMap km-dev:PredicateObjectMap_2e660ba2-113a-478a-ac2a-956a19b38683 .
 
-km-dev:PredicateObjectMap_43d58f17-aeba-47d8-b104-d7ae255d9821 a rr:PredicateObjectMap ;
-	km-dev:isPartOfMapping _:node1hkluns3hx1 .
+km-dev:PredicateObjectMap_2e660ba2-113a-478a-ac2a-956a19b38683 a rr:PredicateObjectMap ;
+	km-dev:isPartOfMapping _:node1hku9tdtix1 .
 
-_:node1hkluns3hx1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_43d58f17-aeba-47d8-b104-d7ae255d9821 .
+_:node1hku9tdtix1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_2e660ba2-113a-478a-ac2a-956a19b38683 .
 
-km-dev:PredicateObjectMap_8bbb025e-02af-412a-8a7c-46dbb2c92384 rr:predicate <http://knowdive.disi.unitn.it/etype#has_min_longitude> .
+km-dev:PredicateObjectMap_0c2658e0-d85e-42bd-84e1-1495e1fe0fec rr:predicate <http://knowdive.disi.unitn.it/etype#has_via> .
 
-_:node1hkluns3hx9 rr:column "[\"elements\",\"bounds\",\"minlon\"]" ;
+_:node1hku9tdtix9 rr:column "[\"elements\",\"tags\",\"via\"]" ;
 	a rr:ObjectMap ;
-	km-dev:isPartOfMapping _:node1hkluns3hx1 .
+	km-dev:isPartOfMapping _:node1hku9tdtix1 .
 
-_:node1hkluns3hx1 km-dev:hasObjectMap _:node1hkluns3hx9 .
+_:node1hku9tdtix1 km-dev:hasObjectMap _:node1hku9tdtix9 .
 
-km-dev:PredicateObjectMap_8bbb025e-02af-412a-8a7c-46dbb2c92384 rr:objectMap _:node1hkluns3hx9 .
+km-dev:PredicateObjectMap_0c2658e0-d85e-42bd-84e1-1495e1fe0fec rr:objectMap _:node1hku9tdtix9 .
 
-km-dev:TriplesMap_28eb8bd2-8466-45a4-acf3-95e311b8b8a5 rr:predicateObjectMap km-dev:PredicateObjectMap_8bbb025e-02af-412a-8a7c-46dbb2c92384 .
+km-dev:TriplesMap_9b65e39f-3a70-46fe-91e1-a452033aedaa rr:predicateObjectMap km-dev:PredicateObjectMap_0c2658e0-d85e-42bd-84e1-1495e1fe0fec .
 
-km-dev:PredicateObjectMap_8bbb025e-02af-412a-8a7c-46dbb2c92384 a rr:PredicateObjectMap ;
-	km-dev:isPartOfMapping _:node1hkluns3hx1 .
+km-dev:PredicateObjectMap_0c2658e0-d85e-42bd-84e1-1495e1fe0fec a rr:PredicateObjectMap ;
+	km-dev:isPartOfMapping _:node1hku9tdtix1 .
 
-_:node1hkluns3hx1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_8bbb025e-02af-412a-8a7c-46dbb2c92384 .
+_:node1hku9tdtix1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_0c2658e0-d85e-42bd-84e1-1495e1fe0fec .
 
-km-dev:PredicateObjectMap_5b22b60f-4926-4b70-9590-de04be4be71a rr:predicate <http://knowdive.disi.unitn.it/etype#has_to> .
+km-dev:PredicateObjectMap_b13782fb-0bb0-49f4-8020-3dfede65dbf1 rr:predicate <http://knowdive.disi.unitn.it/etype#has_interval> .
 
-_:node1hkluns3hx10 rr:column "[\"elements\",\"tags\",\"to\"]" ;
+_:node1hku9tdtix10 rr:column "[\"elements\",\"tags\",\"interval\"]" ;
 	a rr:ObjectMap ;
-	km-dev:isPartOfMapping _:node1hkluns3hx1 .
+	km-dev:isPartOfMapping _:node1hku9tdtix1 .
 
-_:node1hkluns3hx1 km-dev:hasObjectMap _:node1hkluns3hx10 .
+_:node1hku9tdtix1 km-dev:hasObjectMap _:node1hku9tdtix10 .
 
-km-dev:PredicateObjectMap_5b22b60f-4926-4b70-9590-de04be4be71a rr:objectMap _:node1hkluns3hx10 .
+km-dev:PredicateObjectMap_b13782fb-0bb0-49f4-8020-3dfede65dbf1 rr:objectMap _:node1hku9tdtix10 .
 
-km-dev:TriplesMap_28eb8bd2-8466-45a4-acf3-95e311b8b8a5 rr:predicateObjectMap km-dev:PredicateObjectMap_5b22b60f-4926-4b70-9590-de04be4be71a .
+km-dev:TriplesMap_9b65e39f-3a70-46fe-91e1-a452033aedaa rr:predicateObjectMap km-dev:PredicateObjectMap_b13782fb-0bb0-49f4-8020-3dfede65dbf1 .
 
-km-dev:PredicateObjectMap_5b22b60f-4926-4b70-9590-de04be4be71a a rr:PredicateObjectMap ;
-	km-dev:isPartOfMapping _:node1hkluns3hx1 .
+km-dev:PredicateObjectMap_b13782fb-0bb0-49f4-8020-3dfede65dbf1 a rr:PredicateObjectMap ;
+	km-dev:isPartOfMapping _:node1hku9tdtix1 .
 
-_:node1hkluns3hx1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_5b22b60f-4926-4b70-9590-de04be4be71a .
+_:node1hku9tdtix1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_b13782fb-0bb0-49f4-8020-3dfede65dbf1 .
 
-km-dev:PredicateObjectMap_10b31eef-1650-4c29-8d60-b3f22892511f rr:predicate <http://knowdive.disi.unitn.it/etype#has_operator> .
+km-dev:PredicateObjectMap_9355eb32-2e58-4e66-963e-8edd844abe8d rr:predicate <http://knowdive.disi.unitn.it/etype#has_operator> .
 
-_:node1hkluns3hx11 rr:column "[\"elements\",\"tags\",\"operator\"]" ;
+_:node1hku9tdtix11 rr:column "[\"elements\",\"tags\",\"operator\"]" ;
 	a rr:ObjectMap ;
-	km-dev:isPartOfMapping _:node1hkluns3hx1 .
+	km-dev:isPartOfMapping _:node1hku9tdtix1 .
 
-_:node1hkluns3hx1 km-dev:hasObjectMap _:node1hkluns3hx11 .
+_:node1hku9tdtix1 km-dev:hasObjectMap _:node1hku9tdtix11 .
 
-km-dev:PredicateObjectMap_10b31eef-1650-4c29-8d60-b3f22892511f rr:objectMap _:node1hkluns3hx11 .
+km-dev:PredicateObjectMap_9355eb32-2e58-4e66-963e-8edd844abe8d rr:objectMap _:node1hku9tdtix11 .
 
-km-dev:TriplesMap_28eb8bd2-8466-45a4-acf3-95e311b8b8a5 rr:predicateObjectMap km-dev:PredicateObjectMap_10b31eef-1650-4c29-8d60-b3f22892511f .
+km-dev:TriplesMap_9b65e39f-3a70-46fe-91e1-a452033aedaa rr:predicateObjectMap km-dev:PredicateObjectMap_9355eb32-2e58-4e66-963e-8edd844abe8d .
 
-km-dev:PredicateObjectMap_10b31eef-1650-4c29-8d60-b3f22892511f a rr:PredicateObjectMap ;
-	km-dev:isPartOfMapping _:node1hkluns3hx1 .
+km-dev:PredicateObjectMap_9355eb32-2e58-4e66-963e-8edd844abe8d a rr:PredicateObjectMap ;
+	km-dev:isPartOfMapping _:node1hku9tdtix1 .
 
-_:node1hkluns3hx1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_10b31eef-1650-4c29-8d60-b3f22892511f .
+_:node1hku9tdtix1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_9355eb32-2e58-4e66-963e-8edd844abe8d .
 
-km-dev:PredicateObjectMap_5130a497-97f4-4feb-bad8-a1997050e1b3 rr:predicate <http://knowdive.disi.unitn.it/etype#has_max_longitude> .
+km-dev:PredicateObjectMap_e5ce7e64-6681-401e-ace6-705c4d55e06d rr:predicate <http://knowdive.disi.unitn.it/etype#has_max_latitude> .
 
-_:node1hkluns3hx12 rr:column "[\"elements\",\"bounds\",\"maxlon\"]" ;
+_:node1hku9tdtix12 rr:column "[\"elements\",\"bounds\",\"maxlat\"]" ;
 	a rr:ObjectMap ;
-	km-dev:isPartOfMapping _:node1hkluns3hx1 .
+	km-dev:isPartOfMapping _:node1hku9tdtix1 .
 
-_:node1hkluns3hx1 km-dev:hasObjectMap _:node1hkluns3hx12 .
+_:node1hku9tdtix1 km-dev:hasObjectMap _:node1hku9tdtix12 .
 
-km-dev:PredicateObjectMap_5130a497-97f4-4feb-bad8-a1997050e1b3 rr:objectMap _:node1hkluns3hx12 .
+km-dev:PredicateObjectMap_e5ce7e64-6681-401e-ace6-705c4d55e06d rr:objectMap _:node1hku9tdtix12 .
 
-km-dev:TriplesMap_28eb8bd2-8466-45a4-acf3-95e311b8b8a5 rr:predicateObjectMap km-dev:PredicateObjectMap_5130a497-97f4-4feb-bad8-a1997050e1b3 .
+km-dev:TriplesMap_9b65e39f-3a70-46fe-91e1-a452033aedaa rr:predicateObjectMap km-dev:PredicateObjectMap_e5ce7e64-6681-401e-ace6-705c4d55e06d .
 
-km-dev:PredicateObjectMap_5130a497-97f4-4feb-bad8-a1997050e1b3 a rr:PredicateObjectMap ;
-	km-dev:isPartOfMapping _:node1hkluns3hx1 .
+km-dev:PredicateObjectMap_e5ce7e64-6681-401e-ace6-705c4d55e06d a rr:PredicateObjectMap ;
+	km-dev:isPartOfMapping _:node1hku9tdtix1 .
 
-_:node1hkluns3hx1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_5130a497-97f4-4feb-bad8-a1997050e1b3 .
+_:node1hku9tdtix1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_e5ce7e64-6681-401e-ace6-705c4d55e06d .
 
-km-dev:PredicateObjectMap_dee50cfc-8640-41f0-b699-0a818cb0e7a0 rr:predicate <http://knowdive.disi.unitn.it/etype#has_interval> .
+km-dev:PredicateObjectMap_66f785a4-e7bb-4308-83b9-7ed8202e5a42 rr:predicate <http://knowdive.disi.unitn.it/etype#has_network> .
 
-_:node1hkluns3hx13 rr:column "[\"elements\",\"tags\",\"interval\"]" ;
+_:node1hku9tdtix13 rr:column "[\"elements\",\"tags\",\"network\"]" ;
 	a rr:ObjectMap ;
-	km-dev:isPartOfMapping _:node1hkluns3hx1 .
+	km-dev:isPartOfMapping _:node1hku9tdtix1 .
 
-_:node1hkluns3hx1 km-dev:hasObjectMap _:node1hkluns3hx13 .
+_:node1hku9tdtix1 km-dev:hasObjectMap _:node1hku9tdtix13 .
 
-km-dev:PredicateObjectMap_dee50cfc-8640-41f0-b699-0a818cb0e7a0 rr:objectMap _:node1hkluns3hx13 .
+km-dev:PredicateObjectMap_66f785a4-e7bb-4308-83b9-7ed8202e5a42 rr:objectMap _:node1hku9tdtix13 .
 
-km-dev:TriplesMap_28eb8bd2-8466-45a4-acf3-95e311b8b8a5 rr:predicateObjectMap km-dev:PredicateObjectMap_dee50cfc-8640-41f0-b699-0a818cb0e7a0 .
+km-dev:TriplesMap_9b65e39f-3a70-46fe-91e1-a452033aedaa rr:predicateObjectMap km-dev:PredicateObjectMap_66f785a4-e7bb-4308-83b9-7ed8202e5a42 .
 
-km-dev:PredicateObjectMap_dee50cfc-8640-41f0-b699-0a818cb0e7a0 a rr:PredicateObjectMap ;
-	km-dev:isPartOfMapping _:node1hkluns3hx1 .
+km-dev:PredicateObjectMap_66f785a4-e7bb-4308-83b9-7ed8202e5a42 a rr:PredicateObjectMap ;
+	km-dev:isPartOfMapping _:node1hku9tdtix1 .
 
-_:node1hkluns3hx1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_dee50cfc-8640-41f0-b699-0a818cb0e7a0 .
+_:node1hku9tdtix1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_66f785a4-e7bb-4308-83b9-7ed8202e5a42 .
 
-km-dev:PredicateObjectMap_8e1f96fe-8ece-44ed-99c4-6776e9172999 rr:predicate <http://knowdive.disi.unitn.it/etype#has_via> .
+km-dev:PredicateObjectMap_50e529ca-6e97-4c12-a9e1-50b42a1ba41f rr:predicate <http://knowdive.disi.unitn.it/etype#has_wheelchair> .
 
-_:node1hkluns3hx14 rr:column "[\"elements\",\"tags\",\"via\"]" ;
+_:node1hku9tdtix14 rr:column "[\"elements\",\"tags\",\"wheelchair\"]" ;
 	a rr:ObjectMap ;
-	km-dev:isPartOfMapping _:node1hkluns3hx1 .
+	km-dev:isPartOfMapping _:node1hku9tdtix1 .
 
-_:node1hkluns3hx1 km-dev:hasObjectMap _:node1hkluns3hx14 .
+_:node1hku9tdtix1 km-dev:hasObjectMap _:node1hku9tdtix14 .
 
-km-dev:PredicateObjectMap_8e1f96fe-8ece-44ed-99c4-6776e9172999 rr:objectMap _:node1hkluns3hx14 .
+km-dev:PredicateObjectMap_50e529ca-6e97-4c12-a9e1-50b42a1ba41f rr:objectMap _:node1hku9tdtix14 .
 
-km-dev:TriplesMap_28eb8bd2-8466-45a4-acf3-95e311b8b8a5 rr:predicateObjectMap km-dev:PredicateObjectMap_8e1f96fe-8ece-44ed-99c4-6776e9172999 .
+km-dev:TriplesMap_9b65e39f-3a70-46fe-91e1-a452033aedaa rr:predicateObjectMap km-dev:PredicateObjectMap_50e529ca-6e97-4c12-a9e1-50b42a1ba41f .
 
-km-dev:PredicateObjectMap_8e1f96fe-8ece-44ed-99c4-6776e9172999 a rr:PredicateObjectMap ;
-	km-dev:isPartOfMapping _:node1hkluns3hx1 .
+km-dev:PredicateObjectMap_50e529ca-6e97-4c12-a9e1-50b42a1ba41f a rr:PredicateObjectMap ;
+	km-dev:isPartOfMapping _:node1hku9tdtix1 .
 
-_:node1hkluns3hx1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_8e1f96fe-8ece-44ed-99c4-6776e9172999 .
+_:node1hku9tdtix1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_50e529ca-6e97-4c12-a9e1-50b42a1ba41f .
 
-km-dev:PredicateObjectMap_90e26fa2-962c-4515-a394-7c5e582d72d0 rr:predicate <http://knowdive.disi.unitn.it/etype#has_importance> .
+km-dev:PredicateObjectMap_69e95ef1-1a36-491c-89ef-e7f77ed3f7e4 rr:predicate <http://knowdive.disi.unitn.it/etype#has_min_longitude> .
 
-_:node1hkluns3hx15 rr:column "[\"elements\",\"tags\",\"importance\"]" ;
+_:node1hku9tdtix15 rr:column "[\"elements\",\"bounds\",\"minlon\"]" ;
 	a rr:ObjectMap ;
-	km-dev:isPartOfMapping _:node1hkluns3hx1 .
+	km-dev:isPartOfMapping _:node1hku9tdtix1 .
 
-_:node1hkluns3hx1 km-dev:hasObjectMap _:node1hkluns3hx15 .
+_:node1hku9tdtix1 km-dev:hasObjectMap _:node1hku9tdtix15 .
 
-km-dev:PredicateObjectMap_90e26fa2-962c-4515-a394-7c5e582d72d0 rr:objectMap _:node1hkluns3hx15 .
+km-dev:PredicateObjectMap_69e95ef1-1a36-491c-89ef-e7f77ed3f7e4 rr:objectMap _:node1hku9tdtix15 .
 
-km-dev:TriplesMap_28eb8bd2-8466-45a4-acf3-95e311b8b8a5 rr:predicateObjectMap km-dev:PredicateObjectMap_90e26fa2-962c-4515-a394-7c5e582d72d0 .
+km-dev:TriplesMap_9b65e39f-3a70-46fe-91e1-a452033aedaa rr:predicateObjectMap km-dev:PredicateObjectMap_69e95ef1-1a36-491c-89ef-e7f77ed3f7e4 .
 
-km-dev:PredicateObjectMap_90e26fa2-962c-4515-a394-7c5e582d72d0 a rr:PredicateObjectMap ;
-	km-dev:isPartOfMapping _:node1hkluns3hx1 .
+km-dev:PredicateObjectMap_69e95ef1-1a36-491c-89ef-e7f77ed3f7e4 a rr:PredicateObjectMap ;
+	km-dev:isPartOfMapping _:node1hku9tdtix1 .
 
-_:node1hkluns3hx1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_90e26fa2-962c-4515-a394-7c5e582d72d0 .
+_:node1hku9tdtix1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_69e95ef1-1a36-491c-89ef-e7f77ed3f7e4 .
 
-km-dev:PredicateObjectMap_e46b6db3-e299-4c02-a92f-b990eb112b55 rr:predicate <http://knowdive.disi.unitn.it/etype#has_min_latitude> .
+km-dev:PredicateObjectMap_7780856b-feb6-4e1f-b8b6-ad026db9ecc3 rr:predicate <http://knowdive.disi.unitn.it/etype#has_to> .
 
-_:node1hkluns3hx16 rr:column "[\"elements\",\"bounds\",\"minlat\"]" ;
+_:node1hku9tdtix16 rr:column "[\"elements\",\"tags\",\"to\"]" ;
 	a rr:ObjectMap ;
-	km-dev:isPartOfMapping _:node1hkluns3hx1 .
+	km-dev:isPartOfMapping _:node1hku9tdtix1 .
 
-_:node1hkluns3hx1 km-dev:hasObjectMap _:node1hkluns3hx16 .
+_:node1hku9tdtix1 km-dev:hasObjectMap _:node1hku9tdtix16 .
 
-km-dev:PredicateObjectMap_e46b6db3-e299-4c02-a92f-b990eb112b55 rr:objectMap _:node1hkluns3hx16 .
+km-dev:PredicateObjectMap_7780856b-feb6-4e1f-b8b6-ad026db9ecc3 rr:objectMap _:node1hku9tdtix16 .
 
-km-dev:TriplesMap_28eb8bd2-8466-45a4-acf3-95e311b8b8a5 rr:predicateObjectMap km-dev:PredicateObjectMap_e46b6db3-e299-4c02-a92f-b990eb112b55 .
+km-dev:TriplesMap_9b65e39f-3a70-46fe-91e1-a452033aedaa rr:predicateObjectMap km-dev:PredicateObjectMap_7780856b-feb6-4e1f-b8b6-ad026db9ecc3 .
 
-km-dev:PredicateObjectMap_e46b6db3-e299-4c02-a92f-b990eb112b55 a rr:PredicateObjectMap ;
-	km-dev:isPartOfMapping _:node1hkluns3hx1 .
+km-dev:PredicateObjectMap_7780856b-feb6-4e1f-b8b6-ad026db9ecc3 a rr:PredicateObjectMap ;
+	km-dev:isPartOfMapping _:node1hku9tdtix1 .
 
-_:node1hkluns3hx1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_e46b6db3-e299-4c02-a92f-b990eb112b55 .
+_:node1hku9tdtix1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_7780856b-feb6-4e1f-b8b6-ad026db9ecc3 .
 
-km-dev:PredicateObjectMap_7e3068cb-c2d4-4a09-ab6d-35e418633724 rr:predicate <http://knowdive.disi.unitn.it/etype#has_from> .
+km-dev:PredicateObjectMap_f440f771-0f3b-47f3-aa2d-8840549f2201 rr:predicate <http://knowdive.disi.unitn.it/etype#has_min_latitude> .
 
-_:node1hkluns3hx17 rr:column "[\"elements\",\"tags\",\"from\"]" ;
+_:node1hku9tdtix17 rr:column "[\"elements\",\"bounds\",\"minlat\"]" ;
 	a rr:ObjectMap ;
-	km-dev:isPartOfMapping _:node1hkluns3hx1 .
+	km-dev:isPartOfMapping _:node1hku9tdtix1 .
 
-_:node1hkluns3hx1 km-dev:hasObjectMap _:node1hkluns3hx17 .
+_:node1hku9tdtix1 km-dev:hasObjectMap _:node1hku9tdtix17 .
 
-km-dev:PredicateObjectMap_7e3068cb-c2d4-4a09-ab6d-35e418633724 rr:objectMap _:node1hkluns3hx17 .
+km-dev:PredicateObjectMap_f440f771-0f3b-47f3-aa2d-8840549f2201 rr:objectMap _:node1hku9tdtix17 .
 
-km-dev:TriplesMap_28eb8bd2-8466-45a4-acf3-95e311b8b8a5 rr:predicateObjectMap km-dev:PredicateObjectMap_7e3068cb-c2d4-4a09-ab6d-35e418633724 .
+km-dev:TriplesMap_9b65e39f-3a70-46fe-91e1-a452033aedaa rr:predicateObjectMap km-dev:PredicateObjectMap_f440f771-0f3b-47f3-aa2d-8840549f2201 .
 
-km-dev:PredicateObjectMap_7e3068cb-c2d4-4a09-ab6d-35e418633724 a rr:PredicateObjectMap ;
-	km-dev:isPartOfMapping _:node1hkluns3hx1 .
+km-dev:PredicateObjectMap_f440f771-0f3b-47f3-aa2d-8840549f2201 a rr:PredicateObjectMap ;
+	km-dev:isPartOfMapping _:node1hku9tdtix1 .
 
-_:node1hkluns3hx1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_7e3068cb-c2d4-4a09-ab6d-35e418633724 .
+_:node1hku9tdtix1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_f440f771-0f3b-47f3-aa2d-8840549f2201 .
 
-km-dev:PredicateObjectMap_19a0873d-c444-4ace-b34d-07d38fb76fb6 rr:predicate <http://knowdive.disi.unitn.it/etype#has_trip_reference> .
+km-dev:PredicateObjectMap_96dbe37a-4fee-4841-8cc4-5ede4ddb616c rr:predicate <http://knowdive.disi.unitn.it/etype#has_max_longitude> .
 
-_:node1hkluns3hx18 rr:column "[\"elements\",\"tags\",\"ref\"]" ;
+_:node1hku9tdtix18 rr:column "[\"elements\",\"bounds\",\"maxlon\"]" ;
 	a rr:ObjectMap ;
-	km-dev:isPartOfMapping _:node1hkluns3hx1 .
+	km-dev:isPartOfMapping _:node1hku9tdtix1 .
 
-_:node1hkluns3hx1 km-dev:hasObjectMap _:node1hkluns3hx18 .
+_:node1hku9tdtix1 km-dev:hasObjectMap _:node1hku9tdtix18 .
 
-km-dev:PredicateObjectMap_19a0873d-c444-4ace-b34d-07d38fb76fb6 rr:objectMap _:node1hkluns3hx18 .
+km-dev:PredicateObjectMap_96dbe37a-4fee-4841-8cc4-5ede4ddb616c rr:objectMap _:node1hku9tdtix18 .
 
-km-dev:TriplesMap_28eb8bd2-8466-45a4-acf3-95e311b8b8a5 rr:predicateObjectMap km-dev:PredicateObjectMap_19a0873d-c444-4ace-b34d-07d38fb76fb6 .
+km-dev:TriplesMap_9b65e39f-3a70-46fe-91e1-a452033aedaa rr:predicateObjectMap km-dev:PredicateObjectMap_96dbe37a-4fee-4841-8cc4-5ede4ddb616c .
 
-km-dev:PredicateObjectMap_19a0873d-c444-4ace-b34d-07d38fb76fb6 a rr:PredicateObjectMap ;
-	km-dev:isPartOfMapping _:node1hkluns3hx1 .
+km-dev:PredicateObjectMap_96dbe37a-4fee-4841-8cc4-5ede4ddb616c a rr:PredicateObjectMap ;
+	km-dev:isPartOfMapping _:node1hku9tdtix1 .
 
-_:node1hkluns3hx1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_19a0873d-c444-4ace-b34d-07d38fb76fb6 .
+_:node1hku9tdtix1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_96dbe37a-4fee-4841-8cc4-5ede4ddb616c .
 
-km-dev:TriplesMap_545e8f54-8b2c-45b3-8124-2deac7a4b144 a rr:TriplesMap .
+km-dev:TriplesMap_5299790b-3be9-4cce-a16c-af71b0c269ac a rr:TriplesMap .
 
-_:node1hkluns3hx1 km-dev:hasTriplesMap km-dev:TriplesMap_545e8f54-8b2c-45b3-8124-2deac7a4b144 .
+_:node1hku9tdtix1 km-dev:hasTriplesMap km-dev:TriplesMap_5299790b-3be9-4cce-a16c-af71b0c269ac .
 
-km-dev:TriplesMap_545e8f54-8b2c-45b3-8124-2deac7a4b144 km-dev:isPartOfMapping _:node1hkluns3hx1 .
+km-dev:TriplesMap_5299790b-3be9-4cce-a16c-af71b0c269ac km-dev:isPartOfMapping _:node1hku9tdtix1 .
 
-_:node1hkluns3hx19 rr:tableName "bus_routes_filtered.geojson" ;
+_:node1hku9tdtix19 rr:tableName "bus_routes_filtered.geojson" ;
 	a rr:LogicalTable ;
-	km-dev:isPartOfMapping _:node1hkluns3hx1 .
+	km-dev:isPartOfMapping _:node1hku9tdtix1 .
 
-_:node1hkluns3hx1 km-dev:hasLogicalTable _:node1hkluns3hx19 .
+_:node1hku9tdtix1 km-dev:hasLogicalTable _:node1hku9tdtix19 .
 
-km-dev:TriplesMap_545e8f54-8b2c-45b3-8124-2deac7a4b144 rr:logicalTable _:node1hkluns3hx19 ;
-	rr:subjectMap _:node1hkluns3hx20 .
+km-dev:TriplesMap_5299790b-3be9-4cce-a16c-af71b0c269ac rr:logicalTable _:node1hku9tdtix19 ;
+	rr:subjectMap _:node1hku9tdtix20 .
 
-_:node1hkluns3hx1 km-dev:hasSubjectMap _:node1hkluns3hx20 .
+_:node1hku9tdtix1 km-dev:hasSubjectMap _:node1hku9tdtix20 .
 
-_:node1hkluns3hx20 km-dev:isPartOfMapping _:node1hkluns3hx1 ;
+_:node1hku9tdtix20 km-dev:isPartOfMapping _:node1hku9tdtix1 ;
 	a rr:SubjectMap ;
 	km-dev:alignmentNodeId "http://knowdive.disi.unitn.it/etype#BusStop1" ;
 	rr:class <http://knowdive.disi.unitn.it/etype#BusStop> ;
 	rr:termType rr:BlankNode ;
 	km-dev:namePrefix "BusStop1" .
 
-km-dev:PredicateObjectMap_a72cf32c-8ac5-4aca-ad59-d7319975e897 rr:predicate <http://knowdive.disi.unitn.it/etype#has_stop_reference> .
+km-dev:PredicateObjectMap_98f3ab49-f353-411c-89ae-afc4182ae020 rr:predicate <http://knowdive.disi.unitn.it/etype#has_stop_reference> .
 
-_:node1hkluns3hx21 rr:column "[\"elements\",\"members\",\"ref\"]" ;
+_:node1hku9tdtix21 rr:column "[\"elements\",\"members\",\"ref\"]" ;
 	a rr:ObjectMap ;
-	km-dev:isPartOfMapping _:node1hkluns3hx1 .
+	km-dev:isPartOfMapping _:node1hku9tdtix1 .
 
-_:node1hkluns3hx1 km-dev:hasObjectMap _:node1hkluns3hx21 .
+_:node1hku9tdtix1 km-dev:hasObjectMap _:node1hku9tdtix21 .
 
-km-dev:PredicateObjectMap_a72cf32c-8ac5-4aca-ad59-d7319975e897 rr:objectMap _:node1hkluns3hx21 .
+km-dev:PredicateObjectMap_98f3ab49-f353-411c-89ae-afc4182ae020 rr:objectMap _:node1hku9tdtix21 .
 
-km-dev:TriplesMap_545e8f54-8b2c-45b3-8124-2deac7a4b144 rr:predicateObjectMap km-dev:PredicateObjectMap_a72cf32c-8ac5-4aca-ad59-d7319975e897 .
+km-dev:TriplesMap_5299790b-3be9-4cce-a16c-af71b0c269ac rr:predicateObjectMap km-dev:PredicateObjectMap_98f3ab49-f353-411c-89ae-afc4182ae020 .
 
-km-dev:PredicateObjectMap_a72cf32c-8ac5-4aca-ad59-d7319975e897 a rr:PredicateObjectMap ;
-	km-dev:isPartOfMapping _:node1hkluns3hx1 .
+km-dev:PredicateObjectMap_98f3ab49-f353-411c-89ae-afc4182ae020 a rr:PredicateObjectMap ;
+	km-dev:isPartOfMapping _:node1hku9tdtix1 .
 
-_:node1hkluns3hx1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_a72cf32c-8ac5-4aca-ad59-d7319975e897 .
+_:node1hku9tdtix1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_98f3ab49-f353-411c-89ae-afc4182ae020 .
 
-km-dev:PredicateObjectMap_13a3c569-67f2-40af-a59c-972cd0b6e3e4 rr:predicate <http://knowdive.disi.unitn.it/etype#has_stop_role> .
+km-dev:PredicateObjectMap_26242ac8-0dfc-4dda-a189-0ca6dd1e103f rr:predicate <http://knowdive.disi.unitn.it/etype#has_longitude> .
 
-_:node1hkluns3hx22 rr:column "[\"elements\",\"members\",\"role\"]" ;
+_:node1hku9tdtix22 rr:column "[\"elements\",\"members\",\"lon\"]" ;
 	a rr:ObjectMap ;
-	km-dev:isPartOfMapping _:node1hkluns3hx1 .
+	km-dev:isPartOfMapping _:node1hku9tdtix1 .
 
-_:node1hkluns3hx1 km-dev:hasObjectMap _:node1hkluns3hx22 .
+_:node1hku9tdtix1 km-dev:hasObjectMap _:node1hku9tdtix22 .
 
-km-dev:PredicateObjectMap_13a3c569-67f2-40af-a59c-972cd0b6e3e4 rr:objectMap _:node1hkluns3hx22 .
+km-dev:PredicateObjectMap_26242ac8-0dfc-4dda-a189-0ca6dd1e103f rr:objectMap _:node1hku9tdtix22 .
 
-km-dev:TriplesMap_545e8f54-8b2c-45b3-8124-2deac7a4b144 rr:predicateObjectMap km-dev:PredicateObjectMap_13a3c569-67f2-40af-a59c-972cd0b6e3e4 .
+km-dev:TriplesMap_5299790b-3be9-4cce-a16c-af71b0c269ac rr:predicateObjectMap km-dev:PredicateObjectMap_26242ac8-0dfc-4dda-a189-0ca6dd1e103f .
 
-km-dev:PredicateObjectMap_13a3c569-67f2-40af-a59c-972cd0b6e3e4 a rr:PredicateObjectMap ;
-	km-dev:isPartOfMapping _:node1hkluns3hx1 .
+km-dev:PredicateObjectMap_26242ac8-0dfc-4dda-a189-0ca6dd1e103f a rr:PredicateObjectMap ;
+	km-dev:isPartOfMapping _:node1hku9tdtix1 .
 
-_:node1hkluns3hx1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_13a3c569-67f2-40af-a59c-972cd0b6e3e4 .
+_:node1hku9tdtix1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_26242ac8-0dfc-4dda-a189-0ca6dd1e103f .
 
-km-dev:PredicateObjectMap_b46ac408-5060-4f93-97fe-25252340b52c rr:predicate <http://knowdive.disi.unitn.it/etype#has_longitude> .
+km-dev:PredicateObjectMap_239d064a-73a5-4eca-b693-51a6b4aa44dd rr:predicate <http://knowdive.disi.unitn.it/etype#has_latitude> .
 
-_:node1hkluns3hx23 rr:column "[\"elements\",\"members\",\"lon\"]" ;
+_:node1hku9tdtix23 rr:column "[\"elements\",\"members\",\"lat\"]" ;
 	a rr:ObjectMap ;
-	km-dev:isPartOfMapping _:node1hkluns3hx1 .
+	km-dev:isPartOfMapping _:node1hku9tdtix1 .
 
-_:node1hkluns3hx1 km-dev:hasObjectMap _:node1hkluns3hx23 .
+_:node1hku9tdtix1 km-dev:hasObjectMap _:node1hku9tdtix23 .
 
-km-dev:PredicateObjectMap_b46ac408-5060-4f93-97fe-25252340b52c rr:objectMap _:node1hkluns3hx23 .
+km-dev:PredicateObjectMap_239d064a-73a5-4eca-b693-51a6b4aa44dd rr:objectMap _:node1hku9tdtix23 .
 
-km-dev:TriplesMap_545e8f54-8b2c-45b3-8124-2deac7a4b144 rr:predicateObjectMap km-dev:PredicateObjectMap_b46ac408-5060-4f93-97fe-25252340b52c .
+km-dev:TriplesMap_5299790b-3be9-4cce-a16c-af71b0c269ac rr:predicateObjectMap km-dev:PredicateObjectMap_239d064a-73a5-4eca-b693-51a6b4aa44dd .
 
-km-dev:PredicateObjectMap_b46ac408-5060-4f93-97fe-25252340b52c a rr:PredicateObjectMap ;
-	km-dev:isPartOfMapping _:node1hkluns3hx1 .
+km-dev:PredicateObjectMap_239d064a-73a5-4eca-b693-51a6b4aa44dd a rr:PredicateObjectMap ;
+	km-dev:isPartOfMapping _:node1hku9tdtix1 .
 
-_:node1hkluns3hx1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_b46ac408-5060-4f93-97fe-25252340b52c .
+_:node1hku9tdtix1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_239d064a-73a5-4eca-b693-51a6b4aa44dd .
 
-km-dev:PredicateObjectMap_81f4f173-5db6-48de-b717-612190cc5177 rr:predicate <http://knowdive.disi.unitn.it/etype#has_latitude> .
+km-dev:PredicateObjectMap_d4922a93-276a-4152-8c36-1b8b4c328d6b rr:predicate <http://knowdive.disi.unitn.it/etype#has_stop_role> .
 
-_:node1hkluns3hx24 rr:column "[\"elements\",\"members\",\"lat\"]" ;
+_:node1hku9tdtix24 rr:column "[\"elements\",\"members\",\"role\"]" ;
 	a rr:ObjectMap ;
-	km-dev:isPartOfMapping _:node1hkluns3hx1 .
+	km-dev:isPartOfMapping _:node1hku9tdtix1 .
 
-_:node1hkluns3hx1 km-dev:hasObjectMap _:node1hkluns3hx24 .
+_:node1hku9tdtix1 km-dev:hasObjectMap _:node1hku9tdtix24 .
 
-km-dev:PredicateObjectMap_81f4f173-5db6-48de-b717-612190cc5177 rr:objectMap _:node1hkluns3hx24 .
+km-dev:PredicateObjectMap_d4922a93-276a-4152-8c36-1b8b4c328d6b rr:objectMap _:node1hku9tdtix24 .
 
-km-dev:TriplesMap_545e8f54-8b2c-45b3-8124-2deac7a4b144 rr:predicateObjectMap km-dev:PredicateObjectMap_81f4f173-5db6-48de-b717-612190cc5177 .
+km-dev:TriplesMap_5299790b-3be9-4cce-a16c-af71b0c269ac rr:predicateObjectMap km-dev:PredicateObjectMap_d4922a93-276a-4152-8c36-1b8b4c328d6b .
 
-km-dev:PredicateObjectMap_81f4f173-5db6-48de-b717-612190cc5177 a rr:PredicateObjectMap ;
-	km-dev:isPartOfMapping _:node1hkluns3hx1 .
+km-dev:PredicateObjectMap_d4922a93-276a-4152-8c36-1b8b4c328d6b a rr:PredicateObjectMap ;
+	km-dev:isPartOfMapping _:node1hku9tdtix1 .
 
-_:node1hkluns3hx1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_81f4f173-5db6-48de-b717-612190cc5177 .
+_:node1hku9tdtix1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_d4922a93-276a-4152-8c36-1b8b4c328d6b .

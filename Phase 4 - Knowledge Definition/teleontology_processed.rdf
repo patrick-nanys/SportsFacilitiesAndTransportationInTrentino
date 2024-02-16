@@ -63,9 +63,9 @@
     
 
 
-    <!-- http://knowdive.disi.unitn.it/etype#had_address_country -->
+    <!-- http://knowdive.disi.unitn.it/etype#address_country_GID-13010 -->
 
-    <owl:DatatypeProperty rdf:about="http://knowdive.disi.unitn.it/etype#had_address_country">
+    <owl:DatatypeProperty rdf:about="http://knowdive.disi.unitn.it/etype#address_country_GID-13010">
         <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
         <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#fitness_centre_GID-13003"/>
     </owl:DatatypeProperty>

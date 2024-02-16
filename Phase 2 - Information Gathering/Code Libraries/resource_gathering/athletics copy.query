@@ -1,0 +1,4 @@
+[out:json][timeout:25];
+area[name="Provincia di Trento"][admin_level=6]->.searchArea;
+nwr[sport=athletics](area.searchArea);
+out geom;

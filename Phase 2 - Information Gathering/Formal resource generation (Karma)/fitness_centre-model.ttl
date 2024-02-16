@@ -452,7 +452,7 @@ _:node1hhsbec2mx1 a km-dev:R2RMLMapping ;
                     \"DomainId\": \"http://knowdive.disi.unitn.it/etype#FitnessCentre1\",
                     \"isPrimary\": true,
                     \"isProvenance\": false,
-                    \"FullType\": \"http://knowdive.disi.unitn.it/etypem#has_name\",
+                    \"FullType\": \"http://knowdive.disi.unitn.it/etype#has_name\",
                     \"DomainLabel\": \"http://knowdive.disi.unitn.it/etype#FitnessCentre/FitnessCentre1\"
                 }]
             },
@@ -1152,7 +1152,7 @@ km-dev:PredicateObjectMap_57b5b9ea-1936-4dcc-a6b5-d6c7055807ae a rr:PredicateObj
 
 _:node1hhsbec2mx1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_57b5b9ea-1936-4dcc-a6b5-d6c7055807ae .
 
-km-dev:PredicateObjectMap_974ebdf9-172c-41fd-a744-6439c50de6bc rr:predicate <http://knowdive.disi.unitn.it/etypem#has_name> .
+km-dev:PredicateObjectMap_974ebdf9-172c-41fd-a744-6439c50de6bc rr:predicate <http://knowdive.disi.unitn.it/etype#has_name> .
 
 _:node1hhsbec2mx10 rr:column "name" ;
 	a rr:ObjectMap ;
