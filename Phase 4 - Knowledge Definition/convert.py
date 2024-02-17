@@ -11,7 +11,8 @@ if __name__ == '__main__':
             text = text.replace(old_value, new_value)
         return text
 
-    for f in ['ontology', 'teleology', 'teleontology']:
+    # for f in ['ontology', 'teleology', 'teleontology']:
+    for f in ['teleontology']:
         with open(f'{f}.rdf', 'r') as input_file:
             text = input_file.read()
 
