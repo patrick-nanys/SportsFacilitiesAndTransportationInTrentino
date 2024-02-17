@@ -1,85 +1,85 @@
 <http://localhost:8080/source/relation/6696458> <http://knowdive.disi.unitn.it/etype#part_of> <http://localhost:8080/source/region_1> .
+<http://localhost:8080/source/relation/6696458> <http://knowdive.disi.unitn.it/etype#has_sport> _:Sport1_5c17fa03e6d5fc247565e1cd8ffa70e1bfe5b8d9_N20943_5c17fa03e6d5fc247565e1cd8ffa70e1bfe5b8d9_N20943 .
 <http://localhost:8080/source/region_1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region> .
-<http://localhost:8080/source/relation/6696458> <http://knowdive.disi.unitn.it/etype#has_sport> _:Sport1_5c17fa03e6d5fc247565e1cd8ffa70e1bfe5b8d9_N8188_5c17fa03e6d5fc247565e1cd8ffa70e1bfe5b8d9_N8188 .
-<http://localhost:8080/source/relation/6696458> <http://knowdive.disi.unitn.it/etype#has_latitude> "10.9466532" .
+_:Sport1_5c17fa03e6d5fc247565e1cd8ffa70e1bfe5b8d9_N20943_5c17fa03e6d5fc247565e1cd8ffa70e1bfe5b8d9_N20943 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Sport> .
 <http://localhost:8080/source/relation/6696458> <http://knowdive.disi.unitn.it/etype#has_leisure> "stadium" .
-_:Sport1_5c17fa03e6d5fc247565e1cd8ffa70e1bfe5b8d9_N8188_5c17fa03e6d5fc247565e1cd8ffa70e1bfe5b8d9_N8188 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Sport> .
+<http://localhost:8080/source/relation/6696458> <http://knowdive.disi.unitn.it/etype#has_latitude> "10.9466532" .
 <http://localhost:8080/source/relation/6696458> <http://knowdive.disi.unitn.it/etype#has_longitude> "45.738356456521736" .
-_:Sport1_5c17fa03e6d5fc247565e1cd8ffa70e1bfe5b8d9_N8188_5c17fa03e6d5fc247565e1cd8ffa70e1bfe5b8d9_N8188 <http://knowdive.disi.unitn.it/etype#has_name> "soccer" .
+_:Sport1_5c17fa03e6d5fc247565e1cd8ffa70e1bfe5b8d9_N20943_5c17fa03e6d5fc247565e1cd8ffa70e1bfe5b8d9_N20943 <http://knowdive.disi.unitn.it/etype#has_type_of_sport> "soccer" .
 <http://localhost:8080/source/relation/6696458> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Stadium> .
 
 <http://localhost:8080/source/way/24860724> <http://knowdive.disi.unitn.it/etype#has_leisure> "stadium" .
 <http://localhost:8080/source/region_1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region> .
 <http://localhost:8080/source/way/24860724> <http://knowdive.disi.unitn.it/etype#part_of> <http://localhost:8080/source/region_1> .
+_:Sport1_5c17fa03e6d5fc247565e1cd8ffa70e1bfe5b8d9_N20951_5c17fa03e6d5fc247565e1cd8ffa70e1bfe5b8d9_N20951 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Sport> .
 <http://localhost:8080/source/way/24860724> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Stadium> .
-_:Sport1_5c17fa03e6d5fc247565e1cd8ffa70e1bfe5b8d9_N8196_5c17fa03e6d5fc247565e1cd8ffa70e1bfe5b8d9_N8196 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Sport> .
-_:Sport1_5c17fa03e6d5fc247565e1cd8ffa70e1bfe5b8d9_N8196_5c17fa03e6d5fc247565e1cd8ffa70e1bfe5b8d9_N8196 <http://knowdive.disi.unitn.it/etype#has_name> "soccer" .
 <http://localhost:8080/source/way/24860724> <http://knowdive.disi.unitn.it/etype#has_name> "Stadio Briamasco" .
 <http://localhost:8080/source/way/24860724> <http://knowdive.disi.unitn.it/etype#has_longitude> "46.0642568764706" .
+<http://localhost:8080/source/way/24860724> <http://knowdive.disi.unitn.it/etype#has_sport> _:Sport1_5c17fa03e6d5fc247565e1cd8ffa70e1bfe5b8d9_N20951_5c17fa03e6d5fc247565e1cd8ffa70e1bfe5b8d9_N20951 .
 <http://localhost:8080/source/way/24860724> <http://knowdive.disi.unitn.it/etype#has_latitude> "11.114449888235294" .
-<http://localhost:8080/source/way/24860724> <http://knowdive.disi.unitn.it/etype#has_sport> _:Sport1_5c17fa03e6d5fc247565e1cd8ffa70e1bfe5b8d9_N8196_5c17fa03e6d5fc247565e1cd8ffa70e1bfe5b8d9_N8196 .
+_:Sport1_5c17fa03e6d5fc247565e1cd8ffa70e1bfe5b8d9_N20951_5c17fa03e6d5fc247565e1cd8ffa70e1bfe5b8d9_N20951 <http://knowdive.disi.unitn.it/etype#has_type_of_sport> "soccer" .
 
 <http://localhost:8080/source/way/28591127> <http://knowdive.disi.unitn.it/etype#has_name> "Campo da Calcio AC Nago (chiuso)" .
 <http://localhost:8080/source/way/28591127> <http://knowdive.disi.unitn.it/etype#part_of> <http://localhost:8080/source/region_1> .
-<http://localhost:8080/source/way/28591127> <http://knowdive.disi.unitn.it/etype#has_sport> _:Sport1_5c17fa03e6d5fc247565e1cd8ffa70e1bfe5b8d9_N8204_5c17fa03e6d5fc247565e1cd8ffa70e1bfe5b8d9_N8204 .
 <http://localhost:8080/source/region_1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region> .
 <http://localhost:8080/source/way/28591127> <http://knowdive.disi.unitn.it/etype#has_leisure> "stadium" .
+_:Sport1_5c17fa03e6d5fc247565e1cd8ffa70e1bfe5b8d9_N20959_5c17fa03e6d5fc247565e1cd8ffa70e1bfe5b8d9_N20959 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Sport> .
 <http://localhost:8080/source/way/28591127> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Stadium> .
-_:Sport1_5c17fa03e6d5fc247565e1cd8ffa70e1bfe5b8d9_N8204_5c17fa03e6d5fc247565e1cd8ffa70e1bfe5b8d9_N8204 <http://knowdive.disi.unitn.it/etype#has_name> "soccer" .
-_:Sport1_5c17fa03e6d5fc247565e1cd8ffa70e1bfe5b8d9_N8204_5c17fa03e6d5fc247565e1cd8ffa70e1bfe5b8d9_N8204 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Sport> .
+<http://localhost:8080/source/way/28591127> <http://knowdive.disi.unitn.it/etype#has_sport> _:Sport1_5c17fa03e6d5fc247565e1cd8ffa70e1bfe5b8d9_N20959_5c17fa03e6d5fc247565e1cd8ffa70e1bfe5b8d9_N20959 .
+_:Sport1_5c17fa03e6d5fc247565e1cd8ffa70e1bfe5b8d9_N20959_5c17fa03e6d5fc247565e1cd8ffa70e1bfe5b8d9_N20959 <http://knowdive.disi.unitn.it/etype#has_type_of_sport> "soccer" .
 <http://localhost:8080/source/way/28591127> <http://knowdive.disi.unitn.it/etype#has_latitude> "10.902965833333331" .
 <http://localhost:8080/source/way/28591127> <http://knowdive.disi.unitn.it/etype#has_longitude> "45.87304414444444" .
 
-_:Sport1_5c17fa03e6d5fc247565e1cd8ffa70e1bfe5b8d9_N8212_5c17fa03e6d5fc247565e1cd8ffa70e1bfe5b8d9_N8212 <http://knowdive.disi.unitn.it/etype#has_name> "soccer" .
 <http://localhost:8080/source/region_1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region> .
-<http://localhost:8080/source/way/65608425> <http://knowdive.disi.unitn.it/etype#has_sport> _:Sport1_5c17fa03e6d5fc247565e1cd8ffa70e1bfe5b8d9_N8212_5c17fa03e6d5fc247565e1cd8ffa70e1bfe5b8d9_N8212 .
 <http://localhost:8080/source/way/65608425> <http://knowdive.disi.unitn.it/etype#has_name> "Stadio Comunale" .
 <http://localhost:8080/source/way/65608425> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Stadium> .
-<http://localhost:8080/source/way/65608425> <http://knowdive.disi.unitn.it/etype#has_longitude> "46.01126202" .
+<http://localhost:8080/source/way/65608425> <http://knowdive.disi.unitn.it/etype#has_sport> _:Sport1_5c17fa03e6d5fc247565e1cd8ffa70e1bfe5b8d9_N20967_5c17fa03e6d5fc247565e1cd8ffa70e1bfe5b8d9_N20967 .
 <http://localhost:8080/source/way/65608425> <http://knowdive.disi.unitn.it/etype#has_leisure> "stadium" .
+<http://localhost:8080/source/way/65608425> <http://knowdive.disi.unitn.it/etype#has_longitude> "46.01126202" .
 <http://localhost:8080/source/way/65608425> <http://knowdive.disi.unitn.it/etype#part_of> <http://localhost:8080/source/region_1> .
-_:Sport1_5c17fa03e6d5fc247565e1cd8ffa70e1bfe5b8d9_N8212_5c17fa03e6d5fc247565e1cd8ffa70e1bfe5b8d9_N8212 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Sport> .
 <http://localhost:8080/source/way/65608425> <http://knowdive.disi.unitn.it/etype#has_latitude> "11.29001032" .
+_:Sport1_5c17fa03e6d5fc247565e1cd8ffa70e1bfe5b8d9_N20967_5c17fa03e6d5fc247565e1cd8ffa70e1bfe5b8d9_N20967 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Sport> .
+_:Sport1_5c17fa03e6d5fc247565e1cd8ffa70e1bfe5b8d9_N20967_5c17fa03e6d5fc247565e1cd8ffa70e1bfe5b8d9_N20967 <http://knowdive.disi.unitn.it/etype#has_type_of_sport> "soccer" .
 
-<http://localhost:8080/source/way/87028752> <http://knowdive.disi.unitn.it/etype#has_sport> _:Sport1_5c17fa03e6d5fc247565e1cd8ffa70e1bfe5b8d9_N8220_5c17fa03e6d5fc247565e1cd8ffa70e1bfe5b8d9_N8220 .
+_:Sport1_5c17fa03e6d5fc247565e1cd8ffa70e1bfe5b8d9_N20975_5c17fa03e6d5fc247565e1cd8ffa70e1bfe5b8d9_N20975 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Sport> .
+_:Sport1_5c17fa03e6d5fc247565e1cd8ffa70e1bfe5b8d9_N20975_5c17fa03e6d5fc247565e1cd8ffa70e1bfe5b8d9_N20975 <http://knowdive.disi.unitn.it/etype#has_type_of_sport> "soccer" .
 <http://localhost:8080/source/region_1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region> .
 <http://localhost:8080/source/way/87028752> <http://knowdive.disi.unitn.it/etype#has_longitude> "46.033059220000005" .
 <http://localhost:8080/source/way/87028752> <http://knowdive.disi.unitn.it/etype#part_of> <http://localhost:8080/source/region_1> .
 <http://localhost:8080/source/way/87028752> <http://knowdive.disi.unitn.it/etype#has_leisure> "stadium" .
 <http://localhost:8080/source/way/87028752> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Stadium> .
-_:Sport1_5c17fa03e6d5fc247565e1cd8ffa70e1bfe5b8d9_N8220_5c17fa03e6d5fc247565e1cd8ffa70e1bfe5b8d9_N8220 <http://knowdive.disi.unitn.it/etype#has_name> "soccer" .
+<http://localhost:8080/source/way/87028752> <http://knowdive.disi.unitn.it/etype#has_sport> _:Sport1_5c17fa03e6d5fc247565e1cd8ffa70e1bfe5b8d9_N20975_5c17fa03e6d5fc247565e1cd8ffa70e1bfe5b8d9_N20975 .
 <http://localhost:8080/source/way/87028752> <http://knowdive.disi.unitn.it/etype#has_latitude> "10.72793836" .
-_:Sport1_5c17fa03e6d5fc247565e1cd8ffa70e1bfe5b8d9_N8220_5c17fa03e6d5fc247565e1cd8ffa70e1bfe5b8d9_N8220 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Sport> .
 
-<http://localhost:8080/source/way/87302700> <http://knowdive.disi.unitn.it/etype#has_sport> _:Sport1_5c17fa03e6d5fc247565e1cd8ffa70e1bfe5b8d9_N8228_5c17fa03e6d5fc247565e1cd8ffa70e1bfe5b8d9_N8228 .
-_:Sport1_5c17fa03e6d5fc247565e1cd8ffa70e1bfe5b8d9_N8228_5c17fa03e6d5fc247565e1cd8ffa70e1bfe5b8d9_N8228 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Sport> .
+_:Sport1_5c17fa03e6d5fc247565e1cd8ffa70e1bfe5b8d9_N20983_5c17fa03e6d5fc247565e1cd8ffa70e1bfe5b8d9_N20983 <http://knowdive.disi.unitn.it/etype#has_type_of_sport> "soccer" .
 <http://localhost:8080/source/way/87302700> <http://knowdive.disi.unitn.it/etype#part_of> <http://localhost:8080/source/region_1> .
 <http://localhost:8080/source/region_1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region> .
 <http://localhost:8080/source/way/87302700> <http://knowdive.disi.unitn.it/etype#has_leisure> "stadium" .
 <http://localhost:8080/source/way/87302700> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Stadium> .
+<http://localhost:8080/source/way/87302700> <http://knowdive.disi.unitn.it/etype#has_sport> _:Sport1_5c17fa03e6d5fc247565e1cd8ffa70e1bfe5b8d9_N20983_5c17fa03e6d5fc247565e1cd8ffa70e1bfe5b8d9_N20983 .
+_:Sport1_5c17fa03e6d5fc247565e1cd8ffa70e1bfe5b8d9_N20983_5c17fa03e6d5fc247565e1cd8ffa70e1bfe5b8d9_N20983 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Sport> .
 <http://localhost:8080/source/way/87302700> <http://knowdive.disi.unitn.it/etype#has_name> "Campo Sportivo" .
 <http://localhost:8080/source/way/87302700> <http://knowdive.disi.unitn.it/etype#has_latitude> "10.74112347142857" .
-_:Sport1_5c17fa03e6d5fc247565e1cd8ffa70e1bfe5b8d9_N8228_5c17fa03e6d5fc247565e1cd8ffa70e1bfe5b8d9_N8228 <http://knowdive.disi.unitn.it/etype#has_name> "soccer" .
 <http://localhost:8080/source/way/87302700> <http://knowdive.disi.unitn.it/etype#has_longitude> "46.103793142857135" .
 
 <http://localhost:8080/source/way/113187357> <http://knowdive.disi.unitn.it/etype#has_leisure> "stadium" .
-_:Sport1_5c17fa03e6d5fc247565e1cd8ffa70e1bfe5b8d9_N8236_5c17fa03e6d5fc247565e1cd8ffa70e1bfe5b8d9_N8236 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Sport> .
 <http://localhost:8080/source/way/113187357> <http://knowdive.disi.unitn.it/etype#has_longitude> "45.988347225" .
 <http://localhost:8080/source/region_1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region> .
 <http://localhost:8080/source/way/113187357> <http://knowdive.disi.unitn.it/etype#has_latitude> "10.834414550000002" .
-_:Sport1_5c17fa03e6d5fc247565e1cd8ffa70e1bfe5b8d9_N8236_5c17fa03e6d5fc247565e1cd8ffa70e1bfe5b8d9_N8236 <http://knowdive.disi.unitn.it/etype#has_name> "soccer" .
-<http://localhost:8080/source/way/113187357> <http://knowdive.disi.unitn.it/etype#has_sport> _:Sport1_5c17fa03e6d5fc247565e1cd8ffa70e1bfe5b8d9_N8236_5c17fa03e6d5fc247565e1cd8ffa70e1bfe5b8d9_N8236 .
+_:Sport1_5c17fa03e6d5fc247565e1cd8ffa70e1bfe5b8d9_N20991_5c17fa03e6d5fc247565e1cd8ffa70e1bfe5b8d9_N20991 <http://knowdive.disi.unitn.it/etype#has_type_of_sport> "soccer" .
+<http://localhost:8080/source/way/113187357> <http://knowdive.disi.unitn.it/etype#has_sport> _:Sport1_5c17fa03e6d5fc247565e1cd8ffa70e1bfe5b8d9_N20991_5c17fa03e6d5fc247565e1cd8ffa70e1bfe5b8d9_N20991 .
 <http://localhost:8080/source/way/113187357> <http://knowdive.disi.unitn.it/etype#has_name> "Campo di calcio del Fiavé" .
 <http://localhost:8080/source/way/113187357> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Stadium> .
+_:Sport1_5c17fa03e6d5fc247565e1cd8ffa70e1bfe5b8d9_N20991_5c17fa03e6d5fc247565e1cd8ffa70e1bfe5b8d9_N20991 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Sport> .
 <http://localhost:8080/source/way/113187357> <http://knowdive.disi.unitn.it/etype#part_of> <http://localhost:8080/source/region_1> .
 
+_:Sport1_b3c71402d8fc1c7b8ba7a105c199c5ca785a910e_N20999_b3c71402d8fc1c7b8ba7a105c199c5ca785a910e_N20999 <http://knowdive.disi.unitn.it/etype#has_type_of_sport> "athletics" .
 <http://localhost:8080/source/way/226223143> <http://knowdive.disi.unitn.it/etype#part_of> <http://localhost:8080/source/region_1> .
 <http://localhost:8080/source/way/226223143> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Stadium> .
-<http://localhost:8080/source/way/226223143> <http://knowdive.disi.unitn.it/etype#has_sport> _:Sport1_b3c71402d8fc1c7b8ba7a105c199c5ca785a910e_N8244_b3c71402d8fc1c7b8ba7a105c199c5ca785a910e_N8244 .
+_:Sport1_b3c71402d8fc1c7b8ba7a105c199c5ca785a910e_N20999_b3c71402d8fc1c7b8ba7a105c199c5ca785a910e_N20999 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Sport> .
 <http://localhost:8080/source/region_1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region> .
-_:Sport1_b3c71402d8fc1c7b8ba7a105c199c5ca785a910e_N8244_b3c71402d8fc1c7b8ba7a105c199c5ca785a910e_N8244 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Sport> .
-_:Sport1_b3c71402d8fc1c7b8ba7a105c199c5ca785a910e_N8244_b3c71402d8fc1c7b8ba7a105c199c5ca785a910e_N8244 <http://knowdive.disi.unitn.it/etype#has_name> "athletics" .
-<http://localhost:8080/source/way/226223143> <http://knowdive.disi.unitn.it/etype#has_longitude> "46.07158993571429" .
+<http://localhost:8080/source/way/226223143> <http://knowdive.disi.unitn.it/etype#has_sport> _:Sport1_b3c71402d8fc1c7b8ba7a105c199c5ca785a910e_N20999_b3c71402d8fc1c7b8ba7a105c199c5ca785a910e_N20999 .
 <http://localhost:8080/source/way/226223143> <http://knowdive.disi.unitn.it/etype#has_leisure> "stadium" .
+<http://localhost:8080/source/way/226223143> <http://knowdive.disi.unitn.it/etype#has_longitude> "46.07158993571429" .
 <http://localhost:8080/source/way/226223143> <http://knowdive.disi.unitn.it/etype#has_latitude> "11.233338107142856" .
 
