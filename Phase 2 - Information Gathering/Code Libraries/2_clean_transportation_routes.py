@@ -12,6 +12,7 @@ def filter_ways_from_data(file_path: pathlib.Path, output_file_path: pathlib.Pat
                 return None
             element['members'] = [{k: v for k, v in member.items() if k in ['ref', 'lat', 'lon']} for member in element['members']]
             element['tags'] = {name: value for name, value in element['tags'].items() if name in properties_to_retain}
+            element['tags']['region'] = 'region_1'
         return element
 
     properties_to_retain = ['from', 'importance', 'name', 'route', 'to', 'wheelchair']
