@@ -1,6 +1,6 @@
-id  name    age interest    usage   lat lon wheelchair
-1	Paolo	25	all	practice	46.0748	11.1217 no
-2	Patrick	20	fitness	practice	46.0659	11.1526	no
-3	José	42	soccer	father	45.8910	11.0401	yes
-4	Lucia	50	volleyball	fan	46.0748	11.1217	no
-5	Ginevra	13	athletics	practice	46.0483	11.1459	no
+id	name	age	interest	usage	lat	lon	wheelchair  acts_in
+1	Paolo	25	all	practice	46.0748	11.1217	no  region_1
+2	Patrick	20	fitness	practice	46.0659	11.1526	no  region_1
+3	José	42	soccer	father	45.8910	11.0401	yes region_1
+4	Lucia	50	volleyball	fan	46.0748	11.1217	no  region_1
+5	Ginevra	13	athletics	practice	46.0483	11.1459	no  region_1

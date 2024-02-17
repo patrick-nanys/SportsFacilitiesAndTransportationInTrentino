@@ -1,9 +1,9 @@
-leisure	name	sport	lat	lon	id
-stadium		soccer	10.9466532	45.738356456521736	relation/6696458
-stadium	Stadio Briamasco	soccer	11.114449888235294	46.0642568764706	way/24860724
-stadium	Campo da Calcio AC Nago (chiuso)	soccer	10.902965833333333	45.87304414444444	way/28591127
-stadium	Stadio Comunale	soccer	11.29001032	46.011262020000004	way/65608425
-stadium		soccer	10.72793836	46.033059220000005	way/87028752
-stadium	Campo Sportivo	soccer	10.74112347142857	46.103793142857135	way/87302700
-stadium	Campo di calcio del Fiavé	soccer	10.834414550000002	45.988347225	way/113187357
-stadium		athletics	11.233338107142856	46.07158993571429	way/226223143
+leisure	name	sport	lat	lon	id	region
+stadium		soccer	10.9466532	45.738356456521736	relation/6696458	region_1
+stadium	Stadio Briamasco	soccer	11.114449888235294	46.0642568764706	way/24860724	region_1
+stadium	Campo da Calcio AC Nago (chiuso)	soccer	10.902965833333331	45.87304414444444	way/28591127	region_1
+stadium	Stadio Comunale	soccer	11.29001032	46.01126202	way/65608425	region_1
+stadium		soccer	10.72793836	46.033059220000005	way/87028752	region_1
+stadium	Campo Sportivo	soccer	10.74112347142857	46.103793142857135	way/87302700	region_1
+stadium	Campo di calcio del Fiavé	soccer	10.834414550000002	45.988347225	way/113187357	region_1
+stadium		athletics	11.233338107142856	46.07158993571429	way/226223143	region_1
