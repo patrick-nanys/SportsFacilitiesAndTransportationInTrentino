@@ -39,6 +39,12 @@ https://schema.org/TrainTrip,http://knowdive.disi.unitn.it/etype#TrainTrip
 /train_trip_GID-13009,/TrainTrip
 #region_GID-46452,#Region
 /region_GID-46452,/Region
+#end_user_GID-53816,#EndUser
+/end_user_GID-53816,/EndUser
+#age_GID-27200,#has_age
+#interest_GID-2206,#has_interest
+#usage_GID-4887,#has_usage
+#wheelchair_GID-25446,#has_enduser_wheelchair
 #address_country_GID-13010,#had_address_country
 #address_city_GID-13011,#has_address_city
 #address_house_number_GID-13012,#has_address_house_number
@@ -77,6 +83,11 @@ https://schema.org/TrainTrip,http://knowdive.disi.unitn.it/etype#TrainTrip
 #part_of_GID-13034,#part_of
 #has_stops_GID-13035,#has_stops
 #has_sport_GID-13036,#has_sport
+#acts_in_GID-13037,#acts_in
+/age_GID-27200,/has_age
+/interest_GID-2206,/has_interest
+/usage_GID-4887,/has_usage
+/wheelchair_GID-25446,/has_enduser_wheelchair
 /address_country_GID-13010,/had_address_country
 /address_city_GID-13011,/has_address_city
 /address_house_number_GID-13012,/has_address_house_number
@@ -115,3 +126,4 @@ https://schema.org/TrainTrip,http://knowdive.disi.unitn.it/etype#TrainTrip
 /part_of_GID-13034,/part_of
 /has_stops_GID-13035,/has_stops
 /has_sport_GID-13036,/has_sport
+/acts_in_GID-13037,/acts_in

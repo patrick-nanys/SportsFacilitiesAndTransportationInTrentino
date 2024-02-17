@@ -21,6 +21,16 @@
     
 
 
+    <!-- http://knowdive.disi.unitn.it/etype#acts_in -->
+
+    <owl:ObjectProperty rdf:about="http://knowdive.disi.unitn.it/etype#acts_in">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#EndUser"/>
+        <rdfs:range rdf:resource="http://knowdive.disi.unitn.it/etype#Region"/>
+    </owl:ObjectProperty>
+    
+
+
     <!-- http://knowdive.disi.unitn.it/etype#has_stops -->
 
     <owl:ObjectProperty rdf:about="http://knowdive.disi.unitn.it/etype#has_stops">
@@ -31,9 +41,9 @@
     
 
 
-    <!-- http://www.semanticweb.org/patrick/ontologies/2023/10/kge-sports/has_sport -->
+    <!-- http://knowdive.disi.unitn.it/etype#has_sport -->
 
-    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/patrick/ontologies/2023/10/kge-sports/has_sport">
+    <owl:ObjectProperty rdf:about="http://knowdive.disi.unitn.it/etype#has_sport">
         <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
         <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#Facilities"/>
         <rdfs:range rdf:resource="http://knowdive.disi.unitn.it/etype#Sport"/>
@@ -41,13 +51,13 @@
     
 
 
-    <!-- http://www.semanticweb.org/patrick/ontologies/2023/10/kge-sports/part_of -->
+    <!-- http://knowdive.disi.unitn.it/etype#part_of -->
 
-    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/patrick/ontologies/2023/10/kge-sports/part_of">
+    <owl:ObjectProperty rdf:about="http://knowdive.disi.unitn.it/etype#part_of">
         <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
         <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#Place"/>
         <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#Trip"/>
-        <rdfs:range rdf:resource="http://www.semanticweb.org/patrick/ontologies/2023/10/kge-sports/Region"/>
+        <rdfs:range rdf:resource="http://knowdive.disi.unitn.it/etype#Region"/>
     </owl:ObjectProperty>
     
 
@@ -60,6 +70,26 @@
     ///////////////////////////////////////////////////////////////////////////////////////
      -->
 
+    
+
+
+    <!-- http://knowdive.disi.unitn.it/etype#has_age -->
+
+    <owl:DatatypeProperty rdf:about="http://knowdive.disi.unitn.it/etype#has_age">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#EndUser"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#int"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://knowdive.disi.unitn.it/etype#has_enduser_wheelchair -->
+
+    <owl:DatatypeProperty rdf:about="http://knowdive.disi.unitn.it/etype#has_enduser_wheelchair">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#EndUser"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    </owl:DatatypeProperty>
     
 
 
@@ -78,6 +108,9 @@
     <owl:DatatypeProperty rdf:about="http://knowdive.disi.unitn.it/etype#has_id">
         <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
         <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#Facilities"/>
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#EndUser"/>
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#Region"/>
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#Place"/>
         <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
     </owl:DatatypeProperty>
     
@@ -98,6 +131,7 @@
     <owl:DatatypeProperty rdf:about="http://knowdive.disi.unitn.it/etype#has_latitude">
         <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
         <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#Place"/>
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#EndUser"/>
         <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#float"/>
     </owl:DatatypeProperty>
     
@@ -118,6 +152,7 @@
     <owl:DatatypeProperty rdf:about="http://knowdive.disi.unitn.it/etype#has_longitude">
         <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
         <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#Place"/>
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#EndUser"/>
         <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#float"/>
     </owl:DatatypeProperty>
     
@@ -169,6 +204,8 @@
         <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
         <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#Facilities"/>
         <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#Trip"/>
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#EndUser"/>
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#Region"/>
         <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
     </owl:DatatypeProperty>
     
@@ -255,6 +292,26 @@
     
 
 
+    <!-- http://knowdive.disi.unitn.it/etype#has_interest -->
+
+    <owl:DatatypeProperty rdf:about="http://knowdive.disi.unitn.it/etype#has_interest">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#EndUser"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://knowdive.disi.unitn.it/etype#has_usage -->
+
+    <owl:DatatypeProperty rdf:about="http://knowdive.disi.unitn.it/etype#has_usage">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#EndUser"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    </owl:DatatypeProperty>
+    
+
+
     <!-- 
     ///////////////////////////////////////////////////////////////////////////////////////
     //
@@ -281,6 +338,12 @@
         <rdfs:subClassOf rdf:resource="http://knowdive.disi.unitn.it/etype#Trip"/>
         <owl:disjointWith rdf:resource="http://knowdive.disi.unitn.it/etype#TrainTrip"/>
     </owl:Class>
+    
+
+
+    <!-- http://knowdive.disi.unitn.it/etype#EndUser -->
+
+    <owl:Class rdf:about="http://knowdive.disi.unitn.it/etype#EndUser"/>
     
 
 
@@ -394,9 +457,9 @@
     
 
 
-    <!-- http://www.semanticweb.org/patrick/ontologies/2023/10/kge-sports/Region -->
+    <!-- http://knowdive.disi.unitn.it/etype#Region -->
 
-    <owl:Class rdf:about="http://www.semanticweb.org/patrick/ontologies/2023/10/kge-sports/Region"/>
+    <owl:Class rdf:about="http://knowdive.disi.unitn.it/etype#Region"/>
     
 
 
