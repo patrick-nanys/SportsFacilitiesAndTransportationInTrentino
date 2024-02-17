@@ -1,4 +1,4 @@
-leisure	sport	lat	lon	id	surface	region
+leisure	sport	lon	lat	id	surface	region
 track	soccer	11.05781408	45.95732202000001	way/41988880		region_1
 track	athletics	11.028014537931034	46.3444445137931	relation/1209544		region_1
 track	athletics	11.030199130434784	46.34320549565218	relation/1209545		region_1

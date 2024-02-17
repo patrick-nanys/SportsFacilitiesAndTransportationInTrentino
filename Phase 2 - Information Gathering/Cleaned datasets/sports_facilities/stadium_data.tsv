@@ -1,4 +1,4 @@
-leisure	name	sport	lat	lon	id	region
+leisure	name	sport	lon	lat	id	region
 stadium		soccer	10.9466532	45.738356456521736	relation/6696458	region_1
 stadium	Stadio Briamasco	soccer	11.114449888235294	46.0642568764706	way/24860724	region_1
 stadium	Campo da Calcio AC Nago (chiuso)	soccer	10.902965833333331	45.87304414444444	way/28591127	region_1

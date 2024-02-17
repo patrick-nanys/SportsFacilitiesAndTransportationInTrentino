@@ -1,12 +1,12 @@
 <http://localhost:8080/source/relation/5685356> <http://knowdive.disi.unitn.it/etype#has_leisure> "sports_centre" .
 <http://localhost:8080/source/region_1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region> .
 <http://localhost:8080/source/relation/5685356> <http://knowdive.disi.unitn.it/etype#has_sport> _:Sport1_9c758f06878ddd2938cc6021bcda9518223f76d0_N18627_9c758f06878ddd2938cc6021bcda9518223f76d0_N18627 .
-<http://localhost:8080/source/relation/5685356> <http://knowdive.disi.unitn.it/etype#has_longitude> "45.92000112" .
+<http://localhost:8080/source/relation/5685356> <http://knowdive.disi.unitn.it/etype#has_latitude> "45.92000112" .
 _:Sport1_9c758f06878ddd2938cc6021bcda9518223f76d0_N18627_9c758f06878ddd2938cc6021bcda9518223f76d0_N18627 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Sport> .
 <http://localhost:8080/source/relation/5685356> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportsCentre> .
 <http://localhost:8080/source/relation/5685356> <http://knowdive.disi.unitn.it/etype#has_name> "Palestra Romarzollo" .
 _:Sport1_9c758f06878ddd2938cc6021bcda9518223f76d0_N18627_9c758f06878ddd2938cc6021bcda9518223f76d0_N18627 <http://knowdive.disi.unitn.it/etype#has_type_of_sport> "volleyball" .
-<http://localhost:8080/source/relation/5685356> <http://knowdive.disi.unitn.it/etype#has_latitude> "10.867913519999998" .
+<http://localhost:8080/source/relation/5685356> <http://knowdive.disi.unitn.it/etype#has_longitude> "10.867913519999998" .
 <http://localhost:8080/source/relation/5685356> <http://knowdive.disi.unitn.it/etype#part_of> <http://localhost:8080/source/region_1> .
 
 _:Sport1_9c758f06878ddd2938cc6021bcda9518223f76d0_N18636_9c758f06878ddd2938cc6021bcda9518223f76d0_N18636 <http://knowdive.disi.unitn.it/etype#has_type_of_sport> "volleyball" .
@@ -14,59 +14,59 @@ _:Sport1_9c758f06878ddd2938cc6021bcda9518223f76d0_N18636_9c758f06878ddd2938cc602
 <http://localhost:8080/source/region_1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region> .
 <http://localhost:8080/source/way/164753085> <http://knowdive.disi.unitn.it/etype#has_sport> _:Sport1_9c758f06878ddd2938cc6021bcda9518223f76d0_N18636_9c758f06878ddd2938cc6021bcda9518223f76d0_N18636 .
 <http://localhost:8080/source/way/164753085> <http://knowdive.disi.unitn.it/etype#part_of> <http://localhost:8080/source/region_1> .
-<http://localhost:8080/source/way/164753085> <http://knowdive.disi.unitn.it/etype#has_latitude> "10.575759429411768" .
+<http://localhost:8080/source/way/164753085> <http://knowdive.disi.unitn.it/etype#has_longitude> "10.575759429411768" .
 _:Sport1_9c758f06878ddd2938cc6021bcda9518223f76d0_N18636_9c758f06878ddd2938cc6021bcda9518223f76d0_N18636 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Sport> .
 <http://localhost:8080/source/way/164753085> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportsCentre> .
-<http://localhost:8080/source/way/164753085> <http://knowdive.disi.unitn.it/etype#has_longitude> "45.85106224705881" .
+<http://localhost:8080/source/way/164753085> <http://knowdive.disi.unitn.it/etype#has_latitude> "45.85106224705881" .
 
 _:Sport1_5c17fa03e6d5fc247565e1cd8ffa70e1bfe5b8d9_N18645_5c17fa03e6d5fc247565e1cd8ffa70e1bfe5b8d9_N18645 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Sport> .
 <http://localhost:8080/source/region_1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region> .
 <http://localhost:8080/source/relation/2441743> <http://knowdive.disi.unitn.it/etype#has_leisure> "sports_centre" .
-<http://localhost:8080/source/relation/2441743> <http://knowdive.disi.unitn.it/etype#has_latitude> "11.089699261538462" .
+<http://localhost:8080/source/relation/2441743> <http://knowdive.disi.unitn.it/etype#has_longitude> "11.089699261538462" .
 <http://localhost:8080/source/relation/2441743> <http://knowdive.disi.unitn.it/etype#part_of> <http://localhost:8080/source/region_1> .
 _:Sport1_5c17fa03e6d5fc247565e1cd8ffa70e1bfe5b8d9_N18645_5c17fa03e6d5fc247565e1cd8ffa70e1bfe5b8d9_N18645 <http://knowdive.disi.unitn.it/etype#has_type_of_sport> "soccer" .
-<http://localhost:8080/source/relation/2441743> <http://knowdive.disi.unitn.it/etype#has_longitude> "46.00542776923077" .
+<http://localhost:8080/source/relation/2441743> <http://knowdive.disi.unitn.it/etype#has_latitude> "46.00542776923077" .
 <http://localhost:8080/source/relation/2441743> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportsCentre> .
 <http://localhost:8080/source/relation/2441743> <http://knowdive.disi.unitn.it/etype#has_sport> _:Sport1_5c17fa03e6d5fc247565e1cd8ffa70e1bfe5b8d9_N18645_5c17fa03e6d5fc247565e1cd8ffa70e1bfe5b8d9_N18645 .
 
 _:Sport1_5c17fa03e6d5fc247565e1cd8ffa70e1bfe5b8d9_N18654_5c17fa03e6d5fc247565e1cd8ffa70e1bfe5b8d9_N18654 <http://knowdive.disi.unitn.it/etype#has_type_of_sport> "soccer" .
 <http://localhost:8080/source/way/27663007> <http://knowdive.disi.unitn.it/etype#has_leisure> "sports_centre" .
 <http://localhost:8080/source/way/27663007> <http://knowdive.disi.unitn.it/etype#has_sport> _:Sport1_5c17fa03e6d5fc247565e1cd8ffa70e1bfe5b8d9_N18654_5c17fa03e6d5fc247565e1cd8ffa70e1bfe5b8d9_N18654 .
-<http://localhost:8080/source/way/27663007> <http://knowdive.disi.unitn.it/etype#has_latitude> "10.905907699999998" .
+<http://localhost:8080/source/way/27663007> <http://knowdive.disi.unitn.it/etype#has_longitude> "10.905907699999998" .
 <http://localhost:8080/source/region_1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region> .
-<http://localhost:8080/source/way/27663007> <http://knowdive.disi.unitn.it/etype#has_longitude> "45.91918784" .
+<http://localhost:8080/source/way/27663007> <http://knowdive.disi.unitn.it/etype#has_latitude> "45.91918784" .
 _:Sport1_5c17fa03e6d5fc247565e1cd8ffa70e1bfe5b8d9_N18654_5c17fa03e6d5fc247565e1cd8ffa70e1bfe5b8d9_N18654 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Sport> .
 <http://localhost:8080/source/way/27663007> <http://knowdive.disi.unitn.it/etype#part_of> <http://localhost:8080/source/region_1> .
 <http://localhost:8080/source/way/27663007> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportsCentre> .
 
-<http://localhost:8080/source/way/37762866> <http://knowdive.disi.unitn.it/etype#has_longitude> "46.08800476470589" .
+<http://localhost:8080/source/way/37762866> <http://knowdive.disi.unitn.it/etype#has_latitude> "46.08800476470589" .
 <http://localhost:8080/source/way/37762866> <http://knowdive.disi.unitn.it/etype#has_name> "Centro Sportivo Trilacum" .
 <http://localhost:8080/source/region_1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region> .
 _:Sport1_5c17fa03e6d5fc247565e1cd8ffa70e1bfe5b8d9_N18663_5c17fa03e6d5fc247565e1cd8ffa70e1bfe5b8d9_N18663 <http://knowdive.disi.unitn.it/etype#has_type_of_sport> "soccer" .
 <http://localhost:8080/source/way/37762866> <http://knowdive.disi.unitn.it/etype#has_sport> _:Sport1_5c17fa03e6d5fc247565e1cd8ffa70e1bfe5b8d9_N18663_5c17fa03e6d5fc247565e1cd8ffa70e1bfe5b8d9_N18663 .
 _:Sport1_5c17fa03e6d5fc247565e1cd8ffa70e1bfe5b8d9_N18663_5c17fa03e6d5fc247565e1cd8ffa70e1bfe5b8d9_N18663 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Sport> .
 <http://localhost:8080/source/way/37762866> <http://knowdive.disi.unitn.it/etype#part_of> <http://localhost:8080/source/region_1> .
-<http://localhost:8080/source/way/37762866> <http://knowdive.disi.unitn.it/etype#has_latitude> "11.045085382352944" .
+<http://localhost:8080/source/way/37762866> <http://knowdive.disi.unitn.it/etype#has_longitude> "11.045085382352944" .
 <http://localhost:8080/source/way/37762866> <http://knowdive.disi.unitn.it/etype#has_leisure> "sports_centre" .
 <http://localhost:8080/source/way/37762866> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportsCentre> .
 
 _:Sport1_5c17fa03e6d5fc247565e1cd8ffa70e1bfe5b8d9_N18672_5c17fa03e6d5fc247565e1cd8ffa70e1bfe5b8d9_N18672 <http://knowdive.disi.unitn.it/etype#has_type_of_sport> "soccer" .
 <http://localhost:8080/source/region_1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region> .
-<http://localhost:8080/source/way/62756632> <http://knowdive.disi.unitn.it/etype#has_longitude> "46.02455954" .
+<http://localhost:8080/source/way/62756632> <http://knowdive.disi.unitn.it/etype#has_latitude> "46.02455954" .
 <http://localhost:8080/source/way/62756632> <http://knowdive.disi.unitn.it/etype#has_name> "Centro Sportivo Guaita" .
 _:Sport1_5c17fa03e6d5fc247565e1cd8ffa70e1bfe5b8d9_N18672_5c17fa03e6d5fc247565e1cd8ffa70e1bfe5b8d9_N18672 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Sport> .
-<http://localhost:8080/source/way/62756632> <http://knowdive.disi.unitn.it/etype#has_latitude> "10.94206556" .
+<http://localhost:8080/source/way/62756632> <http://knowdive.disi.unitn.it/etype#has_longitude> "10.94206556" .
 <http://localhost:8080/source/way/62756632> <http://knowdive.disi.unitn.it/etype#has_leisure> "sports_centre" .
 <http://localhost:8080/source/way/62756632> <http://knowdive.disi.unitn.it/etype#part_of> <http://localhost:8080/source/region_1> .
 <http://localhost:8080/source/way/62756632> <http://knowdive.disi.unitn.it/etype#has_sport> _:Sport1_5c17fa03e6d5fc247565e1cd8ffa70e1bfe5b8d9_N18672_5c17fa03e6d5fc247565e1cd8ffa70e1bfe5b8d9_N18672 .
 <http://localhost:8080/source/way/62756632> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportsCentre> .
 
-<http://localhost:8080/source/way/76564582> <http://knowdive.disi.unitn.it/etype#has_longitude> "45.91949113999999" .
+<http://localhost:8080/source/way/76564582> <http://knowdive.disi.unitn.it/etype#has_latitude> "45.91949113999999" .
 <http://localhost:8080/source/way/76564582> <http://knowdive.disi.unitn.it/etype#part_of> <http://localhost:8080/source/region_1> .
 <http://localhost:8080/source/way/76564582> <http://knowdive.disi.unitn.it/etype#has_leisure> "sports_centre" .
 <http://localhost:8080/source/region_1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region> .
 _:Sport1_5c17fa03e6d5fc247565e1cd8ffa70e1bfe5b8d9_N18681_5c17fa03e6d5fc247565e1cd8ffa70e1bfe5b8d9_N18681 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Sport> .
-<http://localhost:8080/source/way/76564582> <http://knowdive.disi.unitn.it/etype#has_latitude> "10.906532680000002" .
+<http://localhost:8080/source/way/76564582> <http://knowdive.disi.unitn.it/etype#has_longitude> "10.906532680000002" .
 _:Sport1_5c17fa03e6d5fc247565e1cd8ffa70e1bfe5b8d9_N18681_5c17fa03e6d5fc247565e1cd8ffa70e1bfe5b8d9_N18681 <http://knowdive.disi.unitn.it/etype#has_type_of_sport> "soccer" .
 <http://localhost:8080/source/way/76564582> <http://knowdive.disi.unitn.it/etype#has_sport> _:Sport1_5c17fa03e6d5fc247565e1cd8ffa70e1bfe5b8d9_N18681_5c17fa03e6d5fc247565e1cd8ffa70e1bfe5b8d9_N18681 .
 <http://localhost:8080/source/way/76564582> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportsCentre> .
@@ -76,8 +76,8 @@ _:Sport1_5c17fa03e6d5fc247565e1cd8ffa70e1bfe5b8d9_N18681_5c17fa03e6d5fc247565e1c
 <http://localhost:8080/source/way/76592148> <http://knowdive.disi.unitn.it/etype#has_leisure> "sports_centre" .
 _:Sport1_5c17fa03e6d5fc247565e1cd8ffa70e1bfe5b8d9_N18690_5c17fa03e6d5fc247565e1cd8ffa70e1bfe5b8d9_N18690 <http://knowdive.disi.unitn.it/etype#has_type_of_sport> "soccer" .
 <http://localhost:8080/source/way/76592148> <http://knowdive.disi.unitn.it/etype#part_of> <http://localhost:8080/source/region_1> .
-<http://localhost:8080/source/way/76592148> <http://knowdive.disi.unitn.it/etype#has_longitude> "45.91402362" .
-<http://localhost:8080/source/way/76592148> <http://knowdive.disi.unitn.it/etype#has_latitude> "10.903778460000002" .
+<http://localhost:8080/source/way/76592148> <http://knowdive.disi.unitn.it/etype#has_latitude> "45.91402362" .
+<http://localhost:8080/source/way/76592148> <http://knowdive.disi.unitn.it/etype#has_longitude> "10.903778460000002" .
 <http://localhost:8080/source/way/76592148> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportsCentre> .
 _:Sport1_5c17fa03e6d5fc247565e1cd8ffa70e1bfe5b8d9_N18690_5c17fa03e6d5fc247565e1cd8ffa70e1bfe5b8d9_N18690 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Sport> .
 
@@ -85,80 +85,80 @@ _:Sport1_5c17fa03e6d5fc247565e1cd8ffa70e1bfe5b8d9_N18690_5c17fa03e6d5fc247565e1c
 _:Sport1_5c17fa03e6d5fc247565e1cd8ffa70e1bfe5b8d9_N18699_5c17fa03e6d5fc247565e1cd8ffa70e1bfe5b8d9_N18699 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Sport> .
 <http://localhost:8080/source/region_1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region> .
 <http://localhost:8080/source/way/432329037> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportsCentre> .
-<http://localhost:8080/source/way/432329037> <http://knowdive.disi.unitn.it/etype#has_latitude> "10.759026655555552" .
+<http://localhost:8080/source/way/432329037> <http://knowdive.disi.unitn.it/etype#has_longitude> "10.759026655555552" .
 <http://localhost:8080/source/way/432329037> <http://knowdive.disi.unitn.it/etype#has_leisure> "sports_centre" .
 <http://localhost:8080/source/way/432329037> <http://knowdive.disi.unitn.it/etype#has_name> "Stadio comunale" .
 _:Sport1_5c17fa03e6d5fc247565e1cd8ffa70e1bfe5b8d9_N18699_5c17fa03e6d5fc247565e1cd8ffa70e1bfe5b8d9_N18699 <http://knowdive.disi.unitn.it/etype#has_type_of_sport> "soccer" .
-<http://localhost:8080/source/way/432329037> <http://knowdive.disi.unitn.it/etype#has_longitude> "46.1530507" .
+<http://localhost:8080/source/way/432329037> <http://knowdive.disi.unitn.it/etype#has_latitude> "46.1530507" .
 <http://localhost:8080/source/way/432329037> <http://knowdive.disi.unitn.it/etype#part_of> <http://localhost:8080/source/region_1> .
 
 <http://localhost:8080/source/region_1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region> .
 <http://localhost:8080/source/way/1022619304> <http://knowdive.disi.unitn.it/etype#has_sport> _:Sport1_5c17fa03e6d5fc247565e1cd8ffa70e1bfe5b8d9_N18708_5c17fa03e6d5fc247565e1cd8ffa70e1bfe5b8d9_N18708 .
 <http://localhost:8080/source/way/1022619304> <http://knowdive.disi.unitn.it/etype#has_leisure> "sports_centre" .
-<http://localhost:8080/source/way/1022619304> <http://knowdive.disi.unitn.it/etype#has_longitude> "46.00784200769231" .
+<http://localhost:8080/source/way/1022619304> <http://knowdive.disi.unitn.it/etype#has_latitude> "46.00784200769231" .
 _:Sport1_5c17fa03e6d5fc247565e1cd8ffa70e1bfe5b8d9_N18708_5c17fa03e6d5fc247565e1cd8ffa70e1bfe5b8d9_N18708 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Sport> .
-<http://localhost:8080/source/way/1022619304> <http://knowdive.disi.unitn.it/etype#has_latitude> "11.129202069230768" .
+<http://localhost:8080/source/way/1022619304> <http://knowdive.disi.unitn.it/etype#has_longitude> "11.129202069230768" .
 <http://localhost:8080/source/way/1022619304> <http://knowdive.disi.unitn.it/etype#part_of> <http://localhost:8080/source/region_1> .
 <http://localhost:8080/source/way/1022619304> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportsCentre> .
 <http://localhost:8080/source/way/1022619304> <http://knowdive.disi.unitn.it/etype#has_name> "Campo da calcio \"O. Mantovan\"" .
 _:Sport1_5c17fa03e6d5fc247565e1cd8ffa70e1bfe5b8d9_N18708_5c17fa03e6d5fc247565e1cd8ffa70e1bfe5b8d9_N18708 <http://knowdive.disi.unitn.it/etype#has_type_of_sport> "soccer" .
 
 <http://localhost:8080/source/way/44030557> <http://knowdive.disi.unitn.it/etype#part_of> <http://localhost:8080/source/region_1> .
-<http://localhost:8080/source/way/44030557> <http://knowdive.disi.unitn.it/etype#has_longitude> "45.8344218125" .
+<http://localhost:8080/source/way/44030557> <http://knowdive.disi.unitn.it/etype#has_latitude> "45.8344218125" .
 <http://localhost:8080/source/region_1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region> .
 <http://localhost:8080/source/way/44030557> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportsCentre> .
 _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N18717_2bbed9587ed692a4c2be81cb33a9936100a38524_N18717 <http://knowdive.disi.unitn.it/etype#has_type_of_sport> "climbing" .
 <http://localhost:8080/source/way/44030557> <http://knowdive.disi.unitn.it/etype#has_sport> _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N18717_2bbed9587ed692a4c2be81cb33a9936100a38524_N18717 .
-<http://localhost:8080/source/way/44030557> <http://knowdive.disi.unitn.it/etype#has_latitude> "10.5512128" .
+<http://localhost:8080/source/way/44030557> <http://knowdive.disi.unitn.it/etype#has_longitude> "10.5512128" .
 <http://localhost:8080/source/way/44030557> <http://knowdive.disi.unitn.it/etype#has_name> "Centro polivalente di Darzo Carlo Maffei" .
 _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N18717_2bbed9587ed692a4c2be81cb33a9936100a38524_N18717 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Sport> .
 <http://localhost:8080/source/way/44030557> <http://knowdive.disi.unitn.it/etype#has_leisure> "sports_centre" .
 
 _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N18726_2bbed9587ed692a4c2be81cb33a9936100a38524_N18726 <http://knowdive.disi.unitn.it/etype#has_type_of_sport> "climbing" .
 <http://localhost:8080/source/region_1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region> .
-<http://localhost:8080/source/way/219201990> <http://knowdive.disi.unitn.it/etype#has_longitude> "46.05281157142857" .
+<http://localhost:8080/source/way/219201990> <http://knowdive.disi.unitn.it/etype#has_latitude> "46.05281157142857" .
 <http://localhost:8080/source/way/219201990> <http://knowdive.disi.unitn.it/etype#has_leisure> "sports_centre" .
 <http://localhost:8080/source/way/219201990> <http://knowdive.disi.unitn.it/etype#part_of> <http://localhost:8080/source/region_1> .
 <http://localhost:8080/source/way/219201990> <http://knowdive.disi.unitn.it/etype#has_sport> _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N18726_2bbed9587ed692a4c2be81cb33a9936100a38524_N18726 .
 <http://localhost:8080/source/way/219201990> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportsCentre> .
 _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N18726_2bbed9587ed692a4c2be81cb33a9936100a38524_N18726 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Sport> .
-<http://localhost:8080/source/way/219201990> <http://knowdive.disi.unitn.it/etype#has_latitude> "11.523058714285714" .
+<http://localhost:8080/source/way/219201990> <http://knowdive.disi.unitn.it/etype#has_longitude> "11.523058714285714" .
 
 <http://localhost:8080/source/region_1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region> .
 <http://localhost:8080/source/way/291844865> <http://knowdive.disi.unitn.it/etype#part_of> <http://localhost:8080/source/region_1> .
 _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N18735_2bbed9587ed692a4c2be81cb33a9936100a38524_N18735 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Sport> .
-<http://localhost:8080/source/way/291844865> <http://knowdive.disi.unitn.it/etype#has_longitude> "46.1526076875" .
+<http://localhost:8080/source/way/291844865> <http://knowdive.disi.unitn.it/etype#has_latitude> "46.1526076875" .
 _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N18735_2bbed9587ed692a4c2be81cb33a9936100a38524_N18735 <http://knowdive.disi.unitn.it/etype#has_type_of_sport> "climbing" .
 <http://localhost:8080/source/way/291844865> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportsCentre> .
 <http://localhost:8080/source/way/291844865> <http://knowdive.disi.unitn.it/etype#has_sport> _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N18735_2bbed9587ed692a4c2be81cb33a9936100a38524_N18735 .
-<http://localhost:8080/source/way/291844865> <http://knowdive.disi.unitn.it/etype#has_latitude> "10.96374375" .
+<http://localhost:8080/source/way/291844865> <http://knowdive.disi.unitn.it/etype#has_longitude> "10.96374375" .
 <http://localhost:8080/source/way/291844865> <http://knowdive.disi.unitn.it/etype#has_leisure> "sports_centre" .
 <http://localhost:8080/source/way/291844865> <http://knowdive.disi.unitn.it/etype#has_opening_hours> "10:00-17:30" .
 <http://localhost:8080/source/way/291844865> <http://knowdive.disi.unitn.it/etype#has_name> "Forest Park" .
 
 <http://localhost:8080/source/way/638978639> <http://knowdive.disi.unitn.it/etype#has_leisure> "sports_centre" .
 <http://localhost:8080/source/way/638978639> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportsCentre> .
-<http://localhost:8080/source/way/638978639> <http://knowdive.disi.unitn.it/etype#has_longitude> "45.92337547333333" .
+<http://localhost:8080/source/way/638978639> <http://knowdive.disi.unitn.it/etype#has_latitude> "45.92337547333333" .
 <http://localhost:8080/source/region_1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region> .
 _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N18744_2bbed9587ed692a4c2be81cb33a9936100a38524_N18744 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Sport> .
 <http://localhost:8080/source/way/638978639> <http://knowdive.disi.unitn.it/etype#part_of> <http://localhost:8080/source/region_1> .
 <http://localhost:8080/source/way/638978639> <http://knowdive.disi.unitn.it/etype#has_sport> _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N18744_2bbed9587ed692a4c2be81cb33a9936100a38524_N18744 .
-<http://localhost:8080/source/way/638978639> <http://knowdive.disi.unitn.it/etype#has_latitude> "10.890742039999996" .
+<http://localhost:8080/source/way/638978639> <http://knowdive.disi.unitn.it/etype#has_longitude> "10.890742039999996" .
 _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N18744_2bbed9587ed692a4c2be81cb33a9936100a38524_N18744 <http://knowdive.disi.unitn.it/etype#has_type_of_sport> "climbing" .
 <http://localhost:8080/source/way/638978639> <http://knowdive.disi.unitn.it/etype#has_name> "Climbing Stadium Arco Rock" .
 
 <http://localhost:8080/source/way/1054881641> <http://knowdive.disi.unitn.it/etype#has_leisure> "sports_centre" .
-<http://localhost:8080/source/way/1054881641> <http://knowdive.disi.unitn.it/etype#has_longitude> "46.19260592" .
+<http://localhost:8080/source/way/1054881641> <http://knowdive.disi.unitn.it/etype#has_latitude> "46.19260592" .
 <http://localhost:8080/source/region_1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region> .
 <http://localhost:8080/source/way/1054881641> <http://knowdive.disi.unitn.it/etype#has_sport> _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N18753_2bbed9587ed692a4c2be81cb33a9936100a38524_N18753 .
 <http://localhost:8080/source/way/1054881641> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportsCentre> .
 _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N18753_2bbed9587ed692a4c2be81cb33a9936100a38524_N18753 <http://knowdive.disi.unitn.it/etype#has_type_of_sport> "climbing" .
 <http://localhost:8080/source/way/1054881641> <http://knowdive.disi.unitn.it/etype#part_of> <http://localhost:8080/source/region_1> .
-<http://localhost:8080/source/way/1054881641> <http://knowdive.disi.unitn.it/etype#has_latitude> "11.94266518" .
+<http://localhost:8080/source/way/1054881641> <http://knowdive.disi.unitn.it/etype#has_longitude> "11.94266518" .
 _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N18753_2bbed9587ed692a4c2be81cb33a9936100a38524_N18753 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Sport> .
 
 <http://localhost:8080/source/region_1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region> .
-<http://localhost:8080/source/way/1174005531> <http://knowdive.disi.unitn.it/etype#has_latitude> "10.71728302" .
+<http://localhost:8080/source/way/1174005531> <http://knowdive.disi.unitn.it/etype#has_longitude> "10.71728302" .
 <http://localhost:8080/source/way/1174005531> <http://knowdive.disi.unitn.it/etype#has_name> "Pizzocol" .
 <http://localhost:8080/source/way/1174005531> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportsCentre> .
 _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N18762_2bbed9587ed692a4c2be81cb33a9936100a38524_N18762 <http://knowdive.disi.unitn.it/etype#has_type_of_sport> "climbing" .
@@ -166,28 +166,28 @@ _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N18762_2bbed9587ed692a4c2be81c
 <http://localhost:8080/source/way/1174005531> <http://knowdive.disi.unitn.it/etype#part_of> <http://localhost:8080/source/region_1> .
 <http://localhost:8080/source/way/1174005531> <http://knowdive.disi.unitn.it/etype#has_sport> _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N18762_2bbed9587ed692a4c2be81cb33a9936100a38524_N18762 .
 _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N18762_2bbed9587ed692a4c2be81cb33a9936100a38524_N18762 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Sport> .
-<http://localhost:8080/source/way/1174005531> <http://knowdive.disi.unitn.it/etype#has_longitude> "45.92632734" .
+<http://localhost:8080/source/way/1174005531> <http://knowdive.disi.unitn.it/etype#has_latitude> "45.92632734" .
 
 _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N18771_2bbed9587ed692a4c2be81cb33a9936100a38524_N18771 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Sport> .
 _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N18771_2bbed9587ed692a4c2be81cb33a9936100a38524_N18771 <http://knowdive.disi.unitn.it/etype#has_type_of_sport> "climbing" .
 <http://localhost:8080/source/way/1174005532> <http://knowdive.disi.unitn.it/etype#has_sport> _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N18771_2bbed9587ed692a4c2be81cb33a9936100a38524_N18771 .
 <http://localhost:8080/source/region_1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region> .
 <http://localhost:8080/source/way/1174005532> <http://knowdive.disi.unitn.it/etype#has_leisure> "sports_centre" .
-<http://localhost:8080/source/way/1174005532> <http://knowdive.disi.unitn.it/etype#has_longitude> "45.925027" .
+<http://localhost:8080/source/way/1174005532> <http://knowdive.disi.unitn.it/etype#has_latitude> "45.925027" .
 <http://localhost:8080/source/way/1174005532> <http://knowdive.disi.unitn.it/etype#part_of> <http://localhost:8080/source/region_1> .
 <http://localhost:8080/source/way/1174005532> <http://knowdive.disi.unitn.it/etype#has_name> "Al Coel" .
 <http://localhost:8080/source/way/1174005532> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportsCentre> .
-<http://localhost:8080/source/way/1174005532> <http://knowdive.disi.unitn.it/etype#has_latitude> "10.72001404" .
+<http://localhost:8080/source/way/1174005532> <http://knowdive.disi.unitn.it/etype#has_longitude> "10.72001404" .
 
 <http://localhost:8080/source/way/1174006704> <http://knowdive.disi.unitn.it/etype#has_leisure> "sports_centre" .
 <http://localhost:8080/source/region_1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region> .
 _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N18780_2bbed9587ed692a4c2be81cb33a9936100a38524_N18780 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Sport> .
 _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N18780_2bbed9587ed692a4c2be81cb33a9936100a38524_N18780 <http://knowdive.disi.unitn.it/etype#has_type_of_sport> "climbing" .
-<http://localhost:8080/source/way/1174006704> <http://knowdive.disi.unitn.it/etype#has_latitude> "10.644919171428572" .
+<http://localhost:8080/source/way/1174006704> <http://knowdive.disi.unitn.it/etype#has_longitude> "10.644919171428572" .
 <http://localhost:8080/source/way/1174006704> <http://knowdive.disi.unitn.it/etype#has_sport> _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N18780_2bbed9587ed692a4c2be81cb33a9936100a38524_N18780 .
 <http://localhost:8080/source/way/1174006704> <http://knowdive.disi.unitn.it/etype#has_name> "Finale Ampola" .
 <http://localhost:8080/source/way/1174006704> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportsCentre> .
-<http://localhost:8080/source/way/1174006704> <http://knowdive.disi.unitn.it/etype#has_longitude> "45.86247845714286" .
+<http://localhost:8080/source/way/1174006704> <http://knowdive.disi.unitn.it/etype#has_latitude> "45.86247845714286" .
 <http://localhost:8080/source/way/1174006704> <http://knowdive.disi.unitn.it/etype#part_of> <http://localhost:8080/source/region_1> .
 
 _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N18789_2bbed9587ed692a4c2be81cb33a9936100a38524_N18789 <http://knowdive.disi.unitn.it/etype#has_type_of_sport> "climbing" .
@@ -196,13 +196,13 @@ _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N18789_2bbed9587ed692a4c2be81c
 <http://localhost:8080/source/way/1174007261> <http://knowdive.disi.unitn.it/etype#has_name> "Futur Ampola" .
 _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N18789_2bbed9587ed692a4c2be81cb33a9936100a38524_N18789 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Sport> .
 <http://localhost:8080/source/way/1174007261> <http://knowdive.disi.unitn.it/etype#part_of> <http://localhost:8080/source/region_1> .
-<http://localhost:8080/source/way/1174007261> <http://knowdive.disi.unitn.it/etype#has_longitude> "45.858587920000005" .
-<http://localhost:8080/source/way/1174007261> <http://knowdive.disi.unitn.it/etype#has_latitude> "10.63662664" .
+<http://localhost:8080/source/way/1174007261> <http://knowdive.disi.unitn.it/etype#has_latitude> "45.858587920000005" .
+<http://localhost:8080/source/way/1174007261> <http://knowdive.disi.unitn.it/etype#has_longitude> "10.63662664" .
 <http://localhost:8080/source/way/1174007261> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportsCentre> .
 <http://localhost:8080/source/way/1174007261> <http://knowdive.disi.unitn.it/etype#has_leisure> "sports_centre" .
 
 <http://localhost:8080/source/region_1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region> .
-<http://localhost:8080/source/way/1174008006> <http://knowdive.disi.unitn.it/etype#has_longitude> "45.8382586" .
+<http://localhost:8080/source/way/1174008006> <http://knowdive.disi.unitn.it/etype#has_latitude> "45.8382586" .
 <http://localhost:8080/source/way/1174008006> <http://knowdive.disi.unitn.it/etype#has_leisure> "sports_centre" .
 _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N18798_2bbed9587ed692a4c2be81cb33a9936100a38524_N18798 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Sport> .
 <http://localhost:8080/source/way/1174008006> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportsCentre> .
@@ -210,7 +210,7 @@ _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N18798_2bbed9587ed692a4c2be81c
 _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N18798_2bbed9587ed692a4c2be81cb33a9936100a38524_N18798 <http://knowdive.disi.unitn.it/etype#has_type_of_sport> "climbing" .
 <http://localhost:8080/source/way/1174008006> <http://knowdive.disi.unitn.it/etype#part_of> <http://localhost:8080/source/region_1> .
 <http://localhost:8080/source/way/1174008006> <http://knowdive.disi.unitn.it/etype#has_sport> _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N18798_2bbed9587ed692a4c2be81cb33a9936100a38524_N18798 .
-<http://localhost:8080/source/way/1174008006> <http://knowdive.disi.unitn.it/etype#has_latitude> "10.56931952" .
+<http://localhost:8080/source/way/1174008006> <http://knowdive.disi.unitn.it/etype#has_longitude> "10.56931952" .
 
 <http://localhost:8080/source/way/1174008806> <http://knowdive.disi.unitn.it/etype#has_name> "Massi di Gaggiolo" .
 <http://localhost:8080/source/region_1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region> .
@@ -219,18 +219,18 @@ _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N18807_2bbed9587ed692a4c2be81c
 <http://localhost:8080/source/way/1174008806> <http://knowdive.disi.unitn.it/etype#part_of> <http://localhost:8080/source/region_1> .
 _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N18807_2bbed9587ed692a4c2be81cb33a9936100a38524_N18807 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Sport> .
 <http://localhost:8080/source/way/1174008806> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportsCentre> .
-<http://localhost:8080/source/way/1174008806> <http://knowdive.disi.unitn.it/etype#has_latitude> "10.92565192" .
+<http://localhost:8080/source/way/1174008806> <http://knowdive.disi.unitn.it/etype#has_longitude> "10.92565192" .
 <http://localhost:8080/source/way/1174008806> <http://knowdive.disi.unitn.it/etype#has_sport> _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N18807_2bbed9587ed692a4c2be81cb33a9936100a38524_N18807 .
-<http://localhost:8080/source/way/1174008806> <http://knowdive.disi.unitn.it/etype#has_longitude> "45.99168162000001" .
+<http://localhost:8080/source/way/1174008806> <http://knowdive.disi.unitn.it/etype#has_latitude> "45.99168162000001" .
 
 <http://localhost:8080/source/way/1174009685> <http://knowdive.disi.unitn.it/etype#has_sport> _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N18816_2bbed9587ed692a4c2be81cb33a9936100a38524_N18816 .
 <http://localhost:8080/source/way/1174009685> <http://knowdive.disi.unitn.it/etype#has_name> "Pian dela Paia" .
 <http://localhost:8080/source/region_1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region> .
 <http://localhost:8080/source/way/1174009685> <http://knowdive.disi.unitn.it/etype#part_of> <http://localhost:8080/source/region_1> .
-<http://localhost:8080/source/way/1174009685> <http://knowdive.disi.unitn.it/etype#has_latitude> "10.92603108" .
+<http://localhost:8080/source/way/1174009685> <http://knowdive.disi.unitn.it/etype#has_longitude> "10.92603108" .
 <http://localhost:8080/source/way/1174009685> <http://knowdive.disi.unitn.it/etype#has_leisure> "sports_centre" .
 _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N18816_2bbed9587ed692a4c2be81cb33a9936100a38524_N18816 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Sport> .
-<http://localhost:8080/source/way/1174009685> <http://knowdive.disi.unitn.it/etype#has_longitude> "46.00941556" .
+<http://localhost:8080/source/way/1174009685> <http://knowdive.disi.unitn.it/etype#has_latitude> "46.00941556" .
 _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N18816_2bbed9587ed692a4c2be81cb33a9936100a38524_N18816 <http://knowdive.disi.unitn.it/etype#has_type_of_sport> "climbing" .
 <http://localhost:8080/source/way/1174009685> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportsCentre> .
 
@@ -241,18 +241,18 @@ _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N18825_2bbed9587ed692a4c2be81c
 <http://localhost:8080/source/way/1174010888> <http://knowdive.disi.unitn.it/etype#has_name> "Transatlantico" .
 <http://localhost:8080/source/way/1174010888> <http://knowdive.disi.unitn.it/etype#has_leisure> "sports_centre" .
 <http://localhost:8080/source/way/1174010888> <http://knowdive.disi.unitn.it/etype#has_sport> _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N18825_2bbed9587ed692a4c2be81cb33a9936100a38524_N18825 .
-<http://localhost:8080/source/way/1174010888> <http://knowdive.disi.unitn.it/etype#has_longitude> "46.01495731999999" .
+<http://localhost:8080/source/way/1174010888> <http://knowdive.disi.unitn.it/etype#has_latitude> "46.01495731999999" .
 _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N18825_2bbed9587ed692a4c2be81cb33a9936100a38524_N18825 <http://knowdive.disi.unitn.it/etype#has_type_of_sport> "climbing" .
-<http://localhost:8080/source/way/1174010888> <http://knowdive.disi.unitn.it/etype#has_latitude> "10.92979706" .
+<http://localhost:8080/source/way/1174010888> <http://knowdive.disi.unitn.it/etype#has_longitude> "10.92979706" .
 
 <http://localhost:8080/source/way/1174013432> <http://knowdive.disi.unitn.it/etype#has_name> "Camerette" .
 <http://localhost:8080/source/way/1174013432> <http://knowdive.disi.unitn.it/etype#has_sport> _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N18834_2bbed9587ed692a4c2be81cb33a9936100a38524_N18834 .
 <http://localhost:8080/source/way/1174013432> <http://knowdive.disi.unitn.it/etype#part_of> <http://localhost:8080/source/region_1> .
 <http://localhost:8080/source/region_1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region> .
 <http://localhost:8080/source/way/1174013432> <http://knowdive.disi.unitn.it/etype#has_leisure> "sports_centre" .
-<http://localhost:8080/source/way/1174013432> <http://knowdive.disi.unitn.it/etype#has_latitude> "10.93452988" .
+<http://localhost:8080/source/way/1174013432> <http://knowdive.disi.unitn.it/etype#has_longitude> "10.93452988" .
 <http://localhost:8080/source/way/1174013432> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportsCentre> .
-<http://localhost:8080/source/way/1174013432> <http://knowdive.disi.unitn.it/etype#has_longitude> "46.01888796" .
+<http://localhost:8080/source/way/1174013432> <http://knowdive.disi.unitn.it/etype#has_latitude> "46.01888796" .
 _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N18834_2bbed9587ed692a4c2be81cb33a9936100a38524_N18834 <http://knowdive.disi.unitn.it/etype#has_type_of_sport> "climbing" .
 _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N18834_2bbed9587ed692a4c2be81cb33a9936100a38524_N18834 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Sport> .
 
@@ -261,11 +261,11 @@ _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N18834_2bbed9587ed692a4c2be81c
 <http://localhost:8080/source/region_1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region> .
 <http://localhost:8080/source/way/1174013433> <http://knowdive.disi.unitn.it/etype#has_name> "Murro di Chitarra" .
 <http://localhost:8080/source/way/1174013433> <http://knowdive.disi.unitn.it/etype#has_leisure> "sports_centre" .
-<http://localhost:8080/source/way/1174013433> <http://knowdive.disi.unitn.it/etype#has_longitude> "46.02049498" .
+<http://localhost:8080/source/way/1174013433> <http://knowdive.disi.unitn.it/etype#has_latitude> "46.02049498" .
 _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N18843_2bbed9587ed692a4c2be81cb33a9936100a38524_N18843 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Sport> .
 _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N18843_2bbed9587ed692a4c2be81cb33a9936100a38524_N18843 <http://knowdive.disi.unitn.it/etype#has_type_of_sport> "climbing" .
 <http://localhost:8080/source/way/1174013433> <http://knowdive.disi.unitn.it/etype#has_sport> _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N18843_2bbed9587ed692a4c2be81cb33a9936100a38524_N18843 .
-<http://localhost:8080/source/way/1174013433> <http://knowdive.disi.unitn.it/etype#has_latitude> "10.93468656" .
+<http://localhost:8080/source/way/1174013433> <http://knowdive.disi.unitn.it/etype#has_longitude> "10.93468656" .
 
 _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N18852_2bbed9587ed692a4c2be81cb33a9936100a38524_N18852 <http://knowdive.disi.unitn.it/etype#has_type_of_sport> "climbing" .
 <http://localhost:8080/source/way/1174013434> <http://knowdive.disi.unitn.it/etype#has_sport> _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N18852_2bbed9587ed692a4c2be81cb33a9936100a38524_N18852 .
@@ -273,8 +273,8 @@ _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N18852_2bbed9587ed692a4c2be81c
 <http://localhost:8080/source/way/1174013434> <http://knowdive.disi.unitn.it/etype#has_leisure> "sports_centre" .
 <http://localhost:8080/source/region_1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region> .
 _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N18852_2bbed9587ed692a4c2be81cb33a9936100a38524_N18852 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Sport> .
-<http://localhost:8080/source/way/1174013434> <http://knowdive.disi.unitn.it/etype#has_longitude> "46.02151764" .
-<http://localhost:8080/source/way/1174013434> <http://knowdive.disi.unitn.it/etype#has_latitude> "10.93494528" .
+<http://localhost:8080/source/way/1174013434> <http://knowdive.disi.unitn.it/etype#has_latitude> "46.02151764" .
+<http://localhost:8080/source/way/1174013434> <http://knowdive.disi.unitn.it/etype#has_longitude> "10.93494528" .
 <http://localhost:8080/source/way/1174013434> <http://knowdive.disi.unitn.it/etype#has_name> "Baule" .
 <http://localhost:8080/source/way/1174013434> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportsCentre> .
 
@@ -283,8 +283,8 @@ _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N18852_2bbed9587ed692a4c2be81c
 _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N18861_2bbed9587ed692a4c2be81cb33a9936100a38524_N18861 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Sport> .
 <http://localhost:8080/source/way/1174013435> <http://knowdive.disi.unitn.it/etype#part_of> <http://localhost:8080/source/region_1> .
 <http://localhost:8080/source/way/1174013435> <http://knowdive.disi.unitn.it/etype#has_sport> _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N18861_2bbed9587ed692a4c2be81cb33a9936100a38524_N18861 .
-<http://localhost:8080/source/way/1174013435> <http://knowdive.disi.unitn.it/etype#has_longitude> "46.0223489875" .
-<http://localhost:8080/source/way/1174013435> <http://knowdive.disi.unitn.it/etype#has_latitude> "10.93637385" .
+<http://localhost:8080/source/way/1174013435> <http://knowdive.disi.unitn.it/etype#has_latitude> "46.0223489875" .
+<http://localhost:8080/source/way/1174013435> <http://knowdive.disi.unitn.it/etype#has_longitude> "10.93637385" .
 _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N18861_2bbed9587ed692a4c2be81cb33a9936100a38524_N18861 <http://knowdive.disi.unitn.it/etype#has_type_of_sport> "climbing" .
 <http://localhost:8080/source/way/1174013435> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportsCentre> .
 <http://localhost:8080/source/way/1174013435> <http://knowdive.disi.unitn.it/etype#has_name> "Torre di Pietramurata" .
@@ -293,11 +293,11 @@ _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N18861_2bbed9587ed692a4c2be81c
 <http://localhost:8080/source/way/1174013436> <http://knowdive.disi.unitn.it/etype#has_leisure> "sports_centre" .
 _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N18870_2bbed9587ed692a4c2be81cb33a9936100a38524_N18870 <http://knowdive.disi.unitn.it/etype#has_type_of_sport> "climbing" .
 <http://localhost:8080/source/way/1174013436> <http://knowdive.disi.unitn.it/etype#has_sport> _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N18870_2bbed9587ed692a4c2be81cb33a9936100a38524_N18870 .
-<http://localhost:8080/source/way/1174013436> <http://knowdive.disi.unitn.it/etype#has_longitude> "46.02282164" .
+<http://localhost:8080/source/way/1174013436> <http://knowdive.disi.unitn.it/etype#has_latitude> "46.02282164" .
 <http://localhost:8080/source/way/1174013436> <http://knowdive.disi.unitn.it/etype#part_of> <http://localhost:8080/source/region_1> .
 <http://localhost:8080/source/way/1174013436> <http://knowdive.disi.unitn.it/etype#has_name> "Giardino di Nato" .
 <http://localhost:8080/source/way/1174013436> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportsCentre> .
-<http://localhost:8080/source/way/1174013436> <http://knowdive.disi.unitn.it/etype#has_latitude> "10.936953460000002" .
+<http://localhost:8080/source/way/1174013436> <http://knowdive.disi.unitn.it/etype#has_longitude> "10.936953460000002" .
 _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N18870_2bbed9587ed692a4c2be81cb33a9936100a38524_N18870 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Sport> .
 
 <http://localhost:8080/source/region_1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region> .
@@ -305,8 +305,8 @@ _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N18870_2bbed9587ed692a4c2be81c
 <http://localhost:8080/source/way/1177594092> <http://knowdive.disi.unitn.it/etype#has_leisure> "sports_centre" .
 <http://localhost:8080/source/way/1177594092> <http://knowdive.disi.unitn.it/etype#part_of> <http://localhost:8080/source/region_1> .
 <http://localhost:8080/source/way/1177594092> <http://knowdive.disi.unitn.it/etype#has_sport> _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N18879_2bbed9587ed692a4c2be81cb33a9936100a38524_N18879 .
-<http://localhost:8080/source/way/1177594092> <http://knowdive.disi.unitn.it/etype#has_longitude> "45.86157391666666" .
-<http://localhost:8080/source/way/1177594092> <http://knowdive.disi.unitn.it/etype#has_latitude> "10.890470816666664" .
+<http://localhost:8080/source/way/1177594092> <http://knowdive.disi.unitn.it/etype#has_latitude> "45.86157391666666" .
+<http://localhost:8080/source/way/1177594092> <http://knowdive.disi.unitn.it/etype#has_longitude> "10.890470816666664" .
 _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N18879_2bbed9587ed692a4c2be81cb33a9936100a38524_N18879 <http://knowdive.disi.unitn.it/etype#has_type_of_sport> "climbing" .
 <http://localhost:8080/source/way/1177594092> <http://knowdive.disi.unitn.it/etype#has_name> "Parete Dos Casina - Catullo Detassis" .
 _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N18879_2bbed9587ed692a4c2be81cb33a9936100a38524_N18879 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Sport> .
@@ -315,8 +315,8 @@ _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N18888_2bbed9587ed692a4c2be81c
 <http://localhost:8080/source/region_1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region> .
 <http://localhost:8080/source/node/268795930> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportsCentre> .
 <http://localhost:8080/source/node/268795930> <http://knowdive.disi.unitn.it/etype#has_sport> _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N18888_2bbed9587ed692a4c2be81cb33a9936100a38524_N18888 .
-<http://localhost:8080/source/node/268795930> <http://knowdive.disi.unitn.it/etype#has_latitude> "10.9712019" .
-<http://localhost:8080/source/node/268795930> <http://knowdive.disi.unitn.it/etype#has_longitude> "46.0272322" .
+<http://localhost:8080/source/node/268795930> <http://knowdive.disi.unitn.it/etype#has_longitude> "10.9712019" .
+<http://localhost:8080/source/node/268795930> <http://knowdive.disi.unitn.it/etype#has_latitude> "46.0272322" .
 <http://localhost:8080/source/node/268795930> <http://knowdive.disi.unitn.it/etype#part_of> <http://localhost:8080/source/region_1> .
 <http://localhost:8080/source/node/268795930> <http://knowdive.disi.unitn.it/etype#has_leisure> "sports_centre" .
 <http://localhost:8080/source/node/268795930> <http://knowdive.disi.unitn.it/etype#has_name> "Falesia S.Siro" .
@@ -325,19 +325,19 @@ _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N18888_2bbed9587ed692a4c2be81c
 _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N18897_2bbed9587ed692a4c2be81cb33a9936100a38524_N18897 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Sport> .
 <http://localhost:8080/source/region_1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region> .
 <http://localhost:8080/source/node/287973907> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportsCentre> .
-<http://localhost:8080/source/node/287973907> <http://knowdive.disi.unitn.it/etype#has_longitude> "46.3807386" .
+<http://localhost:8080/source/node/287973907> <http://knowdive.disi.unitn.it/etype#has_latitude> "46.3807386" .
 <http://localhost:8080/source/node/287973907> <http://knowdive.disi.unitn.it/etype#has_name> "Palestra di Roccia Sasias" .
 _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N18897_2bbed9587ed692a4c2be81cb33a9936100a38524_N18897 <http://knowdive.disi.unitn.it/etype#has_type_of_sport> "climbing" .
 <http://localhost:8080/source/node/287973907> <http://knowdive.disi.unitn.it/etype#part_of> <http://localhost:8080/source/region_1> .
 <http://localhost:8080/source/node/287973907> <http://knowdive.disi.unitn.it/etype#has_sport> _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N18897_2bbed9587ed692a4c2be81cb33a9936100a38524_N18897 .
 <http://localhost:8080/source/node/287973907> <http://knowdive.disi.unitn.it/etype#has_leisure> "sports_centre" .
-<http://localhost:8080/source/node/287973907> <http://knowdive.disi.unitn.it/etype#has_latitude> "10.9599299" .
+<http://localhost:8080/source/node/287973907> <http://knowdive.disi.unitn.it/etype#has_longitude> "10.9599299" .
 
 _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N18906_2bbed9587ed692a4c2be81cb33a9936100a38524_N18906 <http://knowdive.disi.unitn.it/etype#has_type_of_sport> "climbing" .
 <http://localhost:8080/source/node/293114875> <http://knowdive.disi.unitn.it/etype#part_of> <http://localhost:8080/source/region_1> .
 _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N18906_2bbed9587ed692a4c2be81cb33a9936100a38524_N18906 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Sport> .
-<http://localhost:8080/source/node/293114875> <http://knowdive.disi.unitn.it/etype#has_latitude> "10.9612606" .
-<http://localhost:8080/source/node/293114875> <http://knowdive.disi.unitn.it/etype#has_longitude> "46.0595994" .
+<http://localhost:8080/source/node/293114875> <http://knowdive.disi.unitn.it/etype#has_longitude> "10.9612606" .
+<http://localhost:8080/source/node/293114875> <http://knowdive.disi.unitn.it/etype#has_latitude> "46.0595994" .
 <http://localhost:8080/source/region_1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region> .
 <http://localhost:8080/source/node/293114875> <http://knowdive.disi.unitn.it/etype#has_name> "La Gola" .
 <http://localhost:8080/source/node/293114875> <http://knowdive.disi.unitn.it/etype#has_leisure> "sports_centre" .
@@ -346,8 +346,8 @@ _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N18906_2bbed9587ed692a4c2be81c
 
 <http://localhost:8080/source/node/293114876> <http://knowdive.disi.unitn.it/etype#has_sport> _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N18915_2bbed9587ed692a4c2be81cb33a9936100a38524_N18915 .
 <http://localhost:8080/source/region_1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region> .
-<http://localhost:8080/source/node/293114876> <http://knowdive.disi.unitn.it/etype#has_latitude> "10.9670808" .
-<http://localhost:8080/source/node/293114876> <http://knowdive.disi.unitn.it/etype#has_longitude> "46.0593264" .
+<http://localhost:8080/source/node/293114876> <http://knowdive.disi.unitn.it/etype#has_longitude> "10.9670808" .
+<http://localhost:8080/source/node/293114876> <http://knowdive.disi.unitn.it/etype#has_latitude> "46.0593264" .
 <http://localhost:8080/source/node/293114876> <http://knowdive.disi.unitn.it/etype#part_of> <http://localhost:8080/source/region_1> .
 <http://localhost:8080/source/node/293114876> <http://knowdive.disi.unitn.it/etype#has_name> "Falesia La Gola - Pezzent Area" .
 <http://localhost:8080/source/node/293114876> <http://knowdive.disi.unitn.it/etype#has_leisure> "sports_centre" .
@@ -355,12 +355,12 @@ _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N18915_2bbed9587ed692a4c2be81c
 <http://localhost:8080/source/node/293114876> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportsCentre> .
 _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N18915_2bbed9587ed692a4c2be81cb33a9936100a38524_N18915 <http://knowdive.disi.unitn.it/etype#has_type_of_sport> "climbing" .
 
-<http://localhost:8080/source/node/711865889> <http://knowdive.disi.unitn.it/etype#has_latitude> "10.5691253" .
+<http://localhost:8080/source/node/711865889> <http://knowdive.disi.unitn.it/etype#has_longitude> "10.5691253" .
 <http://localhost:8080/source/node/711865889> <http://knowdive.disi.unitn.it/etype#has_name> "Corna dal Vescov" .
 <http://localhost:8080/source/region_1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region> .
 <http://localhost:8080/source/node/711865889> <http://knowdive.disi.unitn.it/etype#part_of> <http://localhost:8080/source/region_1> .
 <http://localhost:8080/source/node/711865889> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportsCentre> .
-<http://localhost:8080/source/node/711865889> <http://knowdive.disi.unitn.it/etype#has_longitude> "45.8379889" .
+<http://localhost:8080/source/node/711865889> <http://knowdive.disi.unitn.it/etype#has_latitude> "45.8379889" .
 _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N18924_2bbed9587ed692a4c2be81cb33a9936100a38524_N18924 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Sport> .
 <http://localhost:8080/source/node/711865889> <http://knowdive.disi.unitn.it/etype#has_leisure> "sports_centre" .
 _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N18924_2bbed9587ed692a4c2be81cb33a9936100a38524_N18924 <http://knowdive.disi.unitn.it/etype#has_type_of_sport> "climbing" .
@@ -370,10 +370,10 @@ _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N18933_2bbed9587ed692a4c2be81c
 <http://localhost:8080/source/node/765601126> <http://knowdive.disi.unitn.it/etype#has_leisure> "sports_centre" .
 <http://localhost:8080/source/region_1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region> .
 <http://localhost:8080/source/node/765601126> <http://knowdive.disi.unitn.it/etype#part_of> <http://localhost:8080/source/region_1> .
-<http://localhost:8080/source/node/765601126> <http://knowdive.disi.unitn.it/etype#has_latitude> "10.9257211" .
+<http://localhost:8080/source/node/765601126> <http://knowdive.disi.unitn.it/etype#has_longitude> "10.9257211" .
 _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N18933_2bbed9587ed692a4c2be81cb33a9936100a38524_N18933 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Sport> .
 <http://localhost:8080/source/node/765601126> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportsCentre> .
-<http://localhost:8080/source/node/765601126> <http://knowdive.disi.unitn.it/etype#has_longitude> "46.0607624" .
+<http://localhost:8080/source/node/765601126> <http://knowdive.disi.unitn.it/etype#has_latitude> "46.0607624" .
 <http://localhost:8080/source/node/765601126> <http://knowdive.disi.unitn.it/etype#has_name> "Klettergarten \"Limarock\"" .
 <http://localhost:8080/source/node/765601126> <http://knowdive.disi.unitn.it/etype#has_sport> _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N18933_2bbed9587ed692a4c2be81cb33a9936100a38524_N18933 .
 
@@ -381,36 +381,36 @@ _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N18933_2bbed9587ed692a4c2be81c
 <http://localhost:8080/source/node/765601128> <http://knowdive.disi.unitn.it/etype#has_name> "Limarò" .
 _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N18942_2bbed9587ed692a4c2be81cb33a9936100a38524_N18942 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Sport> .
 <http://localhost:8080/source/region_1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region> .
-<http://localhost:8080/source/node/765601128> <http://knowdive.disi.unitn.it/etype#has_latitude> "10.9461358" .
+<http://localhost:8080/source/node/765601128> <http://knowdive.disi.unitn.it/etype#has_longitude> "10.9461358" .
 <http://localhost:8080/source/node/765601128> <http://knowdive.disi.unitn.it/etype#has_leisure> "sports_centre" .
 <http://localhost:8080/source/node/765601128> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportsCentre> .
 _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N18942_2bbed9587ed692a4c2be81cb33a9936100a38524_N18942 <http://knowdive.disi.unitn.it/etype#has_type_of_sport> "climbing" .
-<http://localhost:8080/source/node/765601128> <http://knowdive.disi.unitn.it/etype#has_longitude> "46.0474486" .
+<http://localhost:8080/source/node/765601128> <http://knowdive.disi.unitn.it/etype#has_latitude> "46.0474486" .
 <http://localhost:8080/source/node/765601128> <http://knowdive.disi.unitn.it/etype#has_sport> _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N18942_2bbed9587ed692a4c2be81cb33a9936100a38524_N18942 .
 
 <http://localhost:8080/source/region_1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region> .
 <http://localhost:8080/source/node/865160885> <http://knowdive.disi.unitn.it/etype#has_name> "Falesia Belvedere Sector A" .
 _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N18951_2bbed9587ed692a4c2be81cb33a9936100a38524_N18951 <http://knowdive.disi.unitn.it/etype#has_type_of_sport> "climbing" .
 <http://localhost:8080/source/node/865160885> <http://knowdive.disi.unitn.it/etype#has_sport> _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N18951_2bbed9587ed692a4c2be81cb33a9936100a38524_N18951 .
-<http://localhost:8080/source/node/865160885> <http://knowdive.disi.unitn.it/etype#has_longitude> "45.8805674" .
+<http://localhost:8080/source/node/865160885> <http://knowdive.disi.unitn.it/etype#has_latitude> "45.8805674" .
 <http://localhost:8080/source/node/865160885> <http://knowdive.disi.unitn.it/etype#has_leisure> "sports_centre" .
 <http://localhost:8080/source/node/865160885> <http://knowdive.disi.unitn.it/etype#part_of> <http://localhost:8080/source/region_1> .
 _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N18951_2bbed9587ed692a4c2be81cb33a9936100a38524_N18951 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Sport> .
 <http://localhost:8080/source/node/865160885> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportsCentre> .
-<http://localhost:8080/source/node/865160885> <http://knowdive.disi.unitn.it/etype#has_latitude> "10.8869872" .
+<http://localhost:8080/source/node/865160885> <http://knowdive.disi.unitn.it/etype#has_longitude> "10.8869872" .
 
-<http://localhost:8080/source/node/865161982> <http://knowdive.disi.unitn.it/etype#has_longitude> "45.8807838" .
+<http://localhost:8080/source/node/865161982> <http://knowdive.disi.unitn.it/etype#has_latitude> "45.8807838" .
 <http://localhost:8080/source/region_1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region> .
 _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N18960_2bbed9587ed692a4c2be81cb33a9936100a38524_N18960 <http://knowdive.disi.unitn.it/etype#has_type_of_sport> "climbing" .
 <http://localhost:8080/source/node/865161982> <http://knowdive.disi.unitn.it/etype#part_of> <http://localhost:8080/source/region_1> .
-<http://localhost:8080/source/node/865161982> <http://knowdive.disi.unitn.it/etype#has_latitude> "10.8879426" .
+<http://localhost:8080/source/node/865161982> <http://knowdive.disi.unitn.it/etype#has_longitude> "10.8879426" .
 <http://localhost:8080/source/node/865161982> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportsCentre> .
 _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N18960_2bbed9587ed692a4c2be81cb33a9936100a38524_N18960 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Sport> .
 <http://localhost:8080/source/node/865161982> <http://knowdive.disi.unitn.it/etype#has_leisure> "sports_centre" .
 <http://localhost:8080/source/node/865161982> <http://knowdive.disi.unitn.it/etype#has_sport> _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N18960_2bbed9587ed692a4c2be81cb33a9936100a38524_N18960 .
 <http://localhost:8080/source/node/865161982> <http://knowdive.disi.unitn.it/etype#has_name> "Falesia Belvedere Sector B" .
 
-<http://localhost:8080/source/node/944296572> <http://knowdive.disi.unitn.it/etype#has_latitude> "10.8972702" .
+<http://localhost:8080/source/node/944296572> <http://knowdive.disi.unitn.it/etype#has_longitude> "10.8972702" .
 <http://localhost:8080/source/region_1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region> .
 _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N18969_2bbed9587ed692a4c2be81cb33a9936100a38524_N18969 <http://knowdive.disi.unitn.it/etype#has_type_of_sport> "climbing" .
 <http://localhost:8080/source/node/944296572> <http://knowdive.disi.unitn.it/etype#has_name> "Falesia di Traole" .
@@ -418,15 +418,15 @@ _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N18969_2bbed9587ed692a4c2be81c
 _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N18969_2bbed9587ed692a4c2be81cb33a9936100a38524_N18969 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Sport> .
 <http://localhost:8080/source/node/944296572> <http://knowdive.disi.unitn.it/etype#has_leisure> "sports_centre" .
 <http://localhost:8080/source/node/944296572> <http://knowdive.disi.unitn.it/etype#has_sport> _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N18969_2bbed9587ed692a4c2be81cb33a9936100a38524_N18969 .
-<http://localhost:8080/source/node/944296572> <http://knowdive.disi.unitn.it/etype#has_longitude> "45.8679902" .
+<http://localhost:8080/source/node/944296572> <http://knowdive.disi.unitn.it/etype#has_latitude> "45.8679902" .
 <http://localhost:8080/source/node/944296572> <http://knowdive.disi.unitn.it/etype#part_of> <http://localhost:8080/source/region_1> .
 
-<http://localhost:8080/source/node/1438773974> <http://knowdive.disi.unitn.it/etype#has_longitude> "45.8865459" .
+<http://localhost:8080/source/node/1438773974> <http://knowdive.disi.unitn.it/etype#has_latitude> "45.8865459" .
 <http://localhost:8080/source/region_1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region> .
 <http://localhost:8080/source/node/1438773974> <http://knowdive.disi.unitn.it/etype#has_leisure> "sports_centre" .
 _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N18978_2bbed9587ed692a4c2be81cb33a9936100a38524_N18978 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Sport> .
 <http://localhost:8080/source/node/1438773974> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportsCentre> .
-<http://localhost:8080/source/node/1438773974> <http://knowdive.disi.unitn.it/etype#has_latitude> "11.1574151" .
+<http://localhost:8080/source/node/1438773974> <http://knowdive.disi.unitn.it/etype#has_longitude> "11.1574151" .
 <http://localhost:8080/source/node/1438773974> <http://knowdive.disi.unitn.it/etype#part_of> <http://localhost:8080/source/region_1> .
 _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N18978_2bbed9587ed692a4c2be81cb33a9936100a38524_N18978 <http://knowdive.disi.unitn.it/etype#has_type_of_sport> "climbing" .
 <http://localhost:8080/source/node/1438773974> <http://knowdive.disi.unitn.it/etype#has_sport> _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N18978_2bbed9587ed692a4c2be81cb33a9936100a38524_N18978 .
@@ -437,21 +437,21 @@ _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N18987_2bbed9587ed692a4c2be81c
 <http://localhost:8080/source/node/1891803026> <http://knowdive.disi.unitn.it/etype#has_leisure> "sports_centre" .
 <http://localhost:8080/source/region_1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region> .
 <http://localhost:8080/source/node/1891803026> <http://knowdive.disi.unitn.it/etype#part_of> <http://localhost:8080/source/region_1> .
-<http://localhost:8080/source/node/1891803026> <http://knowdive.disi.unitn.it/etype#has_longitude> "46.3725992" .
+<http://localhost:8080/source/node/1891803026> <http://knowdive.disi.unitn.it/etype#has_latitude> "46.3725992" .
 <http://localhost:8080/source/node/1891803026> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportsCentre> .
 <http://localhost:8080/source/node/1891803026> <http://knowdive.disi.unitn.it/etype#has_name> "Palestra di roccia" .
-<http://localhost:8080/source/node/1891803026> <http://knowdive.disi.unitn.it/etype#has_latitude> "11.6841828" .
+<http://localhost:8080/source/node/1891803026> <http://knowdive.disi.unitn.it/etype#has_longitude> "11.6841828" .
 _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N18987_2bbed9587ed692a4c2be81cb33a9936100a38524_N18987 <http://knowdive.disi.unitn.it/etype#has_type_of_sport> "climbing" .
 
 _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N18996_2bbed9587ed692a4c2be81cb33a9936100a38524_N18996 <http://knowdive.disi.unitn.it/etype#has_type_of_sport> "climbing" .
 <http://localhost:8080/source/region_1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region> .
-<http://localhost:8080/source/node/1992721143> <http://knowdive.disi.unitn.it/etype#has_longitude> "45.8695909" .
+<http://localhost:8080/source/node/1992721143> <http://knowdive.disi.unitn.it/etype#has_latitude> "45.8695909" .
 <http://localhost:8080/source/node/1992721143> <http://knowdive.disi.unitn.it/etype#has_leisure> "sports_centre" .
 <http://localhost:8080/source/node/1992721143> <http://knowdive.disi.unitn.it/etype#has_name> "Segrom - Settore Basso" .
 <http://localhost:8080/source/node/1992721143> <http://knowdive.disi.unitn.it/etype#has_sport> _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N18996_2bbed9587ed692a4c2be81cb33a9936100a38524_N18996 .
 <http://localhost:8080/source/node/1992721143> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportsCentre> .
 <http://localhost:8080/source/node/1992721143> <http://knowdive.disi.unitn.it/etype#part_of> <http://localhost:8080/source/region_1> .
-<http://localhost:8080/source/node/1992721143> <http://knowdive.disi.unitn.it/etype#has_latitude> "10.8947226" .
+<http://localhost:8080/source/node/1992721143> <http://knowdive.disi.unitn.it/etype#has_longitude> "10.8947226" .
 _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N18996_2bbed9587ed692a4c2be81cb33a9936100a38524_N18996 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Sport> .
 
 <http://localhost:8080/source/node/2194569436> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportsCentre> .
@@ -460,9 +460,9 @@ _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N18996_2bbed9587ed692a4c2be81c
 _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19005_2bbed9587ed692a4c2be81cb33a9936100a38524_N19005 <http://knowdive.disi.unitn.it/etype#has_type_of_sport> "climbing" .
 <http://localhost:8080/source/node/2194569436> <http://knowdive.disi.unitn.it/etype#has_sport> _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19005_2bbed9587ed692a4c2be81cb33a9936100a38524_N19005 .
 <http://localhost:8080/source/node/2194569436> <http://knowdive.disi.unitn.it/etype#part_of> <http://localhost:8080/source/region_1> .
-<http://localhost:8080/source/node/2194569436> <http://knowdive.disi.unitn.it/etype#has_latitude> "10.9460088" .
+<http://localhost:8080/source/node/2194569436> <http://knowdive.disi.unitn.it/etype#has_longitude> "10.9460088" .
 <http://localhost:8080/source/node/2194569436> <http://knowdive.disi.unitn.it/etype#has_name> "Campfour Boulder" .
-<http://localhost:8080/source/node/2194569436> <http://knowdive.disi.unitn.it/etype#has_longitude> "46.0279392" .
+<http://localhost:8080/source/node/2194569436> <http://knowdive.disi.unitn.it/etype#has_latitude> "46.0279392" .
 _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19005_2bbed9587ed692a4c2be81cb33a9936100a38524_N19005 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Sport> .
 
 <http://localhost:8080/source/node/2200290913> <http://knowdive.disi.unitn.it/etype#has_name> "Falesia S.Siro" .
@@ -471,9 +471,9 @@ _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19014_2bbed9587ed692a4c2be81c
 <http://localhost:8080/source/node/2200290913> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportsCentre> .
 <http://localhost:8080/source/node/2200290913> <http://knowdive.disi.unitn.it/etype#has_leisure> "sports_centre" .
 _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19014_2bbed9587ed692a4c2be81cb33a9936100a38524_N19014 <http://knowdive.disi.unitn.it/etype#has_type_of_sport> "climbing" .
-<http://localhost:8080/source/node/2200290913> <http://knowdive.disi.unitn.it/etype#has_latitude> "10.9699262" .
+<http://localhost:8080/source/node/2200290913> <http://knowdive.disi.unitn.it/etype#has_longitude> "10.9699262" .
 <http://localhost:8080/source/node/2200290913> <http://knowdive.disi.unitn.it/etype#part_of> <http://localhost:8080/source/region_1> .
-<http://localhost:8080/source/node/2200290913> <http://knowdive.disi.unitn.it/etype#has_longitude> "46.0279922" .
+<http://localhost:8080/source/node/2200290913> <http://knowdive.disi.unitn.it/etype#has_latitude> "46.0279922" .
 <http://localhost:8080/source/node/2200290913> <http://knowdive.disi.unitn.it/etype#has_sport> _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19014_2bbed9587ed692a4c2be81cb33a9936100a38524_N19014 .
 
 <http://localhost:8080/source/node/2338603983> <http://knowdive.disi.unitn.it/etype#has_name> "Falesia Massone Policromuro" .
@@ -481,19 +481,19 @@ _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19023_2bbed9587ed692a4c2be81c
 <http://localhost:8080/source/node/2338603983> <http://knowdive.disi.unitn.it/etype#has_sport> _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19023_2bbed9587ed692a4c2be81cb33a9936100a38524_N19023 .
 <http://localhost:8080/source/region_1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region> .
 <http://localhost:8080/source/node/2338603983> <http://knowdive.disi.unitn.it/etype#has_leisure> "sports_centre" .
-<http://localhost:8080/source/node/2338603983> <http://knowdive.disi.unitn.it/etype#has_latitude> "10.9025846" .
-<http://localhost:8080/source/node/2338603983> <http://knowdive.disi.unitn.it/etype#has_longitude> "45.9291847" .
+<http://localhost:8080/source/node/2338603983> <http://knowdive.disi.unitn.it/etype#has_longitude> "10.9025846" .
+<http://localhost:8080/source/node/2338603983> <http://knowdive.disi.unitn.it/etype#has_latitude> "45.9291847" .
 _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19023_2bbed9587ed692a4c2be81cb33a9936100a38524_N19023 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Sport> .
 <http://localhost:8080/source/node/2338603983> <http://knowdive.disi.unitn.it/etype#part_of> <http://localhost:8080/source/region_1> .
 <http://localhost:8080/source/node/2338603983> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportsCentre> .
 
 <http://localhost:8080/source/region_1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region> .
 <http://localhost:8080/source/node/2437406131> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportsCentre> .
-<http://localhost:8080/source/node/2437406131> <http://knowdive.disi.unitn.it/etype#has_latitude> "11.0917611" .
+<http://localhost:8080/source/node/2437406131> <http://knowdive.disi.unitn.it/etype#has_longitude> "11.0917611" .
 <http://localhost:8080/source/node/2437406131> <http://knowdive.disi.unitn.it/etype#has_leisure> "sports_centre" .
 _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19032_2bbed9587ed692a4c2be81cb33a9936100a38524_N19032 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Sport> .
 <http://localhost:8080/source/node/2437406131> <http://knowdive.disi.unitn.it/etype#has_sport> _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19032_2bbed9587ed692a4c2be81cb33a9936100a38524_N19032 .
-<http://localhost:8080/source/node/2437406131> <http://knowdive.disi.unitn.it/etype#has_longitude> "46.0917036" .
+<http://localhost:8080/source/node/2437406131> <http://knowdive.disi.unitn.it/etype#has_latitude> "46.0917036" .
 <http://localhost:8080/source/node/2437406131> <http://knowdive.disi.unitn.it/etype#has_name> "Falesia della Vela - Settore B" .
 _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19032_2bbed9587ed692a4c2be81cb33a9936100a38524_N19032 <http://knowdive.disi.unitn.it/etype#has_type_of_sport> "climbing" .
 <http://localhost:8080/source/node/2437406131> <http://knowdive.disi.unitn.it/etype#part_of> <http://localhost:8080/source/region_1> .
@@ -503,9 +503,9 @@ _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19041_2bbed9587ed692a4c2be81c
 <http://localhost:8080/source/region_1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region> .
 <http://localhost:8080/source/node/2641465725> <http://knowdive.disi.unitn.it/etype#part_of> <http://localhost:8080/source/region_1> .
 <http://localhost:8080/source/node/2641465725> <http://knowdive.disi.unitn.it/etype#has_name> "Palestra di roccia San Bartolameo" .
-<http://localhost:8080/source/node/2641465725> <http://knowdive.disi.unitn.it/etype#has_latitude> "11.1332036" .
+<http://localhost:8080/source/node/2641465725> <http://knowdive.disi.unitn.it/etype#has_longitude> "11.1332036" .
 <http://localhost:8080/source/node/2641465725> <http://knowdive.disi.unitn.it/etype#has_sport> _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19041_2bbed9587ed692a4c2be81cb33a9936100a38524_N19041 .
-<http://localhost:8080/source/node/2641465725> <http://knowdive.disi.unitn.it/etype#has_longitude> "46.0465305" .
+<http://localhost:8080/source/node/2641465725> <http://knowdive.disi.unitn.it/etype#has_latitude> "46.0465305" .
 <http://localhost:8080/source/node/2641465725> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportsCentre> .
 _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19041_2bbed9587ed692a4c2be81cb33a9936100a38524_N19041 <http://knowdive.disi.unitn.it/etype#has_type_of_sport> "climbing" .
 <http://localhost:8080/source/node/2641465725> <http://knowdive.disi.unitn.it/etype#has_opening_hours> "Mo-Fr 12:00-22:30, Sa-Su 09:00-22:00" .
@@ -514,9 +514,9 @@ _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19041_2bbed9587ed692a4c2be81c
 <http://localhost:8080/source/region_1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region> .
 <http://localhost:8080/source/node/3464870829> <http://knowdive.disi.unitn.it/etype#part_of> <http://localhost:8080/source/region_1> .
 <http://localhost:8080/source/node/3464870829> <http://knowdive.disi.unitn.it/etype#has_sport> _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19050_2bbed9587ed692a4c2be81cb33a9936100a38524_N19050 .
-<http://localhost:8080/source/node/3464870829> <http://knowdive.disi.unitn.it/etype#has_latitude> "10.9666468" .
+<http://localhost:8080/source/node/3464870829> <http://knowdive.disi.unitn.it/etype#has_longitude> "10.9666468" .
 <http://localhost:8080/source/node/3464870829> <http://knowdive.disi.unitn.it/etype#has_leisure> "sports_centre" .
-<http://localhost:8080/source/node/3464870829> <http://knowdive.disi.unitn.it/etype#has_longitude> "46.0597275" .
+<http://localhost:8080/source/node/3464870829> <http://knowdive.disi.unitn.it/etype#has_latitude> "46.0597275" .
 <http://localhost:8080/source/node/3464870829> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportsCentre> .
 _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19050_2bbed9587ed692a4c2be81cb33a9936100a38524_N19050 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Sport> .
 _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19050_2bbed9587ed692a4c2be81cb33a9936100a38524_N19050 <http://knowdive.disi.unitn.it/etype#has_type_of_sport> "climbing" .
@@ -525,33 +525,33 @@ _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19059_2bbed9587ed692a4c2be81c
 <http://localhost:8080/source/region_1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region> .
 <http://localhost:8080/source/node/3470008090> <http://knowdive.disi.unitn.it/etype#has_leisure> "sports_centre" .
 <http://localhost:8080/source/node/3470008090> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportsCentre> .
-<http://localhost:8080/source/node/3470008090> <http://knowdive.disi.unitn.it/etype#has_latitude> "10.9459936" .
+<http://localhost:8080/source/node/3470008090> <http://knowdive.disi.unitn.it/etype#has_longitude> "10.9459936" .
 <http://localhost:8080/source/node/3470008090> <http://knowdive.disi.unitn.it/etype#has_sport> _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19059_2bbed9587ed692a4c2be81cb33a9936100a38524_N19059 .
 <http://localhost:8080/source/node/3470008090> <http://knowdive.disi.unitn.it/etype#part_of> <http://localhost:8080/source/region_1> .
 _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19059_2bbed9587ed692a4c2be81cb33a9936100a38524_N19059 <http://knowdive.disi.unitn.it/etype#has_type_of_sport> "climbing" .
-<http://localhost:8080/source/node/3470008090> <http://knowdive.disi.unitn.it/etype#has_longitude> "46.047487" .
+<http://localhost:8080/source/node/3470008090> <http://knowdive.disi.unitn.it/etype#has_latitude> "46.047487" .
 <http://localhost:8080/source/node/3470008090> <http://knowdive.disi.unitn.it/etype#has_name> "Piccolo Dain - Parete della Centrale" .
 
 <http://localhost:8080/source/node/3570249399> <http://knowdive.disi.unitn.it/etype#has_sport> _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19068_2bbed9587ed692a4c2be81cb33a9936100a38524_N19068 .
 <http://localhost:8080/source/region_1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region> .
 <http://localhost:8080/source/node/3570249399> <http://knowdive.disi.unitn.it/etype#has_leisure> "sports_centre" .
 <http://localhost:8080/source/node/3570249399> <http://knowdive.disi.unitn.it/etype#part_of> <http://localhost:8080/source/region_1> .
-<http://localhost:8080/source/node/3570249399> <http://knowdive.disi.unitn.it/etype#has_longitude> "45.8857125" .
+<http://localhost:8080/source/node/3570249399> <http://knowdive.disi.unitn.it/etype#has_latitude> "45.8857125" .
 <http://localhost:8080/source/node/3570249399> <http://knowdive.disi.unitn.it/etype#has_name> "Palestra Naranc" .
 _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19068_2bbed9587ed692a4c2be81cb33a9936100a38524_N19068 <http://knowdive.disi.unitn.it/etype#has_type_of_sport> "climbing" .
 _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19068_2bbed9587ed692a4c2be81cb33a9936100a38524_N19068 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Sport> .
 <http://localhost:8080/source/node/3570249399> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportsCentre> .
-<http://localhost:8080/source/node/3570249399> <http://knowdive.disi.unitn.it/etype#has_latitude> "10.911836" .
+<http://localhost:8080/source/node/3570249399> <http://knowdive.disi.unitn.it/etype#has_longitude> "10.911836" .
 
 <http://localhost:8080/source/node/3810570576> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportsCentre> .
 <http://localhost:8080/source/node/3810570576> <http://knowdive.disi.unitn.it/etype#has_name> "ex centrale" .
 <http://localhost:8080/source/node/3810570576> <http://knowdive.disi.unitn.it/etype#has_leisure> "sports_centre" .
 <http://localhost:8080/source/region_1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region> .
 <http://localhost:8080/source/node/3810570576> <http://knowdive.disi.unitn.it/etype#part_of> <http://localhost:8080/source/region_1> .
-<http://localhost:8080/source/node/3810570576> <http://knowdive.disi.unitn.it/etype#has_latitude> "10.7187694" .
+<http://localhost:8080/source/node/3810570576> <http://knowdive.disi.unitn.it/etype#has_longitude> "10.7187694" .
 _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19077_2bbed9587ed692a4c2be81cb33a9936100a38524_N19077 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Sport> .
 _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19077_2bbed9587ed692a4c2be81cb33a9936100a38524_N19077 <http://knowdive.disi.unitn.it/etype#has_type_of_sport> "climbing" .
-<http://localhost:8080/source/node/3810570576> <http://knowdive.disi.unitn.it/etype#has_longitude> "45.9259193" .
+<http://localhost:8080/source/node/3810570576> <http://knowdive.disi.unitn.it/etype#has_latitude> "45.9259193" .
 <http://localhost:8080/source/node/3810570576> <http://knowdive.disi.unitn.it/etype#has_sport> _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19077_2bbed9587ed692a4c2be81cb33a9936100a38524_N19077 .
 
 _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19086_2bbed9587ed692a4c2be81cb33a9936100a38524_N19086 <http://knowdive.disi.unitn.it/etype#has_type_of_sport> "climbing" .
@@ -560,24 +560,24 @@ _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19086_2bbed9587ed692a4c2be81c
 _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19086_2bbed9587ed692a4c2be81cb33a9936100a38524_N19086 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Sport> .
 <http://localhost:8080/source/node/4171979697> <http://knowdive.disi.unitn.it/etype#has_sport> _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19086_2bbed9587ed692a4c2be81cb33a9936100a38524_N19086 .
 <http://localhost:8080/source/node/4171979697> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportsCentre> .
-<http://localhost:8080/source/node/4171979697> <http://knowdive.disi.unitn.it/etype#has_latitude> "10.8902742" .
+<http://localhost:8080/source/node/4171979697> <http://knowdive.disi.unitn.it/etype#has_longitude> "10.8902742" .
 <http://localhost:8080/source/node/4171979697> <http://knowdive.disi.unitn.it/etype#has_name> "Massi Di Prabi" .
-<http://localhost:8080/source/node/4171979697> <http://knowdive.disi.unitn.it/etype#has_longitude> "45.9274366" .
+<http://localhost:8080/source/node/4171979697> <http://knowdive.disi.unitn.it/etype#has_latitude> "45.9274366" .
 <http://localhost:8080/source/node/4171979697> <http://knowdive.disi.unitn.it/etype#has_leisure> "sports_centre" .
 
 _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19095_2bbed9587ed692a4c2be81cb33a9936100a38524_N19095 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Sport> .
 <http://localhost:8080/source/region_1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region> .
 <http://localhost:8080/source/node/4171994112> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportsCentre> .
 _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19095_2bbed9587ed692a4c2be81cb33a9936100a38524_N19095 <http://knowdive.disi.unitn.it/etype#has_type_of_sport> "climbing" .
-<http://localhost:8080/source/node/4171994112> <http://knowdive.disi.unitn.it/etype#has_latitude> "10.8904343" .
+<http://localhost:8080/source/node/4171994112> <http://knowdive.disi.unitn.it/etype#has_longitude> "10.8904343" .
 <http://localhost:8080/source/node/4171994112> <http://knowdive.disi.unitn.it/etype#has_name> "Block A" .
 <http://localhost:8080/source/node/4171994112> <http://knowdive.disi.unitn.it/etype#part_of> <http://localhost:8080/source/region_1> .
-<http://localhost:8080/source/node/4171994112> <http://knowdive.disi.unitn.it/etype#has_longitude> "45.9282128" .
+<http://localhost:8080/source/node/4171994112> <http://knowdive.disi.unitn.it/etype#has_latitude> "45.9282128" .
 <http://localhost:8080/source/node/4171994112> <http://knowdive.disi.unitn.it/etype#has_leisure> "sports_centre" .
 <http://localhost:8080/source/node/4171994112> <http://knowdive.disi.unitn.it/etype#has_sport> _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19095_2bbed9587ed692a4c2be81cb33a9936100a38524_N19095 .
 
 <http://localhost:8080/source/region_1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region> .
-<http://localhost:8080/source/node/4171994113> <http://knowdive.disi.unitn.it/etype#has_longitude> "45.927693" .
+<http://localhost:8080/source/node/4171994113> <http://knowdive.disi.unitn.it/etype#has_latitude> "45.927693" .
 <http://localhost:8080/source/node/4171994113> <http://knowdive.disi.unitn.it/etype#has_name> "Block D; Block 2" .
 _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19104_2bbed9587ed692a4c2be81cb33a9936100a38524_N19104 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Sport> .
 <http://localhost:8080/source/node/4171994113> <http://knowdive.disi.unitn.it/etype#has_sport> _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19104_2bbed9587ed692a4c2be81cb33a9936100a38524_N19104 .
@@ -585,13 +585,13 @@ _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19104_2bbed9587ed692a4c2be81c
 <http://localhost:8080/source/node/4171994113> <http://knowdive.disi.unitn.it/etype#part_of> <http://localhost:8080/source/region_1> .
 <http://localhost:8080/source/node/4171994113> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportsCentre> .
 <http://localhost:8080/source/node/4171994113> <http://knowdive.disi.unitn.it/etype#has_leisure> "sports_centre" .
-<http://localhost:8080/source/node/4171994113> <http://knowdive.disi.unitn.it/etype#has_latitude> "10.8902526" .
+<http://localhost:8080/source/node/4171994113> <http://knowdive.disi.unitn.it/etype#has_longitude> "10.8902526" .
 
 <http://localhost:8080/source/node/4175487127> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportsCentre> .
-<http://localhost:8080/source/node/4175487127> <http://knowdive.disi.unitn.it/etype#has_longitude> "45.9276434" .
+<http://localhost:8080/source/node/4175487127> <http://knowdive.disi.unitn.it/etype#has_latitude> "45.9276434" .
 <http://localhost:8080/source/node/4175487127> <http://knowdive.disi.unitn.it/etype#has_leisure> "sports_centre" .
 <http://localhost:8080/source/region_1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region> .
-<http://localhost:8080/source/node/4175487127> <http://knowdive.disi.unitn.it/etype#has_latitude> "10.8908963" .
+<http://localhost:8080/source/node/4175487127> <http://knowdive.disi.unitn.it/etype#has_longitude> "10.8908963" .
 _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19113_2bbed9587ed692a4c2be81cb33a9936100a38524_N19113 <http://knowdive.disi.unitn.it/etype#has_type_of_sport> "climbing" .
 <http://localhost:8080/source/node/4175487127> <http://knowdive.disi.unitn.it/etype#part_of> <http://localhost:8080/source/region_1> .
 _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19113_2bbed9587ed692a4c2be81cb33a9936100a38524_N19113 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Sport> .
@@ -600,14 +600,14 @@ _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19113_2bbed9587ed692a4c2be81c
 
 <http://localhost:8080/source/node/4175487128> <http://knowdive.disi.unitn.it/etype#has_name> "Block 11 - Passi falsi" .
 _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19122_2bbed9587ed692a4c2be81cb33a9936100a38524_N19122 <http://knowdive.disi.unitn.it/etype#has_type_of_sport> "climbing" .
-<http://localhost:8080/source/node/4175487128> <http://knowdive.disi.unitn.it/etype#has_latitude> "10.8890455" .
+<http://localhost:8080/source/node/4175487128> <http://knowdive.disi.unitn.it/etype#has_longitude> "10.8890455" .
 <http://localhost:8080/source/region_1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region> .
 <http://localhost:8080/source/node/4175487128> <http://knowdive.disi.unitn.it/etype#has_leisure> "sports_centre" .
 <http://localhost:8080/source/node/4175487128> <http://knowdive.disi.unitn.it/etype#part_of> <http://localhost:8080/source/region_1> .
 _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19122_2bbed9587ed692a4c2be81cb33a9936100a38524_N19122 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Sport> .
 <http://localhost:8080/source/node/4175487128> <http://knowdive.disi.unitn.it/etype#has_sport> _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19122_2bbed9587ed692a4c2be81cb33a9936100a38524_N19122 .
 <http://localhost:8080/source/node/4175487128> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportsCentre> .
-<http://localhost:8080/source/node/4175487128> <http://knowdive.disi.unitn.it/etype#has_longitude> "45.9260277" .
+<http://localhost:8080/source/node/4175487128> <http://knowdive.disi.unitn.it/etype#has_latitude> "45.9260277" .
 
 _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19131_2bbed9587ed692a4c2be81cb33a9936100a38524_N19131 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Sport> .
 <http://localhost:8080/source/region_1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region> .
@@ -615,43 +615,43 @@ _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19131_2bbed9587ed692a4c2be81c
 <http://localhost:8080/source/node/4175487129> <http://knowdive.disi.unitn.it/etype#has_leisure> "sports_centre" .
 <http://localhost:8080/source/node/4175487129> <http://knowdive.disi.unitn.it/etype#has_name> "Settore B" .
 <http://localhost:8080/source/node/4175487129> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportsCentre> .
-<http://localhost:8080/source/node/4175487129> <http://knowdive.disi.unitn.it/etype#has_latitude> "10.8891958" .
+<http://localhost:8080/source/node/4175487129> <http://knowdive.disi.unitn.it/etype#has_longitude> "10.8891958" .
 _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19131_2bbed9587ed692a4c2be81cb33a9936100a38524_N19131 <http://knowdive.disi.unitn.it/etype#has_type_of_sport> "climbing" .
-<http://localhost:8080/source/node/4175487129> <http://knowdive.disi.unitn.it/etype#has_longitude> "45.9282702" .
+<http://localhost:8080/source/node/4175487129> <http://knowdive.disi.unitn.it/etype#has_latitude> "45.9282702" .
 <http://localhost:8080/source/node/4175487129> <http://knowdive.disi.unitn.it/etype#has_sport> _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19131_2bbed9587ed692a4c2be81cb33a9936100a38524_N19131 .
 
 <http://localhost:8080/source/node/4176959165> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportsCentre> .
-<http://localhost:8080/source/node/4176959165> <http://knowdive.disi.unitn.it/etype#has_latitude> "10.8956205" .
+<http://localhost:8080/source/node/4176959165> <http://knowdive.disi.unitn.it/etype#has_longitude> "10.8956205" .
 <http://localhost:8080/source/region_1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region> .
 <http://localhost:8080/source/node/4176959165> <http://knowdive.disi.unitn.it/etype#has_sport> _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19140_2bbed9587ed692a4c2be81cb33a9936100a38524_N19140 .
 <http://localhost:8080/source/node/4176959165> <http://knowdive.disi.unitn.it/etype#has_leisure> "sports_centre" .
 _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19140_2bbed9587ed692a4c2be81cb33a9936100a38524_N19140 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Sport> .
-<http://localhost:8080/source/node/4176959165> <http://knowdive.disi.unitn.it/etype#has_longitude> "45.8689985" .
+<http://localhost:8080/source/node/4176959165> <http://knowdive.disi.unitn.it/etype#has_latitude> "45.8689985" .
 <http://localhost:8080/source/node/4176959165> <http://knowdive.disi.unitn.it/etype#part_of> <http://localhost:8080/source/region_1> .
 _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19140_2bbed9587ed692a4c2be81cb33a9936100a38524_N19140 <http://knowdive.disi.unitn.it/etype#has_type_of_sport> "climbing" .
 <http://localhost:8080/source/node/4176959165> <http://knowdive.disi.unitn.it/etype#has_name> "Segrom - Settore Centrale" .
 
-<http://localhost:8080/source/node/4187008997> <http://knowdive.disi.unitn.it/etype#has_longitude> "45.8634544" .
+<http://localhost:8080/source/node/4187008997> <http://knowdive.disi.unitn.it/etype#has_latitude> "45.8634544" .
 <http://localhost:8080/source/node/4187008997> <http://knowdive.disi.unitn.it/etype#part_of> <http://localhost:8080/source/region_1> .
 <http://localhost:8080/source/node/4187008997> <http://knowdive.disi.unitn.it/etype#has_leisure> "sports_centre" .
 <http://localhost:8080/source/node/4187008997> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportsCentre> .
 <http://localhost:8080/source/region_1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region> .
 <http://localhost:8080/source/node/4187008997> <http://knowdive.disi.unitn.it/etype#has_sport> _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19149_2bbed9587ed692a4c2be81cb33a9936100a38524_N19149 .
 <http://localhost:8080/source/node/4187008997> <http://knowdive.disi.unitn.it/etype#has_name> "Babilonia" .
-<http://localhost:8080/source/node/4187008997> <http://knowdive.disi.unitn.it/etype#has_latitude> "10.8267378" .
+<http://localhost:8080/source/node/4187008997> <http://knowdive.disi.unitn.it/etype#has_longitude> "10.8267378" .
 _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19149_2bbed9587ed692a4c2be81cb33a9936100a38524_N19149 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Sport> .
 _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19149_2bbed9587ed692a4c2be81cb33a9936100a38524_N19149 <http://knowdive.disi.unitn.it/etype#has_type_of_sport> "climbing" .
 
 <http://localhost:8080/source/node/4187008998> <http://knowdive.disi.unitn.it/etype#has_leisure> "sports_centre" .
 <http://localhost:8080/source/node/4187008998> <http://knowdive.disi.unitn.it/etype#part_of> <http://localhost:8080/source/region_1> .
-<http://localhost:8080/source/node/4187008998> <http://knowdive.disi.unitn.it/etype#has_latitude> "10.8275009" .
+<http://localhost:8080/source/node/4187008998> <http://knowdive.disi.unitn.it/etype#has_longitude> "10.8275009" .
 <http://localhost:8080/source/region_1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region> .
 _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19158_2bbed9587ed692a4c2be81cb33a9936100a38524_N19158 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Sport> .
 _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19158_2bbed9587ed692a4c2be81cb33a9936100a38524_N19158 <http://knowdive.disi.unitn.it/etype#has_type_of_sport> "climbing" .
 <http://localhost:8080/source/node/4187008998> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportsCentre> .
 <http://localhost:8080/source/node/4187008998> <http://knowdive.disi.unitn.it/etype#has_name> "Fiori di Primavera" .
 <http://localhost:8080/source/node/4187008998> <http://knowdive.disi.unitn.it/etype#has_sport> _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19158_2bbed9587ed692a4c2be81cb33a9936100a38524_N19158 .
-<http://localhost:8080/source/node/4187008998> <http://knowdive.disi.unitn.it/etype#has_longitude> "45.8634693" .
+<http://localhost:8080/source/node/4187008998> <http://knowdive.disi.unitn.it/etype#has_latitude> "45.8634693" .
 
 _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19167_2bbed9587ed692a4c2be81cb33a9936100a38524_N19167 <http://knowdive.disi.unitn.it/etype#has_type_of_sport> "climbing" .
 <http://localhost:8080/source/node/4187009046> <http://knowdive.disi.unitn.it/etype#has_sport> _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19167_2bbed9587ed692a4c2be81cb33a9936100a38524_N19167 .
@@ -659,23 +659,23 @@ _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19167_2bbed9587ed692a4c2be81c
 <http://localhost:8080/source/region_1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region> .
 _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19167_2bbed9587ed692a4c2be81cb33a9936100a38524_N19167 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Sport> .
 <http://localhost:8080/source/node/4187009046> <http://knowdive.disi.unitn.it/etype#has_name> "Sesto Senso" .
-<http://localhost:8080/source/node/4187009046> <http://knowdive.disi.unitn.it/etype#has_longitude> "45.8633956" .
+<http://localhost:8080/source/node/4187009046> <http://knowdive.disi.unitn.it/etype#has_latitude> "45.8633956" .
 <http://localhost:8080/source/node/4187009046> <http://knowdive.disi.unitn.it/etype#has_leisure> "sports_centre" .
 <http://localhost:8080/source/node/4187009046> <http://knowdive.disi.unitn.it/etype#part_of> <http://localhost:8080/source/region_1> .
-<http://localhost:8080/source/node/4187009046> <http://knowdive.disi.unitn.it/etype#has_latitude> "10.8269672" .
+<http://localhost:8080/source/node/4187009046> <http://knowdive.disi.unitn.it/etype#has_longitude> "10.8269672" .
 
 _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19176_2bbed9587ed692a4c2be81cb33a9936100a38524_N19176 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Sport> .
-<http://localhost:8080/source/node/4189004864> <http://knowdive.disi.unitn.it/etype#has_longitude> "46.0130516" .
+<http://localhost:8080/source/node/4189004864> <http://knowdive.disi.unitn.it/etype#has_latitude> "46.0130516" .
 <http://localhost:8080/source/node/4189004864> <http://knowdive.disi.unitn.it/etype#part_of> <http://localhost:8080/source/region_1> .
 <http://localhost:8080/source/region_1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region> .
 <http://localhost:8080/source/node/4189004864> <http://knowdive.disi.unitn.it/etype#has_leisure> "sports_centre" .
 <http://localhost:8080/source/node/4189004864> <http://knowdive.disi.unitn.it/etype#has_sport> _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19176_2bbed9587ed692a4c2be81cb33a9936100a38524_N19176 .
 _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19176_2bbed9587ed692a4c2be81cb33a9936100a38524_N19176 <http://knowdive.disi.unitn.it/etype#has_type_of_sport> "climbing" .
 <http://localhost:8080/source/node/4189004864> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportsCentre> .
-<http://localhost:8080/source/node/4189004864> <http://knowdive.disi.unitn.it/etype#has_latitude> "10.9300113" .
+<http://localhost:8080/source/node/4189004864> <http://knowdive.disi.unitn.it/etype#has_longitude> "10.9300113" .
 <http://localhost:8080/source/node/4189004864> <http://knowdive.disi.unitn.it/etype#has_name> "Via Alessandro Avancini" .
 
-<http://localhost:8080/source/node/4215597751> <http://knowdive.disi.unitn.it/etype#has_longitude> "46.0725459" .
+<http://localhost:8080/source/node/4215597751> <http://knowdive.disi.unitn.it/etype#has_latitude> "46.0725459" .
 <http://localhost:8080/source/node/4215597751> <http://knowdive.disi.unitn.it/etype#has_sport> _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19185_2bbed9587ed692a4c2be81cb33a9936100a38524_N19185 .
 <http://localhost:8080/source/node/4215597751> <http://knowdive.disi.unitn.it/etype#has_leisure> "sports_centre" .
 <http://localhost:8080/source/region_1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region> .
@@ -684,24 +684,24 @@ _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19185_2bbed9587ed692a4c2be81c
 <http://localhost:8080/source/node/4215597751> <http://knowdive.disi.unitn.it/etype#part_of> <http://localhost:8080/source/region_1> .
 <http://localhost:8080/source/node/4215597751> <http://knowdive.disi.unitn.it/etype#has_name> "Falesia Celva" .
 _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19185_2bbed9587ed692a4c2be81cb33a9936100a38524_N19185 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Sport> .
-<http://localhost:8080/source/node/4215597751> <http://knowdive.disi.unitn.it/etype#has_latitude> "11.1859247" .
+<http://localhost:8080/source/node/4215597751> <http://knowdive.disi.unitn.it/etype#has_longitude> "11.1859247" .
 
-<http://localhost:8080/source/node/4498737379> <http://knowdive.disi.unitn.it/etype#has_longitude> "46.0878746" .
+<http://localhost:8080/source/node/4498737379> <http://knowdive.disi.unitn.it/etype#has_latitude> "46.0878746" .
 <http://localhost:8080/source/region_1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region> .
 _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19194_2bbed9587ed692a4c2be81cb33a9936100a38524_N19194 <http://knowdive.disi.unitn.it/etype#has_type_of_sport> "climbing" .
 <http://localhost:8080/source/node/4498737379> <http://knowdive.disi.unitn.it/etype#has_sport> _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19194_2bbed9587ed692a4c2be81cb33a9936100a38524_N19194 .
 <http://localhost:8080/source/node/4498737379> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportsCentre> .
 _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19194_2bbed9587ed692a4c2be81cb33a9936100a38524_N19194 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Sport> .
 <http://localhost:8080/source/node/4498737379> <http://knowdive.disi.unitn.it/etype#has_leisure> "sports_centre" .
-<http://localhost:8080/source/node/4498737379> <http://knowdive.disi.unitn.it/etype#has_latitude> "11.0939668" .
+<http://localhost:8080/source/node/4498737379> <http://knowdive.disi.unitn.it/etype#has_longitude> "11.0939668" .
 <http://localhost:8080/source/node/4498737379> <http://knowdive.disi.unitn.it/etype#has_name> "Falesia della Vela - Settore A" .
 <http://localhost:8080/source/node/4498737379> <http://knowdive.disi.unitn.it/etype#part_of> <http://localhost:8080/source/region_1> .
 
-<http://localhost:8080/source/node/4830519597> <http://knowdive.disi.unitn.it/etype#has_longitude> "45.9395709" .
+<http://localhost:8080/source/node/4830519597> <http://knowdive.disi.unitn.it/etype#has_latitude> "45.9395709" .
 <http://localhost:8080/source/region_1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region> .
 _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19203_2bbed9587ed692a4c2be81cb33a9936100a38524_N19203 <http://knowdive.disi.unitn.it/etype#has_type_of_sport> "climbing" .
 <http://localhost:8080/source/node/4830519597> <http://knowdive.disi.unitn.it/etype#has_name> "Palestra di roccia Prombis" .
-<http://localhost:8080/source/node/4830519597> <http://knowdive.disi.unitn.it/etype#has_latitude> "11.2500283" .
+<http://localhost:8080/source/node/4830519597> <http://knowdive.disi.unitn.it/etype#has_longitude> "11.2500283" .
 <http://localhost:8080/source/node/4830519597> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportsCentre> .
 <http://localhost:8080/source/node/4830519597> <http://knowdive.disi.unitn.it/etype#has_leisure> "sports_centre" .
 _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19203_2bbed9587ed692a4c2be81cb33a9936100a38524_N19203 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Sport> .
@@ -713,8 +713,8 @@ _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19212_2bbed9587ed692a4c2be81c
 <http://localhost:8080/source/node/4895732825> <http://knowdive.disi.unitn.it/etype#part_of> <http://localhost:8080/source/region_1> .
 <http://localhost:8080/source/region_1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region> .
 <http://localhost:8080/source/node/4895732825> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportsCentre> .
-<http://localhost:8080/source/node/4895732825> <http://knowdive.disi.unitn.it/etype#has_longitude> "45.9300762" .
-<http://localhost:8080/source/node/4895732825> <http://knowdive.disi.unitn.it/etype#has_latitude> "10.9038213" .
+<http://localhost:8080/source/node/4895732825> <http://knowdive.disi.unitn.it/etype#has_latitude> "45.9300762" .
+<http://localhost:8080/source/node/4895732825> <http://knowdive.disi.unitn.it/etype#has_longitude> "10.9038213" .
 <http://localhost:8080/source/node/4895732825> <http://knowdive.disi.unitn.it/etype#has_name> "Falesia Abissi" .
 <http://localhost:8080/source/node/4895732825> <http://knowdive.disi.unitn.it/etype#has_leisure> "sports_centre" .
 _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19212_2bbed9587ed692a4c2be81cb33a9936100a38524_N19212 <http://knowdive.disi.unitn.it/etype#has_type_of_sport> "climbing" .
@@ -722,12 +722,12 @@ _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19212_2bbed9587ed692a4c2be81c
 <http://localhost:8080/source/node/5140946526> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportsCentre> .
 <http://localhost:8080/source/node/5140946526> <http://knowdive.disi.unitn.it/etype#has_sport> _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19221_2bbed9587ed692a4c2be81cb33a9936100a38524_N19221 .
 <http://localhost:8080/source/region_1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region> .
-<http://localhost:8080/source/node/5140946526> <http://knowdive.disi.unitn.it/etype#has_latitude> "10.887371" .
+<http://localhost:8080/source/node/5140946526> <http://knowdive.disi.unitn.it/etype#has_longitude> "10.887371" .
 _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19221_2bbed9587ed692a4c2be81cb33a9936100a38524_N19221 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Sport> .
 <http://localhost:8080/source/node/5140946526> <http://knowdive.disi.unitn.it/etype#part_of> <http://localhost:8080/source/region_1> .
 <http://localhost:8080/source/node/5140946526> <http://knowdive.disi.unitn.it/etype#has_name> "Muro dell'Asino" .
 <http://localhost:8080/source/node/5140946526> <http://knowdive.disi.unitn.it/etype#has_leisure> "sports_centre" .
-<http://localhost:8080/source/node/5140946526> <http://knowdive.disi.unitn.it/etype#has_longitude> "45.9300438" .
+<http://localhost:8080/source/node/5140946526> <http://knowdive.disi.unitn.it/etype#has_latitude> "45.9300438" .
 _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19221_2bbed9587ed692a4c2be81cb33a9936100a38524_N19221 <http://knowdive.disi.unitn.it/etype#has_type_of_sport> "climbing" .
 
 _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19230_2bbed9587ed692a4c2be81cb33a9936100a38524_N19230 <http://knowdive.disi.unitn.it/etype#has_type_of_sport> "climbing" .
@@ -736,9 +736,9 @@ _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19230_2bbed9587ed692a4c2be81c
 _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19230_2bbed9587ed692a4c2be81cb33a9936100a38524_N19230 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Sport> .
 <http://localhost:8080/source/node/5148331682> <http://knowdive.disi.unitn.it/etype#has_sport> _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19230_2bbed9587ed692a4c2be81cb33a9936100a38524_N19230 .
 <http://localhost:8080/source/node/5148331682> <http://knowdive.disi.unitn.it/etype#has_name> "Dinosauri" .
-<http://localhost:8080/source/node/5148331682> <http://knowdive.disi.unitn.it/etype#has_longitude> "45.9771843" .
+<http://localhost:8080/source/node/5148331682> <http://knowdive.disi.unitn.it/etype#has_latitude> "45.9771843" .
 <http://localhost:8080/source/node/5148331682> <http://knowdive.disi.unitn.it/etype#has_leisure> "sports_centre" .
-<http://localhost:8080/source/node/5148331682> <http://knowdive.disi.unitn.it/etype#has_latitude> "10.9148779" .
+<http://localhost:8080/source/node/5148331682> <http://knowdive.disi.unitn.it/etype#has_longitude> "10.9148779" .
 <http://localhost:8080/source/node/5148331682> <http://knowdive.disi.unitn.it/etype#part_of> <http://localhost:8080/source/region_1> .
 
 <http://localhost:8080/source/region_1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region> .
@@ -749,8 +749,8 @@ _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19239_2bbed9587ed692a4c2be81c
 <http://localhost:8080/source/node/5374871948> <http://knowdive.disi.unitn.it/etype#part_of> <http://localhost:8080/source/region_1> .
 <http://localhost:8080/source/node/5374871948> <http://knowdive.disi.unitn.it/etype#has_name> "Falesia Coltura" .
 _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19239_2bbed9587ed692a4c2be81cb33a9936100a38524_N19239 <http://knowdive.disi.unitn.it/etype#has_type_of_sport> "climbing" .
-<http://localhost:8080/source/node/5374871948> <http://knowdive.disi.unitn.it/etype#has_longitude> "46.0593346" .
-<http://localhost:8080/source/node/5374871948> <http://knowdive.disi.unitn.it/etype#has_latitude> "10.8086575" .
+<http://localhost:8080/source/node/5374871948> <http://knowdive.disi.unitn.it/etype#has_latitude> "46.0593346" .
+<http://localhost:8080/source/node/5374871948> <http://knowdive.disi.unitn.it/etype#has_longitude> "10.8086575" .
 
 _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19248_2bbed9587ed692a4c2be81cb33a9936100a38524_N19248 <http://knowdive.disi.unitn.it/etype#has_type_of_sport> "climbing" .
 <http://localhost:8080/source/region_1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region> .
@@ -760,14 +760,14 @@ _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19248_2bbed9587ed692a4c2be81c
 <http://localhost:8080/source/node/5761846753> <http://knowdive.disi.unitn.it/etype#part_of> <http://localhost:8080/source/region_1> .
 _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19248_2bbed9587ed692a4c2be81cb33a9936100a38524_N19248 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Sport> .
 <http://localhost:8080/source/node/5761846753> <http://knowdive.disi.unitn.it/etype#has_leisure> "sports_centre" .
-<http://localhost:8080/source/node/5761846753> <http://knowdive.disi.unitn.it/etype#has_latitude> "10.8944809" .
-<http://localhost:8080/source/node/5761846753> <http://knowdive.disi.unitn.it/etype#has_longitude> "45.8691666" .
+<http://localhost:8080/source/node/5761846753> <http://knowdive.disi.unitn.it/etype#has_longitude> "10.8944809" .
+<http://localhost:8080/source/node/5761846753> <http://knowdive.disi.unitn.it/etype#has_latitude> "45.8691666" .
 
 <http://localhost:8080/source/node/6052997606> <http://knowdive.disi.unitn.it/etype#part_of> <http://localhost:8080/source/region_1> .
 <http://localhost:8080/source/node/6052997606> <http://knowdive.disi.unitn.it/etype#has_sport> _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19257_2bbed9587ed692a4c2be81cb33a9936100a38524_N19257 .
 <http://localhost:8080/source/region_1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region> .
-<http://localhost:8080/source/node/6052997606> <http://knowdive.disi.unitn.it/etype#has_longitude> "45.9743717" .
-<http://localhost:8080/source/node/6052997606> <http://knowdive.disi.unitn.it/etype#has_latitude> "10.9151155" .
+<http://localhost:8080/source/node/6052997606> <http://knowdive.disi.unitn.it/etype#has_latitude> "45.9743717" .
+<http://localhost:8080/source/node/6052997606> <http://knowdive.disi.unitn.it/etype#has_longitude> "10.9151155" .
 <http://localhost:8080/source/node/6052997606> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportsCentre> .
 _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19257_2bbed9587ed692a4c2be81cb33a9936100a38524_N19257 <http://knowdive.disi.unitn.it/etype#has_type_of_sport> "climbing" .
 <http://localhost:8080/source/node/6052997606> <http://knowdive.disi.unitn.it/etype#has_leisure> "sports_centre" .
@@ -775,8 +775,8 @@ _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19257_2bbed9587ed692a4c2be81c
 _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19257_2bbed9587ed692a4c2be81cb33a9936100a38524_N19257 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Sport> .
 
 <http://localhost:8080/source/region_1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region> .
-<http://localhost:8080/source/node/6052997627> <http://knowdive.disi.unitn.it/etype#has_longitude> "45.9750875" .
-<http://localhost:8080/source/node/6052997627> <http://knowdive.disi.unitn.it/etype#has_latitude> "10.9150189" .
+<http://localhost:8080/source/node/6052997627> <http://knowdive.disi.unitn.it/etype#has_latitude> "45.9750875" .
+<http://localhost:8080/source/node/6052997627> <http://knowdive.disi.unitn.it/etype#has_longitude> "10.9150189" .
 <http://localhost:8080/source/node/6052997627> <http://knowdive.disi.unitn.it/etype#has_name> "Te lo do io il colorado" .
 _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19266_2bbed9587ed692a4c2be81cb33a9936100a38524_N19266 <http://knowdive.disi.unitn.it/etype#has_type_of_sport> "climbing" .
 <http://localhost:8080/source/node/6052997627> <http://knowdive.disi.unitn.it/etype#has_leisure> "sports_centre" .
@@ -791,10 +791,10 @@ _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19266_2bbed9587ed692a4c2be81c
 _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19275_2bbed9587ed692a4c2be81cb33a9936100a38524_N19275 <http://knowdive.disi.unitn.it/etype#has_type_of_sport> "climbing" .
 <http://localhost:8080/source/node/6071665622> <http://knowdive.disi.unitn.it/etype#has_name> "Lo Spigolo Nascosto" .
 _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19275_2bbed9587ed692a4c2be81cb33a9936100a38524_N19275 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Sport> .
-<http://localhost:8080/source/node/6071665622> <http://knowdive.disi.unitn.it/etype#has_longitude> "46.0680644" .
+<http://localhost:8080/source/node/6071665622> <http://knowdive.disi.unitn.it/etype#has_latitude> "46.0680644" .
 <http://localhost:8080/source/node/6071665622> <http://knowdive.disi.unitn.it/etype#has_sport> _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19275_2bbed9587ed692a4c2be81cb33a9936100a38524_N19275 .
 <http://localhost:8080/source/node/6071665622> <http://knowdive.disi.unitn.it/etype#has_leisure> "sports_centre" .
-<http://localhost:8080/source/node/6071665622> <http://knowdive.disi.unitn.it/etype#has_latitude> "10.9784684" .
+<http://localhost:8080/source/node/6071665622> <http://knowdive.disi.unitn.it/etype#has_longitude> "10.9784684" .
 
 <http://localhost:8080/source/node/6071665623> <http://knowdive.disi.unitn.it/etype#part_of> <http://localhost:8080/source/region_1> .
 <http://localhost:8080/source/node/6071665623> <http://knowdive.disi.unitn.it/etype#has_name> "Lo Spigolo Nascosto" .
@@ -803,21 +803,21 @@ _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19284_2bbed9587ed692a4c2be81c
 <http://localhost:8080/source/node/6071665623> <http://knowdive.disi.unitn.it/etype#has_sport> _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19284_2bbed9587ed692a4c2be81cb33a9936100a38524_N19284 .
 _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19284_2bbed9587ed692a4c2be81cb33a9936100a38524_N19284 <http://knowdive.disi.unitn.it/etype#has_type_of_sport> "climbing" .
 <http://localhost:8080/source/node/6071665623> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportsCentre> .
-<http://localhost:8080/source/node/6071665623> <http://knowdive.disi.unitn.it/etype#has_latitude> "10.9791829" .
+<http://localhost:8080/source/node/6071665623> <http://knowdive.disi.unitn.it/etype#has_longitude> "10.9791829" .
 <http://localhost:8080/source/node/6071665623> <http://knowdive.disi.unitn.it/etype#has_leisure> "sports_centre" .
-<http://localhost:8080/source/node/6071665623> <http://knowdive.disi.unitn.it/etype#has_longitude> "46.0678273" .
+<http://localhost:8080/source/node/6071665623> <http://knowdive.disi.unitn.it/etype#has_latitude> "46.0678273" .
 
 _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19293_2bbed9587ed692a4c2be81cb33a9936100a38524_N19293 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Sport> .
 <http://localhost:8080/source/node/6252338463> <http://knowdive.disi.unitn.it/etype#has_sport> _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19293_2bbed9587ed692a4c2be81cb33a9936100a38524_N19293 .
 <http://localhost:8080/source/node/6252338463> <http://knowdive.disi.unitn.it/etype#has_name> "Infinity Boulder" .
 <http://localhost:8080/source/region_1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region> .
-<http://localhost:8080/source/node/6252338463> <http://knowdive.disi.unitn.it/etype#has_latitude> "11.124874" .
+<http://localhost:8080/source/node/6252338463> <http://knowdive.disi.unitn.it/etype#has_longitude> "11.124874" .
 <http://localhost:8080/source/node/6252338463> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportsCentre> .
 <http://localhost:8080/source/node/6252338463> <http://knowdive.disi.unitn.it/etype#has_opening_hours> "Tu 07:30-11:30, 16:30-22:30; We 10:00-22:00; Th 07:30-11:30, 16:30-22:30; Fr 12:00-22:00; Sa, Su 10:00-20:00" .
 <http://localhost:8080/source/node/6252338463> <http://knowdive.disi.unitn.it/etype#has_leisure> "sports_centre" .
 _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19293_2bbed9587ed692a4c2be81cb33a9936100a38524_N19293 <http://knowdive.disi.unitn.it/etype#has_type_of_sport> "climbing" .
 <http://localhost:8080/source/node/6252338463> <http://knowdive.disi.unitn.it/etype#part_of> <http://localhost:8080/source/region_1> .
-<http://localhost:8080/source/node/6252338463> <http://knowdive.disi.unitn.it/etype#has_longitude> "45.9984762" .
+<http://localhost:8080/source/node/6252338463> <http://knowdive.disi.unitn.it/etype#has_latitude> "45.9984762" .
 
 <http://localhost:8080/source/node/6380885157> <http://knowdive.disi.unitn.it/etype#part_of> <http://localhost:8080/source/region_1> .
 <http://localhost:8080/source/region_1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region> .
@@ -826,33 +826,33 @@ _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19302_2bbed9587ed692a4c2be81c
 <http://localhost:8080/source/node/6380885157> <http://knowdive.disi.unitn.it/etype#has_sport> _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19302_2bbed9587ed692a4c2be81cb33a9936100a38524_N19302 .
 <http://localhost:8080/source/node/6380885157> <http://knowdive.disi.unitn.it/etype#has_leisure> "sports_centre" .
 _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19302_2bbed9587ed692a4c2be81cb33a9936100a38524_N19302 <http://knowdive.disi.unitn.it/etype#has_type_of_sport> "climbing" .
-<http://localhost:8080/source/node/6380885157> <http://knowdive.disi.unitn.it/etype#has_longitude> "45.9381165" .
+<http://localhost:8080/source/node/6380885157> <http://knowdive.disi.unitn.it/etype#has_latitude> "45.9381165" .
 <http://localhost:8080/source/node/6380885157> <http://knowdive.disi.unitn.it/etype#has_name> "Falesia Cola Grant" .
-<http://localhost:8080/source/node/6380885157> <http://knowdive.disi.unitn.it/etype#has_latitude> "11.115278" .
+<http://localhost:8080/source/node/6380885157> <http://knowdive.disi.unitn.it/etype#has_longitude> "11.115278" .
 
 <http://localhost:8080/source/node/6432886287> <http://knowdive.disi.unitn.it/etype#has_leisure> "sports_centre" .
 <http://localhost:8080/source/region_1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region> .
 <http://localhost:8080/source/node/6432886287> <http://knowdive.disi.unitn.it/etype#has_sport> _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19311_2bbed9587ed692a4c2be81cb33a9936100a38524_N19311 .
 <http://localhost:8080/source/node/6432886287> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportsCentre> .
-<http://localhost:8080/source/node/6432886287> <http://knowdive.disi.unitn.it/etype#has_longitude> "46.0377099" .
+<http://localhost:8080/source/node/6432886287> <http://knowdive.disi.unitn.it/etype#has_latitude> "46.0377099" .
 _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19311_2bbed9587ed692a4c2be81cb33a9936100a38524_N19311 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Sport> .
-<http://localhost:8080/source/node/6432886287> <http://knowdive.disi.unitn.it/etype#has_latitude> "10.9025332" .
+<http://localhost:8080/source/node/6432886287> <http://knowdive.disi.unitn.it/etype#has_longitude> "10.9025332" .
 <http://localhost:8080/source/node/6432886287> <http://knowdive.disi.unitn.it/etype#has_name> "Palestra Arrampicata di Comano" .
 _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19311_2bbed9587ed692a4c2be81cb33a9936100a38524_N19311 <http://knowdive.disi.unitn.it/etype#has_type_of_sport> "climbing" .
 <http://localhost:8080/source/node/6432886287> <http://knowdive.disi.unitn.it/etype#part_of> <http://localhost:8080/source/region_1> .
 
-<http://localhost:8080/source/node/6467549651> <http://knowdive.disi.unitn.it/etype#has_latitude> "10.888745" .
+<http://localhost:8080/source/node/6467549651> <http://knowdive.disi.unitn.it/etype#has_longitude> "10.888745" .
 <http://localhost:8080/source/region_1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region> .
 <http://localhost:8080/source/node/6467549651> <http://knowdive.disi.unitn.it/etype#has_sport> _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19320_2bbed9587ed692a4c2be81cb33a9936100a38524_N19320 .
 _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19320_2bbed9587ed692a4c2be81cb33a9936100a38524_N19320 <http://knowdive.disi.unitn.it/etype#has_type_of_sport> "climbing" .
-<http://localhost:8080/source/node/6467549651> <http://knowdive.disi.unitn.it/etype#has_longitude> "45.9269117" .
+<http://localhost:8080/source/node/6467549651> <http://knowdive.disi.unitn.it/etype#has_latitude> "45.9269117" .
 <http://localhost:8080/source/node/6467549651> <http://knowdive.disi.unitn.it/etype#part_of> <http://localhost:8080/source/region_1> .
 <http://localhost:8080/source/node/6467549651> <http://knowdive.disi.unitn.it/etype#has_name> "Gaia" .
 _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19320_2bbed9587ed692a4c2be81cb33a9936100a38524_N19320 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Sport> .
 <http://localhost:8080/source/node/6467549651> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportsCentre> .
 <http://localhost:8080/source/node/6467549651> <http://knowdive.disi.unitn.it/etype#has_leisure> "sports_centre" .
 
-<http://localhost:8080/source/node/6467555251> <http://knowdive.disi.unitn.it/etype#has_longitude> "45.9266038" .
+<http://localhost:8080/source/node/6467555251> <http://knowdive.disi.unitn.it/etype#has_latitude> "45.9266038" .
 <http://localhost:8080/source/node/6467555251> <http://knowdive.disi.unitn.it/etype#part_of> <http://localhost:8080/source/region_1> .
 <http://localhost:8080/source/node/6467555251> <http://knowdive.disi.unitn.it/etype#has_leisure> "sports_centre" .
 <http://localhost:8080/source/node/6467555251> <http://knowdive.disi.unitn.it/etype#has_sport> _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19329_2bbed9587ed692a4c2be81cb33a9936100a38524_N19329 .
@@ -860,41 +860,41 @@ _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19320_2bbed9587ed692a4c2be81c
 _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19329_2bbed9587ed692a4c2be81cb33a9936100a38524_N19329 <http://knowdive.disi.unitn.it/etype#has_type_of_sport> "climbing" .
 <http://localhost:8080/source/node/6467555251> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportsCentre> .
 <http://localhost:8080/source/node/6467555251> <http://knowdive.disi.unitn.it/etype#has_name> "Aspettando Martino" .
-<http://localhost:8080/source/node/6467555251> <http://knowdive.disi.unitn.it/etype#has_latitude> "10.888643" .
+<http://localhost:8080/source/node/6467555251> <http://knowdive.disi.unitn.it/etype#has_longitude> "10.888643" .
 _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19329_2bbed9587ed692a4c2be81cb33a9936100a38524_N19329 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Sport> .
 
 <http://localhost:8080/source/region_1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region> .
-<http://localhost:8080/source/node/6468144845> <http://knowdive.disi.unitn.it/etype#has_latitude> "10.9170014" .
+<http://localhost:8080/source/node/6468144845> <http://knowdive.disi.unitn.it/etype#has_longitude> "10.9170014" .
 <http://localhost:8080/source/node/6468144845> <http://knowdive.disi.unitn.it/etype#part_of> <http://localhost:8080/source/region_1> .
 <http://localhost:8080/source/node/6468144845> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportsCentre> .
 <http://localhost:8080/source/node/6468144845> <http://knowdive.disi.unitn.it/etype#has_name> "Via Trento" .
 <http://localhost:8080/source/node/6468144845> <http://knowdive.disi.unitn.it/etype#has_sport> _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19338_2bbed9587ed692a4c2be81cb33a9936100a38524_N19338 .
 <http://localhost:8080/source/node/6468144845> <http://knowdive.disi.unitn.it/etype#has_leisure> "sports_centre" .
 _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19338_2bbed9587ed692a4c2be81cb33a9936100a38524_N19338 <http://knowdive.disi.unitn.it/etype#has_type_of_sport> "climbing" .
-<http://localhost:8080/source/node/6468144845> <http://knowdive.disi.unitn.it/etype#has_longitude> "45.9952874" .
+<http://localhost:8080/source/node/6468144845> <http://knowdive.disi.unitn.it/etype#has_latitude> "45.9952874" .
 _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19338_2bbed9587ed692a4c2be81cb33a9936100a38524_N19338 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Sport> .
 
 <http://localhost:8080/source/region_1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region> .
 _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19347_2bbed9587ed692a4c2be81cb33a9936100a38524_N19347 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Sport> .
-<http://localhost:8080/source/node/7035170140> <http://knowdive.disi.unitn.it/etype#has_latitude> "10.8549014" .
+<http://localhost:8080/source/node/7035170140> <http://knowdive.disi.unitn.it/etype#has_longitude> "10.8549014" .
 _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19347_2bbed9587ed692a4c2be81cb33a9936100a38524_N19347 <http://knowdive.disi.unitn.it/etype#has_type_of_sport> "climbing" .
-<http://localhost:8080/source/node/7035170140> <http://knowdive.disi.unitn.it/etype#has_longitude> "46.0579693" .
+<http://localhost:8080/source/node/7035170140> <http://knowdive.disi.unitn.it/etype#has_latitude> "46.0579693" .
 <http://localhost:8080/source/node/7035170140> <http://knowdive.disi.unitn.it/etype#part_of> <http://localhost:8080/source/region_1> .
 <http://localhost:8080/source/node/7035170140> <http://knowdive.disi.unitn.it/etype#has_sport> _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19347_2bbed9587ed692a4c2be81cb33a9936100a38524_N19347 .
 <http://localhost:8080/source/node/7035170140> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportsCentre> .
 <http://localhost:8080/source/node/7035170140> <http://knowdive.disi.unitn.it/etype#has_leisure> "sports_centre" .
 
-<http://localhost:8080/source/node/7600542174> <http://knowdive.disi.unitn.it/etype#has_latitude> "11.1502072" .
+<http://localhost:8080/source/node/7600542174> <http://knowdive.disi.unitn.it/etype#has_longitude> "11.1502072" .
 <http://localhost:8080/source/region_1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region> .
 _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19356_2bbed9587ed692a4c2be81cb33a9936100a38524_N19356 <http://knowdive.disi.unitn.it/etype#has_type_of_sport> "climbing" .
 <http://localhost:8080/source/node/7600542174> <http://knowdive.disi.unitn.it/etype#has_sport> _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19356_2bbed9587ed692a4c2be81cb33a9936100a38524_N19356 .
 <http://localhost:8080/source/node/7600542174> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportsCentre> .
 _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19356_2bbed9587ed692a4c2be81cb33a9936100a38524_N19356 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Sport> .
 <http://localhost:8080/source/node/7600542174> <http://knowdive.disi.unitn.it/etype#part_of> <http://localhost:8080/source/region_1> .
-<http://localhost:8080/source/node/7600542174> <http://knowdive.disi.unitn.it/etype#has_longitude> "46.0676275" .
+<http://localhost:8080/source/node/7600542174> <http://knowdive.disi.unitn.it/etype#has_latitude> "46.0676275" .
 <http://localhost:8080/source/node/7600542174> <http://knowdive.disi.unitn.it/etype#has_leisure> "sports_centre" .
 
-<http://localhost:8080/source/node/7964465406> <http://knowdive.disi.unitn.it/etype#has_longitude> "45.9970968" .
+<http://localhost:8080/source/node/7964465406> <http://knowdive.disi.unitn.it/etype#has_latitude> "45.9970968" .
 <http://localhost:8080/source/region_1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region> .
 <http://localhost:8080/source/node/7964465406> <http://knowdive.disi.unitn.it/etype#part_of> <http://localhost:8080/source/region_1> .
 <http://localhost:8080/source/node/7964465406> <http://knowdive.disi.unitn.it/etype#has_name> "Solaris, 6c" .
@@ -902,13 +902,13 @@ _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19356_2bbed9587ed692a4c2be81c
 _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19365_2bbed9587ed692a4c2be81cb33a9936100a38524_N19365 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Sport> .
 _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19365_2bbed9587ed692a4c2be81cb33a9936100a38524_N19365 <http://knowdive.disi.unitn.it/etype#has_type_of_sport> "climbing" .
 <http://localhost:8080/source/node/7964465406> <http://knowdive.disi.unitn.it/etype#has_sport> _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19365_2bbed9587ed692a4c2be81cb33a9936100a38524_N19365 .
-<http://localhost:8080/source/node/7964465406> <http://knowdive.disi.unitn.it/etype#has_latitude> "10.9184359" .
+<http://localhost:8080/source/node/7964465406> <http://knowdive.disi.unitn.it/etype#has_longitude> "10.9184359" .
 <http://localhost:8080/source/node/7964465406> <http://knowdive.disi.unitn.it/etype#has_leisure> "sports_centre" .
 
 _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19374_2bbed9587ed692a4c2be81cb33a9936100a38524_N19374 <http://knowdive.disi.unitn.it/etype#has_type_of_sport> "climbing" .
-<http://localhost:8080/source/node/7964474653> <http://knowdive.disi.unitn.it/etype#has_longitude> "46.001132" .
+<http://localhost:8080/source/node/7964474653> <http://knowdive.disi.unitn.it/etype#has_latitude> "46.001132" .
 <http://localhost:8080/source/region_1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region> .
-<http://localhost:8080/source/node/7964474653> <http://knowdive.disi.unitn.it/etype#has_latitude> "10.9209243" .
+<http://localhost:8080/source/node/7964474653> <http://knowdive.disi.unitn.it/etype#has_longitude> "10.9209243" .
 <http://localhost:8080/source/node/7964474653> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportsCentre> .
 <http://localhost:8080/source/node/7964474653> <http://knowdive.disi.unitn.it/etype#has_leisure> "sports_centre" .
 <http://localhost:8080/source/node/7964474653> <http://knowdive.disi.unitn.it/etype#part_of> <http://localhost:8080/source/region_1> .
@@ -918,11 +918,11 @@ _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19374_2bbed9587ed692a4c2be81c
 
 <http://localhost:8080/source/region_1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region> .
 <http://localhost:8080/source/node/8075681137> <http://knowdive.disi.unitn.it/etype#part_of> <http://localhost:8080/source/region_1> .
-<http://localhost:8080/source/node/8075681137> <http://knowdive.disi.unitn.it/etype#has_latitude> "10.9257319" .
+<http://localhost:8080/source/node/8075681137> <http://knowdive.disi.unitn.it/etype#has_longitude> "10.9257319" .
 <http://localhost:8080/source/node/8075681137> <http://knowdive.disi.unitn.it/etype#has_name> "Bolted walls" .
 <http://localhost:8080/source/node/8075681137> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportsCentre> .
 <http://localhost:8080/source/node/8075681137> <http://knowdive.disi.unitn.it/etype#has_sport> _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19383_2bbed9587ed692a4c2be81cb33a9936100a38524_N19383 .
-<http://localhost:8080/source/node/8075681137> <http://knowdive.disi.unitn.it/etype#has_longitude> "46.0641791" .
+<http://localhost:8080/source/node/8075681137> <http://knowdive.disi.unitn.it/etype#has_latitude> "46.0641791" .
 _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19383_2bbed9587ed692a4c2be81cb33a9936100a38524_N19383 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Sport> .
 _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19383_2bbed9587ed692a4c2be81cb33a9936100a38524_N19383 <http://knowdive.disi.unitn.it/etype#has_type_of_sport> "climbing" .
 <http://localhost:8080/source/node/8075681137> <http://knowdive.disi.unitn.it/etype#has_leisure> "sports_centre" .
@@ -930,18 +930,18 @@ _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19383_2bbed9587ed692a4c2be81c
 <http://localhost:8080/source/node/8151386648> <http://knowdive.disi.unitn.it/etype#has_name> "Massi delle Traole Settore H - Star Wars" .
 <http://localhost:8080/source/node/8151386648> <http://knowdive.disi.unitn.it/etype#part_of> <http://localhost:8080/source/region_1> .
 <http://localhost:8080/source/region_1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region> .
-<http://localhost:8080/source/node/8151386648> <http://knowdive.disi.unitn.it/etype#has_longitude> "45.8669025" .
+<http://localhost:8080/source/node/8151386648> <http://knowdive.disi.unitn.it/etype#has_latitude> "45.8669025" .
 <http://localhost:8080/source/node/8151386648> <http://knowdive.disi.unitn.it/etype#has_leisure> "sports_centre" .
 _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19392_2bbed9587ed692a4c2be81cb33a9936100a38524_N19392 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Sport> .
 <http://localhost:8080/source/node/8151386648> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportsCentre> .
-<http://localhost:8080/source/node/8151386648> <http://knowdive.disi.unitn.it/etype#has_latitude> "10.8945739" .
+<http://localhost:8080/source/node/8151386648> <http://knowdive.disi.unitn.it/etype#has_longitude> "10.8945739" .
 _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19392_2bbed9587ed692a4c2be81cb33a9936100a38524_N19392 <http://knowdive.disi.unitn.it/etype#has_type_of_sport> "climbing" .
 <http://localhost:8080/source/node/8151386648> <http://knowdive.disi.unitn.it/etype#has_sport> _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19392_2bbed9587ed692a4c2be81cb33a9936100a38524_N19392 .
 
-<http://localhost:8080/source/node/8174679488> <http://knowdive.disi.unitn.it/etype#has_longitude> "46.0624838" .
+<http://localhost:8080/source/node/8174679488> <http://knowdive.disi.unitn.it/etype#has_latitude> "46.0624838" .
 <http://localhost:8080/source/region_1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region> .
 <http://localhost:8080/source/node/8174679488> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportsCentre> .
-<http://localhost:8080/source/node/8174679488> <http://knowdive.disi.unitn.it/etype#has_latitude> "10.9315847" .
+<http://localhost:8080/source/node/8174679488> <http://knowdive.disi.unitn.it/etype#has_longitude> "10.9315847" .
 _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19401_2bbed9587ed692a4c2be81cb33a9936100a38524_N19401 <http://knowdive.disi.unitn.it/etype#has_type_of_sport> "climbing" .
 <http://localhost:8080/source/node/8174679488> <http://knowdive.disi.unitn.it/etype#has_sport> _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19401_2bbed9587ed692a4c2be81cb33a9936100a38524_N19401 .
 <http://localhost:8080/source/node/8174679488> <http://knowdive.disi.unitn.it/etype#has_name> "Il Bersaglio, Ranzo" .
@@ -956,15 +956,15 @@ _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19410_2bbed9587ed692a4c2be81c
 <http://localhost:8080/source/node/8836963503> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportsCentre> .
 <http://localhost:8080/source/node/8836963503> <http://knowdive.disi.unitn.it/etype#has_sport> _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19410_2bbed9587ed692a4c2be81cb33a9936100a38524_N19410 .
 <http://localhost:8080/source/node/8836963503> <http://knowdive.disi.unitn.it/etype#part_of> <http://localhost:8080/source/region_1> .
-<http://localhost:8080/source/node/8836963503> <http://knowdive.disi.unitn.it/etype#has_longitude> "45.8957191" .
-<http://localhost:8080/source/node/8836963503> <http://knowdive.disi.unitn.it/etype#has_latitude> "10.9549772" .
+<http://localhost:8080/source/node/8836963503> <http://knowdive.disi.unitn.it/etype#has_latitude> "45.8957191" .
+<http://localhost:8080/source/node/8836963503> <http://knowdive.disi.unitn.it/etype#has_longitude> "10.9549772" .
 <http://localhost:8080/source/node/8836963503> <http://knowdive.disi.unitn.it/etype#has_leisure> "sports_centre" .
 
 <http://localhost:8080/source/region_1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region> .
-<http://localhost:8080/source/node/8897185202> <http://knowdive.disi.unitn.it/etype#has_longitude> "45.9261199" .
+<http://localhost:8080/source/node/8897185202> <http://knowdive.disi.unitn.it/etype#has_latitude> "45.9261199" .
 <http://localhost:8080/source/node/8897185202> <http://knowdive.disi.unitn.it/etype#has_leisure> "sports_centre" .
 <http://localhost:8080/source/node/8897185202> <http://knowdive.disi.unitn.it/etype#has_sport> _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19419_2bbed9587ed692a4c2be81cb33a9936100a38524_N19419 .
-<http://localhost:8080/source/node/8897185202> <http://knowdive.disi.unitn.it/etype#has_latitude> "10.7174461" .
+<http://localhost:8080/source/node/8897185202> <http://knowdive.disi.unitn.it/etype#has_longitude> "10.7174461" .
 <http://localhost:8080/source/node/8897185202> <http://knowdive.disi.unitn.it/etype#part_of> <http://localhost:8080/source/region_1> .
 _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19419_2bbed9587ed692a4c2be81cb33a9936100a38524_N19419 <http://knowdive.disi.unitn.it/etype#has_type_of_sport> "climbing" .
 <http://localhost:8080/source/node/8897185202> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportsCentre> .
@@ -972,8 +972,8 @@ _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19419_2bbed9587ed692a4c2be81c
 <http://localhost:8080/source/node/8897185202> <http://knowdive.disi.unitn.it/etype#has_name> "Pizzocol" .
 
 _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19428_2bbed9587ed692a4c2be81cb33a9936100a38524_N19428 <http://knowdive.disi.unitn.it/etype#has_type_of_sport> "climbing" .
-<http://localhost:8080/source/node/9019705943> <http://knowdive.disi.unitn.it/etype#has_longitude> "45.9274647" .
-<http://localhost:8080/source/node/9019705943> <http://knowdive.disi.unitn.it/etype#has_latitude> "10.8999233" .
+<http://localhost:8080/source/node/9019705943> <http://knowdive.disi.unitn.it/etype#has_latitude> "45.9274647" .
+<http://localhost:8080/source/node/9019705943> <http://knowdive.disi.unitn.it/etype#has_longitude> "10.8999233" .
 _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19428_2bbed9587ed692a4c2be81cb33a9936100a38524_N19428 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Sport> .
 <http://localhost:8080/source/region_1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region> .
 <http://localhost:8080/source/node/9019705943> <http://knowdive.disi.unitn.it/etype#part_of> <http://localhost:8080/source/region_1> .
@@ -983,9 +983,9 @@ _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19428_2bbed9587ed692a4c2be81c
 <http://localhost:8080/source/node/9019705943> <http://knowdive.disi.unitn.it/etype#has_sport> _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19428_2bbed9587ed692a4c2be81cb33a9936100a38524_N19428 .
 
 <http://localhost:8080/source/node/9140322101> <http://knowdive.disi.unitn.it/etype#has_sport> _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19437_2bbed9587ed692a4c2be81cb33a9936100a38524_N19437 .
-<http://localhost:8080/source/node/9140322101> <http://knowdive.disi.unitn.it/etype#has_longitude> "45.8631272" .
+<http://localhost:8080/source/node/9140322101> <http://knowdive.disi.unitn.it/etype#has_latitude> "45.8631272" .
 <http://localhost:8080/source/region_1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region> .
-<http://localhost:8080/source/node/9140322101> <http://knowdive.disi.unitn.it/etype#has_latitude> "10.8293656" .
+<http://localhost:8080/source/node/9140322101> <http://knowdive.disi.unitn.it/etype#has_longitude> "10.8293656" .
 <http://localhost:8080/source/node/9140322101> <http://knowdive.disi.unitn.it/etype#has_leisure> "sports_centre" .
 _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19437_2bbed9587ed692a4c2be81cb33a9936100a38524_N19437 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Sport> .
 _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19437_2bbed9587ed692a4c2be81cb33a9936100a38524_N19437 <http://knowdive.disi.unitn.it/etype#has_type_of_sport> "climbing" .
@@ -999,16 +999,16 @@ _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19437_2bbed9587ed692a4c2be81c
 _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19446_2bbed9587ed692a4c2be81cb33a9936100a38524_N19446 <http://knowdive.disi.unitn.it/etype#has_type_of_sport> "climbing" .
 <http://localhost:8080/source/node/9266885368> <http://knowdive.disi.unitn.it/etype#has_sport> _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19446_2bbed9587ed692a4c2be81cb33a9936100a38524_N19446 .
 _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19446_2bbed9587ed692a4c2be81cb33a9936100a38524_N19446 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Sport> .
-<http://localhost:8080/source/node/9266885368> <http://knowdive.disi.unitn.it/etype#has_latitude> "10.9171006" .
+<http://localhost:8080/source/node/9266885368> <http://knowdive.disi.unitn.it/etype#has_longitude> "10.9171006" .
 <http://localhost:8080/source/node/9266885368> <http://knowdive.disi.unitn.it/etype#has_leisure> "sports_centre" .
 <http://localhost:8080/source/node/9266885368> <http://knowdive.disi.unitn.it/etype#part_of> <http://localhost:8080/source/region_1> .
-<http://localhost:8080/source/node/9266885368> <http://knowdive.disi.unitn.it/etype#has_longitude> "45.9954401" .
+<http://localhost:8080/source/node/9266885368> <http://knowdive.disi.unitn.it/etype#has_latitude> "45.9954401" .
 
 _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19455_2bbed9587ed692a4c2be81cb33a9936100a38524_N19455 <http://knowdive.disi.unitn.it/etype#has_type_of_sport> "climbing" .
 <http://localhost:8080/source/region_1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region> .
 <http://localhost:8080/source/node/9266891849> <http://knowdive.disi.unitn.it/etype#has_sport> _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19455_2bbed9587ed692a4c2be81cb33a9936100a38524_N19455 .
-<http://localhost:8080/source/node/9266891849> <http://knowdive.disi.unitn.it/etype#has_longitude> "45.9951634" .
-<http://localhost:8080/source/node/9266891849> <http://knowdive.disi.unitn.it/etype#has_latitude> "10.916763" .
+<http://localhost:8080/source/node/9266891849> <http://knowdive.disi.unitn.it/etype#has_latitude> "45.9951634" .
+<http://localhost:8080/source/node/9266891849> <http://knowdive.disi.unitn.it/etype#has_longitude> "10.916763" .
 <http://localhost:8080/source/node/9266891849> <http://knowdive.disi.unitn.it/etype#has_name> "Giusy" .
 <http://localhost:8080/source/node/9266891849> <http://knowdive.disi.unitn.it/etype#part_of> <http://localhost:8080/source/region_1> .
 <http://localhost:8080/source/node/9266891849> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportsCentre> .
@@ -1019,15 +1019,15 @@ _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19455_2bbed9587ed692a4c2be81c
 <http://localhost:8080/source/region_1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region> .
 _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19464_2bbed9587ed692a4c2be81cb33a9936100a38524_N19464 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Sport> .
 <http://localhost:8080/source/node/9627302145> <http://knowdive.disi.unitn.it/etype#has_sport> _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19464_2bbed9587ed692a4c2be81cb33a9936100a38524_N19464 .
-<http://localhost:8080/source/node/9627302145> <http://knowdive.disi.unitn.it/etype#has_latitude> "10.8926493" .
+<http://localhost:8080/source/node/9627302145> <http://knowdive.disi.unitn.it/etype#has_longitude> "10.8926493" .
 <http://localhost:8080/source/node/9627302145> <http://knowdive.disi.unitn.it/etype#has_name> "Via Anche le donne vogliono arrampicare" .
 <http://localhost:8080/source/node/9627302145> <http://knowdive.disi.unitn.it/etype#part_of> <http://localhost:8080/source/region_1> .
 <http://localhost:8080/source/node/9627302145> <http://knowdive.disi.unitn.it/etype#has_leisure> "sports_centre" .
-<http://localhost:8080/source/node/9627302145> <http://knowdive.disi.unitn.it/etype#has_longitude> "45.9539276" .
+<http://localhost:8080/source/node/9627302145> <http://knowdive.disi.unitn.it/etype#has_latitude> "45.9539276" .
 _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19464_2bbed9587ed692a4c2be81cb33a9936100a38524_N19464 <http://knowdive.disi.unitn.it/etype#has_type_of_sport> "climbing" .
 
 <http://localhost:8080/source/node/9627333772> <http://knowdive.disi.unitn.it/etype#has_name> "Via Il luogo degli esseri brutti" .
-<http://localhost:8080/source/node/9627333772> <http://knowdive.disi.unitn.it/etype#has_longitude> "45.953967" .
+<http://localhost:8080/source/node/9627333772> <http://knowdive.disi.unitn.it/etype#has_latitude> "45.953967" .
 <http://localhost:8080/source/region_1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region> .
 <http://localhost:8080/source/node/9627333772> <http://knowdive.disi.unitn.it/etype#part_of> <http://localhost:8080/source/region_1> .
 <http://localhost:8080/source/node/9627333772> <http://knowdive.disi.unitn.it/etype#has_sport> _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19473_2bbed9587ed692a4c2be81cb33a9936100a38524_N19473 .
@@ -1035,20 +1035,20 @@ _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19464_2bbed9587ed692a4c2be81c
 _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19473_2bbed9587ed692a4c2be81cb33a9936100a38524_N19473 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Sport> .
 _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19473_2bbed9587ed692a4c2be81cb33a9936100a38524_N19473 <http://knowdive.disi.unitn.it/etype#has_type_of_sport> "climbing" .
 <http://localhost:8080/source/node/9627333772> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportsCentre> .
-<http://localhost:8080/source/node/9627333772> <http://knowdive.disi.unitn.it/etype#has_latitude> "10.8926846" .
+<http://localhost:8080/source/node/9627333772> <http://knowdive.disi.unitn.it/etype#has_longitude> "10.8926846" .
 
 <http://localhost:8080/source/region_1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region> .
 _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19482_2bbed9587ed692a4c2be81cb33a9936100a38524_N19482 <http://knowdive.disi.unitn.it/etype#has_type_of_sport> "climbing" .
 <http://localhost:8080/source/node/9627363458> <http://knowdive.disi.unitn.it/etype#part_of> <http://localhost:8080/source/region_1> .
-<http://localhost:8080/source/node/9627363458> <http://knowdive.disi.unitn.it/etype#has_latitude> "10.8926212" .
+<http://localhost:8080/source/node/9627363458> <http://knowdive.disi.unitn.it/etype#has_longitude> "10.8926212" .
 <http://localhost:8080/source/node/9627363458> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportsCentre> .
 <http://localhost:8080/source/node/9627363458> <http://knowdive.disi.unitn.it/etype#has_leisure> "sports_centre" .
 _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19482_2bbed9587ed692a4c2be81cb33a9936100a38524_N19482 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Sport> .
-<http://localhost:8080/source/node/9627363458> <http://knowdive.disi.unitn.it/etype#has_longitude> "45.9538734" .
+<http://localhost:8080/source/node/9627363458> <http://knowdive.disi.unitn.it/etype#has_latitude> "45.9538734" .
 <http://localhost:8080/source/node/9627363458> <http://knowdive.disi.unitn.it/etype#has_name> "Via Diedro Baldessarini" .
 <http://localhost:8080/source/node/9627363458> <http://knowdive.disi.unitn.it/etype#has_sport> _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19482_2bbed9587ed692a4c2be81cb33a9936100a38524_N19482 .
 
-<http://localhost:8080/source/node/9628919828> <http://knowdive.disi.unitn.it/etype#has_longitude> "45.9740559" .
+<http://localhost:8080/source/node/9628919828> <http://knowdive.disi.unitn.it/etype#has_latitude> "45.9740559" .
 <http://localhost:8080/source/region_1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region> .
 <http://localhost:8080/source/node/9628919828> <http://knowdive.disi.unitn.it/etype#part_of> <http://localhost:8080/source/region_1> .
 <http://localhost:8080/source/node/9628919828> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportsCentre> .
@@ -1056,7 +1056,7 @@ _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19482_2bbed9587ed692a4c2be81c
 _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19491_2bbed9587ed692a4c2be81cb33a9936100a38524_N19491 <http://knowdive.disi.unitn.it/etype#has_type_of_sport> "climbing" .
 <http://localhost:8080/source/node/9628919828> <http://knowdive.disi.unitn.it/etype#has_sport> _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19491_2bbed9587ed692a4c2be81cb33a9936100a38524_N19491 .
 <http://localhost:8080/source/node/9628919828> <http://knowdive.disi.unitn.it/etype#has_leisure> "sports_centre" .
-<http://localhost:8080/source/node/9628919828> <http://knowdive.disi.unitn.it/etype#has_latitude> "10.91495" .
+<http://localhost:8080/source/node/9628919828> <http://knowdive.disi.unitn.it/etype#has_longitude> "10.91495" .
 _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19491_2bbed9587ed692a4c2be81cb33a9936100a38524_N19491 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Sport> .
 
 <http://localhost:8080/source/node/9628948946> <http://knowdive.disi.unitn.it/etype#part_of> <http://localhost:8080/source/region_1> .
@@ -1066,9 +1066,9 @@ _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19500_2bbed9587ed692a4c2be81c
 <http://localhost:8080/source/node/9628948946> <http://knowdive.disi.unitn.it/etype#has_sport> _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19500_2bbed9587ed692a4c2be81cb33a9936100a38524_N19500 .
 _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19500_2bbed9587ed692a4c2be81cb33a9936100a38524_N19500 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Sport> .
 <http://localhost:8080/source/node/9628948946> <http://knowdive.disi.unitn.it/etype#has_name> "Falesia Bassilandia" .
-<http://localhost:8080/source/node/9628948946> <http://knowdive.disi.unitn.it/etype#has_longitude> "46.0556853" .
+<http://localhost:8080/source/node/9628948946> <http://knowdive.disi.unitn.it/etype#has_latitude> "46.0556853" .
 <http://localhost:8080/source/node/9628948946> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportsCentre> .
-<http://localhost:8080/source/node/9628948946> <http://knowdive.disi.unitn.it/etype#has_latitude> "10.9599155" .
+<http://localhost:8080/source/node/9628948946> <http://knowdive.disi.unitn.it/etype#has_longitude> "10.9599155" .
 
 _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19509_2bbed9587ed692a4c2be81cb33a9936100a38524_N19509 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Sport> .
 _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19509_2bbed9587ed692a4c2be81cb33a9936100a38524_N19509 <http://knowdive.disi.unitn.it/etype#has_type_of_sport> "climbing" .
@@ -1076,8 +1076,8 @@ _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19509_2bbed9587ed692a4c2be81c
 <http://localhost:8080/source/node/9798618472> <http://knowdive.disi.unitn.it/etype#has_name> "Falesia Regina del Lago" .
 <http://localhost:8080/source/node/9798618472> <http://knowdive.disi.unitn.it/etype#has_leisure> "sports_centre" .
 <http://localhost:8080/source/node/9798618472> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportsCentre> .
-<http://localhost:8080/source/node/9798618472> <http://knowdive.disi.unitn.it/etype#has_longitude> "45.86538" .
-<http://localhost:8080/source/node/9798618472> <http://knowdive.disi.unitn.it/etype#has_latitude> "10.820485" .
+<http://localhost:8080/source/node/9798618472> <http://knowdive.disi.unitn.it/etype#has_latitude> "45.86538" .
+<http://localhost:8080/source/node/9798618472> <http://knowdive.disi.unitn.it/etype#has_longitude> "10.820485" .
 <http://localhost:8080/source/node/9798618472> <http://knowdive.disi.unitn.it/etype#part_of> <http://localhost:8080/source/region_1> .
 <http://localhost:8080/source/node/9798618472> <http://knowdive.disi.unitn.it/etype#has_sport> _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19509_2bbed9587ed692a4c2be81cb33a9936100a38524_N19509 .
 
@@ -1086,17 +1086,17 @@ _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19509_2bbed9587ed692a4c2be81c
 _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19518_2bbed9587ed692a4c2be81cb33a9936100a38524_N19518 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Sport> .
 _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19518_2bbed9587ed692a4c2be81cb33a9936100a38524_N19518 <http://knowdive.disi.unitn.it/etype#has_type_of_sport> "climbing" .
 <http://localhost:8080/source/node/9798707997> <http://knowdive.disi.unitn.it/etype#has_sport> _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19518_2bbed9587ed692a4c2be81cb33a9936100a38524_N19518 .
-<http://localhost:8080/source/node/9798707997> <http://knowdive.disi.unitn.it/etype#has_latitude> "10.8273829" .
+<http://localhost:8080/source/node/9798707997> <http://knowdive.disi.unitn.it/etype#has_longitude> "10.8273829" .
 <http://localhost:8080/source/node/9798707997> <http://knowdive.disi.unitn.it/etype#has_leisure> "sports_centre" .
 <http://localhost:8080/source/node/9798707997> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportsCentre> .
 <http://localhost:8080/source/node/9798707997> <http://knowdive.disi.unitn.it/etype#part_of> <http://localhost:8080/source/region_1> .
-<http://localhost:8080/source/node/9798707997> <http://knowdive.disi.unitn.it/etype#has_longitude> "45.8640793" .
+<http://localhost:8080/source/node/9798707997> <http://knowdive.disi.unitn.it/etype#has_latitude> "45.8640793" .
 
 <http://localhost:8080/source/node/9798717408> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportsCentre> .
-<http://localhost:8080/source/node/9798717408> <http://knowdive.disi.unitn.it/etype#has_longitude> "45.865177" .
+<http://localhost:8080/source/node/9798717408> <http://knowdive.disi.unitn.it/etype#has_latitude> "45.865177" .
 <http://localhost:8080/source/region_1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region> .
 _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19527_2bbed9587ed692a4c2be81cb33a9936100a38524_N19527 <http://knowdive.disi.unitn.it/etype#has_type_of_sport> "climbing" .
-<http://localhost:8080/source/node/9798717408> <http://knowdive.disi.unitn.it/etype#has_latitude> "10.8271435" .
+<http://localhost:8080/source/node/9798717408> <http://knowdive.disi.unitn.it/etype#has_longitude> "10.8271435" .
 <http://localhost:8080/source/node/9798717408> <http://knowdive.disi.unitn.it/etype#has_name> "Regina del Lago- settore A" .
 _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19527_2bbed9587ed692a4c2be81cb33a9936100a38524_N19527 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Sport> .
 <http://localhost:8080/source/node/9798717408> <http://knowdive.disi.unitn.it/etype#part_of> <http://localhost:8080/source/region_1> .
@@ -1109,19 +1109,19 @@ _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19527_2bbed9587ed692a4c2be81c
 _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19536_2bbed9587ed692a4c2be81cb33a9936100a38524_N19536 <http://knowdive.disi.unitn.it/etype#has_type_of_sport> "climbing" .
 <http://localhost:8080/source/node/9798755346> <http://knowdive.disi.unitn.it/etype#part_of> <http://localhost:8080/source/region_1> .
 <http://localhost:8080/source/node/9798755346> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportsCentre> .
-<http://localhost:8080/source/node/9798755346> <http://knowdive.disi.unitn.it/etype#has_latitude> "10.8268814" .
+<http://localhost:8080/source/node/9798755346> <http://knowdive.disi.unitn.it/etype#has_longitude> "10.8268814" .
 _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19536_2bbed9587ed692a4c2be81cb33a9936100a38524_N19536 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Sport> .
-<http://localhost:8080/source/node/9798755346> <http://knowdive.disi.unitn.it/etype#has_longitude> "45.8643147" .
+<http://localhost:8080/source/node/9798755346> <http://knowdive.disi.unitn.it/etype#has_latitude> "45.8643147" .
 <http://localhost:8080/source/node/9798755346> <http://knowdive.disi.unitn.it/etype#has_leisure> "sports_centre" .
 
 _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19545_2bbed9587ed692a4c2be81cb33a9936100a38524_N19545 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Sport> .
 <http://localhost:8080/source/region_1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region> .
-<http://localhost:8080/source/node/9798755347> <http://knowdive.disi.unitn.it/etype#has_latitude> "10.8272341" .
+<http://localhost:8080/source/node/9798755347> <http://knowdive.disi.unitn.it/etype#has_longitude> "10.8272341" .
 <http://localhost:8080/source/node/9798755347> <http://knowdive.disi.unitn.it/etype#part_of> <http://localhost:8080/source/region_1> .
 _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19545_2bbed9587ed692a4c2be81cb33a9936100a38524_N19545 <http://knowdive.disi.unitn.it/etype#has_type_of_sport> "climbing" .
 <http://localhost:8080/source/node/9798755347> <http://knowdive.disi.unitn.it/etype#has_sport> _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19545_2bbed9587ed692a4c2be81cb33a9936100a38524_N19545 .
 <http://localhost:8080/source/node/9798755347> <http://knowdive.disi.unitn.it/etype#has_leisure> "sports_centre" .
-<http://localhost:8080/source/node/9798755347> <http://knowdive.disi.unitn.it/etype#has_longitude> "45.8641895" .
+<http://localhost:8080/source/node/9798755347> <http://knowdive.disi.unitn.it/etype#has_latitude> "45.8641895" .
 <http://localhost:8080/source/node/9798755347> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportsCentre> .
 <http://localhost:8080/source/node/9798755347> <http://knowdive.disi.unitn.it/etype#has_name> "Regina del Lago - settore C" .
 
@@ -1131,19 +1131,19 @@ _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19545_2bbed9587ed692a4c2be81c
 <http://localhost:8080/source/node/9798755348> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportsCentre> .
 _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19554_2bbed9587ed692a4c2be81cb33a9936100a38524_N19554 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Sport> .
 <http://localhost:8080/source/node/9798755348> <http://knowdive.disi.unitn.it/etype#part_of> <http://localhost:8080/source/region_1> .
-<http://localhost:8080/source/node/9798755348> <http://knowdive.disi.unitn.it/etype#has_longitude> "45.8637718" .
+<http://localhost:8080/source/node/9798755348> <http://knowdive.disi.unitn.it/etype#has_latitude> "45.8637718" .
 _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19554_2bbed9587ed692a4c2be81cb33a9936100a38524_N19554 <http://knowdive.disi.unitn.it/etype#has_type_of_sport> "climbing" .
-<http://localhost:8080/source/node/9798755348> <http://knowdive.disi.unitn.it/etype#has_latitude> "10.8290249" .
+<http://localhost:8080/source/node/9798755348> <http://knowdive.disi.unitn.it/etype#has_longitude> "10.8290249" .
 <http://localhost:8080/source/node/9798755348> <http://knowdive.disi.unitn.it/etype#has_leisure> "sports_centre" .
 
 <http://localhost:8080/source/node/9811232419> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportsCentre> .
 <http://localhost:8080/source/region_1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region> .
 <http://localhost:8080/source/node/9811232419> <http://knowdive.disi.unitn.it/etype#part_of> <http://localhost:8080/source/region_1> .
 <http://localhost:8080/source/node/9811232419> <http://knowdive.disi.unitn.it/etype#has_sport> _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19563_2bbed9587ed692a4c2be81cb33a9936100a38524_N19563 .
-<http://localhost:8080/source/node/9811232419> <http://knowdive.disi.unitn.it/etype#has_latitude> "10.8694042" .
+<http://localhost:8080/source/node/9811232419> <http://knowdive.disi.unitn.it/etype#has_longitude> "10.8694042" .
 <http://localhost:8080/source/node/9811232419> <http://knowdive.disi.unitn.it/etype#has_leisure> "sports_centre" .
 _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19563_2bbed9587ed692a4c2be81cb33a9936100a38524_N19563 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Sport> .
-<http://localhost:8080/source/node/9811232419> <http://knowdive.disi.unitn.it/etype#has_longitude> "45.9250813" .
+<http://localhost:8080/source/node/9811232419> <http://knowdive.disi.unitn.it/etype#has_latitude> "45.9250813" .
 _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19563_2bbed9587ed692a4c2be81cb33a9936100a38524_N19563 <http://knowdive.disi.unitn.it/etype#has_type_of_sport> "climbing" .
 <http://localhost:8080/source/node/9811232419> <http://knowdive.disi.unitn.it/etype#has_name> "Placche di Baone" .
 
@@ -1152,19 +1152,19 @@ _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19563_2bbed9587ed692a4c2be81c
 <http://localhost:8080/source/node/9952851159> <http://knowdive.disi.unitn.it/etype#has_leisure> "sports_centre" .
 _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19572_2bbed9587ed692a4c2be81cb33a9936100a38524_N19572 <http://knowdive.disi.unitn.it/etype#has_type_of_sport> "climbing" .
 <http://localhost:8080/source/node/9952851159> <http://knowdive.disi.unitn.it/etype#part_of> <http://localhost:8080/source/region_1> .
-<http://localhost:8080/source/node/9952851159> <http://knowdive.disi.unitn.it/etype#has_latitude> "10.8932368" .
+<http://localhost:8080/source/node/9952851159> <http://knowdive.disi.unitn.it/etype#has_longitude> "10.8932368" .
 <http://localhost:8080/source/node/9952851159> <http://knowdive.disi.unitn.it/etype#has_sport> _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19572_2bbed9587ed692a4c2be81cb33a9936100a38524_N19572 .
 _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19572_2bbed9587ed692a4c2be81cb33a9936100a38524_N19572 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Sport> .
-<http://localhost:8080/source/node/9952851159> <http://knowdive.disi.unitn.it/etype#has_longitude> "45.8705094" .
+<http://localhost:8080/source/node/9952851159> <http://knowdive.disi.unitn.it/etype#has_latitude> "45.8705094" .
 <http://localhost:8080/source/node/9952851159> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportsCentre> .
 
 _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19581_2bbed9587ed692a4c2be81cb33a9936100a38524_N19581 <http://knowdive.disi.unitn.it/etype#has_type_of_sport> "climbing" .
-<http://localhost:8080/source/node/9966205787> <http://knowdive.disi.unitn.it/etype#has_latitude> "10.9785278" .
+<http://localhost:8080/source/node/9966205787> <http://knowdive.disi.unitn.it/etype#has_longitude> "10.9785278" .
 <http://localhost:8080/source/region_1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region> .
 _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19581_2bbed9587ed692a4c2be81cb33a9936100a38524_N19581 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Sport> .
 <http://localhost:8080/source/node/9966205787> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportsCentre> .
 <http://localhost:8080/source/node/9966205787> <http://knowdive.disi.unitn.it/etype#has_leisure> "sports_centre" .
-<http://localhost:8080/source/node/9966205787> <http://knowdive.disi.unitn.it/etype#has_longitude> "46.0683488" .
+<http://localhost:8080/source/node/9966205787> <http://knowdive.disi.unitn.it/etype#has_latitude> "46.0683488" .
 <http://localhost:8080/source/node/9966205787> <http://knowdive.disi.unitn.it/etype#has_sport> _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19581_2bbed9587ed692a4c2be81cb33a9936100a38524_N19581 .
 <http://localhost:8080/source/node/9966205787> <http://knowdive.disi.unitn.it/etype#part_of> <http://localhost:8080/source/region_1> .
 <http://localhost:8080/source/node/9966205787> <http://knowdive.disi.unitn.it/etype#has_name> "G.M.D." .
@@ -1174,17 +1174,17 @@ _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19581_2bbed9587ed692a4c2be81c
 _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19590_2bbed9587ed692a4c2be81cb33a9936100a38524_N19590 <http://knowdive.disi.unitn.it/etype#has_type_of_sport> "climbing" .
 <http://localhost:8080/source/node/9966205788> <http://knowdive.disi.unitn.it/etype#has_name> "Giubileo" .
 _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19590_2bbed9587ed692a4c2be81cb33a9936100a38524_N19590 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Sport> .
-<http://localhost:8080/source/node/9966205788> <http://knowdive.disi.unitn.it/etype#has_longitude> "46.0688081" .
+<http://localhost:8080/source/node/9966205788> <http://knowdive.disi.unitn.it/etype#has_latitude> "46.0688081" .
 <http://localhost:8080/source/node/9966205788> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportsCentre> .
 <http://localhost:8080/source/node/9966205788> <http://knowdive.disi.unitn.it/etype#part_of> <http://localhost:8080/source/region_1> .
-<http://localhost:8080/source/node/9966205788> <http://knowdive.disi.unitn.it/etype#has_latitude> "10.9782071" .
+<http://localhost:8080/source/node/9966205788> <http://knowdive.disi.unitn.it/etype#has_longitude> "10.9782071" .
 <http://localhost:8080/source/node/9966205788> <http://knowdive.disi.unitn.it/etype#has_sport> _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19590_2bbed9587ed692a4c2be81cb33a9936100a38524_N19590 .
 
-<http://localhost:8080/source/node/9989993765> <http://knowdive.disi.unitn.it/etype#has_longitude> "45.9913153" .
+<http://localhost:8080/source/node/9989993765> <http://knowdive.disi.unitn.it/etype#has_latitude> "45.9913153" .
 _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19599_2bbed9587ed692a4c2be81cb33a9936100a38524_N19599 <http://knowdive.disi.unitn.it/etype#has_type_of_sport> "climbing" .
 <http://localhost:8080/source/node/9989993765> <http://knowdive.disi.unitn.it/etype#has_leisure> "sports_centre" .
 <http://localhost:8080/source/region_1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region> .
-<http://localhost:8080/source/node/9989993765> <http://knowdive.disi.unitn.it/etype#has_latitude> "10.9035185" .
+<http://localhost:8080/source/node/9989993765> <http://knowdive.disi.unitn.it/etype#has_longitude> "10.9035185" .
 _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19599_2bbed9587ed692a4c2be81cb33a9936100a38524_N19599 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Sport> .
 <http://localhost:8080/source/node/9989993765> <http://knowdive.disi.unitn.it/etype#has_name> "Speranza" .
 <http://localhost:8080/source/node/9989993765> <http://knowdive.disi.unitn.it/etype#part_of> <http://localhost:8080/source/region_1> .
@@ -1192,23 +1192,23 @@ _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19599_2bbed9587ed692a4c2be81c
 <http://localhost:8080/source/node/9989993765> <http://knowdive.disi.unitn.it/etype#has_sport> _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19599_2bbed9587ed692a4c2be81cb33a9936100a38524_N19599 .
 
 <http://localhost:8080/source/node/10015606290> <http://knowdive.disi.unitn.it/etype#has_sport> _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19608_2bbed9587ed692a4c2be81cb33a9936100a38524_N19608 .
-<http://localhost:8080/source/node/10015606290> <http://knowdive.disi.unitn.it/etype#has_longitude> "45.8680651" .
+<http://localhost:8080/source/node/10015606290> <http://knowdive.disi.unitn.it/etype#has_latitude> "45.8680651" .
 <http://localhost:8080/source/node/10015606290> <http://knowdive.disi.unitn.it/etype#has_leisure> "sports_centre" .
 <http://localhost:8080/source/region_1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region> .
 <http://localhost:8080/source/node/10015606290> <http://knowdive.disi.unitn.it/etype#part_of> <http://localhost:8080/source/region_1> .
 <http://localhost:8080/source/node/10015606290> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportsCentre> .
-<http://localhost:8080/source/node/10015606290> <http://knowdive.disi.unitn.it/etype#has_latitude> "10.8998105" .
+<http://localhost:8080/source/node/10015606290> <http://knowdive.disi.unitn.it/etype#has_longitude> "10.8998105" .
 _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19608_2bbed9587ed692a4c2be81cb33a9936100a38524_N19608 <http://knowdive.disi.unitn.it/etype#has_type_of_sport> "climbing" .
 _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19608_2bbed9587ed692a4c2be81cb33a9936100a38524_N19608 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Sport> .
 <http://localhost:8080/source/node/10015606290> <http://knowdive.disi.unitn.it/etype#has_name> "Le Trincee" .
 
 <http://localhost:8080/source/node/10053692864> <http://knowdive.disi.unitn.it/etype#part_of> <http://localhost:8080/source/region_1> .
-<http://localhost:8080/source/node/10053692864> <http://knowdive.disi.unitn.it/etype#has_longitude> "46.2908448" .
+<http://localhost:8080/source/node/10053692864> <http://knowdive.disi.unitn.it/etype#has_latitude> "46.2908448" .
 <http://localhost:8080/source/region_1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region> .
 _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19617_2bbed9587ed692a4c2be81cb33a9936100a38524_N19617 <http://knowdive.disi.unitn.it/etype#has_type_of_sport> "climbing" .
 <http://localhost:8080/source/node/10053692864> <http://knowdive.disi.unitn.it/etype#has_sport> _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19617_2bbed9587ed692a4c2be81cb33a9936100a38524_N19617 .
 <http://localhost:8080/source/node/10053692864> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportsCentre> .
-<http://localhost:8080/source/node/10053692864> <http://knowdive.disi.unitn.it/etype#has_latitude> "10.8765289" .
+<http://localhost:8080/source/node/10053692864> <http://knowdive.disi.unitn.it/etype#has_longitude> "10.8765289" .
 <http://localhost:8080/source/node/10053692864> <http://knowdive.disi.unitn.it/etype#has_leisure> "sports_centre" .
 _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19617_2bbed9587ed692a4c2be81cb33a9936100a38524_N19617 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Sport> .
 <http://localhost:8080/source/node/10053692864> <http://knowdive.disi.unitn.it/etype#has_name> "Falesia Doss di Santa Brigida" .
@@ -1217,9 +1217,9 @@ _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19626_2bbed9587ed692a4c2be81c
 <http://localhost:8080/source/region_1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region> .
 <http://localhost:8080/source/node/10685323029> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportsCentre> .
 <http://localhost:8080/source/node/10685323029> <http://knowdive.disi.unitn.it/etype#part_of> <http://localhost:8080/source/region_1> .
-<http://localhost:8080/source/node/10685323029> <http://knowdive.disi.unitn.it/etype#has_longitude> "46.0651955" .
+<http://localhost:8080/source/node/10685323029> <http://knowdive.disi.unitn.it/etype#has_latitude> "46.0651955" .
 <http://localhost:8080/source/node/10685323029> <http://knowdive.disi.unitn.it/etype#has_leisure> "sports_centre" .
-<http://localhost:8080/source/node/10685323029> <http://knowdive.disi.unitn.it/etype#has_latitude> "10.9116389" .
+<http://localhost:8080/source/node/10685323029> <http://knowdive.disi.unitn.it/etype#has_longitude> "10.9116389" .
 _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19626_2bbed9587ed692a4c2be81cb33a9936100a38524_N19626 <http://knowdive.disi.unitn.it/etype#has_type_of_sport> "climbing" .
 <http://localhost:8080/source/node/10685323029> <http://knowdive.disi.unitn.it/etype#has_sport> _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19626_2bbed9587ed692a4c2be81cb33a9936100a38524_N19626 .
 <http://localhost:8080/source/node/10685323029> <http://knowdive.disi.unitn.it/etype#has_name> "Falesia Dimenticata" .
@@ -1231,12 +1231,12 @@ _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19635_2bbed9587ed692a4c2be81c
 <http://localhost:8080/source/node/10831579951> <http://knowdive.disi.unitn.it/etype#has_name> "Little John" .
 <http://localhost:8080/source/node/10831579951> <http://knowdive.disi.unitn.it/etype#has_leisure> "sports_centre" .
 <http://localhost:8080/source/node/10831579951> <http://knowdive.disi.unitn.it/etype#part_of> <http://localhost:8080/source/region_1> .
-<http://localhost:8080/source/node/10831579951> <http://knowdive.disi.unitn.it/etype#has_longitude> "45.9762895" .
-<http://localhost:8080/source/node/10831579951> <http://knowdive.disi.unitn.it/etype#has_latitude> "10.9153574" .
+<http://localhost:8080/source/node/10831579951> <http://knowdive.disi.unitn.it/etype#has_latitude> "45.9762895" .
+<http://localhost:8080/source/node/10831579951> <http://knowdive.disi.unitn.it/etype#has_longitude> "10.9153574" .
 _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19635_2bbed9587ed692a4c2be81cb33a9936100a38524_N19635 <http://knowdive.disi.unitn.it/etype#has_type_of_sport> "climbing" .
 
-<http://localhost:8080/source/node/10831579952> <http://knowdive.disi.unitn.it/etype#has_longitude> "45.9760444" .
-<http://localhost:8080/source/node/10831579952> <http://knowdive.disi.unitn.it/etype#has_latitude> "10.9152711" .
+<http://localhost:8080/source/node/10831579952> <http://knowdive.disi.unitn.it/etype#has_latitude> "45.9760444" .
+<http://localhost:8080/source/node/10831579952> <http://knowdive.disi.unitn.it/etype#has_longitude> "10.9152711" .
 <http://localhost:8080/source/node/10831579952> <http://knowdive.disi.unitn.it/etype#has_name> "Sceriffo di Nottingham" .
 <http://localhost:8080/source/region_1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region> .
 <http://localhost:8080/source/node/10831579952> <http://knowdive.disi.unitn.it/etype#has_sport> _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19644_2bbed9587ed692a4c2be81cb33a9936100a38524_N19644 .
@@ -1246,19 +1246,19 @@ _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19644_2bbed9587ed692a4c2be81c
 <http://localhost:8080/source/node/10831579952> <http://knowdive.disi.unitn.it/etype#part_of> <http://localhost:8080/source/region_1> .
 _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19644_2bbed9587ed692a4c2be81cb33a9936100a38524_N19644 <http://knowdive.disi.unitn.it/etype#has_type_of_sport> "climbing" .
 
-<http://localhost:8080/source/node/10831579953> <http://knowdive.disi.unitn.it/etype#has_longitude> "45.9760755" .
+<http://localhost:8080/source/node/10831579953> <http://knowdive.disi.unitn.it/etype#has_latitude> "45.9760755" .
 <http://localhost:8080/source/region_1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region> .
 <http://localhost:8080/source/node/10831579953> <http://knowdive.disi.unitn.it/etype#part_of> <http://localhost:8080/source/region_1> .
 <http://localhost:8080/source/node/10831579953> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportsCentre> .
 <http://localhost:8080/source/node/10831579953> <http://knowdive.disi.unitn.it/etype#has_name> "Parete di Sherwood" .
-<http://localhost:8080/source/node/10831579953> <http://knowdive.disi.unitn.it/etype#has_latitude> "10.915335" .
+<http://localhost:8080/source/node/10831579953> <http://knowdive.disi.unitn.it/etype#has_longitude> "10.915335" .
 <http://localhost:8080/source/node/10831579953> <http://knowdive.disi.unitn.it/etype#has_leisure> "sports_centre" .
 _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19653_2bbed9587ed692a4c2be81cb33a9936100a38524_N19653 <http://knowdive.disi.unitn.it/etype#has_type_of_sport> "climbing" .
 _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19653_2bbed9587ed692a4c2be81cb33a9936100a38524_N19653 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Sport> .
 <http://localhost:8080/source/node/10831579953> <http://knowdive.disi.unitn.it/etype#has_sport> _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19653_2bbed9587ed692a4c2be81cb33a9936100a38524_N19653 .
 
 <http://localhost:8080/source/node/10845342781> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportsCentre> .
-<http://localhost:8080/source/node/10845342781> <http://knowdive.disi.unitn.it/etype#has_longitude> "46.041216" .
+<http://localhost:8080/source/node/10845342781> <http://knowdive.disi.unitn.it/etype#has_latitude> "46.041216" .
 _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19662_2bbed9587ed692a4c2be81cb33a9936100a38524_N19662 <http://knowdive.disi.unitn.it/etype#has_type_of_sport> "climbing" .
 _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19662_2bbed9587ed692a4c2be81cb33a9936100a38524_N19662 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Sport> .
 <http://localhost:8080/source/node/10845342781> <http://knowdive.disi.unitn.it/etype#part_of> <http://localhost:8080/source/region_1> .
@@ -1266,12 +1266,12 @@ _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19662_2bbed9587ed692a4c2be81c
 <http://localhost:8080/source/node/10845342781> <http://knowdive.disi.unitn.it/etype#has_name> "Falesia La Panoramica" .
 <http://localhost:8080/source/node/10845342781> <http://knowdive.disi.unitn.it/etype#has_leisure> "sports_centre" .
 <http://localhost:8080/source/node/10845342781> <http://knowdive.disi.unitn.it/etype#has_sport> _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19662_2bbed9587ed692a4c2be81cb33a9936100a38524_N19662 .
-<http://localhost:8080/source/node/10845342781> <http://knowdive.disi.unitn.it/etype#has_latitude> "10.9452471" .
+<http://localhost:8080/source/node/10845342781> <http://knowdive.disi.unitn.it/etype#has_longitude> "10.9452471" .
 
 <http://localhost:8080/source/region_1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region> .
-<http://localhost:8080/source/node/10845342782> <http://knowdive.disi.unitn.it/etype#has_latitude> "10.9444229" .
+<http://localhost:8080/source/node/10845342782> <http://knowdive.disi.unitn.it/etype#has_longitude> "10.9444229" .
 <http://localhost:8080/source/node/10845342782> <http://knowdive.disi.unitn.it/etype#part_of> <http://localhost:8080/source/region_1> .
-<http://localhost:8080/source/node/10845342782> <http://knowdive.disi.unitn.it/etype#has_longitude> "46.0413239" .
+<http://localhost:8080/source/node/10845342782> <http://knowdive.disi.unitn.it/etype#has_latitude> "46.0413239" .
 <http://localhost:8080/source/node/10845342782> <http://knowdive.disi.unitn.it/etype#has_name> "Falesia Il Posto Delle Fragole" .
 _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19671_2bbed9587ed692a4c2be81cb33a9936100a38524_N19671 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Sport> .
 _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19671_2bbed9587ed692a4c2be81cb33a9936100a38524_N19671 <http://knowdive.disi.unitn.it/etype#has_type_of_sport> "climbing" .
@@ -1282,33 +1282,33 @@ _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19671_2bbed9587ed692a4c2be81c
 <http://localhost:8080/source/region_1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region> .
 _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19680_2bbed9587ed692a4c2be81cb33a9936100a38524_N19680 <http://knowdive.disi.unitn.it/etype#has_type_of_sport> "climbing" .
 <http://localhost:8080/source/node/10873823042> <http://knowdive.disi.unitn.it/etype#part_of> <http://localhost:8080/source/region_1> .
-<http://localhost:8080/source/node/10873823042> <http://knowdive.disi.unitn.it/etype#has_longitude> "46.1378391" .
+<http://localhost:8080/source/node/10873823042> <http://knowdive.disi.unitn.it/etype#has_latitude> "46.1378391" .
 <http://localhost:8080/source/node/10873823042> <http://knowdive.disi.unitn.it/etype#has_leisure> "sports_centre" .
 <http://localhost:8080/source/node/10873823042> <http://knowdive.disi.unitn.it/etype#has_sport> _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19680_2bbed9587ed692a4c2be81cb33a9936100a38524_N19680 .
 _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19680_2bbed9587ed692a4c2be81cb33a9936100a38524_N19680 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Sport> .
 <http://localhost:8080/source/node/10873823042> <http://knowdive.disi.unitn.it/etype#has_name> "Falesia Zambana Vecchia" .
 <http://localhost:8080/source/node/10873823042> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportsCentre> .
-<http://localhost:8080/source/node/10873823042> <http://knowdive.disi.unitn.it/etype#has_latitude> "11.0738428" .
+<http://localhost:8080/source/node/10873823042> <http://knowdive.disi.unitn.it/etype#has_longitude> "11.0738428" .
 
 <http://localhost:8080/source/node/11202410574> <http://knowdive.disi.unitn.it/etype#has_sport> _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19689_2bbed9587ed692a4c2be81cb33a9936100a38524_N19689 .
 <http://localhost:8080/source/region_1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region> .
 <http://localhost:8080/source/node/11202410574> <http://knowdive.disi.unitn.it/etype#has_name> "Settore i" .
 <http://localhost:8080/source/node/11202410574> <http://knowdive.disi.unitn.it/etype#has_leisure> "sports_centre" .
-<http://localhost:8080/source/node/11202410574> <http://knowdive.disi.unitn.it/etype#has_longitude> "45.9279152" .
-<http://localhost:8080/source/node/11202410574> <http://knowdive.disi.unitn.it/etype#has_latitude> "10.8892711" .
+<http://localhost:8080/source/node/11202410574> <http://knowdive.disi.unitn.it/etype#has_latitude> "45.9279152" .
+<http://localhost:8080/source/node/11202410574> <http://knowdive.disi.unitn.it/etype#has_longitude> "10.8892711" .
 _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19689_2bbed9587ed692a4c2be81cb33a9936100a38524_N19689 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Sport> .
 _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19689_2bbed9587ed692a4c2be81cb33a9936100a38524_N19689 <http://knowdive.disi.unitn.it/etype#has_type_of_sport> "climbing" .
 <http://localhost:8080/source/node/11202410574> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportsCentre> .
 <http://localhost:8080/source/node/11202410574> <http://knowdive.disi.unitn.it/etype#part_of> <http://localhost:8080/source/region_1> .
 
 <http://localhost:8080/source/node/11202410575> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportsCentre> .
-<http://localhost:8080/source/node/11202410575> <http://knowdive.disi.unitn.it/etype#has_longitude> "45.9274829" .
+<http://localhost:8080/source/node/11202410575> <http://knowdive.disi.unitn.it/etype#has_latitude> "45.9274829" .
 _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19698_2bbed9587ed692a4c2be81cb33a9936100a38524_N19698 <http://knowdive.disi.unitn.it/etype#has_type_of_sport> "climbing" .
 <http://localhost:8080/source/node/11202410575> <http://knowdive.disi.unitn.it/etype#has_leisure> "sports_centre" .
 <http://localhost:8080/source/region_1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region> .
 <http://localhost:8080/source/node/11202410575> <http://knowdive.disi.unitn.it/etype#has_name> "Settore M" .
 <http://localhost:8080/source/node/11202410575> <http://knowdive.disi.unitn.it/etype#has_sport> _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19698_2bbed9587ed692a4c2be81cb33a9936100a38524_N19698 .
-<http://localhost:8080/source/node/11202410575> <http://knowdive.disi.unitn.it/etype#has_latitude> "10.8899723" .
+<http://localhost:8080/source/node/11202410575> <http://knowdive.disi.unitn.it/etype#has_longitude> "10.8899723" .
 _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19698_2bbed9587ed692a4c2be81cb33a9936100a38524_N19698 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Sport> .
 <http://localhost:8080/source/node/11202410575> <http://knowdive.disi.unitn.it/etype#part_of> <http://localhost:8080/source/region_1> .
 
@@ -1316,8 +1316,8 @@ _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19707_2bbed9587ed692a4c2be81c
 <http://localhost:8080/source/region_1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region> .
 <http://localhost:8080/source/node/11202410576> <http://knowdive.disi.unitn.it/etype#has_name> "Settore N" .
 <http://localhost:8080/source/node/11202410576> <http://knowdive.disi.unitn.it/etype#has_leisure> "sports_centre" .
-<http://localhost:8080/source/node/11202410576> <http://knowdive.disi.unitn.it/etype#has_latitude> "10.8894657" .
-<http://localhost:8080/source/node/11202410576> <http://knowdive.disi.unitn.it/etype#has_longitude> "45.9274777" .
+<http://localhost:8080/source/node/11202410576> <http://knowdive.disi.unitn.it/etype#has_longitude> "10.8894657" .
+<http://localhost:8080/source/node/11202410576> <http://knowdive.disi.unitn.it/etype#has_latitude> "45.9274777" .
 <http://localhost:8080/source/node/11202410576> <http://knowdive.disi.unitn.it/etype#has_sport> _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19707_2bbed9587ed692a4c2be81cb33a9936100a38524_N19707 .
 _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19707_2bbed9587ed692a4c2be81cb33a9936100a38524_N19707 <http://knowdive.disi.unitn.it/etype#has_type_of_sport> "climbing" .
 <http://localhost:8080/source/node/11202410576> <http://knowdive.disi.unitn.it/etype#part_of> <http://localhost:8080/source/region_1> .
@@ -1328,9 +1328,9 @@ _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19716_2bbed9587ed692a4c2be81c
 _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19716_2bbed9587ed692a4c2be81cb33a9936100a38524_N19716 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Sport> .
 <http://localhost:8080/source/node/11276088258> <http://knowdive.disi.unitn.it/etype#part_of> <http://localhost:8080/source/region_1> .
 <http://localhost:8080/source/node/11276088258> <http://knowdive.disi.unitn.it/etype#has_sport> _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19716_2bbed9587ed692a4c2be81cb33a9936100a38524_N19716 .
-<http://localhost:8080/source/node/11276088258> <http://knowdive.disi.unitn.it/etype#has_longitude> "45.9180304" .
+<http://localhost:8080/source/node/11276088258> <http://knowdive.disi.unitn.it/etype#has_latitude> "45.9180304" .
 <http://localhost:8080/source/node/11276088258> <http://knowdive.disi.unitn.it/etype#has_name> "arco climbing" .
-<http://localhost:8080/source/node/11276088258> <http://knowdive.disi.unitn.it/etype#has_latitude> "10.8786049" .
+<http://localhost:8080/source/node/11276088258> <http://knowdive.disi.unitn.it/etype#has_longitude> "10.8786049" .
 <http://localhost:8080/source/node/11276088258> <http://knowdive.disi.unitn.it/etype#has_leisure> "sports_centre" .
 <http://localhost:8080/source/node/11276088258> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportsCentre> .
 <http://localhost:8080/source/node/11276088258> <http://knowdive.disi.unitn.it/etype#has_opening_hours> "Tu-Th 18:30-22:30; Sa 14:00-19:00; Su 10:00-19:00" .
@@ -1341,19 +1341,19 @@ _:Sport1_2bbed9587ed692a4c2be81cb33a9936100a38524_N19716_2bbed9587ed692a4c2be81c
 _:Sport1_b3c71402d8fc1c7b8ba7a105c199c5ca785a910e_N19725_b3c71402d8fc1c7b8ba7a105c199c5ca785a910e_N19725 <http://knowdive.disi.unitn.it/etype#has_type_of_sport> "athletics" .
 <http://localhost:8080/source/way/24875513> <http://knowdive.disi.unitn.it/etype#has_leisure> "sports_centre" .
 <http://localhost:8080/source/way/24875513> <http://knowdive.disi.unitn.it/etype#part_of> <http://localhost:8080/source/region_1> .
-<http://localhost:8080/source/way/24875513> <http://knowdive.disi.unitn.it/etype#has_longitude> "46.07956167142858" .
+<http://localhost:8080/source/way/24875513> <http://knowdive.disi.unitn.it/etype#has_latitude> "46.07956167142858" .
 <http://localhost:8080/source/way/24875513> <http://knowdive.disi.unitn.it/etype#has_name> "Campo atletica CONI \"Covi-Postal\"" .
 _:Sport1_b3c71402d8fc1c7b8ba7a105c199c5ca785a910e_N19725_b3c71402d8fc1c7b8ba7a105c199c5ca785a910e_N19725 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Sport> .
-<http://localhost:8080/source/way/24875513> <http://knowdive.disi.unitn.it/etype#has_latitude> "11.119701928571429" .
+<http://localhost:8080/source/way/24875513> <http://knowdive.disi.unitn.it/etype#has_longitude> "11.119701928571429" .
 
 _:Sport1_b3c71402d8fc1c7b8ba7a105c199c5ca785a910e_N19734_b3c71402d8fc1c7b8ba7a105c199c5ca785a910e_N19734 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Sport> .
 <http://localhost:8080/source/region_1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region> .
 _:Sport1_b3c71402d8fc1c7b8ba7a105c199c5ca785a910e_N19734_b3c71402d8fc1c7b8ba7a105c199c5ca785a910e_N19734 <http://knowdive.disi.unitn.it/etype#has_type_of_sport> "athletics" .
 <http://localhost:8080/source/way/1040180623> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#SportsCentre> .
-<http://localhost:8080/source/way/1040180623> <http://knowdive.disi.unitn.it/etype#has_latitude> "11.16675762173913" .
+<http://localhost:8080/source/way/1040180623> <http://knowdive.disi.unitn.it/etype#has_longitude> "11.16675762173913" .
 <http://localhost:8080/source/way/1040180623> <http://knowdive.disi.unitn.it/etype#has_name> "Campo atletica Masen" .
 <http://localhost:8080/source/way/1040180623> <http://knowdive.disi.unitn.it/etype#has_leisure> "sports_centre" .
-<http://localhost:8080/source/way/1040180623> <http://knowdive.disi.unitn.it/etype#has_longitude> "46.17301990869565" .
+<http://localhost:8080/source/way/1040180623> <http://knowdive.disi.unitn.it/etype#has_latitude> "46.17301990869565" .
 <http://localhost:8080/source/way/1040180623> <http://knowdive.disi.unitn.it/etype#has_sport> _:Sport1_b3c71402d8fc1c7b8ba7a105c199c5ca785a910e_N19734_b3c71402d8fc1c7b8ba7a105c199c5ca785a910e_N19734 .
 <http://localhost:8080/source/way/1040180623> <http://knowdive.disi.unitn.it/etype#part_of> <http://localhost:8080/source/region_1> .
 

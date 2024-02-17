@@ -1,4 +1,4 @@
-leisure	name	sport	lat	lon	id	opening_hours	region
+leisure	name	sport	lon	lat	id	opening_hours	region
 sports_centre	Palestra Romarzollo	volleyball	10.867913519999998	45.92000112	relation/5685356		region_1
 sports_centre		volleyball	10.575759429411768	45.85106224705881	way/164753085		region_1
 sports_centre		soccer	11.089699261538462	46.00542776923077	relation/2441743		region_1

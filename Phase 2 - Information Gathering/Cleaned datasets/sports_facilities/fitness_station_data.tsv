@@ -1,4 +1,4 @@
-leisure	name	sport	lat	lon	id	region
+leisure	name	sport	lon	lat	id	region
 fitness_station		fitness	11.11855906	46.09502604	way/557303733	region_1
 fitness_station		fitness	11.23815142	46.03901264	way/888943578	region_1
 fitness_station		fitness	11.04192884	45.905321	way/1175920372	region_1
