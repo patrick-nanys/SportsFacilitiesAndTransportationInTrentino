@@ -1,0 +1,8 @@
+_:Region1_15cf548b2ce50111ffc9cfb516ee12594363178a_N223_bd262b418ca9614ab22f30029304ae1fc7f83e2f_N222_bd262b418ca9614ab22f30029304ae1fc7f83e2f_N222 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region> .
+_:Region1_15cf548b2ce50111ffc9cfb516ee12594363178a_N223_bd262b418ca9614ab22f30029304ae1fc7f83e2f_N222_bd262b418ca9614ab22f30029304ae1fc7f83e2f_N222 <http://knowdive.disi.unitn.it/etype#has_name> "Trentino" .
+_:Region1_15cf548b2ce50111ffc9cfb516ee12594363178a_N223_bd262b418ca9614ab22f30029304ae1fc7f83e2f_N222_bd262b418ca9614ab22f30029304ae1fc7f83e2f_N222 <http://knowdive.disi.unitn.it/etype#has_id> "region_1" .
+
+_:Region1_63d379d22fa4ac96d550aad3d6d8d086b41b1708_N228_f35933b93c2cd2abb5feeda048971cfede1c3436_N227_f35933b93c2cd2abb5feeda048971cfede1c3436_N227 <http://knowdive.disi.unitn.it/etype#has_id> "region_2" .
+_:Region1_63d379d22fa4ac96d550aad3d6d8d086b41b1708_N228_f35933b93c2cd2abb5feeda048971cfede1c3436_N227_f35933b93c2cd2abb5feeda048971cfede1c3436_N227 <http://knowdive.disi.unitn.it/etype#has_name> "Bolzano" .
+_:Region1_63d379d22fa4ac96d550aad3d6d8d086b41b1708_N228_f35933b93c2cd2abb5feeda048971cfede1c3436_N227_f35933b93c2cd2abb5feeda048971cfede1c3436_N227 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region> .
+
