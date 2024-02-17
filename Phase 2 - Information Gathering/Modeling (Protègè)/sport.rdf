@@ -18,6 +18,12 @@
     ///////////////////////////////////////////////////////////////////////////////////////
      -->
 
+    <!-- http://knowdive.disi.unitn.it/etype#has_id -->
+
+    <owl:DatatypeProperty rdf:about="http://knowdive.disi.unitn.it/etype#has_id">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#Sport"/>
+    </owl:DatatypeProperty>
 
 
     <!-- http://knowdive.disi.unitn.it/etype#has_type_of_sport -->
