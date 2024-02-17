@@ -47,6 +47,7 @@
     <!-- http://knowdive.disi.unitn.it/etype#Region -->
 
     <owl:Class rdf:about="http://knowdive.disi.unitn.it/etype#Region">
+    </owl:Class>
 </rdf:RDF>
 
 

@@ -84,6 +84,7 @@
     <!-- http://knowdive.disi.unitn.it/etype#FitnessCentre -->
 
     <owl:Class rdf:about="http://knowdive.disi.unitn.it/etype#FitnessCentre">
+    </owl:Class>
 </rdf:RDF>
 
 

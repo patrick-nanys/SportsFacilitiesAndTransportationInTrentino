@@ -136,6 +136,7 @@
     <!-- http://knowdive.disi.unitn.it/etype#BusTrip -->
 
     <owl:Class rdf:about="http://knowdive.disi.unitn.it/etype#BusTrip">
+    </owl:Class>
 </rdf:RDF>
 
 

@@ -80,6 +80,7 @@
     <!-- http://knowdive.disi.unitn.it/etype#SportsCentre -->
 
     <owl:Class rdf:about="http://knowdive.disi.unitn.it/etype#SportsCentre">
+    </owl:Class>
 </rdf:RDF>
 
 

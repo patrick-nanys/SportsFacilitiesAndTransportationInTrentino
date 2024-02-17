@@ -48,6 +48,7 @@
     <!-- http://knowdive.disi.unitn.it/etype#Sport -->
 
     <owl:Class rdf:about="http://knowdive.disi.unitn.it/etype#Sport">
+    </owl:Class>
 </rdf:RDF>
 
 

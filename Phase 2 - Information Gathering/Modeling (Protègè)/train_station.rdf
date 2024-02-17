@@ -56,6 +56,7 @@
     <!-- http://knowdive.disi.unitn.it/etype#TrainStation -->
 
     <owl:Class rdf:about="http://knowdive.disi.unitn.it/etype#TrainStation">
+    </owl:Class>
 </rdf:RDF>
 
 

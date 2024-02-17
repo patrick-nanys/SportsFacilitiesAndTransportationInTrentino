@@ -74,6 +74,7 @@
     <!-- http://knowdive.disi.unitn.it/etype#FitnessStation -->
 
     <owl:Class rdf:about="http://knowdive.disi.unitn.it/etype#FitnessStation">
+    </owl:Class>
 </rdf:RDF>
 
 

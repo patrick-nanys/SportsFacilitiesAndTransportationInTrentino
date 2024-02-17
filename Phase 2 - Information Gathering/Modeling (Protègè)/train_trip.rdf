@@ -127,6 +127,7 @@
     <!-- http://knowdive.disi.unitn.it/etype#TrainTrip -->
 
     <owl:Class rdf:about="http://knowdive.disi.unitn.it/etype#TrainTrip">
+    </owl:Class>
 </rdf:RDF>
 
 
