@@ -1,0 +1,4 @@
+_:Region1_15cf548b2ce50111ffc9cfb516ee12594363178a_N223_bd262b418ca9614ab22f30029304ae1fc7f83e2f_N222_bd262b418ca9614ab22f30029304ae1fc7f83e2f_N222 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Region> .
+_:Region1_15cf548b2ce50111ffc9cfb516ee12594363178a_N223_bd262b418ca9614ab22f30029304ae1fc7f83e2f_N222_bd262b418ca9614ab22f30029304ae1fc7f83e2f_N222 <http://knowdive.disi.unitn.it/etype#has_name> "Trentino" .
+_:Region1_15cf548b2ce50111ffc9cfb516ee12594363178a_N223_bd262b418ca9614ab22f30029304ae1fc7f83e2f_N222_bd262b418ca9614ab22f30029304ae1fc7f83e2f_N222 <http://knowdive.disi.unitn.it/etype#has_id> "region_1" .
+

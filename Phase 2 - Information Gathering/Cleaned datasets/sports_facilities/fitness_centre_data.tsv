@@ -1,8 +1,8 @@
-leisure	name	sport	lat	lon	id	addr:street	addr:city	addr:housenumber	addr:postcode	contact:phone	contact:website	addr:country	opening_hours
-fitness_centre	Palazzetto Comunale	volleyball	11.0862083	46.217158500000004	way/72533518								
-fitness_centre	Juta Wellness Center	fitness	11.1256533	46.0677131	node/858394232					+39 0461 230797	http://www.benesserejuta.it/		
-fitness_centre	Star Club	fitness	11.1099442	46.0944237	node/1616878359	Via Giambattista Unterveger	Trento	104	38121			IT	Tu-Fr 09:30-22:00;Sa 09:00-12:00
-fitness_centre	Palestra Defant's Club	fitness	11.1157196	46.0597894	node/2562276626	Via Adalberto Libera	Trento	2	38122	+39 0461 039068	http://www.defantsclub.it/	IT	
-fitness_centre	Mrs. Sporty	fitness	11.1193094	46.076364	node/5998800152	Corso Michelangelo Buonarroti	Trento	6/1	38122	+39 0461 1910330	https://www.mrssporty.it/club/trento-buonarroti/	IT	Mo-Fr 07:00-21:00; Sa 07:00-18:00
-fitness_centre	Grumes Fitness Club	fitness	11.2938555	46.2203135	node/10043028882						https://www.cembrafitnessclub.com		PH,Mo-Su 07:00-21:00
-fitness_centre	Sole d'Artea	fitness	11.1186522	46.0983344	node/11243160013	Via di Melta		44	38121		https://www.soledartea.it/		
+leisure	name	sport	lon	lat	id	opening_hours	region
+fitness_centre	Palazzetto Comunale	volleyball	11.0862083	46.2171585	way/72533518		region_1
+fitness_centre	Juta Wellness Center	fitness	11.1256533	46.0677131	node/858394232		region_1
+fitness_centre	Star Club	fitness	11.1099442	46.0944237	node/1616878359	Tu-Fr 09:30-22:00;Sa 09:00-12:00	region_1
+fitness_centre	Palestra Defant's Club	fitness	11.1157196	46.0597894	node/2562276626		region_1
+fitness_centre	Mrs. Sporty	fitness	11.1193094	46.076364	node/5998800152	Mo-Fr 07:00-21:00; Sa 07:00-18:00	region_1
+fitness_centre	Grumes Fitness Club	fitness	11.2938555	46.2203135	node/10043028882	PH,Mo-Su 07:00-21:00	region_1
+fitness_centre	Sole d'Artea	fitness	11.1186522	46.0983344	node/11243160013		region_1

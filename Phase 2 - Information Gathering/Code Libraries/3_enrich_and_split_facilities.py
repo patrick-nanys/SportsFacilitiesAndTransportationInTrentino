@@ -56,16 +56,26 @@ if __name__ == '__main__':
 
     # Apply the concrete number threshold for each leisure category
     for leisure_category, counts in non_nan_counts_by_leisure_final.items():
+        if leisure_category == 'outdoor_climbing_area':
+            continue
+
         # Filter the dataset for the current leisure category 
         category_data = data_filtered[data_filtered['leisure'] == leisure_category]
 
-        total_entries = category_data.shape[0]
-        if total_entries > 10:
-            columns_to_keep = counts[counts >= minimum_entries_threshold].index.tolist()
-            filtered_dataframes_final[leisure_category] = category_data[columns_to_keep]
-        else:
-            category_data_no_nan = category_data.dropna(axis=1, how='all')
-            filtered_dataframes_final[leisure_category] = category_data_no_nan
+        # total_entries = category_data.shape[0]
+        # if total_entries > 10:
+        #     columns_to_keep = counts[counts >= minimum_entries_threshold].index.tolist()
+        #     filtered_dataframes_final[leisure_category] = category_data[columns_to_keep]
+        # else:
+        #     category_data_no_nan = category_data.dropna(axis=1, how='all')
+        #     filtered_dataframes_final[leisure_category] = category_data_no_nan
+
+        category_data = category_data.dropna(axis=1, how='all')
+        columns_to_keep = ["leisure", "name", "lon", "lat", "id", "surface"]
+        if leisure_category == "fitness_centre" or leisure_category == "sports_centre":
+            columns_to_keep.extend(["opening_hours"])
+        final_columns = [col for col in category_data.columns if col in columns_to_keep]
+        filtered_dataframes_final[leisure_category] = category_data[final_columns]
 
     # Step 7: Saving the separate dataframes to separate files with tab separators
     output_file_paths = {}
