@@ -1,0 +1,14 @@
+,sport,region,end_user,bus_trip,train_trip,fitness_centre,fitness_station,pitch,bus_stop,train_station,sports_centre,stadium,track
+sport,id|type_of_sport,,,,,,,,,,,,
+region,,id|name,,,,,,,,,,,
+end_user,,act_in,age|id|interest|latitude|longitude|name|usage|wheelchair,,,,,,,,,,
+bus_trip,,part_of,,from|id|importance|max_latitude|max_longitude|min_latitude|min_longitude|name|to|type_of_transport|wheelchair,,,,,has_stops,,,,
+train_trip,,part_of,,,from|id|max_latitude|max_longitude|min_latitude|min_longitude|name|to|type_of_transport|wheelchair,,,,,has_stops,,,
+fitness_centre,has_sport,part_of,,,,id|latitude|leisure|longitude|name|opening_hours,,,,,,,
+fitness_station,has_sport,part_of,,,,,id|latitude|leisure|longitude|name,,,,,,
+pitch,has_sport,part_of,,,,,,id|latitude|leisure|longitude|name|surface,,,,,
+bus_stop,,part_of,,,,,,,id|latitude|longitude,,,,
+train_station,,part_of,,,,,,,,id|latitude|longitude,,,
+sports_centre,has_sport,part_of,,,,,,,,,id|latitude|leisure|longitude|name|opening_hours,,
+stadium,has_sport,part_of,,,,,,,,,,id|latitude|leisure|longitude|name,
+track,has_sport,part_of,,,,,,,,,,,id|latitude|leisure|longitude|name|surface

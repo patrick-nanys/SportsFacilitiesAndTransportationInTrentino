@@ -1,0 +1,14 @@
+,sport,region,end_user,bus_trip,train_trip,fitness_centre,fitness_station,pitch,bus_stop,train_station,sports_centre,stadium,track
+sport,0|0 tot: 0,,,,,,,,,,,,
+region,,0|0 tot: 0,,,,,,,,,,,
+end_user,,0 tot:0,0|..|0 tot: 0,,,,,,,,,,
+bus_trip,,0 tot:0,,0|0|0.51|0|0|0|0|0|0.11|0|0.55 tot: 0.106,,,,,0 tot:0,,,,
+train_trip,,0 tot:0,,,0|0|0|0|0|0|0|0|0|0.75 tot: 0.075,,,,,0 tot:0,,,
+fitness_centre,0 tot:0,0 tot:0,,,,0|0|0|0|0|0.571 tot:0.095,,,,,,,
+fitness_station,0 tot:0,0 tot:0,,,,,0|0|0|0|0.89 tot: 0.178,,,,,,
+pitch,0 tot:0,0 tot:0,,,,,,0|0|0|0|0.885|0.712 tot:0.266,,,,,
+bus_stop,,0 tot:0,,,,,,,0|0|0 tot: 0,,,,
+train_station,,0 tot:0,,,,,,,,0|0.06|0.06 tot: 0.04,,,
+sports_centre,0 tot:0,0 tot:0,,,,,,,,,0|0|0|0|0.072|0.967 tot:0.173,,
+stadium,0 tot:0,0 tot:0,,,,,,,,,,0|0|0|0|0.375 tot:0.075,
+track,0 tot:0,0 tot:0,,,,,,,,,,,0|0|0|0|0|0.739 tot:0.123
