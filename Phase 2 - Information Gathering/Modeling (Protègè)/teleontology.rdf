@@ -365,7 +365,7 @@
     <!-- http://knowdive.disi.unitn.it/etype#BusStop -->
 
     <owl:Class rdf:about="http://knowdive.disi.unitn.it/etype#BusStop">
-        <rdfs:subClassOf rdf:resource="http://knowdive.disi.unitn.it/etype#SCHEMA_BusStop"/>
+        <rdfs:subClassOf rdf:resource="http://knowdive.disi.unitn.it/etype#schema:BusStop"/>
         <owl:disjointWith rdf:resource="http://knowdive.disi.unitn.it/etype#TrainStation"/>
     </owl:Class>
     
@@ -374,7 +374,7 @@
     <!-- http://knowdive.disi.unitn.it/etype#BusTrip -->
 
     <owl:Class rdf:about="http://knowdive.disi.unitn.it/etype#BusTrip">
-        <rdfs:subClassOf rdf:resource="http://knowdive.disi.unitn.it/etype#SCHEMA_BusTrip"/>
+        <rdfs:subClassOf rdf:resource="http://knowdive.disi.unitn.it/etype#schema:BusTrip"/>
         <owl:disjointWith rdf:resource="http://knowdive.disi.unitn.it/etype#TrainTrip"/>
     </owl:Class>
     
@@ -391,7 +391,7 @@
     <!-- http://knowdive.disi.unitn.it/etype#FitnessCentre -->
 
     <owl:Class rdf:about="http://knowdive.disi.unitn.it/etype#FitnessCentre">
-        <rdfs:subClassOf rdf:resource="http://knowdive.disi.unitn.it/etype#SCHEMA_CivicStructure"/>
+        <rdfs:subClassOf rdf:resource="http://knowdive.disi.unitn.it/etype#schema:CivicStructure"/>
     </owl:Class>
     
 
@@ -399,7 +399,7 @@
     <!-- http://knowdive.disi.unitn.it/etype#FitnessStation -->
 
     <owl:Class rdf:about="http://knowdive.disi.unitn.it/etype#FitnessStation">
-        <rdfs:subClassOf rdf:resource="http://knowdive.disi.unitn.it/etype#SCHEMA_CivicStructure"/>
+        <rdfs:subClassOf rdf:resource="http://knowdive.disi.unitn.it/etype#schema:CivicStructure"/>
     </owl:Class>
     
 
@@ -407,7 +407,7 @@
     <!-- http://knowdive.disi.unitn.it/etype#Pitch -->
 
     <owl:Class rdf:about="http://knowdive.disi.unitn.it/etype#Pitch">
-        <rdfs:subClassOf rdf:resource="http://knowdive.disi.unitn.it/etype#SCHEMA_CivicStructure"/>
+        <rdfs:subClassOf rdf:resource="http://knowdive.disi.unitn.it/etype#schema:CivicStructure"/>
         <owl:disjointWith rdf:resource="http://knowdive.disi.unitn.it/etype#Track"/>
     </owl:Class>
     
@@ -416,31 +416,31 @@
     <!-- http://knowdive.disi.unitn.it/etype#Region -->
 
     <owl:Class rdf:about="http://knowdive.disi.unitn.it/etype#Region">
-        <rdfs:subClassOf rdf:resource="http://knowdive.disi.unitn.it/etype#OSM_Region"/>
+        <rdfs:subClassOf rdf:resource="http://knowdive.disi.unitn.it/etype#osm:Region"/>
     </owl:Class>
     
 
 
-    <!-- http://knowdive.disi.unitn.it/etype#SCHEMA_CivicStructure -->
+    <!-- http://knowdive.disi.unitn.it/etype#schema:CivicStructure -->
 
-    <owl:Class rdf:about="http://knowdive.disi.unitn.it/etype#SCHEMA_CivicStructure">
-        <rdfs:subClassOf rdf:resource="http://knowdive.disi.unitn.it/etype#SCHEMA_Place"/>
+    <owl:Class rdf:about="http://knowdive.disi.unitn.it/etype#schema:CivicStructure">
+        <rdfs:subClassOf rdf:resource="http://knowdive.disi.unitn.it/etype#schema:Place"/>
     </owl:Class>
     
 
 
-    <!-- http://knowdive.disi.unitn.it/etype#SCHEMA_Place -->
+    <!-- http://knowdive.disi.unitn.it/etype#schema:Place -->
 
-    <owl:Class rdf:about="http://knowdive.disi.unitn.it/etype#SCHEMA_Place">
-        <owl:disjointWith rdf:resource="http://knowdive.disi.unitn.it/etype#SCHEMA_Trip"/>
+    <owl:Class rdf:about="http://knowdive.disi.unitn.it/etype#schema:Place">
+        <owl:disjointWith rdf:resource="http://knowdive.disi.unitn.it/etype#schema:Trip"/>
     </owl:Class>
     
 
 
-    <!-- http://knowdive.disi.unitn.it/etype#SCHEMA_Trip -->
+    <!-- http://knowdive.disi.unitn.it/etype#schema:Trip -->
 
-    <owl:Class rdf:about="http://knowdive.disi.unitn.it/etype#SCHEMA_Trip">
-        <rdfs:subClassOf rdf:resource="http://knowdive.disi.unitn.it/etype#SCHEMA_Intangible"/>
+    <owl:Class rdf:about="http://knowdive.disi.unitn.it/etype#schema:Trip">
+        <rdfs:subClassOf rdf:resource="http://knowdive.disi.unitn.it/etype#schema:Intangible"/>
     </owl:Class>
     
 
@@ -456,7 +456,7 @@
     <!-- http://knowdive.disi.unitn.it/etype#SportsCentre -->
 
     <owl:Class rdf:about="http://knowdive.disi.unitn.it/etype#SportsCentre">
-        <rdfs:subClassOf rdf:resource="http://knowdive.disi.unitn.it/etype#SCHEMA_CivicStructure"/>
+        <rdfs:subClassOf rdf:resource="http://knowdive.disi.unitn.it/etype#schema:CivicStructure"/>
     </owl:Class>
     
 
@@ -464,7 +464,7 @@
     <!-- http://knowdive.disi.unitn.it/etype#Stadium -->
 
     <owl:Class rdf:about="http://knowdive.disi.unitn.it/etype#Stadium">
-        <rdfs:subClassOf rdf:resource="http://knowdive.disi.unitn.it/etype#SCHEMA_CivicStructure"/>
+        <rdfs:subClassOf rdf:resource="http://knowdive.disi.unitn.it/etype#schema:CivicStructure"/>
     </owl:Class>
     
 
@@ -472,7 +472,7 @@
     <!-- http://knowdive.disi.unitn.it/etype#Track -->
 
     <owl:Class rdf:about="http://knowdive.disi.unitn.it/etype#Track">
-        <rdfs:subClassOf rdf:resource="http://knowdive.disi.unitn.it/etype#SCHEMA_CivicStructure"/>
+        <rdfs:subClassOf rdf:resource="http://knowdive.disi.unitn.it/etype#schema:CivicStructure"/>
     </owl:Class>
     
 
@@ -480,7 +480,7 @@
     <!-- http://knowdive.disi.unitn.it/etype#TrainStation -->
 
     <owl:Class rdf:about="http://knowdive.disi.unitn.it/etype#TrainStation">
-        <rdfs:subClassOf rdf:resource="http://knowdive.disi.unitn.it/etype#SCHEMA_TrainStation"/>
+        <rdfs:subClassOf rdf:resource="http://knowdive.disi.unitn.it/etype#schema:TrainStation"/>
     </owl:Class>
     
 
@@ -488,7 +488,7 @@
     <!-- http://knowdive.disi.unitn.it/etype#TrainTrip -->
 
     <owl:Class rdf:about="http://knowdive.disi.unitn.it/etype#TrainTrip">
-        <rdfs:subClassOf rdf:resource="http://knowdive.disi.unitn.it/etype#SCHEMA_TrainTrip"/>
+        <rdfs:subClassOf rdf:resource="http://knowdive.disi.unitn.it/etype#schema:TrainTrip"/>
     </owl:Class>
     
 
@@ -499,9 +499,9 @@
     
 
 
-    <!-- http://knowdive.disi.unitn.it/etype#OSM_Region -->
+    <!-- http://knowdive.disi.unitn.it/etype#osm:Region -->
 
-    <owl:Class rdf:about="http://knowdive.disi.unitn.it/etype#OSM_Region"/>
+    <owl:Class rdf:about="http://knowdive.disi.unitn.it/etype#osm:Region"/>
     
 
 
@@ -511,40 +511,40 @@
     
 
 
-    <!-- http://knowdive.disi.unitn.it/etype#SCHEMA_BusStop -->
+    <!-- http://knowdive.disi.unitn.it/etype#schema:BusStop -->
 
-    <owl:Class rdf:about="http://knowdive.disi.unitn.it/etype#SCHEMA_BusStop">
-        <rdfs:subClassOf rdf:resource="http://knowdive.disi.unitn.it/etype#SCHEMA_CivicStructure"/>
+    <owl:Class rdf:about="http://knowdive.disi.unitn.it/etype#schema:BusStop">
+        <rdfs:subClassOf rdf:resource="http://knowdive.disi.unitn.it/etype#schema:CivicStructure"/>
     </owl:Class>
     
 
 
-    <!-- http://knowdive.disi.unitn.it/etype#SCHEMA_BusTrip -->
+    <!-- http://knowdive.disi.unitn.it/etype#schema:BusTrip -->
 
-    <owl:Class rdf:about="http://knowdive.disi.unitn.it/etype#SCHEMA_BusTrip">
-        <rdfs:subClassOf rdf:resource="http://knowdive.disi.unitn.it/etype#SCHEMA_Trip"/>
+    <owl:Class rdf:about="http://knowdive.disi.unitn.it/etype#schema:BusTrip">
+        <rdfs:subClassOf rdf:resource="http://knowdive.disi.unitn.it/etype#schema:Trip"/>
     </owl:Class>
     
 
 
-    <!-- http://knowdive.disi.unitn.it/etype#SCHEMA_Intangible -->
+    <!-- http://knowdive.disi.unitn.it/etype#schema:Intangible -->
 
-    <owl:Class rdf:about="http://knowdive.disi.unitn.it/etype#SCHEMA_Intangible"/>
+    <owl:Class rdf:about="http://knowdive.disi.unitn.it/etype#schema:Intangible"/>
     
 
 
-    <!-- http://knowdive.disi.unitn.it/etype#SCHEMA_TrainStation -->
+    <!-- http://knowdive.disi.unitn.it/etype#schema:TrainStation -->
 
-    <owl:Class rdf:about="http://knowdive.disi.unitn.it/etype#SCHEMA_TrainStation">
-        <rdfs:subClassOf rdf:resource="http://knowdive.disi.unitn.it/etype#SCHEMA_CivicStructure"/>
+    <owl:Class rdf:about="http://knowdive.disi.unitn.it/etype#schema:TrainStation">
+        <rdfs:subClassOf rdf:resource="http://knowdive.disi.unitn.it/etype#schema:CivicStructure"/>
     </owl:Class>
     
 
 
-    <!-- http://knowdive.disi.unitn.it/etype#SCHEMA_TrainTrip -->
+    <!-- http://knowdive.disi.unitn.it/etype#schema:TrainTrip -->
 
-    <owl:Class rdf:about="http://knowdive.disi.unitn.it/etype#SCHEMA_TrainTrip">
-        <rdfs:subClassOf rdf:resource="http://knowdive.disi.unitn.it/etype#SCHEMA_Trip"/>
+    <owl:Class rdf:about="http://knowdive.disi.unitn.it/etype#schema:TrainTrip">
+        <rdfs:subClassOf rdf:resource="http://knowdive.disi.unitn.it/etype#schema:Trip"/>
     </owl:Class>
     
 
@@ -562,8 +562,8 @@
         <owl:members rdf:parseType="Collection">
             <rdf:Description rdf:about="http://knowdive.disi.unitn.it/etype#BusTrip"/>
             <rdf:Description rdf:about="http://knowdive.disi.unitn.it/etype#TrainTrip"/>
-            <rdf:Description rdf:about="http://knowdive.disi.unitn.it/etype#SCHEMA_BusTrip"/>
-            <rdf:Description rdf:about="http://knowdive.disi.unitn.it/etype#SCHEMA_TrainTrip"/>
+            <rdf:Description rdf:about="http://knowdive.disi.unitn.it/etype#schema:BusTrip"/>
+            <rdf:Description rdf:about="http://knowdive.disi.unitn.it/etype#schema:TrainTrip"/>
         </owl:members>
     </rdf:Description>
 </rdf:RDF>
