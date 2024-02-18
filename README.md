@@ -50,17 +50,20 @@ Otherwise there have been smaller parts that were generated manually. Refer to t
 
 ## ER Diagram
 
-![ER Diagram](webpage/ER.jpeg)
+![ER Diagram](webpage/ER.png)
 
 ## Teleontology
 
-Etypes
+### Etypes
+
 ![ETypes](webpage/teleontology.png)
 
-Object Properties
+### Object Properties
+
 ![Object Properties](webpage/teleology_object_properties.png)
 
-Data Properties
+### Data Properties
+
 ![Data Properties](webpage/teleology_data_properties.png)
 
 The connections between the Etypes for the teleology can bee seen in the following table:
