@@ -1,12 +1,40 @@
-# Where can an athlete find sports facilities in Trentino that are open during specific hours?
-
 PREFIX etype: <http://knowdive.disi.unitn.it/etype#>
-PREFIX schema: <https://schema.org/>
+PREFIX omgeo: <http://www.ontotext.com/owlim/geo#>
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
 
-SELECT ?facility ?sportName ?opening_hours WHERE {
-    ?facility a etype:sports_centre_GID-13007 .
-    ?facility etype:opening hours_GID-13023 ?opening_hours .
+SELECT ?leisure ?sportName ?surface ?tripName ?userDistance ?facilityDistance ?totalDistance ?startSlat ?startSlon ?endSlat ?endSlon WHERE {
+    BIND("Ginevra" AS ?queryName)
+    
+    ?user etype:name_GID-2 ?userName .
+    ?user etype:latitude_GID-46263 ?userLat .
+    ?user etype:longitude_GID-46270 ?userLon .
+    ?user etype:interest_GID-2206 ?userSportInterest .
+    
+    ?facility etype:leisure_GID-13017 ?leisure .
+    ?facility etype:latitude_GID-46263 ?facilityLat .
+    ?facility etype:longitude_GID-46270 ?facilityLon .
     ?facility etype:has_sport_GID-13036 ?sport .
+    ?facility etype:surface_GID-24186 ?surface .
     ?sport etype:type_of_sport_GID-13028 ?sportName .
-    FILTER(?sportName = "SPECIFIC_SPORT_NAME") # Replace with the sport of interest
+    ?trip etype:type_of_transport_GID-13030 ?typeOfTransport .
+   	?trip etype:name_GID-2 ?tripName .
+    ?trip etype:has_stops_GID-13035 ?startStop .
+    ?startStop etype:latitude_GID-46263 ?startSlat .
+    ?startStop etype:longitude_GID-46270 ?startSlon .
+
+	FILTER(?userName = ?queryName)
+    FILTER(?sportName = ?userSportInterest)
+    FILTER(?surface = "tartan")
+   	
+    BIND(omgeo:distance(?userLat, ?userLon, ?startSlat, ?startSlon) AS ?userDistance)
+    FILTER(?userDistance < 1)
+    
+    ?trip etype:has_stops_GID-13035 ?endStop .
+    ?endStop etype:latitude_GID-46263 ?endSlat .
+    ?endStop etype:longitude_GID-46270 ?endSlon .
+    BIND(omgeo:distance(?facilityLat, ?facilityLon, ?endSlat, ?endSlon) AS ?facilityDistance)
+    BIND((?userDistance + ?facilityDistance) AS ?totalDistance)
+    FILTER(?totalDistance < 2)
 }
+ORDER BY ASC(?totalDistance)
+LIMIT 10

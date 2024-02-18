@@ -1,36 +1,39 @@
-# What are the transportation options to reach a specific sports venue in Trentino?
-
 PREFIX etype: <http://knowdive.disi.unitn.it/etype#>
-PREFIX schema: <https://schema.org/>
-PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+PREFIX omgeo: <http://www.ontotext.com/owlim/geo#>
 
-SELECT ?facility ?stop ?address WHERE {
-    ?facility a etype:facilities_GID-13002 .
-    ?facility etype:latitude_GID-46263 ?flat .
-    ?facility etype:longitude_GID-46270 ?flon .
+SELECT DISTINCT ?name ?leisure ?sportName ?tripName ?typeOfTransport ?userDistance ?facilityDistance ?totalDistance WHERE {
+    BIND("Lucia" AS ?queryName)
+    
+    ?user etype:name_GID-2 ?userName .
+    ?user etype:latitude_GID-46263 ?userLat .
+    ?user etype:longitude_GID-46270 ?userLon .
+    ?user etype:interest_GID-2206 ?userSportInterest .
+    
+    ?facility etype:leisure_GID-13017 ?leisure .
     ?facility etype:name_GID-2 ?name .
-    ?stop a etype:stop_GID-46571 .
-    ?stop etype:latitude_GID-46263 ?slat .
-    ?stop etype:longitude_GID-46270 ?slon .
+    ?facility etype:latitude_GID-46263 ?facilityLat .
+    ?facility etype:longitude_GID-46270 ?facilityLon .
+    ?facility etype:has_sport_GID-13036 ?sport .
+    ?sport etype:type_of_sport_GID-13028 ?sportName .
+    ?trip etype:type_of_transport_GID-13030 ?typeOfTransport .
+   	?trip etype:name_GID-2 ?tripName .
+    ?trip etype:has_stops_GID-13035 ?startStop .
+    ?startStop etype:latitude_GID-46263 ?startSlat .
+    ?startStop etype:longitude_GID-46270 ?startSlon .
 
-    FILTER(?name = "FACILITY_NAME")
-
-    # Constants for the Haversine formula
-    BIND(6371 AS ?earthRadius) # Earth's radius in kilometers
-    BIND(PI() AS ?pi)
-    BIND(?pi / 180 AS ?deg2rad)
-    BIND(<near_threshold> AS ?threshold)
-
-    # Convert degrees to radians
-    BIND(?flat * ?deg2rad AS ?latRad)
-    BIND(?flon * ?deg2rad AS ?longRad)
-    BIND(?slat * ?deg2rad AS ?stopLatRad)
-    BIND(?slon * ?deg2rad AS ?stopLongRad)
-
-    # Haversine formula
-    BIND(SIN((?latRad - ?stopLatRad) / 2) * SIN((?latRad - ?stopLatRad) / 2) + COS(?stopLatRad) * COS(?latRad) * SIN((?longRad - ?stopLongRad) / 2) * SIN((?longRad - ?stopLongRad) / 2) AS ?a)
-    BIND(2 * ATAN2(SQRT(?a), SQRT(1 - ?a)) AS ?c)
-    BIND(?earthRadius * ?c AS ?distance)
-
-    FILTER(?distance < ?threshold)
+	FILTER(?userName = ?queryName)
+    FILTER(?sportName = ?userSportInterest)
+    FILTER(?typeOfTransport = "bus")
+   	
+    BIND(omgeo:distance(?userLat, ?userLon, ?startSlat, ?startSlon) AS ?userDistance)
+    FILTER(?userDistance < 5)
+    
+    ?trip etype:has_stops_GID-13035 ?endStop .
+    ?endStop etype:latitude_GID-46263 ?endSlat .
+    ?endStop etype:longitude_GID-46270 ?endSlon .
+    BIND(omgeo:distance(?facilityLat, ?facilityLon, ?endSlat, ?endSlon) AS ?facilityDistance)
+    BIND((?userDistance + ?facilityDistance) AS ?totalDistance)
+    FILTER(?totalDistance < 10)
 }
+ORDER BY ASC(?totalDistance)
+LIMIT 10

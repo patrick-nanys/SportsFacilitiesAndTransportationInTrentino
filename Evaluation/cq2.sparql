@@ -1,36 +1,26 @@
-# Where can a resident find a gym near their residence that matches their routine?
-
 PREFIX etype: <http://knowdive.disi.unitn.it/etype#>
-PREFIX schema: <https://schema.org/>
-PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+PREFIX omgeo: <http://www.ontotext.com/owlim/geo#>
 
-SELECT ?gym ?address WHERE {
-    ?gym a etype:fitness_centre_GID-13003 .
-    ?gym etype:address_street_GID-13014 ?address .
-    ?gym etype:latitude_GID-46263 ?latitude .
-    ?gym etype:longitude_GID-46270 ?longitude .
-    ?gym etype:has_sport_GID-13036 ?sport .
+SELECT ?name ?leisure ?sportName ?distance ?openingHours WHERE {
+    BIND("Patrick" AS ?queryName)
+    
+    ?user etype:name_GID-2 ?userName .
+    ?user etype:latitude_GID-46263 ?userLat .
+    ?user etype:longitude_GID-46270 ?userLon .
+    ?user etype:interest_GID-2206 ?userSportInterest .
+    
+    ?facility etype:leisure_GID-13017 ?leisure .
+    ?facility etype:name_GID-2 ?name .
+    ?facility etype:latitude_GID-46263 ?facilityLat .
+    ?facility etype:longitude_GID-46270 ?facilityLon .
+    ?facility etype:has_sport_GID-13036 ?sport .
+    ?facility etype:opening_hours_GID-13023 ?openingHours .
     ?sport etype:type_of_sport_GID-13028 ?sportName .
-    FILTER(?sportName = "SPECIFIC_SPORT_NAME") # Replace with the sport of interest
 
-    # Constants for the Haversine formula
-    BIND(6371 AS ?earthRadius) # Earth's radius in kilometers
-    BIND(PI() AS ?pi)
-    BIND(?pi / 180 AS ?deg2rad)
-    BIND(<resident_latitude> AS ?resLat)
-    BIND(<resident_longitude> AS ?resLong)
-    BIND(<near_threshold> AS ?threshold)
-
-    # Convert degrees to radians
-    BIND(?latitude * ?deg2rad AS ?latRad)
-    BIND(?longitude * ?deg2rad AS ?longRad)
-    BIND(?resLat * ?deg2rad AS ?resLatRad)
-    BIND(?resLong * ?deg2rad AS ?resLongRad)
-
-    # Haversine formula
-    BIND(SIN((?latRad - ?resLatRad) / 2) * SIN((?latRad - ?resLatRad) / 2) + COS(?resLatRad) * COS(?latRad) * SIN((?longRad - ?resLongRad) / 2) * SIN((?longRad - ?resLongRad) / 2) AS ?a)
-    BIND(2 * ATAN2(SQRT(?a), SQRT(1 - ?a)) AS ?c)
-    BIND(?earthRadius * ?c AS ?distance)
-
-    FILTER(?distance < ?threshold)
+	FILTER(?userName = ?queryName)
+    FILTER(?sportName = ?userSportInterest)
+	
+    BIND(omgeo:distance(?userLat, ?userLon, ?facilityLat, ?facilityLon) AS ?distance)
 }
+ORDER BY ASC(?distance)
+LIMIT 2

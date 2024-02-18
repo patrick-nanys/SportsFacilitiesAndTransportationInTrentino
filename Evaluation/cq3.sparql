@@ -1,1 +1,42 @@
-# Cannot answer
+PREFIX etype: <http://knowdive.disi.unitn.it/etype#>
+PREFIX omgeo: <http://www.ontotext.com/owlim/geo#>
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+
+SELECT DISTINCT ?name ?leisure ?sportName ?tripName ?userDistance ?facilityDistance ?totalDistance ?wheelchairAccessible WHERE {
+    BIND("JosÃ©" AS ?queryName)
+    
+    ?user etype:name_GID-2 ?userName .
+    ?user etype:latitude_GID-46263 ?userLat .
+    ?user etype:longitude_GID-46270 ?userLon .
+    ?user etype:interest_GID-2206 ?userSportInterest .
+    ?user etype:wheelchair_GID-25446 ?wheelchairNeed .
+    
+    ?facility etype:leisure_GID-13017 ?leisure .
+    ?facility etype:name_GID-2 ?name .
+    ?facility etype:latitude_GID-46263 ?facilityLat .
+    ?facility etype:longitude_GID-46270 ?facilityLon .
+    ?facility etype:has_sport_GID-13036 ?sport .
+    ?sport etype:type_of_sport_GID-13028 ?sportName .
+    ?trip etype:type_of_transport_GID-13030 ?typeOfTransport .
+    ?trip etype:wheelchair_GID-13033 ?wheelchairAccessible .
+   	?trip etype:name_GID-2 ?tripName .
+    ?trip etype:has_stops_GID-13035 ?startStop .
+    ?startStop etype:latitude_GID-46263 ?startSlat .
+    ?startStop etype:longitude_GID-46270 ?startSlon .
+
+	FILTER(?userName = ?queryName)
+    FILTER(?sportName = ?userSportInterest)
+    FILTER(?wheelchairAccessible = ?wheelchairNeed)
+   	
+    BIND(omgeo:distance(?userLat, ?userLon, ?startSlat, ?startSlon) AS ?userDistance)
+    FILTER(?userDistance < 1)
+    
+    ?trip etype:has_stops_GID-13035 ?endStop .
+    ?endStop etype:latitude_GID-46263 ?endSlat .
+    ?endStop etype:longitude_GID-46270 ?endSlon .
+    BIND(omgeo:distance(?facilityLat, ?facilityLon, ?endSlat, ?endSlon) AS ?facilityDistance)
+    BIND((?userDistance + ?facilityDistance) AS ?totalDistance)
+    FILTER(?totalDistance < 1)
+}
+ORDER BY ASC(?totalDistance)
+LIMIT 10
