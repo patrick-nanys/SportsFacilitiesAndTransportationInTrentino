@@ -54,7 +54,7 @@ Otherwise there have been smaller parts that were generated manually. Refer to t
 
 ## Teleontology
 
-![ETypes](webpage/teleontolgy.png)
+![ETypes](webpage/teleontology.png)
 
 ![Object Properties](webpage/teleology_object_properties.png)
 
