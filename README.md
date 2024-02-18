@@ -37,14 +37,14 @@ These tasks aim to gather resources that are of "high quality and formal" nature
 #### Knowledge Layer
 
 The following have been the main sources for the schemas which contained high quality resources:
-- Schema.org - ![schema.org](schema.org)
-- Open Street Map - Trentino Territory Ligthweight Ontology - ![OSM ontology](https://datascientiafoundation.github.io/LiveKnowledge/datasets/osm-lightweight-ontology/)
+- Schema.org - [schema.org](schema.org)
+- Open Street Map - Trentino Territory Ligthweight Ontology - [OSM ontology](https://datascientiafoundation.github.io/LiveKnowledge/datasets/osm-lightweight-ontology/)
 
 #### Data layer
 
 The following have been the main sources for the data which contained high quality resources:
-- Overpass Turbo - ![overpass-turbo.eu](https://overpass-turbo.eu)
-- Overpass API - ![overpass-api.de](https://overpass-api.de)
+- Overpass Turbo - [overpass-turbo.eu](https://overpass-turbo.eu)
+- Overpass API - [overpass-api.de](https://overpass-api.de)
 
 Otherwise there have been smaller parts that were generated manually. Refer to the project report in the Information Gathering section for more information.
 
@@ -72,6 +72,6 @@ The connections between the Etypes for the teleology can bee seen in the followi
 
 ## Knowledge graph
 
-[KG](https://github.com/patrick-nanys/SportsFacilitiesAndTransportationInTrentino/tree/main/Phase%205%20-%20Data%20Definition)
+Final Knowledge Graph is available [here](https://github.com/patrick-nanys/SportsFacilitiesAndTransportationInTrentino/tree/main/Phase%205%20-%20Data%20Definition).
 
 
