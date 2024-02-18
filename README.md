@@ -54,15 +54,18 @@ Otherwise there have been smaller parts that were generated manually. Refer to t
 
 ## Teleontology
 
+Etypes
 ![ETypes](webpage/teleontology.png)
 
+Object Properties
 ![Object Properties](webpage/teleology_object_properties.png)
 
+Data Properties
 ![Data Properties](webpage/teleology_data_properties.png)
 
 The connections between the Etypes for the teleology can bee seen in the following table:
 
-| extbf{Domain}                                                                                                                                                                                                                             | \textbf{ObjectProperty} | \textbf{Range}                                  |
+|       Domain                                                                                                                                                                                                                              |         ObjectProperty  |         Range                                   |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------|-------------------------------------------------|
 | end\_user\_GID-53816                                                                                                                                                                                                                      | acts\_in\_GID-13037     | region\_GID-46452                               |
 | fitness\_centre\_GID-13003, fitness\_station\_GID-13004, pitch\_GID-13006, sports\_centre\_GID-13007, stadium\_GID-23800, track\_GID-22259                                                                                                | has\_sport\_GID-13036   | sport\_GID-2681                                 |
@@ -72,6 +75,6 @@ The connections between the Etypes for the teleology can bee seen in the followi
 
 ## Knowledge graph
 
-Final Knowledge Graph is available [here](https://github.com/patrick-nanys/SportsFacilitiesAndTransportationInTrentino/tree/main/Phase%205%20-%20Data%20Definition).
+Final Knowledge Graph is available [here](https://github.com/patrick-nanys/SportsFacilitiesAndTransportationInTrentino/tree/main/Documentation/final_KG.ttl).
 
 
