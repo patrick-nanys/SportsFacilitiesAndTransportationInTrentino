@@ -3,7 +3,7 @@ Knowledge Graph Engineering project work about Sports Facilities and Transportat
 
 ## Introduction
 
-This is a GitHub page for the Knowledge Graph Engineering project for the Fall 2023 class. This project aims to construct knowledge graph from the information about sport in Trentino, mainly the facilities.
+This is a GitHub page for the Knowledge Graph Engineering project for the Fall 2023 class. This project aims to construct a knowledge graph from the information about sport facilities and transportation routes in Trentino.
 
 ## Materials
 
